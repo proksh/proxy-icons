@@ -12,6 +12,7 @@ import { downloadSvgsToFs } from "./functions/downloadSvgs.js";
 import { temporaryDirectory } from "tempy";
 import { generateReactComponents } from "./functions/generateReactComponents.js";
 import { generateIconManifest } from "./functions/generateIconManifest.js";
+import { swapGeneratedFiles } from "./functions/swapGeneratedFiles.js";
 
 async function main() {
   dotenv.config();
@@ -72,7 +73,7 @@ async function main() {
   await generateReactComponents(icons, currentTempDir, currentListOfAddedFiles);
   console.log("✅ React components generated");
 
-  /* 6. Generate Menifest */
+  /* 7. Generate Menifest */
   console.log("✨ Generating Manifest...");
   const [previousIconManifest, nextIconManifest] = await generateIconManifest(
     icons,
@@ -81,10 +82,14 @@ async function main() {
   );
   console.log("✅ Manifest Generated");
 
-  // const touchedPaths = await swapGeneratedFiles(
-  //   previousIconManifest,
-  //   nextIconManifest
-  // );
+  /* 8. Swapping generated files */
+  console.log("✨ Swapping generated files...");
+  const touchedPaths = await swapGeneratedFiles(
+    previousIconManifest,
+    nextIconManifest,
+    currentTempDir
+  );
+  console.log("✅ Files Swapped");
 }
 
 main()
