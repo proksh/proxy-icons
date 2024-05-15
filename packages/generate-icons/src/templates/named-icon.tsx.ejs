@@ -1,0 +1,10 @@
+import * as React from 'react';
+import { IconProps } from './types';
+
+export const <%- iconToComponentName(icon) %> = React.forwardRef<SVGSVGElement, IconProps>(
+  ({ color = 'currentColor', ...props }, forwardedRef) => {
+    return <%- iconToSVGSourceAsJSX(icon) %>
+  }
+);
+
+export default <%- iconToComponentName(icon) %>;
