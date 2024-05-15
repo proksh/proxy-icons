@@ -89,7 +89,7 @@ async function main() {
     nextIconManifest,
     currentTempDir
   );
-  console.log("✅ Files Swapped");
+  console.log("✅ Files Swapped", touchedPaths);
 }
 
 main()
