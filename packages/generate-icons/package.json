@@ -1,10 +1,12 @@
 {
-  "name": "@proxy-icons/generate-icons",
+  "name": "generate-icons",
   "version": "1.0.0",
   "description": "",
+  "main": "build/index.js",
+  "types": "build/types.js",
   "type": "module",
   "scripts": {
-    "generate-icons": "node --loader ts-node/esm src/index.ts",
+    "generate-icons": "rimraf ./build && tsc",
     "build": "rimraf ./build && tsc",
     "dev": "nodemon",
     "start": "npm run build && node ./build/index.js"

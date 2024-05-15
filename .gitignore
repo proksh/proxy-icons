@@ -130,4 +130,6 @@ dist
 .pnp.*
 
 # build
-build
+**/build
+
+.nx/cache

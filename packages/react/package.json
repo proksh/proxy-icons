@@ -5,14 +5,18 @@
   "main": "index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "generate-src": "npm explore @proxy-icons/generate-icons -- npm run generate-icons -- --cwd=$(pwd)",
+    "generate-src": "generate-icons",
     "build": "rimraf dist && tsdx build --format es,cjs --entry src/index.tsx",
     "prepublishOnly": "npm run build"
+  },
+  "dependencies": {
+    "generate-icons": "*"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@proxy-icons/generate-icons": "file:../generate-icons"
+    "rimraf": "^5.0.7",
+    "tsdx": "^0.14.1"
   }
 }
