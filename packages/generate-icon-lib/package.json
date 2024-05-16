@@ -1,12 +1,12 @@
 {
-  "name": "generate-icons",
+  "name": "@modulz/generate-icon-lib",
   "version": "1.0.0",
   "description": "",
   "main": "build/index.js",
   "types": "build/types.js",
   "type": "module",
   "scripts": {
-    "generate-icons": "rimraf ./build && tsc",
+    "generate-icon-lib": "npm run build && node ./build/index.js",
     "build": "rimraf ./build && tsc",
     "dev": "nodemon",
     "start": "npm run build && node ./build/index.js"

@@ -9,13 +9,11 @@
     "build": "rimraf dist && tsdx build --format es,cjs --entry src/index.tsx",
     "prepublishOnly": "npm run build"
   },
-  "dependencies": {
-    "generate-icons": "*"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@modulz/generate-icon-lib": "^1.0.0",
     "rimraf": "^5.0.7",
     "tsdx": "^0.14.1"
   }
