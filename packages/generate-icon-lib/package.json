@@ -2,11 +2,9 @@
   "name": "@modulz/generate-icon-lib",
   "version": "1.0.0",
   "description": "",
-  "main": "build/index.js",
-  "types": "build/types.js",
   "type": "module",
   "scripts": {
-    "generate-icon-lib": "npm run build && node ./build/index.js",
+    "generate-icon-lib": "node --loader ts-node/esm cli/index.ts",
     "build": "rimraf ./build && tsc",
     "dev": "nodemon",
     "start": "npm run build && node ./build/index.js"
