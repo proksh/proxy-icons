@@ -29,13 +29,13 @@ export async function generateReactComponents(icons: Icons, currentTempDir: stri
 
   const templateHelpers = {
     iconToComponentName(icon: Icon) {
-      return `${icon.jsxName}Icon`;
+      return `Pro${icon.jsxName}`;
     },
     iconToPropsName(icon: Icon) {
-      return `${icon.jsxName}IconProps`;
+      return `Pro${icon.jsxName}Props`;
     },
     iconToReactFileName(icon: Icon) {
-      return `${icon.jsxName}Icon.tsx`;
+      return `Pro${icon.jsxName}.tsx`;
     },
     iconToSVGSourceAsJSX(icon: Icon) {
       const filePath = labelling.filePathFromIcon(icon);
