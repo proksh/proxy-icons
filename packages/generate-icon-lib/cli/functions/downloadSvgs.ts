@@ -1,7 +1,7 @@
-import path from "path";
-import { Icons, IconsSvgUrls } from "../types.js";
-import fs from "fs-extra";
-import { labelling, transformers } from "./common.js";
+import path from 'path';
+import { Icons, IconsSvgUrls } from '../types.js';
+import fs from 'fs-extra';
+import { labelling, transformers } from './common.js';
 
 export async function downloadSvgsToFs(
   urls: IconsSvgUrls,
@@ -20,11 +20,8 @@ export async function downloadSvgsToFs(
         .then((svgRaw) => transformers.injectCurrentColor(svgRaw))
         .then((svgRaw) => transformers.prettify(svgRaw));
 
-      const filePath = path.resolve(
-        currentTempDir,
-        labelling.filePathFromIcon(icons[iconId])
-      );
-      await fs.outputFile(filePath, processedSvg, { encoding: "utf8" });
+      const filePath = path.resolve(currentTempDir, labelling.filePathFromIcon(icons[iconId]));
+      await fs.outputFile(filePath, processedSvg, { encoding: 'utf8' });
       currentListOfAddedFiles.push(filePath);
       onProgress();
     })

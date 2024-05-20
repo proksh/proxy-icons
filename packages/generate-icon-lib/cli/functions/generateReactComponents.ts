@@ -1,37 +1,30 @@
-import path from "path";
-import { Icon, Icons } from "../types.js";
-import fs from "fs-extra";
-import prettier from "prettier";
-import { labelling, transformers } from "./common.js";
-import ejs from "ejs";
-import { FILE_PATH_ENTRY, FILE_PATH_TYPES } from "../const.js";
-import { fileURLToPath } from "url";
+import path from 'path';
+import { Icon, Icons } from '../types.js';
+import fs from 'fs-extra';
+import prettier from 'prettier';
+import { labelling, transformers } from './common.js';
+import ejs from 'ejs';
+import { FILE_PATH_ENTRY, FILE_PATH_TYPES } from '../const.js';
+import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-export function filePathToSVGinJSXSync(
-  filePath: string,
-  currentTempDir: string
-) {
+export function filePathToSVGinJSXSync(filePath: string, currentTempDir: string) {
   const absFilePath = path.resolve(currentTempDir, filePath);
-  const svgRaw = fs.readFileSync(absFilePath, { encoding: "utf8" });
+  const svgRaw = fs.readFileSync(absFilePath, { encoding: 'utf8' });
   return transformers.readyForJSX(svgRaw);
 }
 
-export async function generateReactComponents(
-  icons: Icons,
-  currentTempDir: string,
-  currentListOfAddedFiles: string[]
-) {
+export async function generateReactComponents(icons: Icons, currentTempDir: string, currentListOfAddedFiles: string[]) {
   const getTemplateSource = (templateFile: string) =>
-    fs.readFile(path.resolve(__dirname, "../templates/", templateFile), {
-      encoding: "utf8",
+    fs.readFile(path.resolve(__dirname, '../templates/', templateFile), {
+      encoding: 'utf8',
     });
   const templates = {
-    entry: await getTemplateSource("entry.tsx.ejs"),
-    icon: await getTemplateSource("named-icon.tsx.ejs"),
-    types: await getTemplateSource("types.tsx"),
+    entry: await getTemplateSource('entry.tsx.ejs'),
+    icon: await getTemplateSource('named-icon.tsx.ejs'),
+    types: await getTemplateSource('types.tsx'),
   };
 
   const templateHelpers = {
@@ -49,7 +42,7 @@ export async function generateReactComponents(
       return filePathToSVGinJSXSync(filePath, currentTempDir);
     },
     stripExtension(fileName: string) {
-      return fileName.replace(/(.*)\.\w+$/, "$1");
+      return fileName.replace(/(.*)\.\w+$/, '$1');
     },
   };
 
@@ -63,13 +56,9 @@ export async function generateReactComponents(
     });
     const iconSource = await prettier.format(iconSourceRaw, {
       ...prettierOptions,
-      parser: "typescript",
+      parser: 'typescript',
     });
-    const iconComponentFilePath = path.resolve(
-      currentTempDir,
-      "src/",
-      templateHelpers.iconToReactFileName(icon)
-    );
+    const iconComponentFilePath = path.resolve(currentTempDir, 'src/', templateHelpers.iconToReactFileName(icon));
     await fs.outputFile(iconComponentFilePath, iconSource);
     currentListOfAddedFiles.push(iconComponentFilePath);
   }
@@ -81,7 +70,7 @@ export async function generateReactComponents(
   });
   const entrySource = await prettier.format(entrySourceRaw, {
     ...prettierOptions,
-    parser: "typescript",
+    parser: 'typescript',
   });
   const entryFilePath = path.resolve(currentTempDir, FILE_PATH_ENTRY);
   await fs.outputFile(entryFilePath, entrySource);

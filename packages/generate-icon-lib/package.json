@@ -4,7 +4,9 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "build": "node --loader ts-node/esm cli/index.ts",
+    "remove-genrate-icons-folders": "rimraf scr && rimraf icons",
+    "remove-all-folders": "rimraf scr && rimraf icons && rimraf ../react/src",
+    "generate-icons": "npm run remove-all-folders && node --loader ts-node/esm cli/index.ts && cp -r src ../react/ && npm run remove-genrate-icons-folders",
     "dev": "nodemon",
     "start": "rimraf ./build && tsc && node ./build/index.js"
   },

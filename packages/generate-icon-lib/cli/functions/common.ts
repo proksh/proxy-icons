@@ -1,9 +1,9 @@
-import { load } from "cheerio";
-import { optimize } from "svgo";
-import prettier from "prettier";
-import path from "path";
-import _ from "lodash";
-import { Icon } from "../types.js";
+import { load } from 'cheerio';
+import { optimize } from 'svgo';
+import prettier from 'prettier';
+import path from 'path';
+import _ from 'lodash';
+import { Icon } from '../types.js';
 
 export const transformers = {
   /* Pass SVG through SVGO to reduce size. */
@@ -16,12 +16,12 @@ export const transformers = {
   /* Swaps out all colors (except for "non") for stroke and fill to "currentColor". */
   injectCurrentColor(svgRaw: string) {
     const $ = load(svgRaw, { xmlMode: true });
-    $("*").each((i, el: any) => {
+    $('*').each((i, el: any) => {
       Object.keys(el.attribs).forEach((attrKey) => {
-        if (["fill", "stroke"].includes(attrKey)) {
+        if (['fill', 'stroke'].includes(attrKey)) {
           const val = $(el).attr(attrKey);
-          if (val !== "none") {
-            $(el).attr(attrKey, "currentColor");
+          if (val !== 'none') {
+            $(el).attr(attrKey, 'currentColor');
           }
         }
       });
@@ -31,30 +31,28 @@ export const transformers = {
   },
   prettify(svgRaw: string) {
     const prettierOptions = prettier.resolveConfig(process.cwd());
-    return prettier.format(svgRaw, { ...prettierOptions, parser: "html" });
+    return prettier.format(svgRaw, { ...prettierOptions, parser: 'html' });
   },
   readyForJSX(svgRaw: string) {
     const $ = load(svgRaw, { xmlMode: true });
-    $("*").each((i, el: any) => {
+    $('*').each((i, el: any) => {
       Object.keys(el.attribs).forEach((attrKey) => {
-        if (attrKey.includes("-")) {
-          $(el)
-            .attr(_.camelCase(attrKey), el.attribs[attrKey])
-            .removeAttr(attrKey);
+        if (attrKey.includes('-')) {
+          $(el).attr(_.camelCase(attrKey), el.attribs[attrKey]).removeAttr(attrKey);
         }
-        if (attrKey === "class") {
-          $(el).attr("className", el.attribs[attrKey]).removeAttr(attrKey);
+        if (attrKey === 'class') {
+          $(el).attr('className', el.attribs[attrKey]).removeAttr(attrKey);
         }
       });
     });
-    return $("svg")
-      .attr("props", "...")
-      .attr("ref", "forwardedRef")
+    return $('svg')
+      .attr('props', '...')
+      .attr('ref', 'forwardedRef')
       .toString()
-      .replace(/stroke=['|"]currentColor['|"]/g, "stroke={color}")
-      .replace(/fill=['|"]currentColor['|"]/g, "fill={color}")
-      .replace('props="..."', "{...props}")
-      .replace('ref="forwardedRef"', "ref={forwardedRef}");
+      .replace(/stroke=['|"]currentColor['|"]/g, 'stroke={color}')
+      .replace(/fill=['|"]currentColor['|"]/g, 'fill={color}')
+      .replace('props="..."', '{...props}')
+      .replace('ref="forwardedRef"', 'ref={forwardedRef}');
   },
 };
 
@@ -66,6 +64,6 @@ export const labelling = {
     return camelCased;
   },
   filePathFromIcon(icon: Icon): string {
-    return path.join("icons", icon.category, `${icon.svgName}.svg`);
+    return path.join('icons', icon.category, `${icon.svgName}.svg`);
   },
 };
