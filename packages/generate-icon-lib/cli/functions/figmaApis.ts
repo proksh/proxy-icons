@@ -43,8 +43,8 @@ export function getIcons(iconsCanvas: Canvas): Icons {
     iconsFrame.children.forEach((iconType: any) => {
       iconType.children.forEach((iconNode: any) => {
         const iconName = iconNode.name.split(' | ')[0];
-        const tags = (iconNode.name.split(' | ')[1] || ['']).split(',');
-        const labels = (iconNode.name.split(' | ')[2] || ['']).split(',');
+        const tags = (iconNode.name.split(' | ')[1] || '').split(',');
+        const labels = (iconNode.name.split(' | ')[2] || '').split(',');
 
         icons[iconNode.id] = {
           jsxName: (() => {
