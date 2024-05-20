@@ -1,13 +1,12 @@
 {
-  "name": "@modulz/generate-icon-lib",
+  "name": "@proxy-icons/generate-icon-lib",
   "version": "1.0.0",
   "description": "",
   "type": "module",
   "scripts": {
-    "generate-icon-lib": "node --loader ts-node/esm cli/index.ts",
-    "build": "rimraf ./build && tsc",
+    "build": "node --loader ts-node/esm cli/index.ts",
     "dev": "nodemon",
-    "start": "npm run build && node ./build/index.js"
+    "start": "rimraf ./build && tsc && node ./build/index.js"
   },
   "keywords": [],
   "author": "",
