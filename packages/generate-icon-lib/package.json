@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "remove-helper-folders": "rimraf ./src && rimraf ./icons",
-    "remove-all-folders": "rimraf ./src && rimraf ./icons && rimraf ../react/src",
-    "generate-icons": "npm run remove-helper-folders && node --loader ts-node/esm cli/index.ts && npm run remove-all-folders && cp -r src ../react/ && npm run remove-helper-folders"
+    "remove-out-folders": "rimraf ../react/src",
+    "generate-icons": "npm run remove-helper-folders && node --loader ts-node/esm cli/index.ts && npm run remove-out-folders && cp -r src ../react/ && npm run remove-helper-folders"
   },
   "keywords": [],
   "author": "",
