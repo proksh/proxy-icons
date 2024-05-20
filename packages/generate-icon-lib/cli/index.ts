@@ -8,6 +8,7 @@ import { temporaryDirectory } from 'tempy';
 import { generateReactComponents } from './functions/generateReactComponents.js';
 import { generateIconManifest } from './functions/generateIconManifest.js';
 import { swapGeneratedFiles } from './functions/swapGeneratedFiles.js';
+import { generateIconsJSON } from './functions/generateIconsJSON.js';
 
 async function main() {
   dotenv.config();
@@ -71,7 +72,12 @@ async function main() {
   );
   console.log('✅ Manifest Generated');
 
-  /* 8. Swapping generated files */
+  /* 8. Generate Icons Json */
+  console.log('✨ Generating Icons JSON');
+  await generateIconsJSON(icons, currentTempDir, currentListOfAddedFiles);
+  console.log('✅ Generated Icons JSON');
+
+  /* 9. Swapping generated files */
   console.log('✨ Swapping generated files...');
   const touchedPaths = await swapGeneratedFiles(previousIconManifest, nextIconManifest, currentTempDir);
   console.log('✅ Files Swapped', touchedPaths);

@@ -38,6 +38,10 @@ export interface IconMenifest {
   [category: string]: { [name: string]: string };
 }
 
+export interface IconsJSONType {
+  [category: string]: { [name: string]: { tags: string[]; labels: string[] } };
+}
+
 export interface IconsSvgUrls {
   readonly [iconId: string]: string;
 }

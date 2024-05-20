@@ -1,16 +1,15 @@
 import path from 'path';
-import { CodedError, ERRORS, IconMenifest, Icons } from '../types.js';
+import { IconMenifest, Icons } from '../types.js';
 import { FILE_PATH_MANIFEST } from '../const.js';
 import prettier from 'prettier';
 import fs from 'fs-extra';
 import { labelling } from './common.js';
 import { execa } from 'execa';
-import { handleError } from '../utils.js';
 
 export async function generateIconManifest(icons: Icons, currentTempDir: string, currentListOfAddedFiles: string[]) {
   const iconManifestFilePath = path.resolve(currentTempDir, FILE_PATH_MANIFEST);
   const iconManifest = iconsToManifest(icons);
-  let iconManifestRaw = JSON.stringify(icons);
+  let iconManifestRaw = JSON.stringify(iconManifest);
   const prettierOptions = prettier.resolveConfig(process.cwd());
   iconManifestRaw = await prettier.format(iconManifestRaw, {
     ...prettierOptions,
