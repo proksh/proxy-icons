@@ -5,7 +5,7 @@
   "main": "index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "build": "cd ../generate-icon-lib && cp -r src ../react/ && cp -r index.js ../react/ && rimraf dist && tsdx build --format es,cjs --entry src/index.tsx",
+    "build": "rimraf dist && tsdx build --format es,cjs --entry src/index.tsx",
     "prepublishOnly": "npm run build"
   },
   "keywords": [],

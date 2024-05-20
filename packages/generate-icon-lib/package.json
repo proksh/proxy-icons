@@ -4,11 +4,9 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "remove-genrate-icons-folders": "rimraf scr && rimraf icons",
-    "remove-all-folders": "rimraf scr && rimraf icons && rimraf ../react/src",
-    "generate-icons": "npm run remove-all-folders && node --loader ts-node/esm cli/index.ts && cp -r src ../react/ && npm run remove-genrate-icons-folders",
-    "dev": "nodemon",
-    "start": "rimraf ./build && tsc && node ./build/index.js"
+    "remove-helper-folders": "rimraf ./src && rimraf ./icons",
+    "remove-all-folders": "rimraf ./src && rimraf ./icons && rimraf ../react/src",
+    "generate-icons": "npm run remove-all-folders && node --loader ts-node/esm cli/index.ts && cp -r src ../react/ && npm run remove-helper-folders"
   },
   "keywords": [],
   "author": "",
@@ -18,9 +16,7 @@
     "nodemon": "^3.1.0",
     "rimraf": "^5.0.7",
     "ts-node": "^10.9.2",
-    "typescript": "^5.4.5"
-  },
-  "dependencies": {
+    "typescript": "^5.4.5",
     "@types/cheerio": "^0.22.35",
     "@types/dotenv": "^8.2.0",
     "@types/ejs": "^3.1.5",
