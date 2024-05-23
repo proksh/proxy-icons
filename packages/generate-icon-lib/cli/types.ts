@@ -45,7 +45,3 @@ export interface IconsJSONType {
 export interface IconsSvgUrls {
   readonly [iconId: string]: string;
 }
-
-export interface IconsJSONType {
-  [category: string]: { [name: string]: { tags: string[]; labels: string[] } };
-}
