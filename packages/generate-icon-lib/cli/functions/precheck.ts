@@ -4,7 +4,7 @@ import { FOLDER_PATH_ICONS } from '../const.js';
 import { CodedError, ERRORS } from '../types.js';
 import { handleError } from '../utils.js';
 import chalk from 'chalk';
-import execa from 'execa';
+import { execa } from 'execa';
 
 export async function prechecks() {
   /* We can't work offline. */
