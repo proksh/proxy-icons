@@ -11,17 +11,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "svgtofont": "^4.2.0"
+  },
   "devDependencies": {
-    "@types/node": "^20.12.12",
-    "nodemon": "^3.1.0",
-    "rimraf": "^5.0.7",
-    "ts-node": "^10.9.2",
-    "typescript": "^5.4.5",
     "@types/cheerio": "^0.22.35",
     "@types/dotenv": "^8.2.0",
     "@types/ejs": "^3.1.5",
+    "@types/execa": "^2.0.0",
     "@types/fs-extra": "^11.0.4",
     "@types/lodash": "^4.17.1",
+    "@types/node": "^20.12.12",
     "@types/prettier": "^3.0.0",
     "@types/react": "^18.3.2",
     "@types/svgo": "^3.0.0",
@@ -30,16 +30,19 @@
     "cheerio": "^1.0.0-rc.12",
     "dotenv": "^16.4.5",
     "ejs": "^3.1.10",
-    "@types/execa": "^2.0.0",
     "execa": "^9.1.0",
     "figma-js": "^1.16.1-0",
     "fs-extra": "^11.2.0",
     "is-online": "^10.0.0",
     "lodash": "^4.17.21",
     "node-fetch": "^3.3.2",
+    "nodemon": "^3.1.0",
     "prettier": "^3.2.5",
     "react": "^18.3.1",
+    "rimraf": "^5.0.7",
     "svgo": "^3.3.2",
-    "tempy": "^3.1.0"
+    "tempy": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
   }
 }

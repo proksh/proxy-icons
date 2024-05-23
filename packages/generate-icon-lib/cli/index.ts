@@ -9,6 +9,7 @@ import { generateReactComponents } from './functions/generateReactComponents.js'
 import { generateIconManifest } from './functions/generateIconManifest.js';
 import { swapGeneratedFiles } from './functions/swapGeneratedFiles.js';
 import { generateIconsJSON } from './functions/generateIconsJSON.js';
+import { generateFontFiles } from './functions/generateFontFiles.js';
 
 async function main() {
   dotenv.config();
@@ -81,6 +82,11 @@ async function main() {
   console.log('✨ Swapping generated files...');
   const touchedPaths = await swapGeneratedFiles(previousIconManifest, nextIconManifest, currentTempDir);
   console.log('✅ Files Swapped', touchedPaths);
+
+  /* 9. Generated font files */
+  console.log('✨ Generated Font Files...');
+  await generateFontFiles();
+  console.log('✅ Font Files');
 }
 
 main()
