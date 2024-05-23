@@ -9,7 +9,7 @@ import execa from 'execa';
 export async function generateIconManifest(icons: Icons, currentTempDir: string, currentListOfAddedFiles: string[]) {
   const iconManifestFilePath = path.resolve(currentTempDir, FILE_PATH_MANIFEST);
   const iconManifest = iconsToManifest(icons);
-  let iconManifestRaw = JSON.stringify(icons);
+  let iconManifestRaw = JSON.stringify(iconManifest);
   const prettierOptions = prettier.resolveConfig(process.cwd());
   iconManifestRaw = await prettier.format(iconManifestRaw, {
     ...prettierOptions,

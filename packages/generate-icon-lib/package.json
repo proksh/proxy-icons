@@ -4,17 +4,13 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "remove-helper-folders": "rimraf ./src && rimraf ./icons",
-    "remove-all-folders": "rimraf ./src && rimraf ./icons && rimraf ../react/src",
-    "generate-icons": "npm run remove-all-folders && node --loader ts-node/esm cli/index.ts && cp -r src ../react/ && npm run remove-helper-folders"
+    "remove-helper-folders": "rimraf ./src && rimraf ./icons && rimraf icon-json.json",
+    "remove-out-folders": "cd ../react && rimraf ./src && cd ../generate-icon-lib",
+    "generate-icons": "npm run remove-helper-folders && node --loader ts-node/esm cli/index.ts && npm run remove-out-folders && cp -r src ../react/ && npm run remove-helper-folders"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@types/execa": "^2.0.0",
-    "execa": "^9.1.0"
-  },
   "devDependencies": {
     "@types/node": "^20.12.12",
     "nodemon": "^3.1.0",
@@ -34,6 +30,8 @@
     "cheerio": "^1.0.0-rc.12",
     "dotenv": "^16.4.5",
     "ejs": "^3.1.10",
+    "@types/execa": "^2.0.0",
+    "execa": "^9.1.0",
     "figma-js": "^1.16.1-0",
     "fs-extra": "^11.2.0",
     "is-online": "^10.0.0",
