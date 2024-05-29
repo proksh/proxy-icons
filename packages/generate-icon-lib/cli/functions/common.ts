@@ -64,6 +64,6 @@ export const labelling = {
     return camelCased;
   },
   filePathFromIcon(icon: Icon): string {
-    return path.join('icons', icon.category, `${icon.svgName}.svg`);
+    return path.join('icons', `${icon.svgName}.svg`);
   },
 };

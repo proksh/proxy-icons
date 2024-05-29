@@ -1,0 +1,34 @@
+{
+  "css": "true",
+  "startUnicode": "0xea01",
+  "svgicons2svgfont": {
+    "fontHeight": 1000,
+    "normalize": true
+  },
+  "website": {
+    "title": "proxy-icons",
+    "meta": {
+      "description": "Minimal, clean icons",
+      "keywords": "icons, proxyicons, design system, minimal, clean"
+    },
+    "description": "Minimal, clean icons",
+    "corners": {
+      "url": "https://github.com/proksh/proxy-icons"
+    },
+    "links": [
+      {
+        "title": "GitHub",
+        "url": "https://github.com/proksh/proxy-icons"
+      },
+      {
+        "title": "Font Class",
+        "url": "index.html"
+      },
+      {
+        "title": "Unicode",
+        "url": "unicode.html"
+      }
+    ],
+    "footerInfo": "Licensed under MIT. (Yes it's free and <a href='https://github.com/proksh/proxy-icons'>open-sourced</a>"
+  }
+}
