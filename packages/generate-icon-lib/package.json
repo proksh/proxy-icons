@@ -7,7 +7,7 @@
     "remove-helper-folders": "rimraf ./src && rimraf ./icons && rimraf ./icons-json.json && rimraf ./icons",
     "remove-out-folders": "cd ../react && rimraf ./src && cd ../ && rimraf ./font && rimraf ./icons && cd ./website && rimraf ./icons-json.json && cd ../generate-icon-lib",
     "copy-over-folders": "cp -r src ../react/ && rimraf ./font/react && cp -r font ../ && cp -r icons ../ && cp -r icons ../ && cp ./icons-json.json ../website/",
-    "font": "svgtofont --sources ./icons --output ./font --fontName proxyicons",
+    "font": "svgtofont --sources ./icons --output ./font --fontName pro",
     "generate-icons": "npm run remove-helper-folders && node --loader ts-node/esm cli/index.ts && npm run font && npm run remove-out-folders && npm run copy-over-folders && npm run remove-helper-folders"
   },
   "keywords": [],
