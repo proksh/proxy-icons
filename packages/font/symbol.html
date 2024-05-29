@@ -1,0 +1,3664 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>proxy-icons</title>
+  <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+   
+  <meta name="description" content="Minimal, clean icons">
+   
+  <meta name="keywords" content="icons, proxyicons, design system, minimal, clean">
+  
+  
+  
+  <style>
+    *{margin: 0;padding: 0;list-style: none;}
+    body { color: #696969; font: 12px/1.5 tahoma, arial, \5b8b\4f53, sans-serif; }
+    a { color: #333; text-decoration: underline; }
+    a:hover { color: rgb(9, 73, 209); }
+    .header { color: #333; text-align: center; padding: 80px 0 60px 0; min-height: 153px; font-size: 14px; }
+    .header .logo svg { height: 120px; width: 120px; }
+    .header h1 { font-size: 42px; padding: 26px 0 10px 0; }
+    .header sup {font-size: 14px; margin: 8px 0 0 8px; position: absolute; color: #7b7b7b; }
+    .info {
+      color: #999;
+      font-weight: normal;
+      max-width: 346px;
+      margin: 0 auto;
+      padding: 20px 0;
+      font-size: 14px;
+    }
+
+    .icons { max-width: 1190px; margin: 0 auto; }
+    .icons ul { text-align: center; }
+    .icons ul li {
+      vertical-align: top;
+      width: 120px;
+      display: inline-block;
+      text-align: center;
+      background-color: rgba(0,0,0,.02);
+      border-radius: 3px;
+      padding: 29px 0 10px 0;
+      margin-right: 10px;
+      margin-top: 10px;
+      transition: all 0.6s ease;
+    }
+    .icons ul li:hover { background-color: rgba(0,0,0,.06); }
+    .icons ul li:hover span { color: #3c75e4; opacity: 1; }
+    .icons ul li .unicode { color: #8c8c8c; opacity: 0.3; }
+    .icons ul li h4 {
+      font-weight: normal;
+      padding: 10px 0 5px 0;
+      display: block;
+      color: #8c8c8c;
+      font-size: 14px;
+      line-height: 12px;
+      opacity: 0.8;
+    }
+    .icons ul li:hover h4 { opacity: 1; }
+    .icons ul li svg { width: 24px; height: 24px; }
+    .icons ul li:hover { color: #3c75e4; }
+    .footer { text-align: center; padding: 10px 0 90px 0; }
+    .footer a { text-align: center; padding: 10px 0 90px 0; color: #696969;}
+    .footer a:hover { color: #0949d1; }
+    .links { text-align: center; padding: 50px 0 0 0; font-size: 14px; }
+    
+    
+    
+    .icons ul li.symbol {padding: 28px 10px 16px 10px; width: 100px;}
+    .icons ul li.symbol svg {width: 34px; height: 34px;}
+    .icons ul li.symbol h4 {font-size: 12px;}
+    
+  </style>
+  
+  <style>
+    .github-corner:hover .octo-arm { animation: octocat-wave 560ms ease-in-out; }
+    .github-corner svg { position: fixed; z-index: 999; border: 0px; top: 0px; right: 0px;}
+    @keyframes octocat-wave{
+      0%, 100% { transform: rotate(0); }
+      20%, 60% { transform: rotate(-25deg); }
+      40%, 80% { transform: rotate(10deg); }
+    }
+    @media (max-width:500px){
+      .github-corner:hover .octo-arm { animation: none; }
+      .github-corner .octo-arm { animation: octocat-wave 560ms ease-in-out; }
+    }
+  </style>
+  
+</head>
+
+<body>
+  
+    <a href="https://github.com/proksh/proxy-icons" target="__blank" class="github-corner">
+      <svg width="60" height="60" viewBox="0 0 250 250" aria-hidden="true" style="fill: #151513; color: rgb(255, 255, 255); ">
+        <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
+        <path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" class="octo-arm" style="transform-origin: 130px 106px;"></path>
+        <path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path>
+      </svg>
+    </a>
+  
+  <div class="header">
+    
+    <h1>proxy-icons<sup>1.0.0</sup></h1>
+    <div class="info">
+      Minimal, clean icons
+    </div>
+    <p>
+      
+      <a href="https://github.com/proksh/proxy-icons">GitHub</a> · 
+      
+      <a href="index.html">Font Class</a> · 
+      
+      <a href="unicode.html">Unicode</a>
+      
+    </p>
+  </div>
+  <div class="icons">
+    <ul>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-account-box-fill"></use>
+          </svg>
+          <h4>proxyicons-account-box-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-account-box-line"></use>
+          </svg>
+          <h4>proxyicons-account-box-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-account-circle-fill"></use>
+          </svg>
+          <h4>proxyicons-account-circle-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-account-circle-line"></use>
+          </svg>
+          <h4>proxyicons-account-circle-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-account-pin-box-fill"></use>
+          </svg>
+          <h4>proxyicons-account-pin-box-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-account-pin-box-line"></use>
+          </svg>
+          <h4>proxyicons-account-pin-box-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-account-pin-circle-fill"></use>
+          </svg>
+          <h4>proxyicons-account-pin-circle-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-account-pin-circle-line"></use>
+          </svg>
+          <h4>proxyicons-account-pin-circle-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-add-box-fill"></use>
+          </svg>
+          <h4>proxyicons-add-box-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-add-box-line"></use>
+          </svg>
+          <h4>proxyicons-add-box-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-add-circle-fill"></use>
+          </svg>
+          <h4>proxyicons-add-circle-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-add-circle-line"></use>
+          </svg>
+          <h4>proxyicons-add-circle-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-add-fill"></use>
+          </svg>
+          <h4>proxyicons-add-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-add-line"></use>
+          </svg>
+          <h4>proxyicons-add-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-admin-fill"></use>
+          </svg>
+          <h4>proxyicons-admin-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-admin-line"></use>
+          </svg>
+          <h4>proxyicons-admin-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-alert-fill"></use>
+          </svg>
+          <h4>proxyicons-alert-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-alert-line"></use>
+          </svg>
+          <h4>proxyicons-alert-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-aliens-fill"></use>
+          </svg>
+          <h4>proxyicons-aliens-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-aliens-line"></use>
+          </svg>
+          <h4>proxyicons-aliens-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-apps-fill"></use>
+          </svg>
+          <h4>proxyicons-apps-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-apps-line"></use>
+          </svg>
+          <h4>proxyicons-apps-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-down-circle-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-down-circle-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-down-circle-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-down-circle-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-down-double-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-down-double-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-down-double-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-down-double-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-down-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-down-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-down-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-down-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-down-sm-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-down-sm-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-down-sm-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-down-sm-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-go-back-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-go-back-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-go-back-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-go-back-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-go-forward-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-go-forward-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-go-forward-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-go-forward-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-left-circle-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-left-circle-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-left-circle-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-left-circle-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-left-double-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-left-double-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-left-double-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-left-double-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-left-down-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-left-down-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-left-down-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-left-down-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-left-down-sm-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-left-down-sm-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-left-down-sm-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-left-down-sm-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-left-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-left-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-left-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-left-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-left-right-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-left-right-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-left-right-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-left-right-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-left-sm-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-left-sm-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-left-sm-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-left-sm-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-left-up-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-left-up-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-left-up-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-left-up-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-left-up-sm-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-left-up-sm-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-left-up-sm-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-left-up-sm-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-right-circle-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-right-circle-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-right-circle-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-right-circle-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-right-double-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-right-double-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-right-double-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-right-double-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-right-down-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-right-down-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-right-down-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-right-down-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-right-down-sm-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-right-down-sm-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-right-down-sm-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-right-down-sm-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-right-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-right-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-right-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-right-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-right-sm-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-right-sm-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-right-sm-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-right-sm-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-right-up-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-right-up-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-right-up-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-right-up-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-right-up-sm-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-right-up-sm-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-right-up-sm-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-right-up-sm-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-turn-back-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-turn-back-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-turn-back-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-turn-back-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-turn-forward-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-turn-forward-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-turn-forward-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-turn-forward-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-up-circle-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-up-circle-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-up-circle-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-up-circle-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-up-double-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-up-double-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-up-double-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-up-double-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-up-down-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-up-down-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-up-down-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-up-down-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-up-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-up-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-up-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-up-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-up-sm-fill"></use>
+          </svg>
+          <h4>proxyicons-arrow-up-sm-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-arrow-up-sm-line"></use>
+          </svg>
+          <h4>proxyicons-arrow-up-sm-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-at-fill"></use>
+          </svg>
+          <h4>proxyicons-at-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-at-line"></use>
+          </svg>
+          <h4>proxyicons-at-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-attachment-2-fill"></use>
+          </svg>
+          <h4>proxyicons-attachment-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-attachment-2-line"></use>
+          </svg>
+          <h4>proxyicons-attachment-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-attachment-box-fill"></use>
+          </svg>
+          <h4>proxyicons-attachment-box-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-attachment-box-line"></use>
+          </svg>
+          <h4>proxyicons-attachment-box-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-attachment-fill"></use>
+          </svg>
+          <h4>proxyicons-attachment-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-attachment-line"></use>
+          </svg>
+          <h4>proxyicons-attachment-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-body-scan-fill"></use>
+          </svg>
+          <h4>proxyicons-body-scan-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-body-scan-line"></use>
+          </svg>
+          <h4>proxyicons-body-scan-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-bookmark-2-fill"></use>
+          </svg>
+          <h4>proxyicons-bookmark-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-bookmark-2-line"></use>
+          </svg>
+          <h4>proxyicons-bookmark-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-bookmark-3-fill"></use>
+          </svg>
+          <h4>proxyicons-bookmark-3-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-bookmark-3-line"></use>
+          </svg>
+          <h4>proxyicons-bookmark-3-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-bookmark-fill"></use>
+          </svg>
+          <h4>proxyicons-bookmark-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-bookmark-line"></use>
+          </svg>
+          <h4>proxyicons-bookmark-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-check-circle-fill"></use>
+          </svg>
+          <h4>proxyicons-check-circle-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-check-circle-line"></use>
+          </svg>
+          <h4>proxyicons-check-circle-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-check-double-fill"></use>
+          </svg>
+          <h4>proxyicons-check-double-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-check-double-line"></use>
+          </svg>
+          <h4>proxyicons-check-double-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-check-fill"></use>
+          </svg>
+          <h4>proxyicons-check-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-check-line"></use>
+          </svg>
+          <h4>proxyicons-check-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-checkbox-blank-fill"></use>
+          </svg>
+          <h4>proxyicons-checkbox-blank-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-checkbox-blank-line"></use>
+          </svg>
+          <h4>proxyicons-checkbox-blank-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-checkbox-fill"></use>
+          </svg>
+          <h4>proxyicons-checkbox-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-checkbox-indeterminate-fill"></use>
+          </svg>
+          <h4>proxyicons-checkbox-indeterminate-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-checkbox-indeterminate-line"></use>
+          </svg>
+          <h4>proxyicons-checkbox-indeterminate-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-checkbox-line"></use>
+          </svg>
+          <h4>proxyicons-checkbox-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-checkbox-multiple-blank-fill"></use>
+          </svg>
+          <h4>proxyicons-checkbox-multiple-blank-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-checkbox-multiple-blank-line"></use>
+          </svg>
+          <h4>proxyicons-checkbox-multiple-blank-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-checkbox-multiple-fill"></use>
+          </svg>
+          <h4>proxyicons-checkbox-multiple-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-checkbox-multiple-line"></use>
+          </svg>
+          <h4>proxyicons-checkbox-multiple-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-chevron-down-fill"></use>
+          </svg>
+          <h4>proxyicons-chevron-down-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-chevron-down-line"></use>
+          </svg>
+          <h4>proxyicons-chevron-down-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-chevron-down-sm-fill"></use>
+          </svg>
+          <h4>proxyicons-chevron-down-sm-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-chevron-down-sm-line"></use>
+          </svg>
+          <h4>proxyicons-chevron-down-sm-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-chevron-left-fill"></use>
+          </svg>
+          <h4>proxyicons-chevron-left-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-chevron-left-line"></use>
+          </svg>
+          <h4>proxyicons-chevron-left-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-chevron-left-sm-fill"></use>
+          </svg>
+          <h4>proxyicons-chevron-left-sm-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-chevron-left-sm-line"></use>
+          </svg>
+          <h4>proxyicons-chevron-left-sm-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-chevron-right-fill"></use>
+          </svg>
+          <h4>proxyicons-chevron-right-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-chevron-right-line"></use>
+          </svg>
+          <h4>proxyicons-chevron-right-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-chevron-right-sm-fill"></use>
+          </svg>
+          <h4>proxyicons-chevron-right-sm-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-chevron-right-sm-line"></use>
+          </svg>
+          <h4>proxyicons-chevron-right-sm-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-chevron-up-fill"></use>
+          </svg>
+          <h4>proxyicons-chevron-up-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-chevron-up-line"></use>
+          </svg>
+          <h4>proxyicons-chevron-up-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-chevron-up-sm-fill"></use>
+          </svg>
+          <h4>proxyicons-chevron-up-sm-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-chevron-up-sm-line"></use>
+          </svg>
+          <h4>proxyicons-chevron-up-sm-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-close-circle-fill"></use>
+          </svg>
+          <h4>proxyicons-close-circle-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-close-circle-line"></use>
+          </svg>
+          <h4>proxyicons-close-circle-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-close-fill"></use>
+          </svg>
+          <h4>proxyicons-close-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-close-line"></use>
+          </svg>
+          <h4>proxyicons-close-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-contacts-fill"></use>
+          </svg>
+          <h4>proxyicons-contacts-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-contacts-line"></use>
+          </svg>
+          <h4>proxyicons-contacts-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-contract-left-fill"></use>
+          </svg>
+          <h4>proxyicons-contract-left-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-contract-left-line"></use>
+          </svg>
+          <h4>proxyicons-contract-left-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-contract-left-right-fill"></use>
+          </svg>
+          <h4>proxyicons-contract-left-right-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-contract-left-right-line"></use>
+          </svg>
+          <h4>proxyicons-contract-left-right-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-contract-right-fill"></use>
+          </svg>
+          <h4>proxyicons-contract-right-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-contract-right-line"></use>
+          </svg>
+          <h4>proxyicons-contract-right-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-contract-up-down-fill"></use>
+          </svg>
+          <h4>proxyicons-contract-up-down-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-contract-up-down-line"></use>
+          </svg>
+          <h4>proxyicons-contract-up-down-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-corner-down-left-fill"></use>
+          </svg>
+          <h4>proxyicons-corner-down-left-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-corner-down-left-line"></use>
+          </svg>
+          <h4>proxyicons-corner-down-left-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-corner-down-right-fill"></use>
+          </svg>
+          <h4>proxyicons-corner-down-right-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-corner-down-right-line"></use>
+          </svg>
+          <h4>proxyicons-corner-down-right-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-corner-left-down-fill"></use>
+          </svg>
+          <h4>proxyicons-corner-left-down-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-corner-left-down-line"></use>
+          </svg>
+          <h4>proxyicons-corner-left-down-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-corner-left-up-fill"></use>
+          </svg>
+          <h4>proxyicons-corner-left-up-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-corner-left-up-line"></use>
+          </svg>
+          <h4>proxyicons-corner-left-up-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-corner-right-down-fill"></use>
+          </svg>
+          <h4>proxyicons-corner-right-down-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-corner-right-down-line"></use>
+          </svg>
+          <h4>proxyicons-corner-right-down-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-corner-right-up-fill"></use>
+          </svg>
+          <h4>proxyicons-corner-right-up-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-corner-right-up-line"></use>
+          </svg>
+          <h4>proxyicons-corner-right-up-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-corner-up-left-double-fill"></use>
+          </svg>
+          <h4>proxyicons-corner-up-left-double-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-corner-up-left-double-line"></use>
+          </svg>
+          <h4>proxyicons-corner-up-left-double-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-corner-up-left-fill"></use>
+          </svg>
+          <h4>proxyicons-corner-up-left-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-corner-up-left-line"></use>
+          </svg>
+          <h4>proxyicons-corner-up-left-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-corner-up-right-double-fill"></use>
+          </svg>
+          <h4>proxyicons-corner-up-right-double-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-corner-up-right-double-line"></use>
+          </svg>
+          <h4>proxyicons-corner-up-right-double-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-corner-up-right-fill"></use>
+          </svg>
+          <h4>proxyicons-corner-up-right-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-corner-up-right-line"></use>
+          </svg>
+          <h4>proxyicons-corner-up-right-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-criminal-fill"></use>
+          </svg>
+          <h4>proxyicons-criminal-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-criminal-line"></use>
+          </svg>
+          <h4>proxyicons-criminal-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-dashboard-fill"></use>
+          </svg>
+          <h4>proxyicons-dashboard-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-dashboard-line"></use>
+          </svg>
+          <h4>proxyicons-dashboard-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-delete-back-2-fill"></use>
+          </svg>
+          <h4>proxyicons-delete-back-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-delete-back-2-line"></use>
+          </svg>
+          <h4>proxyicons-delete-back-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-delete-back-fill"></use>
+          </svg>
+          <h4>proxyicons-delete-back-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-delete-back-line"></use>
+          </svg>
+          <h4>proxyicons-delete-back-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-delete-bin-2-fill"></use>
+          </svg>
+          <h4>proxyicons-delete-bin-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-delete-bin-2-line"></use>
+          </svg>
+          <h4>proxyicons-delete-bin-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-delete-bin-3-fill"></use>
+          </svg>
+          <h4>proxyicons-delete-bin-3-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-delete-bin-3-line"></use>
+          </svg>
+          <h4>proxyicons-delete-bin-3-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-delete-bin-4-fill"></use>
+          </svg>
+          <h4>proxyicons-delete-bin-4-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-delete-bin-4-line"></use>
+          </svg>
+          <h4>proxyicons-delete-bin-4-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-delete-bin-5-fill"></use>
+          </svg>
+          <h4>proxyicons-delete-bin-5-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-delete-bin-5-line"></use>
+          </svg>
+          <h4>proxyicons-delete-bin-5-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-delete-bin-fill"></use>
+          </svg>
+          <h4>proxyicons-delete-bin-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-delete-bin-line"></use>
+          </svg>
+          <h4>proxyicons-delete-bin-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-divide-fill"></use>
+          </svg>
+          <h4>proxyicons-divide-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-divide-line"></use>
+          </svg>
+          <h4>proxyicons-divide-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-double-toggle-fill"></use>
+          </svg>
+          <h4>proxyicons-double-toggle-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-double-toggle-line"></use>
+          </svg>
+          <h4>proxyicons-double-toggle-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-download-2-fill"></use>
+          </svg>
+          <h4>proxyicons-download-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-download-2-line"></use>
+          </svg>
+          <h4>proxyicons-download-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-download-cloud-2-fill"></use>
+          </svg>
+          <h4>proxyicons-download-cloud-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-download-cloud-2-line"></use>
+          </svg>
+          <h4>proxyicons-download-cloud-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-download-cloud-fill"></use>
+          </svg>
+          <h4>proxyicons-download-cloud-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-download-cloud-line"></use>
+          </svg>
+          <h4>proxyicons-download-cloud-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-download-fill"></use>
+          </svg>
+          <h4>proxyicons-download-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-download-line"></use>
+          </svg>
+          <h4>proxyicons-download-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-drag-move-2-fill"></use>
+          </svg>
+          <h4>proxyicons-drag-move-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-drag-move-2-line"></use>
+          </svg>
+          <h4>proxyicons-drag-move-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-drag-move-fill"></use>
+          </svg>
+          <h4>proxyicons-drag-move-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-drag-move-line"></use>
+          </svg>
+          <h4>proxyicons-drag-move-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-emotion-fill"></use>
+          </svg>
+          <h4>proxyicons-emotion-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-emotion-happy-fill"></use>
+          </svg>
+          <h4>proxyicons-emotion-happy-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-emotion-happy-line"></use>
+          </svg>
+          <h4>proxyicons-emotion-happy-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-emotion-laugh-fill"></use>
+          </svg>
+          <h4>proxyicons-emotion-laugh-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-emotion-laugh-line"></use>
+          </svg>
+          <h4>proxyicons-emotion-laugh-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-emotion-line"></use>
+          </svg>
+          <h4>proxyicons-emotion-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-emotion-normal-fill"></use>
+          </svg>
+          <h4>proxyicons-emotion-normal-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-emotion-normal-line"></use>
+          </svg>
+          <h4>proxyicons-emotion-normal-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-emotion-sad-fill"></use>
+          </svg>
+          <h4>proxyicons-emotion-sad-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-emotion-sad-line"></use>
+          </svg>
+          <h4>proxyicons-emotion-sad-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-emotion-unhappy-fill"></use>
+          </svg>
+          <h4>proxyicons-emotion-unhappy-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-emotion-unhappy-line"></use>
+          </svg>
+          <h4>proxyicons-emotion-unhappy-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-equal-fill"></use>
+          </svg>
+          <h4>proxyicons-equal-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-equal-line"></use>
+          </svg>
+          <h4>proxyicons-equal-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-error-warning-fill"></use>
+          </svg>
+          <h4>proxyicons-error-warning-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-error-warning-line"></use>
+          </svg>
+          <h4>proxyicons-error-warning-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-expand-height-fill"></use>
+          </svg>
+          <h4>proxyicons-expand-height-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-expand-height-line"></use>
+          </svg>
+          <h4>proxyicons-expand-height-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-expand-left-fill"></use>
+          </svg>
+          <h4>proxyicons-expand-left-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-expand-left-line"></use>
+          </svg>
+          <h4>proxyicons-expand-left-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-expand-left-right-fill"></use>
+          </svg>
+          <h4>proxyicons-expand-left-right-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-expand-left-right-line"></use>
+          </svg>
+          <h4>proxyicons-expand-left-right-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-expand-right-fill"></use>
+          </svg>
+          <h4>proxyicons-expand-right-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-expand-right-line"></use>
+          </svg>
+          <h4>proxyicons-expand-right-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-expand-up-down-fill"></use>
+          </svg>
+          <h4>proxyicons-expand-up-down-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-expand-up-down-line"></use>
+          </svg>
+          <h4>proxyicons-expand-up-down-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-expand-width-fill"></use>
+          </svg>
+          <h4>proxyicons-expand-width-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-expand-width-line"></use>
+          </svg>
+          <h4>proxyicons-expand-width-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-export-fill"></use>
+          </svg>
+          <h4>proxyicons-export-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-export-line"></use>
+          </svg>
+          <h4>proxyicons-export-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-external-link-fill"></use>
+          </svg>
+          <h4>proxyicons-external-link-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-external-link-line"></use>
+          </svg>
+          <h4>proxyicons-external-link-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-eye-2-fill"></use>
+          </svg>
+          <h4>proxyicons-eye-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-eye-2-line"></use>
+          </svg>
+          <h4>proxyicons-eye-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-eye-close-fill"></use>
+          </svg>
+          <h4>proxyicons-eye-close-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-eye-close-line"></use>
+          </svg>
+          <h4>proxyicons-eye-close-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-eye-line-fill"></use>
+          </svg>
+          <h4>proxyicons-eye-line-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-eye-line"></use>
+          </svg>
+          <h4>proxyicons-eye-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-eye-off-fill"></use>
+          </svg>
+          <h4>proxyicons-eye-off-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-eye-off-line"></use>
+          </svg>
+          <h4>proxyicons-eye-off-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-filter-2-fill"></use>
+          </svg>
+          <h4>proxyicons-filter-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-filter-2-line"></use>
+          </svg>
+          <h4>proxyicons-filter-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-filter-fill"></use>
+          </svg>
+          <h4>proxyicons-filter-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-filter-line"></use>
+          </svg>
+          <h4>proxyicons-filter-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-filter-off-fill"></use>
+          </svg>
+          <h4>proxyicons-filter-off-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-filter-off-line"></use>
+          </svg>
+          <h4>proxyicons-filter-off-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-find-replace-fill"></use>
+          </svg>
+          <h4>proxyicons-find-replace-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-find-replace-line"></use>
+          </svg>
+          <h4>proxyicons-find-replace-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-flag-2-fill"></use>
+          </svg>
+          <h4>proxyicons-flag-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-flag-2-line"></use>
+          </svg>
+          <h4>proxyicons-flag-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-flag-fill"></use>
+          </svg>
+          <h4>proxyicons-flag-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-flag-line"></use>
+          </svg>
+          <h4>proxyicons-flag-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-forbid-fill"></use>
+          </svg>
+          <h4>proxyicons-forbid-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-forbid-line"></use>
+          </svg>
+          <h4>proxyicons-forbid-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-function-fill"></use>
+          </svg>
+          <h4>proxyicons-function-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-function-line"></use>
+          </svg>
+          <h4>proxyicons-function-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-genderless-fill"></use>
+          </svg>
+          <h4>proxyicons-genderless-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-genderless-line"></use>
+          </svg>
+          <h4>proxyicons-genderless-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-ghost-fill"></use>
+          </svg>
+          <h4>proxyicons-ghost-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-ghost-line"></use>
+          </svg>
+          <h4>proxyicons-ghost-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-group-2-fill"></use>
+          </svg>
+          <h4>proxyicons-group-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-group-2-line"></use>
+          </svg>
+          <h4>proxyicons-group-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-group-fill"></use>
+          </svg>
+          <h4>proxyicons-group-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-group-line"></use>
+          </svg>
+          <h4>proxyicons-group-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-hourglass-2-fill"></use>
+          </svg>
+          <h4>proxyicons-hourglass-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-hourglass-2-line"></use>
+          </svg>
+          <h4>proxyicons-hourglass-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-hourglass-fill"></use>
+          </svg>
+          <h4>proxyicons-hourglass-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-hourglass-line"></use>
+          </svg>
+          <h4>proxyicons-hourglass-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-import-fill"></use>
+          </svg>
+          <h4>proxyicons-import-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-import-line"></use>
+          </svg>
+          <h4>proxyicons-import-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-information-2-fill"></use>
+          </svg>
+          <h4>proxyicons-information-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-information-2-line"></use>
+          </svg>
+          <h4>proxyicons-information-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-information-fill"></use>
+          </svg>
+          <h4>proxyicons-information-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-information-line"></use>
+          </svg>
+          <h4>proxyicons-information-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-link-fill"></use>
+          </svg>
+          <h4>proxyicons-link-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-link-line"></use>
+          </svg>
+          <h4>proxyicons-link-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-link-unlink-fill"></use>
+          </svg>
+          <h4>proxyicons-link-unlink-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-link-unlink-line"></use>
+          </svg>
+          <h4>proxyicons-link-unlink-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-links-fill"></use>
+          </svg>
+          <h4>proxyicons-links-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-links-line"></use>
+          </svg>
+          <h4>proxyicons-links-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-list-settings-fill"></use>
+          </svg>
+          <h4>proxyicons-list-settings-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-list-settings-line"></use>
+          </svg>
+          <h4>proxyicons-list-settings-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-lock-2-fill"></use>
+          </svg>
+          <h4>proxyicons-lock-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-lock-2-line"></use>
+          </svg>
+          <h4>proxyicons-lock-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-lock-3-fill"></use>
+          </svg>
+          <h4>proxyicons-lock-3-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-lock-3-line"></use>
+          </svg>
+          <h4>proxyicons-lock-3-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-lock-fill"></use>
+          </svg>
+          <h4>proxyicons-lock-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-lock-line"></use>
+          </svg>
+          <h4>proxyicons-lock-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-lock-password-fill"></use>
+          </svg>
+          <h4>proxyicons-lock-password-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-lock-password-line"></use>
+          </svg>
+          <h4>proxyicons-lock-password-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-lock-star-fill"></use>
+          </svg>
+          <h4>proxyicons-lock-star-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-lock-star-line"></use>
+          </svg>
+          <h4>proxyicons-lock-star-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-login-box-fill"></use>
+          </svg>
+          <h4>proxyicons-login-box-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-login-box-line"></use>
+          </svg>
+          <h4>proxyicons-login-box-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-login-circle-fill"></use>
+          </svg>
+          <h4>proxyicons-login-circle-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-login-circle-line"></use>
+          </svg>
+          <h4>proxyicons-login-circle-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-logout-box-fill"></use>
+          </svg>
+          <h4>proxyicons-logout-box-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-logout-box-line"></use>
+          </svg>
+          <h4>proxyicons-logout-box-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-logout-box-r-fill"></use>
+          </svg>
+          <h4>proxyicons-logout-box-r-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-logout-box-r-line"></use>
+          </svg>
+          <h4>proxyicons-logout-box-r-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-logout-circle-fill"></use>
+          </svg>
+          <h4>proxyicons-logout-circle-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-logout-circle-line"></use>
+          </svg>
+          <h4>proxyicons-logout-circle-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-logout-circle-r-fill"></use>
+          </svg>
+          <h4>proxyicons-logout-circle-r-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-logout-circle-r-line"></use>
+          </svg>
+          <h4>proxyicons-logout-circle-r-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-loop-left-fill"></use>
+          </svg>
+          <h4>proxyicons-loop-left-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-loop-left-line"></use>
+          </svg>
+          <h4>proxyicons-loop-left-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-loop-right-fill"></use>
+          </svg>
+          <h4>proxyicons-loop-right-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-loop-right-line"></use>
+          </svg>
+          <h4>proxyicons-loop-right-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-men-fill"></use>
+          </svg>
+          <h4>proxyicons-men-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-men-line"></use>
+          </svg>
+          <h4>proxyicons-men-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-2-fill"></use>
+          </svg>
+          <h4>proxyicons-menu-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-2-line"></use>
+          </svg>
+          <h4>proxyicons-menu-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-3-fill"></use>
+          </svg>
+          <h4>proxyicons-menu-3-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-3-line"></use>
+          </svg>
+          <h4>proxyicons-menu-3-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-4-fill"></use>
+          </svg>
+          <h4>proxyicons-menu-4-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-4-line"></use>
+          </svg>
+          <h4>proxyicons-menu-4-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-5-fill"></use>
+          </svg>
+          <h4>proxyicons-menu-5-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-5-line"></use>
+          </svg>
+          <h4>proxyicons-menu-5-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-add-fill"></use>
+          </svg>
+          <h4>proxyicons-menu-add-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-add-line"></use>
+          </svg>
+          <h4>proxyicons-menu-add-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-fill"></use>
+          </svg>
+          <h4>proxyicons-menu-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-fold-fill"></use>
+          </svg>
+          <h4>proxyicons-menu-fold-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-fold-line"></use>
+          </svg>
+          <h4>proxyicons-menu-fold-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-line"></use>
+          </svg>
+          <h4>proxyicons-menu-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-s-2-fill"></use>
+          </svg>
+          <h4>proxyicons-menu-s-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-s-2-line"></use>
+          </svg>
+          <h4>proxyicons-menu-s-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-s-3-fill"></use>
+          </svg>
+          <h4>proxyicons-menu-s-3-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-s-3-line"></use>
+          </svg>
+          <h4>proxyicons-menu-s-3-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-s-4-fill"></use>
+          </svg>
+          <h4>proxyicons-menu-s-4-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-s-4-line"></use>
+          </svg>
+          <h4>proxyicons-menu-s-4-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-s-5-fill"></use>
+          </svg>
+          <h4>proxyicons-menu-s-5-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-s-5-line"></use>
+          </svg>
+          <h4>proxyicons-menu-s-5-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-s-fill"></use>
+          </svg>
+          <h4>proxyicons-menu-s-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-s-line"></use>
+          </svg>
+          <h4>proxyicons-menu-s-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-search-fill"></use>
+          </svg>
+          <h4>proxyicons-menu-search-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-search-line"></use>
+          </svg>
+          <h4>proxyicons-menu-search-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-unfold-fill"></use>
+          </svg>
+          <h4>proxyicons-menu-unfold-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-menu-unfold-line"></use>
+          </svg>
+          <h4>proxyicons-menu-unfold-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-mickey-fill"></use>
+          </svg>
+          <h4>proxyicons-mickey-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-mickey-line"></use>
+          </svg>
+          <h4>proxyicons-mickey-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-more-2-fill"></use>
+          </svg>
+          <h4>proxyicons-more-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-more-2-line"></use>
+          </svg>
+          <h4>proxyicons-more-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-more-fill"></use>
+          </svg>
+          <h4>proxyicons-more-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-more-line"></use>
+          </svg>
+          <h4>proxyicons-more-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-notification-badge-fill"></use>
+          </svg>
+          <h4>proxyicons-notification-badge-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-notification-badge-line"></use>
+          </svg>
+          <h4>proxyicons-notification-badge-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-open-arm-fill"></use>
+          </svg>
+          <h4>proxyicons-open-arm-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-open-arm-line"></use>
+          </svg>
+          <h4>proxyicons-open-arm-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-parent-fill"></use>
+          </svg>
+          <h4>proxyicons-parent-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-parent-line"></use>
+          </svg>
+          <h4>proxyicons-parent-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-question-fill"></use>
+          </svg>
+          <h4>proxyicons-question-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-question-line"></use>
+          </svg>
+          <h4>proxyicons-question-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-radio-off-fill"></use>
+          </svg>
+          <h4>proxyicons-radio-off-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-radio-off-line"></use>
+          </svg>
+          <h4>proxyicons-radio-off-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-radio-on-fill"></use>
+          </svg>
+          <h4>proxyicons-radio-on-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-radio-on-line"></use>
+          </svg>
+          <h4>proxyicons-radio-on-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-refresh-fill"></use>
+          </svg>
+          <h4>proxyicons-refresh-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-refresh-line"></use>
+          </svg>
+          <h4>proxyicons-refresh-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-robot-2-fill"></use>
+          </svg>
+          <h4>proxyicons-robot-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-robot-2-line"></use>
+          </svg>
+          <h4>proxyicons-robot-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-robot-3-fill"></use>
+          </svg>
+          <h4>proxyicons-robot-3-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-robot-3-line"></use>
+          </svg>
+          <h4>proxyicons-robot-3-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-robot-fill"></use>
+          </svg>
+          <h4>proxyicons-robot-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-robot-line"></use>
+          </svg>
+          <h4>proxyicons-robot-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-scroll-to-bottom-fill"></use>
+          </svg>
+          <h4>proxyicons-scroll-to-bottom-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-scroll-to-bottom-line"></use>
+          </svg>
+          <h4>proxyicons-scroll-to-bottom-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-search-2-fill"></use>
+          </svg>
+          <h4>proxyicons-search-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-search-2-line"></use>
+          </svg>
+          <h4>proxyicons-search-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-search-eye-fill"></use>
+          </svg>
+          <h4>proxyicons-search-eye-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-search-eye-line"></use>
+          </svg>
+          <h4>proxyicons-search-eye-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-search-fill"></use>
+          </svg>
+          <h4>proxyicons-search-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-search-line"></use>
+          </svg>
+          <h4>proxyicons-search-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-settings-2-fill"></use>
+          </svg>
+          <h4>proxyicons-settings-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-settings-2-line"></use>
+          </svg>
+          <h4>proxyicons-settings-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-settings-3-fill"></use>
+          </svg>
+          <h4>proxyicons-settings-3-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-settings-3-line"></use>
+          </svg>
+          <h4>proxyicons-settings-3-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-settings-4-fill"></use>
+          </svg>
+          <h4>proxyicons-settings-4-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-settings-4-line"></use>
+          </svg>
+          <h4>proxyicons-settings-4-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-settings-fill"></use>
+          </svg>
+          <h4>proxyicons-settings-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-settings-line"></use>
+          </svg>
+          <h4>proxyicons-settings-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-share-2-fill"></use>
+          </svg>
+          <h4>proxyicons-share-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-share-2-line"></use>
+          </svg>
+          <h4>proxyicons-share-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-share-box-fill"></use>
+          </svg>
+          <h4>proxyicons-share-box-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-share-box-line"></use>
+          </svg>
+          <h4>proxyicons-share-box-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-share-circle-fill"></use>
+          </svg>
+          <h4>proxyicons-share-circle-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-share-circle-line"></use>
+          </svg>
+          <h4>proxyicons-share-circle-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-share-fill"></use>
+          </svg>
+          <h4>proxyicons-share-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-share-forward-2-fill"></use>
+          </svg>
+          <h4>proxyicons-share-forward-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-share-forward-2-line"></use>
+          </svg>
+          <h4>proxyicons-share-forward-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-share-forward-fill"></use>
+          </svg>
+          <h4>proxyicons-share-forward-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-share-forward-line"></use>
+          </svg>
+          <h4>proxyicons-share-forward-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-share-line"></use>
+          </svg>
+          <h4>proxyicons-share-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-shield-check-fill"></use>
+          </svg>
+          <h4>proxyicons-shield-check-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-shield-check-line"></use>
+          </svg>
+          <h4>proxyicons-shield-check-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-shield-cross-fill"></use>
+          </svg>
+          <h4>proxyicons-shield-cross-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-shield-cross-line"></use>
+          </svg>
+          <h4>proxyicons-shield-cross-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-shield-fill"></use>
+          </svg>
+          <h4>proxyicons-shield-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-shield-flash-fill"></use>
+          </svg>
+          <h4>proxyicons-shield-flash-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-shield-flash-line"></use>
+          </svg>
+          <h4>proxyicons-shield-flash-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-shield-keyhole-fill"></use>
+          </svg>
+          <h4>proxyicons-shield-keyhole-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-shield-keyhole-line"></use>
+          </svg>
+          <h4>proxyicons-shield-keyhole-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-shield-line"></use>
+          </svg>
+          <h4>proxyicons-shield-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-shield-star-fill"></use>
+          </svg>
+          <h4>proxyicons-shield-star-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-shield-star-line"></use>
+          </svg>
+          <h4>proxyicons-shield-star-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-shield-user-fill"></use>
+          </svg>
+          <h4>proxyicons-shield-user-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-shield-user-line"></use>
+          </svg>
+          <h4>proxyicons-shield-user-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-side-bar-fill"></use>
+          </svg>
+          <h4>proxyicons-side-bar-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-side-bar-line"></use>
+          </svg>
+          <h4>proxyicons-side-bar-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-sidebar-fold-fill"></use>
+          </svg>
+          <h4>proxyicons-sidebar-fold-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-sidebar-fold-line"></use>
+          </svg>
+          <h4>proxyicons-sidebar-fold-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-sidebar-unfold-fill"></use>
+          </svg>
+          <h4>proxyicons-sidebar-unfold-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-sidebar-unfold-line"></use>
+          </svg>
+          <h4>proxyicons-sidebar-unfold-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-skip-down-fill"></use>
+          </svg>
+          <h4>proxyicons-skip-down-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-skip-down-line"></use>
+          </svg>
+          <h4>proxyicons-skip-down-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-skip-left-fill"></use>
+          </svg>
+          <h4>proxyicons-skip-left-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-skip-left-line"></use>
+          </svg>
+          <h4>proxyicons-skip-left-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-skip-right-fill"></use>
+          </svg>
+          <h4>proxyicons-skip-right-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-skip-right-line"></use>
+          </svg>
+          <h4>proxyicons-skip-right-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-skip-up-fill"></use>
+          </svg>
+          <h4>proxyicons-skip-up-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-skip-up-line"></use>
+          </svg>
+          <h4>proxyicons-skip-up-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-skull-fill"></use>
+          </svg>
+          <h4>proxyicons-skull-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-skull-line"></use>
+          </svg>
+          <h4>proxyicons-skull-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-spam-2-fill"></use>
+          </svg>
+          <h4>proxyicons-spam-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-spam-2-line"></use>
+          </svg>
+          <h4>proxyicons-spam-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-spam-3-fill"></use>
+          </svg>
+          <h4>proxyicons-spam-3-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-spam-3-line"></use>
+          </svg>
+          <h4>proxyicons-spam-3-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-spam-fill"></use>
+          </svg>
+          <h4>proxyicons-spam-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-spam-line"></use>
+          </svg>
+          <h4>proxyicons-spam-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-spy-fill"></use>
+          </svg>
+          <h4>proxyicons-spy-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-spy-line"></use>
+          </svg>
+          <h4>proxyicons-spy-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-stack-fill"></use>
+          </svg>
+          <h4>proxyicons-stack-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-stack-line"></use>
+          </svg>
+          <h4>proxyicons-stack-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-star-fill"></use>
+          </svg>
+          <h4>proxyicons-star-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-star-half-fill"></use>
+          </svg>
+          <h4>proxyicons-star-half-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-star-half-line"></use>
+          </svg>
+          <h4>proxyicons-star-half-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-star-line"></use>
+          </svg>
+          <h4>proxyicons-star-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-star-s-fill"></use>
+          </svg>
+          <h4>proxyicons-star-s-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-star-s-half-fill"></use>
+          </svg>
+          <h4>proxyicons-star-s-half-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-star-s-half-line"></use>
+          </svg>
+          <h4>proxyicons-star-s-half-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-star-s-line"></use>
+          </svg>
+          <h4>proxyicons-star-s-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-subtract-circle-fill"></use>
+          </svg>
+          <h4>proxyicons-subtract-circle-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-subtract-circle-line"></use>
+          </svg>
+          <h4>proxyicons-subtract-circle-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-subtract-fill"></use>
+          </svg>
+          <h4>proxyicons-subtract-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-subtract-line"></use>
+          </svg>
+          <h4>proxyicons-subtract-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-team-fill"></use>
+          </svg>
+          <h4>proxyicons-team-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-team-line"></use>
+          </svg>
+          <h4>proxyicons-team-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-thumb-down-fill"></use>
+          </svg>
+          <h4>proxyicons-thumb-down-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-thumb-down-line"></use>
+          </svg>
+          <h4>proxyicons-thumb-down-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-thumb-up-fill"></use>
+          </svg>
+          <h4>proxyicons-thumb-up-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-thumb-up-line"></use>
+          </svg>
+          <h4>proxyicons-thumb-up-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-toggle-fill"></use>
+          </svg>
+          <h4>proxyicons-toggle-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-toggle-line"></use>
+          </svg>
+          <h4>proxyicons-toggle-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-travesti-fill"></use>
+          </svg>
+          <h4>proxyicons-travesti-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-travesti-line"></use>
+          </svg>
+          <h4>proxyicons-travesti-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-unlock-2-fill"></use>
+          </svg>
+          <h4>proxyicons-unlock-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-unlock-2-line"></use>
+          </svg>
+          <h4>proxyicons-unlock-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-unlock-3-fill"></use>
+          </svg>
+          <h4>proxyicons-unlock-3-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-unlock-3-line"></use>
+          </svg>
+          <h4>proxyicons-unlock-3-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-unlock-fill"></use>
+          </svg>
+          <h4>proxyicons-unlock-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-unlock-line"></use>
+          </svg>
+          <h4>proxyicons-unlock-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-unlock-password-fill"></use>
+          </svg>
+          <h4>proxyicons-unlock-password-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-unlock-password-line"></use>
+          </svg>
+          <h4>proxyicons-unlock-password-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-unlock-star-fill"></use>
+          </svg>
+          <h4>proxyicons-unlock-star-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-unlock-star-line"></use>
+          </svg>
+          <h4>proxyicons-unlock-star-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-upload-2-fill"></use>
+          </svg>
+          <h4>proxyicons-upload-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-upload-2-line"></use>
+          </svg>
+          <h4>proxyicons-upload-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-upload-cloud-2-fill"></use>
+          </svg>
+          <h4>proxyicons-upload-cloud-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-upload-cloud-2-line"></use>
+          </svg>
+          <h4>proxyicons-upload-cloud-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-upload-cloud-fill"></use>
+          </svg>
+          <h4>proxyicons-upload-cloud-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-upload-cloud-line"></use>
+          </svg>
+          <h4>proxyicons-upload-cloud-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-upload-fill"></use>
+          </svg>
+          <h4>proxyicons-upload-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-upload-line"></use>
+          </svg>
+          <h4>proxyicons-upload-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-2-fill"></use>
+          </svg>
+          <h4>proxyicons-user-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-2-line"></use>
+          </svg>
+          <h4>proxyicons-user-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-add-fill"></use>
+          </svg>
+          <h4>proxyicons-user-add-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-add-line"></use>
+          </svg>
+          <h4>proxyicons-user-add-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-fill"></use>
+          </svg>
+          <h4>proxyicons-user-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-follow-fill"></use>
+          </svg>
+          <h4>proxyicons-user-follow-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-follow-line"></use>
+          </svg>
+          <h4>proxyicons-user-follow-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-forbid-fill"></use>
+          </svg>
+          <h4>proxyicons-user-forbid-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-forbid-line"></use>
+          </svg>
+          <h4>proxyicons-user-forbid-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-heart-fill"></use>
+          </svg>
+          <h4>proxyicons-user-heart-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-heart-line"></use>
+          </svg>
+          <h4>proxyicons-user-heart-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-line"></use>
+          </svg>
+          <h4>proxyicons-user-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-location-fill"></use>
+          </svg>
+          <h4>proxyicons-user-location-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-location-line"></use>
+          </svg>
+          <h4>proxyicons-user-location-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-received-fill"></use>
+          </svg>
+          <h4>proxyicons-user-received-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-received-line"></use>
+          </svg>
+          <h4>proxyicons-user-received-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-search-fill"></use>
+          </svg>
+          <h4>proxyicons-user-search-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-search-line"></use>
+          </svg>
+          <h4>proxyicons-user-search-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-settings-fill"></use>
+          </svg>
+          <h4>proxyicons-user-settings-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-settings-line"></use>
+          </svg>
+          <h4>proxyicons-user-settings-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-shared-2-fill"></use>
+          </svg>
+          <h4>proxyicons-user-shared-2-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-shared-2-line"></use>
+          </svg>
+          <h4>proxyicons-user-shared-2-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-star-fill"></use>
+          </svg>
+          <h4>proxyicons-user-star-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-star-line"></use>
+          </svg>
+          <h4>proxyicons-user-star-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-unfollow-fill"></use>
+          </svg>
+          <h4>proxyicons-user-unfollow-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-unfollow-line"></use>
+          </svg>
+          <h4>proxyicons-user-unfollow-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-voice-fill"></use>
+          </svg>
+          <h4>proxyicons-user-voice-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-user-voice-line"></use>
+          </svg>
+          <h4>proxyicons-user-voice-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-women-fill"></use>
+          </svg>
+          <h4>proxyicons-women-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-women-line"></use>
+          </svg>
+          <h4>proxyicons-women-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-zoom-in-fill"></use>
+          </svg>
+          <h4>proxyicons-zoom-in-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-zoom-in-line"></use>
+          </svg>
+          <h4>proxyicons-zoom-in-line</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-zoom-out-fill"></use>
+          </svg>
+          <h4>proxyicons-zoom-out-fill</h4>
+        </li>
+      
+        <li class="symbol">
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="proxyicons.symbol.svg#proxyicons-zoom-out-line"></use>
+          </svg>
+          <h4>proxyicons-zoom-out-line</h4>
+        </li>
+      
+    </ul>
+  </div>
+  <p class="links">
+    
+    <a href="https://github.com/proksh/proxy-icons">GitHub</a> · 
+    
+    <a href="index.html">Font Class</a> · 
+    
+    <a href="unicode.html">Unicode</a>
+    
+  </p>
+  <div class="footer">
+    Licensed under MIT. (Yes it's free and <a href='https://github.com/proksh/proxy-icons'>open-sourced</a>
+    <div><a target="_blank" href="https://github.com/jaywcjlove/svgtofont">Created By svgtofont</a></div>
+  </div>
+</body>
+
+</html>
