@@ -1,12 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
+  <path stroke="currentColor" stroke-width="2" d="M3 4h18v16H3z" />
   <path
-    fill="currentColor"
-    d="M11.707 10.207 9.914 12l1.793 1.793-1.414 1.414L7.086 12l3.207-3.207z"
-  />
-  <path
-    fill="currentColor"
-    fill-rule="evenodd"
-    d="m2 4 1-1h18l1 1v16l-1 1H3l-1-1zm2 1v14h10V5zm16 14h-4V5h4z"
-    clip-rule="evenodd"
+    stroke="currentColor"
+    stroke-width="2"
+    d="M10.5 9.5 8 12l2.5 2.5M15 4v16"
   />
 </svg>

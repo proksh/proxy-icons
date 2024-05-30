@@ -12,12 +12,8 @@ export const ProSideBarFill = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <path
-          fill={color}
-          d="m2 4 1-1h18l1 1v16l-1 1H3l-1-1zm7 15h11V5H9z"
-          fillRule="evenodd"
-          clipRule="evenodd"
-        />
+        <path fill={color} stroke={color} d="M9 20V4H3v16z" strokeWidth="2" />
+        <path stroke={color} d="M3 4h18v16H3z" strokeWidth="2" />
       </svg>
     );
   },

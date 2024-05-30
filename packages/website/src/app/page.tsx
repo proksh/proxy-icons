@@ -7,8 +7,8 @@ export default function Home() {
 
   return (
     <main>
-      <div className="px-16 max-w-[1400px] mx-auto">
-        <h3 className="text-8xl font-bold text-center pt-56 pb-14">Minimal, clean icons.</h3>
+      <div className="px-16 max-w-[1420px] mx-auto">
+        <h3 className="text-9xl font-bold text-center pt-56 pb-14 tracking-tighter">Minimal, clean icons.</h3>
         <div className="flex gap-6 mb-14">
           <div className="flex-grow">
             <input
@@ -32,19 +32,33 @@ export default function Home() {
 function CategoryIcons({ icons, categoryName }: { icons: { [key: string]: any }; categoryName: string }) {
   return (
     <div className="mb-12">
-      <p className="mb-12">{categoryName}</p>
-      <div className="grid grid-cols-2 gap-4">
-        <div className="flex flex-wrap gap-4">
+      <p className="mb-6 text-xl">{categoryName}</p>
+      <div className="grid grid-cols-2 gap-10">
+        <div className="flex flex-wrap gap-1">
           {Object.keys(icons).map((iconName) => {
             if (iconName.endsWith('-line')) {
-              return <i key={iconName} className={'text-xl pro-' + iconName} />;
+              return (
+                <div
+                  key={iconName}
+                  className="h-12 w-12 flex items-center justify-center border border-gray-200 rounded-2xl hover:bg-gray-50 transition-all"
+                >
+                  <i className={'text-xl pro-' + iconName} />
+                </div>
+              );
             }
           })}
         </div>
-        <div className="flex flex-wrap gap-4">
+        <div className="flex flex-wrap gap-1">
           {Object.keys(icons).map((iconName) => {
             if (iconName.endsWith('-fill')) {
-              return <i key={iconName} className={'text-xl pro-' + iconName} />;
+              return (
+                <div
+                  key={iconName}
+                  className="h-12 w-12 flex items-center justify-center border border-gray-200 rounded-2xl hover:bg-gray-50 transition-all"
+                >
+                  <i className={'text-xl pro-' + iconName} />
+                </div>
+              );
             }
           })}
         </div>

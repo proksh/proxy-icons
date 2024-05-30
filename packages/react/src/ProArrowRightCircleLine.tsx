@@ -14,10 +14,10 @@ export const ProArrowRightCircleLine = React.forwardRef<
       {...props}
       ref={forwardedRef}
     >
-      <path fill={color} d="M12 7.987v2.751H7.992v2.5H12v2.752l4-3.992z" />
+      <path fill={color} d="M12 11V8l4 4-4 4v-3H8v-2z" />
       <path
         fill={color}
-        d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2m0 2.5a7.5 7.5 0 1 1 0 15 7.5 7.5 0 0 1 0-15"
+        d="M12 4a8 8 0 1 0 0 16 8 8 0 0 0 0-16M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12"
         fillRule="evenodd"
         clipRule="evenodd"
       />

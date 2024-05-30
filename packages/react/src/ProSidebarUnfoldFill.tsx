@@ -14,10 +14,11 @@ export const ProSidebarUnfoldFill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="m2 4 1-1h10v18H3l-1-1zm13-1h5l1 1v16l-1 1h-5zM7 9.5l3 2.5-3 2.5z"
+          d="M14.5 3h-12v18h12zM11 12l-3 2.5v-5z"
           fillRule="evenodd"
           clipRule="evenodd"
         />
+        <path fill={color} d="M16.5 3v18h5V3z" />
       </svg>
     );
   },

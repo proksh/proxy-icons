@@ -3,7 +3,9 @@
   "startUnicode": "0xea01",
   "svgicons2svgfont": {
     "fontHeight": 1000,
-    "normalize": true
+    "normalize": true,
+    "fixedWidth": false,
+    "centerHorizontally": true
   },
   "website": {
     "title": "proxy-icons",

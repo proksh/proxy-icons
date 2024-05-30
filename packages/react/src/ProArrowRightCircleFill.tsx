@@ -16,7 +16,7 @@ export const ProArrowRightCircleFill = React.forwardRef<
     >
       <path
         fill={color}
-        d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12s4.477 10 10 10 10-4.477 10-10M12 7.987v2.751H7.992v2.5H12v2.752l4-3.992z"
+        d="M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12m10-4v3H8v2h4v3l4-4z"
         fillRule="evenodd"
         clipRule="evenodd"
       />
