@@ -14,11 +14,7 @@ export const ProFilterOffFill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="m6 3 12 12 1.414-1.414-12-12zm15.276 2.63-3.133 3.856L12.657 4H20.5z"
-        />
-        <path
-          fill={color}
-          d="M3.5 4H7l8.607 8.608-.607.747V21l-1 1h-4l-1-1v-7.645L2.724 5.631z"
+          d="M15.607 12.607 18 15l1.414-1.414-12-12L6 3l1 1H3.5l-.776 1.63L9 13.356V21l1 1h4l1-1v-7.645zm5.669-6.977-3.133 3.856L12.657 4H20.5z"
         />
       </svg>
     );

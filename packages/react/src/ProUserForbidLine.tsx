@@ -14,13 +14,25 @@ export const ProUserForbidLine = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M12 2a5 5 0 1 0 0 10 5 5 0 0 0 0-10M9 7a3 3 0 1 1 6 0 3 3 0 0 1-6 0m4 11a5 5 0 1 1 10 0 5 5 0 0 1-10 0m5-3c.463 0 .902.105 1.293.292l-4 4.001A3 3 0 0 1 18 15m2.708 1.707-4.001 4a3 3 0 0 0 4.001-4.001"
+          d="M12 4a3 3 0 1 0 0 6 3 3 0 0 0 0-6M7 7a5 5 0 1 1 10 0A5 5 0 0 1 7 7"
           fillRule="evenodd"
           clipRule="evenodd"
         />
         <path
           fill={color}
-          d="M11.814 16a6.5 6.5 0 0 1 1.062-2H8a5 5 0 0 0-5 5v3h2v-3a3 3 0 0 1 3-3z"
+          d="M12.876 14H8a5 5 0 0 0-5 5v3h2v-3a3 3 0 0 1 3-3h3.813c.237-.732.6-1.407 1.063-2"
+        />
+        <path
+          fill={color}
+          d="m14.465 20.121 5.656-5.656 1.415 1.414-5.657 5.657z"
+          fillRule="evenodd"
+          clipRule="evenodd"
+        />
+        <path
+          fill={color}
+          d="M18 15a3 3 0 1 0 0 6 3 3 0 0 0 0-6m-5 3a5 5 0 1 1 10 0 5 5 0 0 1-10 0"
+          fillRule="evenodd"
+          clipRule="evenodd"
         />
       </svg>
     );

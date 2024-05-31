@@ -13,12 +13,7 @@ export const ProAddBoxLine = React.forwardRef<SVGSVGElement, IconProps>(
         ref={forwardedRef}
       >
         <path fill={color} d="M11 13H7v-2h4V7h2v4h4v2h-4v4h-2z" />
-        <path
-          fill={color}
-          d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm2 1v14h14V5z"
-          fillRule="evenodd"
-          clipRule="evenodd"
-        />
+        <path fill={color} d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm2 1v14h14V5z" />
       </svg>
     );
   },

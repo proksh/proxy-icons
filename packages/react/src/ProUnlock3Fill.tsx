@@ -14,9 +14,7 @@ export const ProUnlock3Fill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M0 6a5 5 0 0 1 10 0v3h9l1 1v11l-1 1H5l-1-1V10l1-1h3V6a3 3 0 0 0-6 0v1H0zm10 11h4v-2h-4z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M5 1a5 5 0 0 0-5 5v1h2V6a3 3 0 0 1 6 0v3H4v13h16V9H10V6a5 5 0 0 0-5-5m9 16h-4v-2h4z"
         />
       </svg>
     );

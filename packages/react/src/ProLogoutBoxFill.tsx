@@ -15,8 +15,6 @@ export const ProLogoutBoxFill = React.forwardRef<SVGSVGElement, IconProps>(
         <path
           fill={color}
           d="m20 3-1-1H5L4 3v18l1 1h14l1-1zM4 12.013 8.995 7v3.438H14v3.124H8.995V17z"
-          fillRule="evenodd"
-          clipRule="evenodd"
         />
       </svg>
     );

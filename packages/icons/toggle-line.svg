@@ -2,8 +2,6 @@
   <path fill="currentColor" d="M8 9a3 3 0 1 0 0 6 3 3 0 0 0 0-6" />
   <path
     fill="currentColor"
-    fill-rule="evenodd"
     d="M1 12a7 7 0 0 1 7-7h8a7 7 0 1 1 0 14H8a7 7 0 0 1-7-7m7-5a5 5 0 0 0 0 10h8a5 5 0 0 0 0-10z"
-    clip-rule="evenodd"
   />
 </svg>

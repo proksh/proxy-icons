@@ -2,7 +2,13 @@
   <path
     fill="currentColor"
     fill-rule="evenodd"
-    d="m4 4 1-1h14l1 1v6h2v2H2v-2h2zm14 1v5H6V5zM3 17a4 4 0 0 1 7.465-2h3.07A4 4 0 1 1 13 17h-2a4 4 0 0 1-8 0m4-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4m10 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4"
+    d="M7 15a2 2 0 1 0 0 4 2 2 0 0 0 0-4m-4 2a4 4 0 1 1 8 0 4 4 0 0 1-8 0m14-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4m-4 2a4 4 0 1 1 8 0 4 4 0 0 1-8 0M2 10h20v2H2z"
+    clip-rule="evenodd"
+  />
+  <path
+    fill="currentColor"
+    fill-rule="evenodd"
+    d="m4 4 1-1h14l1 1v6.5h-2V5H6v6H4zm10 13h-4v-2h4z"
     clip-rule="evenodd"
   />
 </svg>

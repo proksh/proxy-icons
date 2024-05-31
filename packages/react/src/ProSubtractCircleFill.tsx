@@ -14,9 +14,7 @@ export const ProSubtractCircleFill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12m5 1h10v-2H7z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10m-6-9v-2h12v2z"
         />
       </svg>
     );

@@ -14,13 +14,11 @@ export const ProArrowDownCircleLine = React.forwardRef<
       {...props}
       ref={forwardedRef}
     >
+      <path fill={color} d="M16 12h-3V8h-2v4H8l4 4z" />
       <path
         fill={color}
-        d="M12 4a8 8 0 1 0 0 16 8 8 0 0 0 0-16M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12"
-        fillRule="evenodd"
-        clipRule="evenodd"
+        d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2M4 12a8 8 0 1 1 16 0 8 8 0 0 1-16 0"
       />
-      <path fill={color} d="M13 12h3l-4 4-4-4h3V8h2z" />
     </svg>
   );
 });

@@ -14,9 +14,7 @@ export const ProCheckboxBlankLine = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm2 1v14h14V5z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M3 7a4 4 0 0 1 4-4h10a4 4 0 0 1 4 4v10a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4zm4-2a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2z"
         />
       </svg>
     );

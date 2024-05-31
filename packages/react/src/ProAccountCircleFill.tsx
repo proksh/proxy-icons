@@ -15,8 +15,6 @@ export const ProAccountCircleFill = React.forwardRef<SVGSVGElement, IconProps>(
         <path
           fill={color}
           d="M12 2C6.477 2 2 6.477 2 12a9.97 9.97 0 0 0 2.788 6.927A9.97 9.97 0 0 0 12 22a9.97 9.97 0 0 0 7.212-3.073A9.97 9.97 0 0 0 22 12c0-5.523-4.477-10-10-10M6.287 16.046A8.97 8.97 0 0 1 12 14c2.17 0 4.16.768 5.713 2.046A6.99 6.99 0 0 1 12 19a6.99 6.99 0 0 1-5.713-2.954M12 12a3 3 0 1 0 0-6 3 3 0 0 0 0 6"
-          fillRule="evenodd"
-          clipRule="evenodd"
         />
       </svg>
     );

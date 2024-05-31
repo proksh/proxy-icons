@@ -15,8 +15,6 @@ export const ProCheckFill = React.forwardRef<SVGSVGElement, IconProps>(
         <path
           fill={color}
           d="M20.31 8.31 9.5 19.122l-6.06-6.06 2.12-2.122 3.94 3.94 8.69-8.69z"
-          fillRule="evenodd"
-          clipRule="evenodd"
         />
       </svg>
     );

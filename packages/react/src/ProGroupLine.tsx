@@ -12,16 +12,15 @@ export const ProGroupLine = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <path fill={color} d="M14 7a4 4 0 1 1-8 0 4 4 0 0 1 8 0" />
         <path
           fill={color}
-          d="M5 7a5 5 0 1 1 10 0A5 5 0 0 1 5 7m5-3a3 3 0 1 0 0 6 3 3 0 0 0 0-6"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M20.5 22h2v-2a5 5 0 0 0-3.107-4.63A6.47 6.47 0 0 1 20.5 19zM16.893 8.226a7 7 0 0 1-1.975 3.755 4.5 4.5 0 0 0 .974-8.761 6.97 6.97 0 0 1 1.101 4.093 2.5 2.5 0 0 1-.1.913"
         />
         <path
           fill={color}
-          d="M1 19a5 5 0 0 1 5-5h8a5 5 0 0 1 5 5v3h-2v-3a3 3 0 0 0-3-3H6a3 3 0 0 0-3 3v3H1zm21.5 3h-2v-3a6.47 6.47 0 0 0-1.107-3.63A5 5 0 0 1 22.5 20zm-8-10a5 5 0 0 1-.332-.012 6.5 6.5 0 0 0 1.835-2.49 2.496 2.496 0 0 0 .4-3.618 6.5 6.5 0 0 0-1.242-2.832 4.501 4.501 0 0 1-.66 8.952"
+          d="M10 4a3 3 0 1 0 0 6 3 3 0 0 0 0-6M5 7a5 5 0 1 1 10 0A5 5 0 0 1 5 7M1 19a5 5 0 0 1 5-5h8a5 5 0 0 1 5 5v3h-2v-3a3 3 0 0 0-3-3H6a3 3 0 0 0-3 3v3H1z"
+          fillRule="evenodd"
+          clipRule="evenodd"
         />
       </svg>
     );

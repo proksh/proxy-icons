@@ -14,9 +14,7 @@ export const ProDeleteBin2Fill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="m7 3 1-1h8l1 1v3h5v2h-2v13l-1 1H5l-1-1V8H2V6h5zm8 1v2H9V4zM9 17v-6h2v6zm4 0v-6h2v6z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M6 3h12v2H6zM2 6v2h2v13l1 1h14l1-1V8h2V6zm7 11v-6h2v6zm4 0v-6h2v6z"
         />
       </svg>
     );

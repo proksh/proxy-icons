@@ -16,9 +16,7 @@ export const ProCheckboxIndeterminateFill = React.forwardRef<
     >
       <path
         fill={color}
-        d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm5 9h8v-2H8z"
-        fillRule="evenodd"
-        clipRule="evenodd"
+        d="M3 7a4 4 0 0 1 4-4h10a4 4 0 0 1 4 4v10a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4zm5 6h8v-2H8z"
       />
     </svg>
   );

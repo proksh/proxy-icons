@@ -12,7 +12,10 @@ export const ProCheckboxBlankFill = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <path fill={color} d="M4 3 3 4v16l1 1h16l1-1V4l-1-1z" />
+        <path
+          fill={color}
+          d="M7 3a4 4 0 0 0-4 4v10a4 4 0 0 0 4 4h10a4 4 0 0 0 4-4V7a4 4 0 0 0-4-4z"
+        />
       </svg>
     );
   },

@@ -17,8 +17,6 @@ export const ProArrowDownCircleFill = React.forwardRef<
       <path
         fill={color}
         d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2m4 10h-3V8h-2v4H8l4 4z"
-        fillRule="evenodd"
-        clipRule="evenodd"
       />
     </svg>
   );

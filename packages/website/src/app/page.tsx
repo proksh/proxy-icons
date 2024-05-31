@@ -18,7 +18,7 @@ export default function Home() {
           </div>
           <button className="text-xl font-medium bg-orange-500 gap-3 px-12 rounded-xl text-white">Download</button>
         </div>
-        <div>
+        <div className="pb-40">
           {Object.keys(icons).map((category) => {
             const categoryIcons = (icons && icons[category as keyof typeof icons]) as any;
             return <CategoryIcons key={category} icons={categoryIcons} categoryName={category} />;

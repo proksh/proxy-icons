@@ -12,12 +12,11 @@ export const ProSidebarUnfoldLine = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <path stroke={color} d="M3 4h18v16H3z" strokeWidth="2" />
         <path
-          stroke={color}
-          d="m8 9.5 2.5 2.5L8 14.5M15 4v16"
-          strokeWidth="2"
+          fill={color}
+          d="m9.086 12-1.793-1.793 1.414-1.414L11.914 12l-3.207 3.207-1.414-1.414z"
         />
+        <path fill={color} d="M2 3h20v18H2zm2 2v14h10V5zm12 0v14h4V5z" />
       </svg>
     );
   },

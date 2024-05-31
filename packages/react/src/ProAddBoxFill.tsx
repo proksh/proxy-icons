@@ -14,9 +14,7 @@ export const ProAddBoxFill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm8 13v-4H7v-2h4V7h2v4h4v2h-4v4z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm8 13h2v-4h4v-2h-4V7h-2v4H7v2h4z"
         />
       </svg>
     );

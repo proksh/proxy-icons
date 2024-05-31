@@ -2,8 +2,6 @@
   <path fill="currentColor" d="M11 13.5v-6h2v6zm0 2v2h2v-2z" />
   <path
     fill="currentColor"
-    fill-rule="evenodd"
     d="M9.401 2.5H14.6l8.066 15.056-2.63 3.944H3.965l-2.63-3.944zm1.198 2L3.665 17.444l1.37 2.056h13.93l1.37-2.056L13.402 4.5z"
-    clip-rule="evenodd"
   />
 </svg>

@@ -12,12 +12,10 @@ export const ProDeleteBin5Line = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <path fill={color} d="M18 3H6v2h12zm-9 8v6h2v-6zm4 6v-6h2v6z" />
+        <path fill={color} d="M9 17v-6h2v6zm4-6v6h2v-6z" />
         <path
           fill={color}
-          d="M2 6h20v2h-2v13l-1 1H5l-1-1V8H2zm4 2h12v12H6z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M8 2 7 3v3H2v2h2v13l1 1h14l1-1V8h2V6h-5V3l-1-1zm7 4H9V4h6zM6 8h12v12H6z"
         />
       </svg>
     );

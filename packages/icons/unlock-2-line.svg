@@ -1,20 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
+  <path fill="currentColor" d="M13 14v4h-2v-4z" />
   <path
     fill="currentColor"
-    fill-rule="evenodd"
-    d="M11 18v-4h2v4z"
-    clip-rule="evenodd"
-  />
-  <path
-    fill="currentColor"
-    fill-rule="evenodd"
-    d="m4 10 1-1h14l1 1v11l-1 1H5l-1-1zm2 1v9h12v-9z"
-    clip-rule="evenodd"
-  />
-  <path
-    fill="currentColor"
-    fill-rule="evenodd"
-    d="M5 3a3 3 0 0 0-3 3v1H0V6a5 5 0 0 1 10 0v4H8V6a3 3 0 0 0-3-3"
-    clip-rule="evenodd"
+    d="M5 1a5 5 0 0 0-5 5v1h2V6a3 3 0 0 1 6 0v3H4v13h16V9H10V6a5 5 0 0 0-5-5m1 10h12v9H6z"
   />
 </svg>

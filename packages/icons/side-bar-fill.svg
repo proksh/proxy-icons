@@ -1,9 +1,3 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
-  <path
-    fill="currentColor"
-    stroke="currentColor"
-    stroke-width="2"
-    d="M9 20V4H3v16z"
-  />
-  <path stroke="currentColor" stroke-width="2" d="M3 4h18v16H3z" />
+  <path fill="currentColor" d="M2 21V3h20v18zm8-2h10V5H10z" />
 </svg>

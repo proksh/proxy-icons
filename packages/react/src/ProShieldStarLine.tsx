@@ -19,8 +19,6 @@ export const ProShieldStarLine = React.forwardRef<SVGSVGElement, IconProps>(
         <path
           fill={color}
           d="m11.758 1.03-8 2L3 4v12l.4.8 8.6 6.45 8.6-6.45.4-.8V4l-.758-.97-8-2zM5 15.5V4.78l7-1.75 7 1.75V15.5l-7 5.25z"
-          fillRule="evenodd"
-          clipRule="evenodd"
         />
       </svg>
     );

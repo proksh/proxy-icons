@@ -14,9 +14,7 @@ export const ProZoomOutFill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M10.5 2a8.5 8.5 0 1 0 5.027 15.355l5.059 5.06L22 21l-5.01-5.01A8.5 8.5 0 0 0 10.5 2M7 11.5h7v-2H7z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M19 10.5a8.47 8.47 0 0 1-2.01 5.49L22 21l-1.414 1.414-5.06-5.059A8.5 8.5 0 1 1 19 10.5m-12 1h7v-2H7z"
         />
       </svg>
     );

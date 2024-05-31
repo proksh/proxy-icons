@@ -14,9 +14,7 @@ export const ProErrorWarningFill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12m9 1V7h2v6zm0 4v-2h2v2z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12m9 1h2V7h-2zm0 4h2v-2h-2z"
         />
       </svg>
     );

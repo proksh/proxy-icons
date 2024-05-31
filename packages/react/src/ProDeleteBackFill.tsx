@@ -15,8 +15,6 @@ export const ProDeleteBackFill = React.forwardRef<SVGSVGElement, IconProps>(
         <path
           fill={color}
           d="M5.652 3.47 6.5 3H21l1 1v16l-1 1H6.5l-.848-.47-5-8v-1.06zM16 11H9v2h7z"
-          fillRule="evenodd"
-          clipRule="evenodd"
         />
       </svg>
     );

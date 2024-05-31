@@ -18,9 +18,7 @@ export const ProDeleteBin4Line = React.forwardRef<SVGSVGElement, IconProps>(
         />
         <path
           fill={color}
-          d="M8 2 7 3v3H2v2h2v13l1 1h14l1-1V8h2V6h-5V3l-1-1zm7 4V4H9v2zM6 8h12v12H6z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M8 2 7 3v3H2v2h2v13l1 1h14l1-1V8h2V6h-5V3l-1-1zm7 4H9V4h6zM6 8h12v12H6z"
         />
       </svg>
     );

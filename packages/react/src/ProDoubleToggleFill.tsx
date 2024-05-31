@@ -16,8 +16,6 @@ export const ProDoubleToggleFill = React.forwardRef<SVGSVGElement, IconProps>(
         <path
           fill={color}
           d="M7.5 1a5.5 5.5 0 1 0 0 11h9a5.5 5.5 0 1 0 0-11zM4 6.5A3.5 3.5 0 0 1 7.5 3h9a3.5 3.5 0 1 1 0 7h-9A3.5 3.5 0 0 1 4 6.5m3.5 6a5.5 5.5 0 1 0 0 11h9a5.5 5.5 0 1 0 0-11zM14 18a2.5 2.5 0 1 1 5 0 2.5 2.5 0 0 1-5 0"
-          fillRule="evenodd"
-          clipRule="evenodd"
         />
       </svg>
     );

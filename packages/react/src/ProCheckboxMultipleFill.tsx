@@ -16,9 +16,7 @@ export const ProCheckboxMultipleFill = React.forwardRef<
     >
       <path
         fill={color}
-        d="M8 2 7 3v4H3L2 8v13l1 1h13l1-1v-4h4l1-1V3l-1-1zm9 6v7h3V4H9v3h7zm-8.5 9.914 5.207-5.207-1.414-1.414L8.5 15.086l-1.793-1.793-1.414 1.414z"
-        fillRule="evenodd"
-        clipRule="evenodd"
+        d="M10 2a3 3 0 0 0-3 3v2H5a3 3 0 0 0-3 3v9a3 3 0 0 0 3 3h9a3 3 0 0 0 3-3v-2h2a3 3 0 0 0 3-3V5a3 3 0 0 0-3-3zm7 8v5h2a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1h-9a1 1 0 0 0-1 1v2h5a3 3 0 0 1 3 3m-3.293 2.707L8.5 17.914l-3.207-3.207 1.414-1.414L8.5 15.086l3.793-3.793z"
       />
     </svg>
   );

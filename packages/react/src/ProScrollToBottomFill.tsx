@@ -15,8 +15,6 @@ export const ProScrollToBottomFill = React.forwardRef<SVGSVGElement, IconProps>(
         <path
           fill={color}
           d="M10 2a6 6 0 0 0-6 6v8a6 6 0 0 0 6 6h4a6 6 0 0 0 6-6V8a6 6 0 0 0-6-6zm1 9V6h2v5zm-3.207 2.707 1.414-1.414L12 15.086l2.793-2.793 1.414 1.414L12 17.914z"
-          fillRule="evenodd"
-          clipRule="evenodd"
         />
       </svg>
     );

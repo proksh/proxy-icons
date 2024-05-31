@@ -14,9 +14,7 @@ export const ProSettings4Fill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="m12 .845 9.66 5.578v11.154L12 23.155l-9.66-5.578V6.423zM8 12a4 4 0 1 1 8 0 4 4 0 0 1-8 0"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="m12 .845 9.66 5.578v11.154L12 23.155l-9.66-5.578V6.423zM8 12a4 4 0 1 0 8 0 4 4 0 0 0-8 0"
         />
       </svg>
     );

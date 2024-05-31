@@ -15,8 +15,6 @@ export const ProThumbUpLine = React.forwardRef<SVGSVGElement, IconProps>(
         <path
           fill={color}
           d="m11.7 1.4 1.4-.2 2 1.5.365 1.063L14.309 8H22l1 1v3.5l-.072.371-3 7.5L19 21H2l-1-1V10l1-1h4zm1 2-5.4 7.2-.3.15V19h11.323L21 12.307V10h-8l-.965-1.263 1.322-4.845zM5 19v-8H3v8z"
-          fillRule="evenodd"
-          clipRule="evenodd"
         />
       </svg>
     );

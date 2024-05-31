@@ -12,12 +12,11 @@ export const ProSidebarFoldLine = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <path stroke={color} d="M3 4h18v16H3z" strokeWidth="2" />
         <path
-          stroke={color}
-          d="M10.5 9.5 8 12l2.5 2.5M15 4v16"
-          strokeWidth="2"
+          fill={color}
+          d="m9.414 12 1.793-1.793-1.414-1.414L6.586 12l3.207 3.207 1.414-1.414z"
         />
+        <path fill={color} d="M2 3h20v18H2zm2 2v14h10V5zm12 0v14h4V5z" />
       </svg>
     );
   },

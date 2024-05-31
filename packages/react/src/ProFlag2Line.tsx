@@ -14,9 +14,7 @@ export const ProFlag2Line = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M3 3 2 4v18h2v-5h16l.864-1.504L17.658 10l3.206-5.496L20 3zm1 12h14.259l-2.623-4.496V9.496L18.26 5H4z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="m2 4 1-1h17l.864 1.504L17.658 10l3.206 5.496L20 17H4v5H2zm2 11h14.259l-2.623-4.496V9.496L18.26 5H4z"
         />
       </svg>
     );

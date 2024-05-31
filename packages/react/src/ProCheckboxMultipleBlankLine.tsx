@@ -16,9 +16,7 @@ export const ProCheckboxMultipleBlankLine = React.forwardRef<
     >
       <path
         fill={color}
-        d="M8 2 7 3v4H3L2 8v13l1 1h13l1-1v-4h4l1-1V3l-1-1zm9 13h3V4H9v3h7l1 1zM4 20V9h11v11z"
-        fillRule="evenodd"
-        clipRule="evenodd"
+        d="M10 2a3 3 0 0 0-3 3v2H5a3 3 0 0 0-3 3v9a3 3 0 0 0 3 3h9a3 3 0 0 0 3-3v-2h2a3 3 0 0 0 3-3V5a3 3 0 0 0-3-3zm7 13v-5a3 3 0 0 0-3-3H9V5a1 1 0 0 1 1-1h9a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1zM4 10a1 1 0 0 1 1-1h9a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1z"
       />
     </svg>
   );

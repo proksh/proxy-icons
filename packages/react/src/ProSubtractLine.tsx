@@ -12,12 +12,7 @@ export const ProSubtractLine = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <path
-          fill={color}
-          d="M19 13H5v-2h14z"
-          fillRule="evenodd"
-          clipRule="evenodd"
-        />
+        <path fill={color} d="M19 13H5v-2h14z" />
       </svg>
     );
   },

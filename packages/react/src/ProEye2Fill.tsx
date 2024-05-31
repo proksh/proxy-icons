@@ -14,9 +14,7 @@ export const ProEye2Fill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12m11.333-1.333H16V12a4 4 0 1 1-4-4h1.333z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12m11.333-1.333V8H12a4 4 0 1 0 4 4v-1.333z"
         />
       </svg>
     );

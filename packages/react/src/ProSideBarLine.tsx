@@ -12,7 +12,7 @@ export const ProSideBarLine = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <path stroke={color} d="M9 4v16M3 4h18v16H3z" strokeWidth="2" />
+        <path fill={color} d="M22 3H2v18h20zM4 19V5h4v14zm6 0V5h10v14z" />
       </svg>
     );
   },

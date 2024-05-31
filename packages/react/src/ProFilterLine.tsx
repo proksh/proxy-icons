@@ -15,8 +15,6 @@ export const ProFilterLine = React.forwardRef<SVGSVGElement, IconProps>(
         <path
           fill={color}
           d="M2.724 5.63 3.5 4h17l.776 1.63L15 13.356V21l-1 1h-4l-1-1v-7.645zM5.6 6l5.175 6.37L11 13v7h2v-7l.224-.63L18.399 6z"
-          fillRule="evenodd"
-          clipRule="evenodd"
         />
       </svg>
     );

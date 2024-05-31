@@ -16,8 +16,6 @@ export const ProToggleLine = React.forwardRef<SVGSVGElement, IconProps>(
         <path
           fill={color}
           d="M1 12a7 7 0 0 1 7-7h8a7 7 0 1 1 0 14H8a7 7 0 0 1-7-7m7-5a5 5 0 0 0 0 10h8a5 5 0 0 0 0-10z"
-          fillRule="evenodd"
-          clipRule="evenodd"
         />
       </svg>
     );

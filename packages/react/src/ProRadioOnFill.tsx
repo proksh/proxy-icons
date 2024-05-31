@@ -15,8 +15,6 @@ export const ProRadioOnFill = React.forwardRef<SVGSVGElement, IconProps>(
         <path
           fill={color}
           d="M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12m10 4a4 4 0 1 0 0-8 4 4 0 0 0 0 8"
-          fillRule="evenodd"
-          clipRule="evenodd"
         />
       </svg>
     );

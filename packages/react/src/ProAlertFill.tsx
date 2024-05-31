@@ -14,9 +14,7 @@ export const ProAlertFill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M9.401 2.5H14.6l8.066 15.056-2.63 3.944H3.965l-2.63-3.944zM11 13.5v-6h2v6zm0 4v-2h2v2z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="m9.5 2.5-8 15 2.5 4h16l2.5-4-8-15zm1.5 11v-6h2v6zm0 4v-2h2v2z"
         />
       </svg>
     );

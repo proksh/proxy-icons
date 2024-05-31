@@ -12,23 +12,10 @@ export const ProUnlock2Line = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
+        <path fill={color} d="M13 14v4h-2v-4z" />
         <path
           fill={color}
-          d="M11 18v-4h2v4z"
-          fillRule="evenodd"
-          clipRule="evenodd"
-        />
-        <path
-          fill={color}
-          d="m4 10 1-1h14l1 1v11l-1 1H5l-1-1zm2 1v9h12v-9z"
-          fillRule="evenodd"
-          clipRule="evenodd"
-        />
-        <path
-          fill={color}
-          d="M5 3a3 3 0 0 0-3 3v1H0V6a5 5 0 0 1 10 0v4H8V6a3 3 0 0 0-3-3"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M5 1a5 5 0 0 0-5 5v1h2V6a3 3 0 0 1 6 0v3H4v13h16V9H10V6a5 5 0 0 0-5-5m1 10h12v9H6z"
         />
       </svg>
     );

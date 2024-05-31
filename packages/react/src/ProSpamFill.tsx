@@ -14,9 +14,7 @@ export const ProSpamFill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="m8.125 2.692 7.717-.014 5.466 5.447.014 7.717-5.447 5.466-7.717.014-5.466-5.447-.014-7.717zM11 13V7h2v6zm0 4v-2h2v2z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="m8.125 2.692 7.717-.014 5.466 5.447.014 7.717-5.447 5.466-7.717.014-5.466-5.447-.014-7.717zM11 13h2V7h-2zm0 4h2v-2h-2z"
         />
       </svg>
     );

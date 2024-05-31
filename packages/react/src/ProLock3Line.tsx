@@ -15,9 +15,7 @@ export const ProLock3Line = React.forwardRef<SVGSVGElement, IconProps>(
         <path fill={color} d="M10 15v2h4v-2z" />
         <path
           fill={color}
-          d="M7 7a5 5 0 0 1 10 0v2h2l1 1v11l-1 1H5l-1-1V10l1-1h2zm8 0v2H9V7a3 3 0 1 1 6 0M6 20v-9h12v9z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M7 7a5 5 0 0 1 10 0v2h3v13H4V9h3zm8 0a3 3 0 1 0-6 0v2h6zM6 20h12v-9H6z"
         />
       </svg>
     );
