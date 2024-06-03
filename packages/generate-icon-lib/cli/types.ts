@@ -39,7 +39,7 @@ export interface IconMenifest {
 }
 
 export interface IconsJSONType {
-  [category: string]: { [name: string]: { tags: string[]; labels: string[] } };
+  [category: string]: { [name: string]: { tags: string[]; labels: string[]; svgContent: string } };
 }
 
 export interface IconsSvgUrls {
