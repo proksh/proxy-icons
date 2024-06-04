@@ -4,6 +4,9 @@ import fs from 'fs-extra';
 import { labelling, transformers } from './common.js';
 import pRetry from 'p-retry';
 import fetch from 'node-fetch';
+import { EventEmitter } from 'events';
+
+EventEmitter.defaultMaxListeners = 20;
 
 export async function downloadSvgsToFs(
   urls: IconsSvgUrls,
@@ -12,17 +15,18 @@ export async function downloadSvgsToFs(
   currentListOfAddedFiles: string[],
   onProgress: () => void
 ) {
+  const fetchSvg = async (url: string) => {
+    const response = await fetch(url);
+    if (!response.ok) throw new Error(`Failed to fetch SVG`);
+    return response.text();
+  };
+
   await Promise.all(
     Object.keys(urls).map(async (iconId) => {
-      const fetchSvg = async () => {
-        const response = await fetch(urls[iconId]);
-        if (!response.ok) throw new Error(`Failed to fetch SVG for ${iconId}`);
-        return response.text();
-      };
-
+      const svgUrl = urls[iconId];
       const processedSvg = await pRetry(
         () =>
-          fetchSvg()
+          fetchSvg(svgUrl)
             .then(async (svgRaw) => transformers.passSVGO(svgRaw))
             .then((svgRaw) => transformers.injectCurrentColor(svgRaw))
             .then((svgRaw) => transformers.prettify(svgRaw)),
