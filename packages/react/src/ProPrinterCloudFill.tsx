@@ -12,7 +12,6 @@ export const ProPrinterCloudFill = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <path fill={color} d="M7 3h10v2H7z" />
         <path
           fill={color}
           d="M7 2 6 3v3h12V3l-1-1zm15 5H2v12h3v-4h9.235a4.8 4.8 0 0 1 3.899-2 4.79 4.79 0 0 1 3.855 1.94l.011.003zM8 12H5v-2h3z"

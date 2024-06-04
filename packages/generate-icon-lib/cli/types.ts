@@ -43,5 +43,5 @@ export interface IconsJSONType {
 }
 
 export interface IconsSvgUrls {
-  readonly [iconId: string]: string;
+  [iconId: string]: string;
 }

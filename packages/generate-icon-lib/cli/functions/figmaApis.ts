@@ -78,14 +78,22 @@ export function getIcons(iconsCanvas: Canvas): Icons {
 }
 
 export async function renderIdsToSvgs(ids: string[]): Promise<IconsSvgUrls> {
-  const resp = await fetch(`${baseUrl}/v1/images/${process.env.FIGMA_FILE_KEY}?ids=${ids}&format=svg`, {
+  const requests = ids.map((node_id) => ({
+    node_id: node_id,
+    format: 'svg',
+  }));
+
+  const resp = await fetch(`${baseUrl}/v1/images/${process.env.FIGMA_FILE_KEY}`, {
+    method: 'POST',
     headers: new Headers({
+      'Content-Type': 'application/json',
       'X-Figma-Token': process.env.FIGMA_ACCESS_TOKEN || '',
     }),
+    body: JSON.stringify({ requests }),
   });
 
   // We can't be sure the response, when an error, will have a body that can be streamed to JSON.
-  let data: FigmaFileImageResponse = {
+  let data: any = {
     err: undefined,
     images: {},
   };
@@ -108,7 +116,7 @@ export async function renderIdsToSvgs(ids: string[]): Promise<IconsSvgUrls> {
       default:
         throw new CodedError(
           ERRORS.UNEXPECTED,
-          `An error occured while rendering icons to SVG.\n${resp.status}\n${error}`
+          `An error occured while rendering icons to SVG.\n${resp.status}\n${error}\n`
         );
     }
   }
@@ -120,5 +128,10 @@ export async function renderIdsToSvgs(ids: string[]): Promise<IconsSvgUrls> {
     );
   }
 
-  return data.images;
+  const images: IconsSvgUrls = data.images.reduce((acc: IconsSvgUrls, item: any) => {
+    acc[item.node_id] = item.image;
+    return acc;
+  }, {});
+
+  return images;
 }
