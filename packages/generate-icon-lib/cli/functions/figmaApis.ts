@@ -78,7 +78,41 @@ export function getIcons(iconsCanvas: Canvas): Icons {
 }
 
 export async function renderIdsToSvgs(ids: string[]): Promise<IconsSvgUrls> {
-  const requests = ids.map((node_id) => ({
+  const batchSize = 700;
+  const batches = [];
+  for (let i = 0; i < ids.length; i += batchSize) {
+    batches.push(ids.slice(i, i + batchSize));
+  }
+
+  const results = await Promise.allSettled(batches.map((batch) => fetchImagesWithRetry(batch)));
+
+  const images = {};
+  results.forEach((result) => {
+    if (result.status === 'fulfilled') {
+      Object.assign(images, result.value);
+    } else {
+      console.error('Batch failed', result.reason);
+    }
+  });
+
+  return images;
+}
+
+async function fetchImagesWithRetry(batch: string[], retries: number = 3): Promise<IconsSvgUrls | undefined> {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      return await fetchImagesBatch(batch);
+    } catch (error) {
+      if (attempt === retries) {
+        throw error;
+      }
+      await new Promise((resolve) => setTimeout(resolve, 1000 * attempt)); // Exponential backoff
+    }
+  }
+}
+
+async function fetchImagesBatch(batch: string[]): Promise<IconsSvgUrls> {
+  const requests = batch.map((node_id) => ({
     node_id: node_id,
     format: 'svg',
   }));
@@ -92,33 +126,18 @@ export async function renderIdsToSvgs(ids: string[]): Promise<IconsSvgUrls> {
     body: JSON.stringify({ requests }),
   });
 
-  // We can't be sure the response, when an error, will have a body that can be streamed to JSON.
   let data: any = {
     err: undefined,
     images: {},
   };
+
   if (resp.headers.get('content-type')?.includes('application/json')) {
     data = (await resp.json()) as FigmaFileImageResponse;
   }
-  const error = typeof data.err === 'object' ? JSON.stringify(data.err, null, 2) : data.err;
 
   if (!resp.ok) {
-    switch (resp.status) {
-      case 400:
-        throw new CodedError(ERRORS.FIGMA_API, `Unexpected error encountered from Figma API\n${error}`);
-      case 404:
-        throw new CodedError(
-          ERRORS.FIGMA_API,
-          "One or more of the icons couldn't be found in Figma. Check to see if they still exist, and try again."
-        );
-      case 500:
-        throw new CodedError(ERRORS.FIGMA_API, 'Figma could not render the icons. ಠ_ಠ');
-      default:
-        throw new CodedError(
-          ERRORS.UNEXPECTED,
-          `An error occured while rendering icons to SVG.\n${resp.status}\n${error}\n`
-        );
-    }
+    const error = typeof data.err === 'object' ? JSON.stringify(data.err, null, 2) : data.err;
+    handleErrorMessage(resp.status, error);
   }
 
   if (!data.images || !Object.keys(data.images).length) {
@@ -128,10 +147,24 @@ export async function renderIdsToSvgs(ids: string[]): Promise<IconsSvgUrls> {
     );
   }
 
-  const images: IconsSvgUrls = data.images.reduce((acc: IconsSvgUrls, item: any) => {
+  return data.images.reduce((acc: IconsSvgUrls, item: any) => {
     acc[item.node_id] = item.image;
     return acc;
   }, {});
+}
 
-  return images;
+function handleErrorMessage(status: number, error: string) {
+  switch (status) {
+    case 400:
+      throw new CodedError(ERRORS.FIGMA_API, `Unexpected error encountered from Figma API\n${error}`);
+    case 404:
+      throw new CodedError(
+        ERRORS.FIGMA_API,
+        "One or more of the icons couldn't be found in Figma. Check to see if they still exist, and try again."
+      );
+    case 500:
+      throw new CodedError(ERRORS.FIGMA_API, 'Figma could not render the icons. ಠ_ಠ');
+    default:
+      throw new CodedError(ERRORS.UNEXPECTED, `An error occurred while rendering icons to SVG.\n${status}\n${error}\n`);
+  }
 }
