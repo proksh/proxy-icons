@@ -3293,7 +3293,7 @@
     "time-history-line": {
       "tags": [""],
       "labels": [""],
-      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M5.4 4.487 3.708 2.793 2 3.5v5l1 1h5l.707-1.707L6.82 5.904A8 8 0 1 1 4 12H2c0 5.523 4.477 10 10 10s10-4.477 10-10S17.523 2 12 2c-2.53 0-4.839.94-6.6 2.487\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"m11 12.414 3.793 3.793 1.414-1.414L13 11.586V7h-2z\"\n  />\n</svg>\n"
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M4 6V3.5H2v6h6v-2H5.384A8 8 0 1 1 4 12H2c0 5.523 4.477 10 10 10s10-4.477 10-10S17.523 2 12 2a9.99 9.99 0 0 0-8 4\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M14.793 16.207 11 12.414V7h2v4.586l3.207 3.207z\"\n  />\n</svg>\n"
     },
     "24-hours-line": {
       "tags": [""],
@@ -6798,7 +6798,7 @@
     "trademark-line": {
       "tags": [""],
       "labels": [""],
-      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M10 8.5H6.5V18h-3V8.5H0v-3h10zm1.5 9.5V5.5h2.962l3.038 4.726L20.538 5.5H23.5V18h-3v-6.893l-3 4.667-3-4.667V18z\"\n  />\n</svg>\n"
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M10 8H6v10H4V8H0V6h10zm2 10V6h2.189l3.311 5.15L20.811 6H23v12h-2V9.405l-3.5 5.444L14 9.405V18z\"\n  />\n</svg>\n"
     },
     "seo-line": {
       "tags": [""],
@@ -7013,7 +7013,7 @@
     "trademark-fill": {
       "tags": [""],
       "labels": [""],
-      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M10 8H6v10H4V8H0V6h10zm2 10V6h2.189l3.311 5.15L20.811 6H23v12h-2V9.405l-3.5 5.444L14 9.405V18z\"\n  />\n</svg>\n"
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M10 8.5H6.5V18h-3V8.5H0v-3h10zm1.5 9.5V5.5h2.962l3.038 4.726L20.538 5.5H23.5V18h-3v-6.893l-3 4.667-3-4.667V18z\"\n  />\n</svg>\n"
     },
     "seo-fill": {
       "tags": [""],
@@ -7365,7 +7365,7 @@
     "send-line": {
       "tags": [""],
       "labels": [""],
-      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <g clip-path=\"url(#a)\">\n    <path\n      fill=\"currentColor\"\n      d=\"m1.71 8.33-.14 1.876 8.789 3.94 1.116-.206 3.586-3.586-1.414-1.415-3.1 3.1L4.91 9.51l13.305-3.725-3.722 13.29-1.639-3.687-1.515 1.515 2.454 5.523 1.877-.136 4.95-17.678-1.233-1.233z\"\n    />\n  </g>\n  <defs>\n    <clipPath id=\"a\"><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" /></clipPath>\n  </defs>\n</svg>\n"
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m1.71 8.33-.14 1.876 8.789 3.94 1.116-.206 3.586-3.586-1.414-1.415-3.1 3.1L4.91 9.51l13.305-3.725-3.722 13.29-1.639-3.687-1.515 1.515 2.454 5.523 1.877-.136 4.95-17.678-1.233-1.233z\"\n  />\n</svg>\n"
     },
     "send-2-line": {
       "tags": [""],
@@ -7785,7 +7785,7 @@
     "send-fill": {
       "tags": [""],
       "labels": [""],
-      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <g clip-path=\"url(#a)\">\n    <path\n      fill=\"currentColor\"\n      d=\"m1.57 10.206.139-1.876 17.677-4.95 1.233 1.233-4.95 17.678-1.875.139-3.346-7.464 4.258-4.259-1.414-1.414-4.259 4.258z\"\n    />\n  </g>\n  <defs>\n    <clipPath id=\"a\"><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" /></clipPath>\n  </defs>\n</svg>\n"
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m1.57 10.206.14-1.876 17.677-4.95 1.233 1.233-4.95 17.678-1.875.139-3.346-7.464 4.258-4.259-1.414-1.414-4.259 4.258z\"\n  />\n</svg>\n"
     },
     "send-2-fill": {
       "tags": [""],
@@ -7805,7 +7805,7 @@
     "mail-check-fill": {
       "tags": [""],
       "labels": [""],
-      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    fill-rule=\"evenodd\"\n    d=\"M23.707 17.207 18 22.914l-3.707-3.707 1.414-1.414L18 20.086l4.293-4.293z\"\n    clip-rule=\"evenodd\"\n  />\n  <path fill=\"currentColor\" d=\"M22 3H2v1.009l10 7.727L22 4.01z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M2 21V6.536l10 7.728 10-7.727v6.72l-4 4-2.292-2.293-4.243 4.243L13.258 21z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"m23.707 17.207-1.414-1.414L18 20.086l-2.292-2.293-1.415 1.414L18 22.914z\"\n  />\n</svg>\n"
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M22 3H2v1.009l10 7.727L22 4.01z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M2 21V6.536l10 7.728 10-7.727v6.72l-4 4-2.292-2.293-4.243 4.243L13.258 21z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"m23.707 17.207-1.414-1.414L18 20.086l-2.292-2.293-1.415 1.414L18 22.914z\"\n  />\n</svg>\n"
     },
     "mail-forbid-fill": {
       "tags": [""],
@@ -8147,7 +8147,7 @@
     "space-ship-line": {
       "tags": [""],
       "labels": [""],
-      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <g fill=\"currentColor\" clip-path=\"url(#a)\">\n    <path\n      d=\"M12 9a3 3 0 1 0 0 6 3 3 0 0 0 0-6m-1 3a1 1 0 1 1 2 0 1 1 0 0 1-2 0\"\n    />\n    <path\n      d=\"M12 1.72c.235.187.475.37.704.565q.068.058.187.165c.159.143.381.353.655.635a23 23 0 0 1 2.14 2.58c1.686 2.334 3.738 5.934 5.272 11.048l.3 1.003-1.019.255-.008.002-.028.007a15 15 0 0 1-.485.111 41 41 0 0 1-5.204.796L12 24.417l-2.513-5.53a41 41 0 0 1-5.69-.907l-.028-.007-.008-.002h-.003L4 17l-.242.97-1.017-.254.301-1.003c1.534-5.114 3.586-8.714 5.272-11.048a23 23 0 0 1 2.14-2.58 14 14 0 0 1 .842-.8c.23-.195.469-.378.704-.566M6.02 16.4c1.101.203 2.6.43 4.2.537l.596.04L12 19.584l1.185-2.605.596-.04a38 38 0 0 0 4.939-.68c-1.421-4.339-3.204-7.413-4.656-9.423A21 21 0 0 0 12 4.365l-.11.113a21 21 0 0 0-1.954 2.357C8.484 8.845 6.7 11.92 5.28 16.258q.328.068.739.143\"\n    />\n  </g>\n  <defs>\n    <clipPath id=\"a\"><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" /></clipPath>\n  </defs>\n</svg>\n"
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <g fill=\"currentColor\" clip-path=\"url(#a)\">\n    <path\n      d=\"M12 9a3 3 0 1 0 0 6 3 3 0 0 0 0-6m-1 3a1 1 0 1 1 2 0 1 1 0 0 1-2 0\"\n    />\n    <path\n      d=\"M12 1.72c.54.432 1.063.867 1.546 1.365a23 23 0 0 1 2.14 2.58c1.686 2.334 3.738 5.934 5.272 11.048l.3 1.003c-.512.128-1.024.262-1.54.375a41 41 0 0 1-5.204.796L12 24.417l-2.513-5.53a41 41 0 0 1-5.205-.796c-.516-.113-1.028-.247-1.54-.375l.3-1.003c1.534-5.114 3.586-8.714 5.272-11.048a23 23 0 0 1 2.14-2.58c.483-.498 1.005-.933 1.546-1.366M6.02 16.4c1.101.203 2.6.43 4.2.537l.596.04L12 19.584l1.185-2.605.596-.04a38 38 0 0 0 4.939-.68c-1.421-4.339-3.204-7.413-4.656-9.423A21 21 0 0 0 12 4.365a21 21 0 0 0-2.064 2.47C8.484 8.845 6.7 11.92 5.28 16.258q.328.068.739.143\"\n    />\n  </g>\n  <defs>\n    <clipPath id=\"a\"><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" /></clipPath>\n  </defs>\n</svg>\n"
     },
     "ship-line": {
       "tags": [""],
@@ -8327,7 +8327,7 @@
     "planet-line": {
       "tags": [""],
       "labels": [""],
-      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <g fill=\"currentColor\" clip-path=\"url(#a)\">\n    <path\n      d=\"M20.932 10.88c.81.449 1.503.933 1.997 1.444.505.522.998 1.282.809 2.17-.197.924-1.007 1.422-1.712 1.69-.754.287-1.724.445-2.802.506-2.172.124-5.023-.133-8.056-.778-3.032-.644-5.742-1.57-7.675-2.565-.96-.495-1.782-1.034-2.355-1.603-.535-.531-1.072-1.316-.876-2.239s1.006-1.421 1.711-1.69c.64-.243 1.436-.394 2.322-.471a9.004 9.004 0 0 1 16.637 3.536m-7.477-5.727A7 7 0 0 0 5 11.858c1.696.791 3.99 1.547 6.584 2.098 2.595.552 4.997.794 6.868.762q.253-.6.395-1.263a7 7 0 0 0-5.392-8.302m7.19 9.352q.391-.084.67-.19c.275-.104.396-.194.447-.24-.026-.06-.093-.177-.27-.36a4.4 4.4 0 0 0-.576-.487 9 9 0 0 1-.271 1.277m-17.29-5.01q-.392.084-.671.19c-.274.104-.396.193-.446.24.027.063.102.194.31.4q.211.21.536.447a9 9 0 0 1 .271-1.277m.047 5.169c.797.396 1.714.78 2.72 1.137a6.98 6.98 0 0 0 4.422 3.046 6.98 6.98 0 0 0 5.28-.984c1.064.083 2.057.106 2.947.068a9 9 0 0 1-8.642 2.872 9 9 0 0 1-6.727-6.139\"\n    />\n  </g>\n  <defs>\n    <clipPath id=\"a\"><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" /></clipPath>\n  </defs>\n</svg>\n"
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M20.932 10.88c.81.449 1.503.933 1.997 1.444.505.522.998 1.282.809 2.17-.197.924-1.007 1.422-1.712 1.69-.754.287-1.724.445-2.802.506-2.172.124-5.023-.133-8.056-.778-3.032-.644-5.742-1.57-7.675-2.565-.96-.495-1.782-1.034-2.355-1.603-.535-.531-1.072-1.316-.876-2.24.196-.922 1.006-1.42 1.711-1.688.64-.244 1.436-.395 2.322-.472a9.004 9.004 0 0 1 16.637 3.536m-7.477-5.727A7 7 0 0 0 5 11.858c1.696.791 3.99 1.547 6.584 2.098 2.595.552 4.997.794 6.868.762q.253-.6.395-1.263a7 7 0 0 0-5.392-8.302m7.19 9.352q.391-.084.67-.19c.275-.104.396-.194.447-.24-.026-.06-.093-.177-.27-.36a4.4 4.4 0 0 0-.576-.487 9 9 0 0 1-.271 1.277m-17.29-5.01q-.392.084-.671.19c-.274.104-.396.193-.446.24.027.063.102.194.31.4q.211.21.536.447a9 9 0 0 1 .271-1.277m.047 5.169c.797.396 1.714.78 2.72 1.137a6.98 6.98 0 0 0 4.422 3.046 6.98 6.98 0 0 0 5.28-.984c1.064.083 2.057.106 2.947.068a9 9 0 0 1-8.642 2.872 9 9 0 0 1-6.727-6.139\"\n  />\n</svg>\n"
     },
     "tent-line": {
       "tags": [""],
@@ -8767,7 +8767,7 @@
     "planet-fill": {
       "tags": [""],
       "labels": [""],
-      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <g fill=\"currentColor\" clip-path=\"url(#a)\">\n    <path\n      d=\"M4.295 7.344c-.886.077-1.681.228-2.322.472-.705.268-1.515.766-1.711 1.689s.341 1.708.876 2.24c.573.568 1.394 1.107 2.355 1.602 1.933.996 4.643 1.921 7.675 2.566s5.884.901 8.056.777c1.078-.06 2.048-.219 2.802-.506.705-.268 1.515-.766 1.712-1.69.189-.888-.304-1.648-.809-2.17-.494-.51-1.187-.995-1.997-1.444A9.004 9.004 0 0 0 4.295 7.344m-.94 2.151a9 9 0 0 0-.271 1.277 4.6 4.6 0 0 1-.536-.447c-.208-.206-.283-.337-.31-.4.05-.047.172-.136.446-.24q.28-.106.671-.19m17.561 3.733a4.4 4.4 0 0 1 .576.487c.177.183.244.3.27.36-.05.046-.172.136-.446.24q-.28.106-.671.19a9 9 0 0 0 .271-1.277m-10.008 3.907c-2.93-.622-5.567-1.507-7.506-2.47a9 9 0 0 0 6.727 6.138 9 9 0 0 0 8.642-2.872c-2.164.092-4.933-.173-7.863-.796\"\n    />\n  </g>\n  <defs>\n    <clipPath id=\"a\"><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" /></clipPath>\n  </defs>\n</svg>\n"
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M4.295 7.344c-.886.077-1.681.228-2.322.472-.705.268-1.515.766-1.711 1.689s.341 1.708.876 2.24c.573.568 1.394 1.107 2.355 1.602 1.933.996 4.643 1.921 7.675 2.566s5.884.901 8.056.777c1.078-.06 2.048-.219 2.802-.506.705-.268 1.515-.766 1.712-1.69.189-.888-.304-1.648-.809-2.17-.494-.51-1.187-.995-1.997-1.444A9.004 9.004 0 0 0 4.295 7.344m-.94 2.151a9 9 0 0 0-.271 1.277 4.6 4.6 0 0 1-.536-.447c-.208-.206-.283-.337-.31-.4.05-.047.172-.136.446-.24q.28-.106.671-.19m17.561 3.733q.357.26.576.487c.177.183.244.3.27.36-.05.046-.172.136-.446.24q-.28.106-.671.19a9 9 0 0 0 .271-1.277m-10.008 3.907c-2.93-.623-5.567-1.507-7.506-2.47a9 9 0 0 0 6.727 6.138 9 9 0 0 0 8.642-2.872c-2.164.091-4.933-.173-7.863-.796\"\n  />\n</svg>\n"
     },
     "tent-fill": {
       "tags": [""],
@@ -8834,7 +8834,7 @@
     "flashlight-line": {
       "tags": [""],
       "labels": [""],
-      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <g clip-path=\"url(#a)\">\n    <path\n      fill=\"currentColor\"\n      fill-rule=\"evenodd\"\n      d=\"M21 9h.392L11 24.242V15H4l9-15v9zm-8 4H7.766L11 7.61V11h6.263L13 17.394z\"\n      clip-rule=\"evenodd\"\n    />\n  </g>\n  <defs>\n    <clipPath id=\"a\"><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" /></clipPath>\n  </defs>\n</svg>\n"
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <g clip-path=\"url(#a)\">\n    <path\n      fill=\"currentColor\"\n      d=\"M21.392 9 11 24.242V15H4l9-15v9zM13 13v4.394L17.263 11H11V7.61L7.766 13z\"\n    />\n  </g>\n  <defs>\n    <clipPath id=\"a\"><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" /></clipPath>\n  </defs>\n</svg>\n"
     },
     "sun-line": {
       "tags": [""],
@@ -9024,7 +9024,7 @@
     "water-flash-line": {
       "tags": [""],
       "labels": [""],
-      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M13 7.5 8.5 14H11v4.5l4.5-6.5H13z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M12.986 2.016a23 23 0 0 0-.777-.626l-.217-.172-.722.588q-.095.078-.264.224a40 40 0 0 0-3.753 3.68C6.227 6.866 5.178 8.204 4.382 9.599 3.592 10.978 3 12.5 3 14a9 9 0 1 0 18 0c0-1.537-.589-3.077-1.38-4.47-.798-1.405-1.848-2.74-2.876-3.886a38 38 0 0 0-3.758-3.628m-.979 1.793q-.252.221-.581.522a38 38 0 0 0-2.679 2.708c-.974 1.096-1.925 2.32-2.629 3.55C5.408 11.835 5 13 5 14a7 7 0 1 0 14 0c0-1.047-.411-2.235-1.12-3.483-.702-1.236-1.652-2.453-2.624-3.537a36 36 0 0 0-3.249-3.171\"\n  />\n</svg>\n"
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M13 7.5 8.5 14H11v4.5l4.5-6.5H13z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M12.986 2.016a23 23 0 0 0-.777-.626l-.217-.172-.722.588q-.095.078-.264.224a40 40 0 0 0-3.753 3.68C6.227 6.866 5.178 8.204 4.382 9.599 3.592 10.978 3 12.5 3 14a9 9 0 1 0 18 0c0-1.537-.589-3.077-1.38-4.47-.798-1.405-1.848-2.74-2.876-3.886a38 38 0 0 0-3.758-3.628m-.979 1.793q.251.214.574.505a36 36 0 0 1 2.675 2.666c.972 1.084 1.922 2.301 2.625 3.537C18.589 11.765 19 12.953 19 14a7 7 0 1 1-14 0c0-1 .407-2.166 1.118-3.41.704-1.23 1.655-2.455 2.63-3.55a38 38 0 0 1 3.26-3.231\"\n  />\n</svg>\n"
     },
     "celsius-fill": {
       "tags": [""],
@@ -9199,7 +9199,7 @@
     "fire-fill": {
       "tags": [""],
       "labels": [""],
-      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 23a7.5 7.5 0 0 1-5.138-12.963C8.204 8.774 11.5 6.5 11 1.5c6 4 9 8 3 14 1 0 2.5 0 5-2.47.27.773.5 1.604.5 2.47A7.5 7.5 0 0 1 12 23\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M12.63 2.223 11 .903V3c0 .358-.124.854-.402 1.482-.272.615-.661 1.289-1.119 1.982-.916 1.39-2.044 2.77-2.896 3.811l-.356.437a7.5 7.5 0 1 0 13.17 3.548l-.253-1.525-1.287.857a13.7 13.7 0 0 1-2.906 1.473q-.15.054-.298.1.341-.39.657-.796c.789-1.02 1.468-2.17 1.757-3.463.608-2.722-.596-5.572-4.438-8.683\"\n  />\n</svg>\n"
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12.63 2.223 11 .903V3c0 .358-.124.854-.402 1.482-.272.615-.661 1.289-1.119 1.982-.916 1.39-2.044 2.77-2.896 3.811l-.356.437a7.5 7.5 0 1 0 13.17 3.548l-.253-1.525-1.287.857a13.7 13.7 0 0 1-2.906 1.473q-.15.054-.298.1.341-.39.657-.796c.789-1.02 1.468-2.17 1.757-3.463.608-2.722-.596-5.572-4.438-8.683\"\n  />\n</svg>\n"
     },
     "rainbow-fill": {
       "tags": [""],
@@ -9260,6 +9260,1754 @@
       "tags": [""],
       "labels": [""],
       "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M13.919 2.827a36 36 0 0 0-.933-.811 36 36 0 0 0-.803-.647l-.191-.15-.183.148q-.407.325-.803.663a40 40 0 0 0-3.753 3.68C6.227 6.866 5.178 8.204 4.382 9.599 3.592 10.978 3 12.5 3 14a9 9 0 1 0 18 0c0-1.537-.589-3.077-1.38-4.47-.798-1.405-1.848-2.74-2.876-3.886a38 38 0 0 0-2.825-2.817M13 7.5V12h2.5L11 18.5V14H8.5z\"\n  />\n</svg>\n"
+    }
+  },
+  "Design": {
+    "circle-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 4a8 8 0 1 0 0 16 8 8 0 0 0 0-16M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12\"\n  />\n</svg>\n"
+    },
+    "triangle-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 1.5 23.258 21H.74zM4.204 19h15.589L11.999 5.5z\"\n  />\n</svg>\n"
+    },
+    "square-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M3 3h18v18H3zm2 2v14h14V5z\" />\n</svg>\n"
+    },
+    "rectangle-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M2 4h20v16H2zm2 2v12h16V6z\" />\n</svg>\n"
+    },
+    "pentagon-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m12 .764 10.686 7.764-4.082 12.562H5.395L1.313 8.528zM3.665 9.292l3.183 9.798h10.303l3.184-9.798L12 3.236z\"\n  />\n</svg>\n"
+    },
+    "hexagon-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M6.423 2.34h11.155L23.155 12l-5.577 9.66H6.423L.846 12zm1.155 2L3.155 12l4.423 7.66h8.845L20.846 12l-4.423-7.66z\"\n  />\n</svg>\n"
+    },
+    "octagon-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M8.142 2.685h7.717l5.456 5.457v7.716l-5.456 5.457H8.142l-5.456-5.457V8.142zM4.686 8.97v6.06l4.285 4.285h6.06l4.284-4.285V8.97L15.03 4.685H8.97z\"\n  />\n</svg>\n"
+    },
+    "drop-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 2.86q-.242.23-.551.53a47 47 0 0 0-2.691 2.856C7.778 7.383 6.82 8.63 6.114 9.843 5.392 11.08 5 12.163 5 13a7 7 0 1 0 14 0c0-.836-.392-1.92-1.114-3.157-.707-1.212-1.665-2.46-2.644-3.597A47 47 0 0 0 12 2.86m0-2.696a55 55 0 0 1 1.949 1.796 49 49 0 0 1 2.809 2.98c1.02 1.186 2.063 2.537 2.856 3.895C20.392 10.17 21 11.627 21 13a9 9 0 1 1-18 0c0-1.373.608-2.831 1.386-4.165.793-1.358 1.835-2.709 2.856-3.894a49 49 0 0 1 2.81-2.98A55 55 0 0 1 12 .163\"\n  />\n</svg>\n"
+    },
+    "contrast-drop-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M12 18a5 5 0 0 0 5-5H7a5 5 0 0 0 5 5\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M12 .164a55 55 0 0 0-1.949 1.796 49 49 0 0 0-2.809 2.98C6.222 6.127 5.18 7.478 4.386 8.836 3.608 10.17 3 11.627 3 13a9 9 0 1 0 18 0c0-1.373-.608-2.831-1.386-4.165-.793-1.358-1.835-2.709-2.856-3.894a49 49 0 0 0-2.81-2.98A55 55 0 0 0 12 .163m-.551 3.227q.309-.301.551-.53.242.229.551.53c.736.72 1.715 1.721 2.691 2.855.98 1.137 1.937 2.385 2.644 3.597C18.608 11.08 19 12.163 19 13a7 7 0 1 1-14 0c0-.836.392-1.92 1.114-3.157.707-1.212 1.665-2.46 2.644-3.597a47 47 0 0 1 2.69-2.855\"\n  />\n</svg>\n"
+    },
+    "contrast-drop-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M17 13a5 5 0 0 0-5-5v10a5 5 0 0 0 5-5\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M12 .164a55 55 0 0 0-1.949 1.796 49 49 0 0 0-2.809 2.98C6.222 6.127 5.18 7.478 4.386 8.836 3.608 10.17 3 11.627 3 13a9 9 0 1 0 18 0c0-1.373-.608-2.831-1.386-4.165-.793-1.358-1.835-2.709-2.856-3.894a49 49 0 0 0-2.81-2.98A55 55 0 0 0 12 .163m-.551 3.227q.309-.301.551-.53.242.229.551.53c.736.72 1.715 1.721 2.691 2.855.98 1.137 1.937 2.385 2.644 3.597C18.608 11.08 19 12.163 19 13a7 7 0 1 1-14 0c0-.836.392-1.92 1.114-3.157.707-1.212 1.665-2.46 2.644-3.597a47 47 0 0 1 2.69-2.855\"\n  />\n</svg>\n"
+    },
+    "blur-off-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 2.86q-.242.23-.55.53a49 49 0 0 0-1.68 1.724L8.355 3.698a51 51 0 0 1 1.696-1.738 55 55 0 0 1 1.95-1.796 55 55 0 0 1 1.948 1.796 49 49 0 0 1 2.809 2.98c1.02 1.186 2.063 2.537 2.856 3.895C20.392 10.17 21 11.627 21 13a9 9 0 0 1-.469 2.875l-1.64-1.64q.109-.603.11-1.235c0-.836-.393-1.92-1.114-3.157-.708-1.212-1.665-2.46-2.645-3.597A47 47 0 0 0 12 2.86M5.77 6.77 2 3l1.414-1.414 19 19L21 22l-2.636-2.636A9 9 0 0 1 3 13c0-1.373.608-2.831 1.386-4.165A22 22 0 0 1 5.77 6.77m11.18 11.18L7.2 8.2a20 20 0 0 0-1.086 1.643C5.392 11.08 5 12.163 5 13a7 7 0 0 0 11.95 4.95\"\n  />\n</svg>\n"
+    },
+    "layout-column-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M21 3v18H3V3zm-8 16h6V5h-6zM11 5H5v14h6z\" />\n</svg>\n"
+    },
+    "layout-row-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M21 21H3V3h18zM5 13v6h14v-6zm0-2h14V5H5z\" />\n</svg>\n"
+    },
+    "layout-top-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M22 3v18H2V3zm-2 5V5H4v3zM4 10v9h16v-9z\" />\n</svg>\n"
+    },
+    "layout-bottom-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M22 3v18H2V3zm-2 11V5H4v9zM4 16v3h16v-3z\" />\n</svg>\n"
+    },
+    "layout-right-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M2 3h20v18H2zm13 2H4v14h11zm2 14h3V5h-3z\" />\n</svg>\n"
+    },
+    "layout-left-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M2 3h20v18H2zm5 2H4v14h3zm2 14h11V5H9z\" />\n</svg>\n"
+    },
+    "layout-top-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M18 7H6v2h12z\" />\n  <path fill=\"currentColor\" d=\"M22 3H2v18h20zM4 19V5h16v14z\" />\n</svg>\n"
+    },
+    "layout-bottom-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M18 15H6v2h12z\" />\n  <path fill=\"currentColor\" d=\"M22 3H2v18h20zM4 19V5h16v14z\" />\n</svg>\n"
+    },
+    "layout-right-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M16 7v10h2V7z\" />\n  <path fill=\"currentColor\" d=\"M22 3H2v18h20zM4 19V5h16v14z\" />\n</svg>\n"
+    },
+    "layout-left-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M6 7v10h2V7z\" />\n  <path fill=\"currentColor\" d=\"M22 3H2v18h20zM4 19V5h16v14z\" />\n</svg>\n"
+    },
+    "table-alt-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M2 3v18h20V3zm12 2v9h-4V5zm2 9V5h4v9zM4 5h4v9H4zm0 11h16v3H4z\"\n  />\n</svg>\n"
+    },
+    "table-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M2 21V3h20v18zm12-2v-9h-4v9zm2 0h4v-9h-4zm-8-9H4v9h4zm12-2V5H4v3z\"\n  />\n</svg>\n"
+    },
+    "layout-grid-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M22 21V3H2v18zm-9-2v-6h7v6zm-2 0H4v-6h7zm2-8V5h7v6zm-2-6v6H4V5z\"\n  />\n</svg>\n"
+    },
+    "grid-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M21 21V3H3v18zm-11-2v-3h4v3zm-2 0H5v-3h3zm2-5v-4h4v4zm-2-4v4H5v-4zm2-2V5h4v3zM8 5v3H5V5zm11 14h-3v-3h3zm0-5h-3v-4h3zm0-6h-3V5h3z\"\n  />\n</svg>\n"
+    },
+    "layout-3-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3 3h18v18H3zm7 16h9v-9h-9zm-2-9H5v9h3zm11-5H5v3h14z\"\n  />\n</svg>\n"
+    },
+    "layout-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M21 3v18H3V3zm-5 16h3v-9h-3zm-2-9H5v9h9zM5 8h14V5H5z\"\n  />\n</svg>\n"
+    },
+    "layout-4-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3 3h18v18H3zm2 10v6h6v-6zm6-2V5H5v6zm2 8h6V5h-6z\"\n  />\n</svg>\n"
+    },
+    "layout-masonry-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M2 3v18h20V3zm9 2v8H4V5zm2 6h7v8h-7zm7-2h-7V5h7zM4 19v-4h7v4z\"\n  />\n</svg>\n"
+    },
+    "collage-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M21 3H3v18h18zM5 12.639V5h4.492l1.285 6.263zm0 2.056 6.179-1.472L12.364 19H5zM14.405 19 11.534 5H19v14z\"\n  />\n</svg>\n"
+    },
+    "layout-6-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M22 3v18H2V3zm-6 16h4v-9h-4zm-2-9H4v9h10zM4 8h16V5H4z\"\n  />\n</svg>\n"
+    },
+    "layout-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M21 3H3v18h18zm-2 8h-6V5h6zm-8-6v14H5V5zm2 8h6v6h-6z\"\n  />\n</svg>\n"
+    },
+    "layout-5-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M2 3h20v18H2zm8 16h10v-9H10zm-2-9H4v9h4zm12-5H4v3h16z\"\n  />\n</svg>\n"
+    },
+    "shapes-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M17.83 10.75 12.2 1l-5.629 9.75zm-3.464-2h-4.33L12.2 5zM13 17.5a4.5 4.5 0 1 1 9 0 4.5 4.5 0 0 1-9 0m4.5-2.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M3 13.5h8v8H3zm2 2v4h4v-4z\"\n  />\n</svg>\n"
+    },
+    "color-filter-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M17.85 9.653A6 6 0 1 1 12 19.469a6 6 0 1 1-5.85-9.816 6 6 0 1 1 11.7 0M12 4.315a4 4 0 0 0-.56 7.96 6 6 0 0 1 4.37-2.736A4 4 0 0 0 12 4.315m4.499 7.185q-.25 0-.493.03a4 4 0 0 0-2.894 1.843 6 6 0 0 1 .363 2.682 6 6 0 0 1-.363 1.572A4 4 0 1 0 16.5 11.5zm-8.674 1.124a6 6 0 0 1-.886-1.085 4 4 0 1 0 4.37 2.737 5.98 5.98 0 0 1-3.484-1.652\"\n  />\n</svg>\n"
+    },
+    "screenshot-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m3 4 1-1h1v2H3zm4-1h2v2H7zm4 0h2v2h-2zm4 0h2v2h-2zm4 0h1l1 1v1h-2zM3 9V7h2v2zm18-2v2h-2V7zM3 13v-2h2v2zm11 5a2 2 0 1 0 0-4 2 2 0 0 0 0 4\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M21 11h-3.5L16 9h-4l-1.5 2H7v10h14zm-4.5 2H19v6H9v-6h2.5l1.5-2h2zM3 17v-2h2v2zm0 3v-1h2v2H4z\"\n  />\n</svg>\n"
+    },
+    "tools-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3.203 5.324a3.5 3.5 0 0 0 4.963 4.255l11.127 11.128 1.414-1.414L9.58 8.165a3.5 3.5 0 0 0-4.256-4.963l2.283 2.283a1.5 1.5 0 0 1-2.121 2.12z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"m15.228 7.186.353-1.767 3.536-2.122 1.414 1.414-2.121 3.536-1.768.353-2.606 2.607-1.415-1.414zM3.207 19.207l6.586-6.586 1.414 1.414-6.586 6.586z\"\n  />\n</svg>\n"
+    },
+    "contrast-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M12 18a6 6 0 0 0 0-12z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10m8-10a8 8 0 1 1-16 0 8 8 0 0 1 16 0\"\n  />\n</svg>\n"
+    },
+    "contrast-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M7.111 15.48a9 9 0 0 0 8.369-8.37 6 6 0 1 1-8.368 8.368\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10m8-10a8 8 0 1 1-16 0 8 8 0 0 1 16 0\"\n  />\n</svg>\n"
+    },
+    "shadow-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M18 2v4h4v16H6v-4H2V2zm0 6v1.086l2 2V8zm0 3.914v2.172l2 2v-2.172zm0 5V18h-1.086l2 2H20v-1.086zM14.086 18h-2.172l2 2h2.172zm-5 0H8v2h3.086zM4 16h12V4H4z\"\n  />\n</svg>\n"
+    },
+    "magic-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m3.93 4.714 1.904 5.163L2.428 14.2l.824 1.618 5.499-.215 3.058 4.575 1.793-.284 1.495-5.296 5.296-1.495.284-1.793-4.574-3.058.214-5.499-1.618-.824-4.322 3.405L5.214 3.43zM7.904 9.71 6.556 6.056l3.654 1.348.965-.153 3.06-2.41-.153 3.89.444.871 3.237 2.165-3.748 1.058-.69.69-1.058 3.748-2.165-3.237-.87-.444-3.892.152 2.41-3.059z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"m16.182 17.096 4.243 4.243 1.414-1.414-4.243-4.243z\"\n  />\n</svg>\n"
+    },
+    "drag-drop-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m2 3 1-1h1v2H2zm4-1h2v2H6zm4 0h2v2h-2zm4 0h1l1 1v1h-2zM2 8V6h2v2zm14-2v2h5l1 1v4h-2v-3H10v10h4v2H9l-1-1v-5H6v-2h2V9l1-1h5V6zM2 12v-2h2v2zm0 3v-1h2v2H3z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"m15.84 13.033 6.963 4.063-2.973.85 2.125 3.68-1.732 1-2.125-3.68-2.223 2.15z\"\n  />\n</svg>\n"
+    },
+    "crop-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M5 7v11l1 1h11v3h2v-3h3v-2h-3V6l-1-1H7V2H5v3H2v2zm2 0h10v10H7z\"\n  />\n</svg>\n"
+    },
+    "crop-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M5 18V7H2V5h3V2h2v3h10.586l2.207-2.207 1.414 1.414L19 6.414V17h3v2h-3v3h-2v-3H6zM15.586 7H7v8.586zM8.414 17H17V8.414z\"\n  />\n</svg>\n"
+    },
+    "shape-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3 2 2 3v4l1 1h1v8H3l-1 1v4l1 1h4l1-1v-1h8v1l1 1h4l1-1v-4l-1-1h-1V8h1l1-1V3l-1-1h-4l-1 1v1H8V3L7 2zm3 14V8h1l1-1V6h8v1l1 1h1v8h-1l-1 1v1H8v-1l-1-1zM4 6V4h2v2zm0 14v-2h2v2zm14-2v2h2v-2zm0-12V4h2v2z\"\n  />\n</svg>\n"
+    },
+    "shape-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M5 2a3 3 0 0 0-1 5.83v8.34A3.001 3.001 0 1 0 7.83 20h8.34A3.001 3.001 0 1 0 20 16.17V7.83A3.001 3.001 0 1 0 16.17 4H7.83A3 3 0 0 0 5 2m13 5.83v8.34A3 3 0 0 0 16.17 18H7.83A3 3 0 0 0 6 16.17V7.83A3 3 0 0 0 7.83 6h8.34A3 3 0 0 0 18 7.83M4 5a1 1 0 1 1 2 0 1 1 0 0 1-2 0m1 13a1 1 0 1 1 0 2 1 1 0 0 1 0-2m13 1a1 1 0 1 1 2 0 1 1 0 0 1-2 0m1-15a1 1 0 1 1 0 2 1 1 0 0 1 0-2\"\n  />\n</svg>\n"
+    },
+    "artboard-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M18 5V2h-2v3zM6 6h12v12H6zm2 2v8h8V8zm10 11v3h-2v-3zM8 2v3H6V2zm0 20v-3H6v3zM22 8h-3V6h3zm-3 10h3v-2h-3zM5 18H2v-2h3zM2 8h3V6H2z\"\n  />\n</svg>\n"
+    },
+    "anticlockwise-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m13.793.793 1.414 1.414L13.414 4H16a5 5 0 0 1 5 5v4h-2V9a3 3 0 0 0-3-3h-2.586l1.793 1.793-1.414 1.414L9.586 5zM4 10l-1 1v10l1 1h10l1-1V11l-1-1zm1 10v-8h8v8z\"\n  />\n</svg>\n"
+    },
+    "clockwise-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M10.207.793 8.793 2.207 10.586 4H8a5 5 0 0 0-5 5v4h2V9a3 3 0 0 1 3-3h2.586L8.793 7.793l1.414 1.414L14.414 5zM20 10l1 1v10l-1 1H10l-1-1V11l1-1zm-1 10v-8h-8v8z\"\n  />\n</svg>\n"
+    },
+    "anticlockwise-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M6 8v2.586l1.793-1.793 1.414 1.414L5 14.414.793 10.207l1.414-1.414L4 10.586V8a5 5 0 0 1 5-5h4v2H9a3 3 0 0 0-3 3m4 12 1 1h10l1-1V10l-1-1H11l-1 1zm10-1h-8v-8h8z\"\n  />\n</svg>\n"
+    },
+    "clockwise-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M18 8v2.586l-1.793-1.793-1.414 1.414L19 14.414l4.207-4.207-1.414-1.414L20 10.586V8a5 5 0 0 0-5-5h-4v2h4a3 3 0 0 1 3 3m-4 12-1 1H3l-1-1V10l1-1h10l1 1zM4 19h8v-8H4z\"\n  />\n</svg>\n"
+    },
+    "input-method-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M13.176 7h-2.354l-4 10h2.154l.8-2h4.446l.8 2h2.154zm.246 6h-2.846L12 9.443z\"\n  />\n  <path fill=\"currentColor\" d=\"M4 3 3 4v16l1 1h16l1-1V4l-1-1zm1 16V5h14v14z\" />\n</svg>\n"
+    },
+    "t-box-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M7 8h10v2h-4v7h-2v-7H7z\" />\n  <path fill=\"currentColor\" d=\"m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm2 1v14h14V5z\" />\n</svg>\n"
+    },
+    "focus-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M12 14a2 2 0 1 0 0-4 2 2 0 0 0 0 4\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2M4 12a8 8 0 1 1 16 0 8 8 0 0 1-16 0\"\n  />\n</svg>\n"
+    },
+    "focus-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M14 12a2 2 0 1 1-4 0 2 2 0 0 1 4 0\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M12 6a6 6 0 1 0 0 12 6 6 0 0 0 0-12m-4 6a4 4 0 1 1 8 0 4 4 0 0 1-8 0\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12m10-8a8 8 0 1 0 0 16 8 8 0 0 0 0-16\"\n  />\n</svg>\n"
+    },
+    "focus-3-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M12 14a2 2 0 1 0 0-4 2 2 0 0 0 0 4\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M11 23v-3.062A8.004 8.004 0 0 1 4.062 13H1v-2h3.062A8.004 8.004 0 0 1 11 4.062V1h2v3.062A8.004 8.004 0 0 1 19.938 11H23v2h-3.062A8.004 8.004 0 0 1 13 19.938V23zm1-17a6 6 0 1 0 0 12 6 6 0 0 0 0-12\"\n  />\n</svg>\n"
+    },
+    "crosshair-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M12 14a2 2 0 1 0 0-4 2 2 0 0 0 0 4\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2m-7.938 9A8.004 8.004 0 0 1 11 4.062V7h2V4.062A8.004 8.004 0 0 1 19.938 11H17v2h2.938A8.004 8.004 0 0 1 13 19.938V17h-2v2.938A8.004 8.004 0 0 1 4.062 13H7v-2z\"\n  />\n</svg>\n"
+    },
+    "crosshair-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M12 14a2 2 0 1 0 0-4 2 2 0 0 0 0 4\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M13 1h-2v2.055A9.004 9.004 0 0 0 3.055 11H1v2h2.055A9.004 9.004 0 0 0 11 20.945V23h2v-2.055A9.004 9.004 0 0 0 20.945 13H23v-2h-2.055A9.004 9.004 0 0 0 13 3.055zM5.07 13H7v-2H5.07A7.005 7.005 0 0 1 11 5.07V7h2V5.07A7 7 0 0 1 18.93 11H17v2h1.93A7 7 0 0 1 13 18.93V17h-2v1.93A7 7 0 0 1 5.07 13\"\n  />\n</svg>\n"
+    },
+    "scissors-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M5.764 2.354 12 9.724l6.236-7.37a2 2 0 0 1 .235 2.819l-5.161 6.1 2.738 3.235a4 4 0 1 1-1.448 1.385L12 12.82l-2.6 3.073a4 4 0 1 1-1.448-1.385l2.738-3.236-5.161-6.1a2 2 0 0 1 .235-2.818M6 16a2 2 0 1 0 0 4 2 2 0 0 0 0-4m12 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4\"\n  />\n</svg>\n"
+    },
+    "scissors-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M6 10c.812 0 1.568-.242 2.2-.658l2.612 2.612-2.668 2.669a4 4 0 1 0 1.368 1.46l.785-.785-.004-.005 7-7 .005.005 4.384-4.385a2 2 0 0 0-2.828 0l-6.628 6.627-2.682-2.683A4 4 0 1 0 6 10m0 6a2 2 0 1 1 0 4 2 2 0 0 1 0-4M8 6a2 2 0 1 1-4 0 2 2 0 0 1 4 0m7.05 7.364-1.414 1.414 5.248 5.248a2 2 0 0 0 2.828 0z\"\n  />\n</svg>\n"
+    },
+    "scissors-cut-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M6 10c.812 0 1.568-.242 2.2-.658l2.612 2.612-2.668 2.669a4 4 0 1 0 1.368 1.46l.785-.785-.004-.005 7-7 .005.005 4.384-4.385a2 2 0 0 0-2.828 0l-6.628 6.627-2.682-2.683A4 4 0 1 0 6 10m0 6a2 2 0 1 1 0 4 2 2 0 0 1 0-4M8 6a2 2 0 1 1-4 0 2 2 0 0 1 4 0m7.05 7.364-1.414 1.414 5.248 5.248a2 2 0 0 0 2.828 0z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M2 11h2v2H2zm6 0H6v2h2zm8 0h2v2h-2zm6 0h-2v2h2z\"\n  />\n</svg>\n"
+    },
+    "screenshot-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"m3 4 1-1h16l1 1v9h-2V5H5v8H3z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M14.968 14.554a4 4 0 1 1-1.414 1.414L12 14.414l-1.554 1.554a4 4 0 1 1-1.414-1.414L10.586 13 6.293 8.707l1.414-1.414L12 11.586l4.293-4.293 1.414 1.414L13.414 13zM17 16a2 2 0 1 0 0 4 2 2 0 0 0 0-4M5 18a2 2 0 1 0 4 0 2 2 0 0 0-4 0\"\n  />\n</svg>\n"
+    },
+    "pencil-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M22.254 6.485 18.01 2.243 3.576 16.678v4.243H7.82zM15.182 7.9l1.415 1.414-9.607 9.607H5.576v-1.415zm2.829 0-1.414-1.414L18.01 5.07l1.414 1.414z\"\n  />\n</svg>\n"
+    },
+    "edit-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M20.243 5.913 16 1.67 3.986 13.684v4.242H8.23zM5.986 14.512 16 4.498l1.414 1.415L7.401 15.926H5.986zM4 22h16v-2H4z\"\n  />\n</svg>\n"
+    },
+    "edit-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m16.728.586 4.243 4.242L7.243 18.556H3v-4.242zm-2.829 5.657L5 15.143v1.413h1.414l8.9-8.9zm2.829 0 1.414-1.415-1.414-1.414-1.414 1.414zM21 22H3v-2h18z\"\n  />\n</svg>\n"
+    },
+    "ball-pen-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M17.097 2.04h1.414l2.828 2.828v1.415l-1.414 1.414-4.243-4.243zm-2.829 2.828 5.656 5.657v1.415l-7.07 7.07-1.415-1.414 6.364-6.364-.707-.707L6.904 20.718H2.66v-4.243zm1.414 4.243-1.414-1.414-9.607 9.606v1.415h1.414z\"\n  />\n</svg>\n"
+    },
+    "slice-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M2.205 19.345 18.303 3.247l3.182 3.182-5.657 5.657 1.768 1.768-.707.707c-3.322 3.321-6.505 4.654-8.908 5.134-1.196.24-2.186.265-2.89.228a8 8 0 0 1-.83-.083c-.696-.11-1.373-.324-2.056-.495m4.277-1.448q.505-.045 1.107-.163c1.856-.37 4.398-1.368 7.163-3.896L13 12.086l5.657-5.657-.354-.354z\"\n  />\n</svg>\n"
+    },
+    "edit-box-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"m20.4 2-9.193 9.192v1.415h1.414l9.193-9.193z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M19 19V9.056l2-2V20l-1 1H4l-1-1V4l1-1h12.571l-2 2H5v14z\"\n  />\n</svg>\n"
+    },
+    "edit-circle-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m20.4 2-9.193 9.192v1.415h1.414l5.617-5.617 1.42-1.42 2.156-2.156z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M20 12c0-1.159-.246-2.26-.69-3.254l1.494-1.493A9.96 9.96 0 0 1 22 12c0 5.523-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2c1.62 0 3.15.385 4.503 1.069l-1.51 1.51A8 8 0 1 0 20 12\"\n  />\n</svg>\n"
+    },
+    "pen-nib-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m15.536 2.808 5.656 5.656 2.122-.707-7.071-7.07zM7.57 4.693l6.584-.438 5.592 5.591-.44 6.584-.822.098h-.004l-.016.003-.068.009q-.091.011-.273.038a36 36 0 0 0-4.43.978c-2.7.784-5.767 2.053-7.703 3.99l-1.415-1.414c2.306-2.306 5.78-3.689 8.56-4.496a38 38 0 0 1 4.285-.972l.27-4.046-4.308-4.308-4.046.27q-.05.299-.12.685c-.17.92-.443 2.19-.852 3.6-.807 2.78-2.19 6.254-4.496 8.56L2.454 18.01c1.937-1.936 3.206-5.003 3.99-7.703a36 36 0 0 0 .978-4.43l.038-.273.01-.068.001-.016v-.003z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M12.708 11.293a2 2 0 1 1-2.829 2.828 2 2 0 0 1 2.829-2.828\"\n  />\n</svg>\n"
+    },
+    "mark-pen-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m10.573 11.763 4.95-4.95 1.414 1.414-4.95 4.95z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"m7.224 9.455 8.299-8.3 7.07 7.072-8.298 8.299-2.121.707-2.308 2.308-5.657-5.657 2.308-2.308zm1.748 1.08-.707 2.121-1.228 1.228 2.829 2.828 1.228-1.227 2.12-.707 6.551-6.551-4.242-4.243zm-4.409 5.824 2.828 2.828-1.414 1.414-4.243-1.414z\"\n  />\n</svg>\n"
+    },
+    "markup-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10l-.183-.002C6.378 21.901 2 17.462 2 12m10-8a8 8 0 0 0-5.466 13.841l1.506-5.123L9 12h1v-1.5l1.05-3.777a.987.987 0 0 1 1.9 0L14 10.5V12h1l.96.718 1.506 5.123A8 8 0 0 0 12 4M8.256 19.072a7.96 7.96 0 0 0 3.718.928H12q.207 0 .412-.01a8 8 0 0 0 3.331-.918L14.252 14H9.748z\"\n  />\n</svg>\n"
+    },
+    "sip-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m14.328 5.947-1.767-1.768-1.415 1.414 1.414 1.415-9.485 9.485v4.243h4.243l9.485-9.486 1.414 1.414 1.415-1.414-1.768-1.768 2.828-2.828V5.24l-2.121-2.121h-1.415zm-.353 2.475 1.414 1.414-8.839 8.839-1.414-1.414z\"\n  />\n</svg>\n"
+    },
+    "eraser-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M13.577 19H21v2H8v.02L.586 13.608 12.607 1.586l9.192 9.192zm1.151-3.98L8.364 8.658l-4.95 4.95L8.808 19h1.94zm1.415-1.413 2.828-2.829-6.364-6.364-2.828 2.829z\"\n  />\n</svg>\n"
+    },
+    "ruler-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m.54 17.303 6.364 6.364L23.168 7.404 16.804 1.04zm12.728-9.9 1.414 1.415 1.414-1.414-1.414-1.414 2.121-2.122 3.536 3.536L6.904 20.839l-3.536-3.536 2.829-2.828L7.61 15.89l1.414-1.414L7.61 13.06l2.122-2.122 2.12 2.122 1.415-1.415-2.121-2.121z\"\n  />\n</svg>\n"
+    },
+    "pencil-ruler-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M11 6.63 7 1.963 3 6.63V22h8zM5 20V7.5h4V20zM21 4h-8v18h8zm-2 8h-3v2h3v2h-2v2h2v2h-4V6h4v2h-2v2h2z\"\n  />\n</svg>\n"
+    },
+    "pencil-ruler-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M2.1 16.243 16.244 2.1 21.9 7.757 7.758 21.9zm9.9-2.829-2.12-2.121-1.414 1.414 1.414 1.414-1.414 1.414-1.414-1.414-2.122 2.121 2.829 2.829L19.07 7.757 16.243 4.93l-2.121 2.12 1.414 1.414L14.12 9.88l-1.414-1.415-1.414 1.415L13.414 12zm4.183 7.011-2.06-2.061 1.413-1.415 1.476 1.475h1.414V17.01l-1.475-1.475 1.414-1.414 2.06 2.06v4.243zM7.05 8.464 5.638 9.878 1.748 5.99l4.243-4.242 3.888 3.889L8.465 7.05 5.991 4.575 4.576 5.99z\"\n  />\n</svg>\n"
+    },
+    "ruler-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3 3h9v9h9v9H3zm2 13v3h3v-2h2v2h2v-3h2v3h2v-2h2v2h1v-5h-9V5H5v1h2v2H5v2h3v2H5v2h2v2z\"\n  />\n</svg>\n"
+    },
+    "artboard-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M5 3 4 4v9l1 1h14l1-1V4l-1-1zm1 9V5h12v7zm15 3H3v2h5.586l-3.293 3.293 1.414 1.414L11 17.414V20h2v-2.586l4.293 4.293 1.414-1.414L15.414 17H21z\"\n  />\n</svg>\n"
+    },
+    "pantone-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M10.25 9.5a1 1 0 1 0 0-2 1 1 0 0 0 0 2\" />\n  <path\n    fill=\"currentColor\"\n    d=\"m5.076 7.21.55-1.31 9.5-3.828 1.312.58 5 13.5-.507 1.25-8.76 4.185-1.355-.52-.028-.067H7l-.75-.75-3.59-1.3-.605-1.268 3.357-9.661zM8 14.269V19h1.96zm-.69-6.892 4.95 11.951 6.985-3.337-4.326-11.68zM4.268 17.406 6 18.033v-5.611z\"\n  />\n</svg>\n"
+    },
+    "compasses-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M11 2v2.126a4.002 4.002 0 0 0-1.79 6.74L3.132 21.505l1.736.992 6.078-10.636a4 4 0 0 0 2.108 0l6.078 10.636 1.736-.992-6.078-10.638A4.002 4.002 0 0 0 13 4.127V2zm1 4a2 2 0 1 1 0 4 2 2 0 0 1 0-4\"\n  />\n</svg>\n"
+    },
+    "compasses-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M11 2v2.126a4.002 4.002 0 0 0-1.79 6.74L3.132 21.505l1.736.992 3.562-6.232A9 9 0 0 0 12 17a9 9 0 0 0 3.57-.736l3.562 6.232 1.736-.992-3.562-6.234A8.99 8.99 0 0 0 21 8h-2a6.99 6.99 0 0 1-2.694 5.52l-1.516-2.653A4.002 4.002 0 0 0 13 4.127V1.999zm1 4a2 2 0 1 1 0 4 2 2 0 0 1 0-4m0 6q.549-.002 1.054-.14l1.516 2.653A7 7 0 0 1 12 15a7 7 0 0 1-2.57-.486l1.516-2.654q.506.138 1.054.14\"\n  />\n</svg>\n"
+    },
+    "quill-pen-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M5 22H3c0-2.926 1.047-7.859 3.648-12.087C9.27 5.653 13.552 2 20 2h1.618l-.724 1.447L20 3l.894.447-.002.005-.005.011-.02.038-.073.14a29 29 0 0 1-1.268 2.154c-.658 1.012-1.546 2.233-2.572 3.245l1.263 1.263-.323.644c-1.096 2.194-3.036 4.155-5.578 5.002-.393.13-.915.256-1.443.383-.277.066-.556.133-.82.202-.828.216-1.671.482-2.43.881-.751.397-1.394.911-1.852 1.612C5.317 19.723 5 20.667 5 22M18.224 4.11c-4.582.585-7.757 3.415-9.872 6.851-1.004 1.632-1.755 3.38-2.288 5.051q.31-.199.627-.366c.96-.506 1.977-.818 2.86-1.048.37-.097.699-.175.991-.244.454-.108.823-.196 1.142-.303 1.724-.574 3.146-1.843 4.077-3.375l-1.758-1.759.872-.698c1.123-.898 2.179-2.29 2.974-3.514q.202-.31.375-.594\"\n  />\n</svg>\n"
+    },
+    "brush-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m21.838 7.11-4.95-4.949-3.535 3.536-3.182-3.182L1.686 11v1.414l9.899 9.9h1.414l8.486-8.486-3.182-3.182zm-8.485 1.415 3.536-3.536 2.12 2.122-3.535 3.535 3.182 3.182-2.121 2.122L8.05 7.464l2.121-2.121zm-9.546 3.182 2.828-2.828 8.486 8.485-2.829 2.828z\"\n  />\n</svg>\n"
+    },
+    "brush-3-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M8 2v4H2v7h1.5v8l1 1h15l1-1v-8H22V6h-6V2zM5.5 13h13v7H10v-4.5H8V20H5.5zM20 11H4V8h6V4h4v4h6z\"\n  />\n</svg>\n"
+    },
+    "brush-4-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m20.5 4-1-1h-15l-1 1v8H2v7h6v4h8v-4h6v-7h-1.5zm-2 8h-13V5H8v5.5h2V5h8.5zm1.5 2v3h-6v4h-4v-4H4v-3z\"\n  />\n</svg>\n"
+    },
+    "brush-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m13.392 6.24-.017-.02 5-4 1.332.073 3 3 .067 1.34-4.029 4.924A7.5 7.5 0 0 1 11.5 21q-.133 0-.265-.009A3 3 0 0 1 11 21c-1.144 0-3.095-.41-4.808-.843-1.73-.438-3.424-.954-4.086-1.238l-1.358-.582 1.055-1.055C2.866 16.22 4 15.087 4 13.5a7.5 7.5 0 0 1 9.392-7.26m2.056.882A7.54 7.54 0 0 1 17.845 9.5l2.808-3.432-1.727-1.727zM6 13.5c0 1.734-.854 3.08-1.696 4.059a54 54 0 0 0 2.378.659C8.428 18.66 10.143 19 11 19a1 1 0 0 0 .11-.006l.104-.012.103.01q.09.008.183.008A5.5 5.5 0 1 0 6 13.5\"\n  />\n</svg>\n"
+    },
+    "paint-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M7.793 2.707 9.586 4.5l-8.5 8.5L11 22.914 20.914 13 9.207 1.293zM3.914 13 11 5.914 18.086 13 11 20.086zM20.5 23c1.38 0 2.5-1.102 2.5-2.462C23 19.18 20.5 17 20.5 17S18 19.179 18 20.538C18 21.899 19.12 23 20.5 23\"\n  />\n</svg>\n"
+    },
+    "palette-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M12 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M12 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m-3 1.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M9 10.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m7.5 1.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3\"\n  />\n  <path fill=\"currentColor\" d=\"M16.5 12a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10c.856 0 1.17-.744 1.233-1.076.067-.353.027-.958-.475-1.356A2 2 0 0 1 14 16h2c1.664 0 3.178-.4 4.29-1.351C21.426 13.675 22 12.246 22 10.5c0-1.406-.597-2.737-1.325-3.804-.724-1.062-1.642-1.96-2.457-2.528A9.96 9.96 0 0 0 12 2M4 12a8 8 0 0 1 12.995-6.25l.028.023.03.02c.614.424 1.372 1.153 1.97 2.03.602.883.977 1.821.977 2.677 0 1.291-.408 2.113-1.011 2.63-.63.538-1.615.87-2.989.87h-2a4 4 0 0 0-3.547 5.85A8 8 0 0 1 4 12\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10c.856 0 1.17-.744 1.233-1.076.067-.353.027-.958-.475-1.356A2 2 0 0 1 14 16h2c1.664 0 3.178-.4 4.29-1.351C21.426 13.675 22 12.246 22 10.5c0-1.406-.597-2.737-1.325-3.804-.724-1.062-1.642-1.96-2.457-2.528A9.96 9.96 0 0 0 12 2M4 12a8 8 0 0 1 12.995-6.25l.028.023.03.02c.614.424 1.372 1.153 1.97 2.03.602.883.977 1.821.977 2.677 0 1.291-.408 2.113-1.011 2.63-.63.538-1.615.87-2.989.87h-2a4 4 0 0 0-3.547 5.85A8 8 0 0 1 4 12\"\n  />\n</svg>\n"
+    },
+    "paint-brush-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M4 3 3 4v5l1 1h16l1-1V4l-1-1zm1 5V5h14v3zm9 8h-1v-4H6v-1H4v3h7v2h-1v6h4zm5.5 2c1.38 0 2.5-1.102 2.5-2.461C22 14.179 19.5 12 19.5 12S17 14.179 17 15.539C17 16.898 18.12 18 19.5 18\"\n  />\n</svg>\n"
+    },
+    "ink-bottle-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M8 3 7 4v4h10V4l-1-1zm1 3V5h6v1zM6.697 9h10.606L21 11.465V22H3V11.465zm.606 2L5 12.535V20h14v-1H8v-5h11v-1.465L16.697 11z\"\n  />\n</svg>\n"
+    },
+    "hammer-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m8.5 2-.447.106L2.5 4.882V9H9v13l1 1h4l1-1V9h5l1-1V3l-1-1zM15 4v3h-2v14h-2V7H4.5v-.882L8.736 4zm2 3h2V4h-2z\"\n  />\n</svg>\n"
+    },
+    "circle-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2\"\n  />\n</svg>\n"
+    },
+    "triangle-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M23.258 21 12 1.5.74 21z\" />\n</svg>\n"
+    },
+    "square-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M21 3H3v18h18z\" />\n</svg>\n"
+    },
+    "rectangle-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M22 4H2v16h20z\" />\n</svg>\n"
+    },
+    "pentagon-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M22.686 8.528 12 .764 1.313 8.528 5.395 21.09h13.209z\"\n  />\n</svg>\n"
+    },
+    "hexagon-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M17.578 2.34H6.423L.846 12l5.577 9.66h11.155L23.155 12z\"\n  />\n</svg>\n"
+    },
+    "octagon-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M15.859 2.685H8.142L2.686 8.142v7.716l5.456 5.457h7.717l5.456-5.457V8.142z\"\n  />\n</svg>\n"
+    },
+    "drop-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 .164a55 55 0 0 1 1.949 1.796 49 49 0 0 1 2.809 2.98c1.02 1.186 2.063 2.537 2.856 3.895C20.392 10.17 21 11.627 21 13a9 9 0 1 1-18 0c0-1.373.608-2.831 1.386-4.165.793-1.358 1.835-2.709 2.856-3.894a49 49 0 0 1 2.81-2.98A54 54 0 0 1 12 .163\"\n  />\n</svg>\n"
+    },
+    "contrast-drop-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 .164a55 55 0 0 0-1.949 1.796 49 49 0 0 0-2.809 2.98C6.222 6.127 5.18 7.478 4.386 8.836 3.608 10.17 3 11.627 3 13a9 9 0 1 0 18 0c0-1.373-.608-2.831-1.386-4.165-.793-1.358-1.835-2.709-2.856-3.894a49 49 0 0 0-2.81-2.98A55 55 0 0 0 12 .163m-.551 3.227q.309-.301.551-.53.242.229.551.53c.736.72 1.715 1.721 2.691 2.855.98 1.137 1.937 2.385 2.644 3.597C18.608 11.08 19 12.163 19 13H5c0-.836.392-1.92 1.114-3.157.707-1.212 1.665-2.46 2.644-3.597a47 47 0 0 1 2.69-2.855\"\n  />\n</svg>\n"
+    },
+    "contrast-drop-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 .164a55 55 0 0 0-1.949 1.796 49 49 0 0 0-2.809 2.98C6.222 6.127 5.18 7.478 4.386 8.836 3.608 10.17 3 11.627 3 13a9 9 0 1 0 18 0c0-1.373-.608-2.831-1.386-4.165-.793-1.358-1.835-2.709-2.856-3.894a49 49 0 0 0-2.81-2.98A55 55 0 0 0 12 .163m-.551 3.227q.309-.301.551-.53V20a7 7 0 0 1-7-7c0-.836.392-1.92 1.114-3.157.707-1.212 1.665-2.46 2.644-3.597a47 47 0 0 1 2.69-2.855\"\n  />\n</svg>\n"
+    },
+    "blur-off-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 .164a55 55 0 0 0-1.949 1.796 51 51 0 0 0-1.696 1.738l12.176 12.177c.304-.903.47-1.87.47-2.875 0-1.373-.609-2.831-1.387-4.165-.793-1.358-1.835-2.709-2.856-3.894a49 49 0 0 0-2.809-2.98A55 55 0 0 0 12 .163m6.364 19.201L21 22l1.414-1.414-19-19L2 3l3.77 3.77a22 22 0 0 0-1.384 2.065C3.608 10.17 3 11.627 3 13a9 9 0 0 0 15.364 6.364\"\n  />\n</svg>\n"
+    },
+    "layout-column-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M21 3v18H3V3zm-9 16h7V5h-7z\" />\n</svg>\n"
+    },
+    "layout-row-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M21 3H3v18h18zM5 12h14v7H5z\" />\n</svg>\n"
+    },
+    "layout-top-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M2 3h20v5H2zm0 7v11h20V10z\" />\n</svg>\n"
+    },
+    "layout-bottom-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M2 3h20v11H2zm0 13v5h20v-5z\" />\n</svg>\n"
+    },
+    "layout-right-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M17 3h5v18h-5zm-2 0H2v18h13z\" />\n</svg>\n"
+    },
+    "layout-left-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M9 3h13v18H9zM7 3H2v18h5z\" />\n</svg>\n"
+    },
+    "layout-top-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M2 3h20v18H2zm16 4H6v2h12z\" />\n</svg>\n"
+    },
+    "layout-bottom-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M2 3h20v18H2zm16 12H6v2h12z\" />\n</svg>\n"
+    },
+    "layout-right-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M2 3h20v18H2zm14 4v10h2V7z\" />\n</svg>\n"
+    },
+    "layout-left-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M2 3h20v18H2zm4 4v10h2V7z\" />\n</svg>\n"
+    },
+    "table-alt-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M16.5 3H22v11h-5.5zm-2 0h-5v11h5zm-7 0H2v11h5.5zM2 16v5h20v-5z\"\n  />\n</svg>\n"
+    },
+    "table-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M16.5 21H22V10h-5.5zm-2 0V10h-5v11zm-7 0V10H2v11zM2 8V3h20v5z\"\n  />\n</svg>\n"
+    },
+    "layout-grid-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M13 21h9v-8h-9zm-2 0v-8H2v8zM2 11h9V3H2zm11-8h9v8h-9z\"\n  />\n</svg>\n"
+    },
+    "grid-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M16 21h5v-5h-5zm-2 0v-5h-4v5zm-6 0v-5H3v5zm-5-7h5v-4H3zm0-6h5V3H3zm7-5v5h4V3zm6 0v5h5V3zm5 7h-5v4h5zm-11 4v-4h4v4z\"\n  />\n</svg>\n"
+    },
+    "layout-3-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M3 3h18v5H3zm0 7v11h5V10zm7 11h11V10H10z\" />\n</svg>\n"
+    },
+    "layout-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M21 3H3v5h18zm0 7h-5v11h5zm-7 11V10H3v11z\" />\n</svg>\n"
+    },
+    "layout-4-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M13 3h8v18h-8zm-2 0H3v8h8zM3 13v8h8v-8z\" />\n</svg>\n"
+    },
+    "layout-masonry-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M13 3h9v5h-9zm-2 0H2v11h9zM2 16v5h9v-5zm11 5h9V10h-9z\"\n  />\n</svg>\n"
+    },
+    "collage-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m12.774 21-1.595-7.776L3 15.17V21zm2.042 0H21V3h-9.876zM9.082 3H3v10.115l7.777-1.852z\"\n  />\n</svg>\n"
+    },
+    "layout-6-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M22 3H2v5h20zm0 7h-6v11h6zm-8 11V10H2v11z\" />\n</svg>\n"
+    },
+    "layout-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M11 3H3v18h8zm2 0v8h8V3zm8 10h-8v8h8z\" />\n</svg>\n"
+    },
+    "layout-5-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M2 3h20v5H2zm0 7v11h6V10zm8 11h12V10H10z\" />\n</svg>\n"
+    },
+    "shapes-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M17.83 10.75 12.2 1l-5.629 9.75zM17.5 13a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9m-6.5.5H3v8h8z\"\n  />\n</svg>\n"
+    },
+    "color-filter-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M7.127 7.688a4.873 4.873 0 1 1 9.477 1.6 6.87 6.87 0 0 0-5.174 3.24 4.877 4.877 0 0 1-4.303-4.84m9.992 3.569.165-.003h.002a4.873 4.873 0 1 1-4.174 7.39c.307-.78.476-1.628.476-2.517 0-.887-.169-1.736-.476-2.516a4.87 4.87 0 0 1 4.007-2.354m-7.779 2.77c.618.26 1.283.432 1.979.5.174.5.268 1.039.268 1.6a4.873 4.873 0 1 1-5.443-4.84 6.9 6.9 0 0 0 3.196 2.74\"\n  />\n</svg>\n"
+    },
+    "screenshot-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M4 3 3 4v1h2V3zm5 0H7v2h2zm4 0h-2v2h2zm4 0h-2v2h2zm3 0h-1v2h2V4zM3 7v2h2V7zm18 2V7h-2v2zM3 11v2h2v-2zm18 10H7V11h3.5L12 9h4l1.5 2H21zm-5-5a2 2 0 1 0-4 0 2 2 0 0 0 4 0M3 15v2h2v-2zm0 4v1l1 1h1v-2z\"\n  />\n</svg>\n"
+    },
+    "tools-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3.203 5.324a3.5 3.5 0 0 0 4.474 4.474L18.94 21.06l2.12-2.122L9.799 7.676a3.5 3.5 0 0 0-4.474-4.474l2.282 2.283a1.5 1.5 0 0 1-2.121 2.12zm12.025 1.862.353-1.767 3.536-2.122 1.414 1.414-2.121 3.536-1.768.354z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"m2.854 18.854 6.232-6.233 2.121 2.122-6.232 6.232zM12.975 9.44l1.414 1.413 2.253-2.252-1.414-1.415z\"\n  />\n</svg>\n"
+    },
+    "contrast-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10m0-2a8 8 0 1 1 0-16z\"\n  />\n</svg>\n"
+    },
+    "contrast-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10m8-10a8 8 0 0 1-14.81 4.2A9 9 0 0 0 16.2 5.19 8 8 0 0 1 20 12\"\n  />\n</svg>\n"
+    },
+    "shadow-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M18 2H2v16h4v4h16V6h-4zm0 7.086V8h2v3.086zm0 5v-2.172l2 2v2.172zM16.914 18H18v-1.086l2 2V20h-1.086zm-5 0h2.172l2 2h-2.172zM8 18h1.086l2 2H8z\"\n  />\n</svg>\n"
+    },
+    "magic-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M5.834 9.877 3.93 4.714 5.214 3.43l5.163 1.903L14.7 1.928l1.618.824-.215 5.499 4.575 3.058-.284 1.793-5.296 1.495-1.495 5.296-1.793.284-3.058-4.575-5.499.215-.824-1.618z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"m16.182 17.096 4.243 4.243 1.414-1.415-4.243-4.242z\"\n  />\n</svg>\n"
+    },
+    "drag-drop-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3 2 2 3v1h2V2zm5 0H6v2h2zm2 0h2v2h-2zm5 0h-1v2h2V3zM2 8V6h2v2zm14 0V6h-2v2H9L8 9v5H6v2h2v5l1 1h10.86l-1.762-3.054-2.223 2.15-.036-8.063L22 16.627V9l-1-1z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"m22 17.325-2.17.621 1.912 3.312L22 21zM2 12v-2h2v2zm0 2v1l1 1h1v-2z\"\n  />\n</svg>\n"
+    },
+    "crop-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M5 5V2h2v3h11l1 1v11h3v2h-3v3h-2v-3H6l-1-1V7H2V5z\"\n  />\n</svg>\n"
+    },
+    "crop-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M15 9H9v6h6z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M5 7v11l1 1h11v3h2v-3h3v-2h-3V6.414l2.207-2.207-1.414-1.414L17.586 5H7V2H5v3H2v2zm2 0h10v10H7z\"\n  />\n</svg>\n"
+    },
+    "shape-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3 2 2 3v4l1 1h1v8H3l-1 1v4l1 1h4l1-1v-1h8v1l1 1h4l1-1v-4l-1-1h-1V8h1l1-1V3l-1-1h-4l-1 1v1H8V3L7 2zm3 14V8h1l1-1V6h8v1l1 1h1v8h-1l-1 1v1H8v-1l-1-1z\"\n  />\n</svg>\n"
+    },
+    "shape-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M2 5a3 3 0 0 1 5.83-1h8.34A3.001 3.001 0 1 1 20 7.83v8.34A3.001 3.001 0 1 1 16.17 20H7.83A3.001 3.001 0 1 1 4 16.17V7.83A3 3 0 0 1 2 5m16 11.17V7.83A3 3 0 0 1 16.17 6H7.83A3 3 0 0 1 6 7.83v8.34A3 3 0 0 1 7.83 18h8.34A3 3 0 0 1 18 16.17\"\n  />\n</svg>\n"
+    },
+    "artboard-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M18 5V2h-2v3zM6 6h12v12H6zm12 16v-3h-2v3zM8 2v3H6V2zm0 20v-3H6v3zM22 8h-3V6h3zm-3 10h3v-2h-3zM5 18H2v-2h3zM2 8h3V6H2z\"\n  />\n</svg>\n"
+    },
+    "anticlockwise-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m9.293 4.293 3.5-3.5L14.5 1.5V4H16a5 5 0 0 1 5 5v4h-2V9a3 3 0 0 0-3-3h-1.5v2.5l-1.707.707-3.5-3.5zM4 10l-1 1v10l1 1h10l1-1V11l-1-1z\"\n  />\n</svg>\n"
+    },
+    "clockwise-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m14.707 4.293-3.5-3.5L9.5 1.5V4H8a5 5 0 0 0-5 5v4h2V9a3 3 0 0 1 3-3h1.5v2.5l1.707.707 3.5-3.5zM20 10l1 1v10l-1 1H10l-1-1V11l1-1z\"\n  />\n</svg>\n"
+    },
+    "anticlockwise-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M6 9.5V8a3 3 0 0 1 3-3h4V3H9a5 5 0 0 0-5 5v1.5H1.5l-.707 1.707 3.5 3.5h1.414l3.5-3.5L8.5 9.5zM10 20l1 1h10l1-1V10l-1-1H11l-1 1z\"\n  />\n</svg>\n"
+    },
+    "clockwise-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M18 9.5V8a3 3 0 0 0-3-3h-4V3h4a5 5 0 0 1 5 5v1.5h2.5l.707 1.707-3.5 3.5h-1.414l-3.5-3.5L15.5 9.5zM14 20l-1 1H3l-1-1V10l1-1h10l1 1z\"\n  />\n</svg>\n"
+    },
+    "input-method-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M13.422 13 12 9.443 10.576 13z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm10.176 3h-2.354l-4 10h2.154l.8-2h4.446l.8 2h2.154z\"\n  />\n</svg>\n"
+    },
+    "t-box-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm4 4v2h4v7h2v-7h4V8z\"\n  />\n</svg>\n"
+    },
+    "focus-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12m10 2a2 2 0 1 0 0-4 2 2 0 0 0 0 4\"\n  />\n</svg>\n"
+    },
+    "focus-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 6a6 6 0 1 0 0 12 6 6 0 0 0 0-12m0 8a2 2 0 1 1 0-4 2 2 0 0 1 0 4\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12m10-8a8 8 0 1 0 0 16 8 8 0 0 0 0-16\"\n  />\n</svg>\n"
+    },
+    "focus-3-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M11 19.938A8.004 8.004 0 0 1 4.062 13H1v-2h3.062A8.004 8.004 0 0 1 11 4.062V1h2v3.062A8.004 8.004 0 0 1 19.938 11H23v2h-3.062A8.004 8.004 0 0 1 13 19.938V23h-2zM12 14a2 2 0 1 0 0-4 2 2 0 0 0 0 4\"\n  />\n</svg>\n"
+    },
+    "crosshair-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2m-7.938 9A8.004 8.004 0 0 1 11 4.062V7h2V4.062A8.004 8.004 0 0 1 19.938 11H17v2h2.938A8.004 8.004 0 0 1 13 19.938V17h-2v2.938A8.004 8.004 0 0 1 4.062 13H7v-2z\"\n  />\n</svg>\n"
+    },
+    "crosshair-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M13 1h-2v2.055A9.004 9.004 0 0 0 3.055 11H1v2h2.055A9.004 9.004 0 0 0 11 20.945V23h2v-2.055A9.004 9.004 0 0 0 20.945 13H23v-2h-2.055A9.004 9.004 0 0 0 13 3.055zM5.07 13H7v-2H5.07A7.005 7.005 0 0 1 11 5.07V7h2V5.07A7 7 0 0 1 18.93 11H17v2h1.93A7 7 0 0 1 13 18.93V17h-2v1.93A7 7 0 0 1 5.07 13\"\n  />\n</svg>\n"
+    },
+    "scissors-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m14.121 12.5 5.318-5.318a3 3 0 0 0 0-4.243L12 10.38 4.56 2.94a3 3 0 0 0 0 4.243L9.88 12.5 7.9 14.479a4 4 0 1 0 1.918 2.325l2.183-2.183 2.182 2.182A4 4 0 1 0 16.1 14.48zM4 18a2 2 0 1 1 4 0 2 2 0 0 1-4 0m12 0a2 2 0 1 1 4 0 2 2 0 0 1-4 0\"\n  />\n</svg>\n"
+    },
+    "scissors-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m13.168 15.61 4.494 4.494a3 3 0 0 0 4.243 0l-6.616-6.616z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M17.557 4.148a3 3 0 0 1 4.242 0L9.61 16.338a4 4 0 1 1-2.25-1.992l2.273-2.273-2.206-2.205A4 4 0 1 1 9.64 7.839l2.113 2.113zM8.027 6.12a2 2 0 1 0-4 0 2 2 0 0 0 4 0m0 12a2 2 0 1 0-4 0 2 2 0 0 0 4 0\"\n  />\n</svg>\n"
+    },
+    "scissors-cut-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M17.557 4.148a3 3 0 0 1 4.242 0L9.61 16.338a4 4 0 1 1-2.25-1.992l2.273-2.273-2.206-2.205A4 4 0 1 1 9.64 7.839l2.113 2.113zM8.027 6.12a2 2 0 1 0-4 0 2 2 0 0 0 4 0m0 12a2 2 0 1 0-4 0 2 2 0 0 0 4 0\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"m13.168 15.61 4.494 4.494a3 3 0 0 0 4.243 0l-6.616-6.616zM2 11h2v2H2zm6 0H6v2h2zm8 0h2v2h-2zm6 0h-2v2h2z\"\n  />\n</svg>\n"
+    },
+    "screenshot-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"m3 4 1-1h16l1 1v9h-2V5H5v8H3z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M13 18c0-.554.113-1.082.317-1.562L12 15.12l-1.317 1.317a4 4 0 1 1-2.121-2.121L9.88 13 6.44 9.56l2.122-2.12L12 10.878l3.44-3.44 2.12 2.122L14.122 13l1.317 1.316A4 4 0 1 1 13 18m4-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4M5 18a2 2 0 1 0 4 0 2 2 0 0 0-4 0\"\n  />\n</svg>\n"
+    },
+    "pencil-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m22.252 6.486-4.243-4.243-2.828 2.828 4.243 4.243zM3.574 16.678v4.243h4.243l10.192-10.193-4.242-4.242z\"\n  />\n</svg>\n"
+    },
+    "edit-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m16 1.67 4.243 4.243L8.229 17.926H3.986v-4.242zM4 22h16v-2H4z\"\n  />\n</svg>\n"
+    },
+    "edit-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M20.97 4.828 16.729.586 13.9 3.414l4.243 4.243zm-4.242 4.243-4.243-4.243L3 14.314v4.242h4.243zM21 22H3v-2h18z\"\n  />\n</svg>\n"
+    },
+    "ball-pen-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M17.097 2.04h1.414l2.828 2.828v1.415l-1.414 1.414-4.243-4.243zm-2.829 2.828L2.66 16.475v4.243h4.243l10.192-10.193.707.707-6.364 6.364 1.414 1.415 7.071-7.071v-1.415z\"\n  />\n</svg>\n"
+    },
+    "slice-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M18.303 3.247 2.205 19.345l1.714.428.242-.97-.241.97.001.001h.004l.008.003.022.005.07.015q.087.018.236.043c.2.03.48.065.83.083.704.037 1.694.012 2.89-.228 2.403-.48 5.586-1.813 8.908-5.134l.707-.707-1.768-1.768 5.657-5.657z\"\n  />\n</svg>\n"
+    },
+    "edit-box-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"m20.4 2-9.193 9.192v1.415h1.414l9.193-9.193z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M9.207 10.364 16.571 3H4L3 4v16l1 1h16l1-1V7.056l-7.55 7.55H9.207z\"\n  />\n</svg>\n"
+    },
+    "edit-circle-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m20.4 2-9.193 9.192v1.415h1.414l7.038-7.038 2.155-2.155z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"m9.207 10.364 7.296-7.295A9.96 9.96 0 0 0 12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10a9.96 9.96 0 0 0-1.196-4.747l-7.354 7.354H9.207z\"\n  />\n</svg>\n"
+    },
+    "pen-nib-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m14.154 5.254-6.584.44-.098.823v.003l-.003.016-.009.068q-.011.091-.038.273a36 36 0 0 1-.978 4.43c-.784 2.7-2.053 5.767-3.99 7.703l1.06 1.061 5.847-5.846a2 2 0 1 1 1.414 1.414L4.93 21.485l1.06 1.06c1.937-1.936 5.004-3.205 7.704-3.989a36 36 0 0 1 4.43-.978l.273-.038.068-.01.016-.001h.004l.823-.1.439-6.583zm7.038 4.21-5.656-5.656.707-2.122 7.07 7.071z\"\n  />\n</svg>\n"
+    },
+    "mark-pen-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M15.523 1.156 7.224 9.455l-.707 2.121-2.308 2.308 5.657 5.657 2.308-2.308 2.121-.707 8.299-8.299zm-4.95 10.607 4.95-4.95 1.414 1.414-4.95 4.95zm-6.01 4.596 2.828 2.828-1.414 1.415-4.243-1.415z\"\n  />\n</svg>\n"
+    },
+    "markup-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2M6.635 17.934A7.97 7.97 0 0 0 12 20a7.97 7.97 0 0 0 5.366-2.066l-1.417-4.25L15 13H9l-.949.684zM10 10.5v1h4v-1l-1.05-3.777a.987.987 0 0 0-1.9 0z\"\n  />\n</svg>\n"
+    },
+    "sip-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m14.328 5.947-1.767-1.768-1.415 1.414 7.071 7.071 1.415-1.414-1.768-1.768 2.828-2.828V5.24l-2.121-2.122h-1.415zM2.673 16.895l8.552-8.552 4.243 4.243-8.553 8.552-3.727-.516z\"\n  />\n</svg>\n"
+    },
+    "eraser-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M13.577 19H21v2H8v.02L.586 13.608 12.607 1.586l9.192 9.192zm2.566-5.393 2.828-2.829-6.364-6.364-2.828 2.829z\"\n  />\n</svg>\n"
+    },
+    "ruler-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M4.782 13.061.54 17.304l6.364 6.364L23.168 7.404 16.804 1.04l-3.536 3.536 2.828 2.828-1.414 1.414-2.828-2.828L9.73 8.11l3.525 3.537-1.401 1.414L8.32 9.53l-2.123 2.117 2.828 2.828L7.61 15.89z\"\n  />\n</svg>\n"
+    },
+    "pencil-ruler-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M11 6.63 7 1.963 3 6.63V22h8zM5 20v-2h4v2zM21 4h-8v18h8v-4h-4v-2h4v-2h-5v-2h5v-2h-4V8h4z\"\n  />\n</svg>\n"
+    },
+    "pencil-ruler-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M9.88 5.636 5.636 9.878 1.748 5.99l4.243-4.243zM16.243 2.1 21.9 7.757 7.756 21.9 2.1 16.243l3.535-3.535 2.828 2.828 1.414-1.415-2.828-2.828L8.464 9.88 12 13.414 13.414 12 9.878 8.465l1.415-1.414 2.828 2.828 1.414-1.414-2.828-2.829zm-2.121 16.264 4.243-4.243 2.06 2.06v4.244h-4.242z\"\n  />\n</svg>\n"
+    },
+    "ruler-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3 3h9v9h9v9h-3v-3h-2v3h-2v-4h-2v4h-2v-3H8v3H3v-5h3v-2H3v-2h4v-2H3V8h3V6H3z\"\n  />\n</svg>\n"
+    },
+    "artboard-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m4 4 1-1h14l1 1v9l-1 1H5l-1-1zm17 11H3v2h5.586l-3.293 3.293 1.414 1.414L11 17.414V20h2v-2.586l4.293 4.293 1.414-1.414L15.414 17H21z\"\n  />\n</svg>\n"
+    },
+    "pantone-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m5.626 5.9-.55 1.31 5.74 13.858 1.355.52 8.76-4.186.507-1.25-5-13.5-1.312-.58zm5.624 2.6a1 1 0 1 1-2 0 1 1 0 0 1 2 0M6 20v-6.64L9.164 21H7zm-3.945-2.318L4.5 10.646v8.97l-1.84-.665z\"\n  />\n</svg>\n"
+    },
+    "compasses-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M13 4.126a4.002 4.002 0 0 1 1.79 6.74l6.078 10.638-1.736.992-6.078-10.636a4 4 0 0 1-2.108 0L4.868 22.496l-1.736-.992L9.21 10.867A4.002 4.002 0 0 1 11 4.127V1.999h2zM12 9a1 1 0 1 0 0-2 1 1 0 0 0 0 2\"\n  />\n</svg>\n"
+    },
+    "compasses-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M13 4.126a4.002 4.002 0 0 1 1.79 6.74l1.516 2.653A6.99 6.99 0 0 0 19 8h2a8.99 8.99 0 0 1-3.694 7.27l3.562 6.234-1.736.992-3.562-6.232A9 9 0 0 1 12 17a9 9 0 0 1-3.57-.736l-3.562 6.232-1.736-.992L9.21 10.867A4.002 4.002 0 0 1 11 4.127V1.999h2zM12 9a1 1 0 1 0 0-2 1 1 0 0 0 0 2m0 3q-.549-.002-1.054-.14L9.43 14.514A7 7 0 0 0 12 15c.907 0 1.774-.173 2.57-.487l-1.516-2.653q-.506.138-1.054.14\"\n  />\n</svg>\n"
+    },
+    "quill-pen-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M5 22c0-1.332.317-2.277.771-2.973.458-.7 1.1-1.215 1.853-1.611.758-.4 1.6-.666 2.43-.882.263-.069.542-.136.82-.202.527-.127 1.05-.252 1.442-.383 2.542-.847 4.481-2.808 5.578-5.002l.323-.644-1.263-1.263c1.026-1.012 1.914-2.233 2.572-3.245a29 29 0 0 0 1.34-2.294l.02-.038.006-.01.002-.006L21.618 2H20C13.552 2 9.27 5.653 6.648 9.913 4.047 14.141 3 19.074 3 22zM20 3l.894.447z\"\n  />\n</svg>\n"
+    },
+    "brush-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m16.889 2.161 4.95 4.95-3.536 3.535 3.182 3.182-8.486 8.486h-1.414l-9.9-9.9V11l8.486-8.485 3.182 3.182zm0 2.828-3.536 3.536-3.182-3.182L8.05 7.464l8.485 8.486 2.121-2.122-3.182-3.182 3.536-3.535z\"\n  />\n</svg>\n"
+    },
+    "brush-3-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M16 2H8v4H2v7h1.5v8l1 1H8v-6h2v6h9.5l1-1v-8H22V6h-6zM4 11V8h6V4h4v4h6v3z\"\n  />\n</svg>\n"
+    },
+    "brush-4-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M16 23H8v-4H2v-7h1.5V4l1-1H8v6h2V3h9.5l1 1v8H22v7h-6zM4 14v3h6v4h4v-4h6v-3z\"\n  />\n</svg>\n"
+    },
+    "brush-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m18.745 11.557 4.029-4.924-.067-1.34-3-3-1.332-.074-5 4 .017.022A7.5 7.5 0 0 0 4 13.5c0 1.585-1.133 2.719-2.196 3.781L.748 18.338l1.358.582c.662.284 2.355.8 4.086 1.238C7.905 20.59 9.856 21 11 21q.117 0 .234-.009.132.009.266.009a7.5 7.5 0 0 0 7.245-9.443m-3.297-4.435 3.477-2.782 1.728 1.727L17.845 9.5a7.54 7.54 0 0 0-2.397-2.377\"\n  />\n</svg>\n"
+    },
+    "paint-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M9.586 4.5 7.793 2.707l1.414-1.414L20.914 13 11 22.914 1.086 13zM11 5.914 3.914 13h14.172zM20.5 23c1.38 0 2.5-1.102 2.5-2.462C23 19.18 20.5 17 20.5 17S18 19.179 18 20.538C18 21.899 19.12 23 20.5 23\"\n  />\n</svg>\n"
+    },
+    "palette-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M2 12C2 6.477 6.477 2 12 2c2.349 0 4.51.811 6.218 2.168.815.569 1.733 1.466 2.457 2.528C21.403 7.763 22 9.094 22 10.5c0 1.746-.574 3.175-1.71 4.149C19.178 15.6 17.664 16 16 16h-2a2 2 0 0 0-1.242 3.568c.502.398.542 1.003.475 1.356C13.171 21.256 12.856 22 12 22 6.477 22 2 17.523 2 12m10-3a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m-4.5 3a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3M18 10.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0\"\n  />\n</svg>\n"
+    },
+    "paint-brush-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m3 4 1-1h16l1 1v5l-1 1H4L3 9zm11 12h-1v-4H6v-1H4v3h7v2h-1v6h4zm5.5 2c1.38 0 2.5-1.102 2.5-2.461C22 14.179 19.5 12 19.5 12S17 14.179 17 15.539C17 16.898 18.12 18 19.5 18\"\n  />\n</svg>\n"
+    },
+    "ink-bottle-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m7 4 1-1h8l1 1v4H7zm2 1v1h6V5zm8.303 4H6.697L3 11.465V22h18V11.465zM20 14v5H8v-5z\"\n  />\n</svg>\n"
+    },
+    "hammer-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M8.053 2.106 8.5 2H15v20l-1 1h-4l-1-1V9H2.5V4.882zM17 9h3l1-1V3l-1-1h-3z\"\n  />\n</svg>\n"
+    }
+  },
+  "Shopping and E-commerce": {
+    "shopping-cart-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M.793 3.207 4 6.414V18l1 1h12v-2H6v-2h12l.954-.702 2.5-8L20.5 5H5.414L2.207 1.793zM6 7h13.14l-1.875 6H6z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M.793 3.207 4 6.414V18l1 1h12v-2H6v-2h12l.954-.702 2.5-8L20.5 5H5.414L2.207 1.793zM6 7h13.14l-1.875 6H6z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M.793 3.207 4 6.414V18l1 1h12v-2H6v-2h12l.954-.702 2.5-8L20.5 5H5.414L2.207 1.793zM6 7h13.14l-1.875 6H6zm1 14.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0\"\n  />\n  <path fill=\"currentColor\" d=\"M7 21.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M7 21.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0M17.5 23a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3\"\n  />\n  <path fill=\"currentColor\" d=\"M17.5 23a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3\" />\n  <path fill=\"currentColor\" d=\"M17.5 23a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3\" />\n</svg>\n"
+    },
+    "shopping-cart-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M4 4H2V2h3l1 1v12h12.22l2-8H8V5h13.5l.97 1.243-2.5 10L19 17H5l-1-1z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M4 4H2V2h3l1 1v12h12.22l2-8H8V5h13.5l.97 1.243-2.5 10L19 17H5l-1-1z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M4 4H2V2h3l1 1v12h12.22l2-8H8V5h13.5l.97 1.243-2.5 10L19 17H5l-1-1zm4 17a2 2 0 1 1-4 0 2 2 0 0 1 4 0\"\n  />\n  <path fill=\"currentColor\" d=\"M8 21a2 2 0 1 1-4 0 2 2 0 0 1 4 0\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M8 21a2 2 0 1 1-4 0 2 2 0 0 1 4 0m10 2a2 2 0 1 0 0-4 2 2 0 0 0 0 4\"\n  />\n  <path fill=\"currentColor\" d=\"M18 23a2 2 0 1 0 0-4 2 2 0 0 0 0 4\" />\n  <path fill=\"currentColor\" d=\"M18 23a2 2 0 1 0 0-4 2 2 0 0 0 0 4\" />\n</svg>\n"
+    },
+    "shopping-basket-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M7 13v4h2v-4zm4 4v-4h2v4zm4-4v4h2v-4z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M16.259 9H7.74l2.622-4.496-1.727-1.008L5.426 9H2v2h1.095l.91 9.1L5 21h14l.995-.9.91-9.1H22V9h-3.426l-3.21-5.504-1.728 1.008zM5.105 11h13.79l-.8 8H5.905z\"\n  />\n</svg>\n"
+    },
+    "shopping-basket-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M7 13v4h2v-4zm4 0v4h2v-4zm4 4v-4h2v4z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M12 2a6 6 0 0 1 6 6v1h4v2h-1.095l-.91 9.1L19 21H5l-.995-.9-.91-9.1H2V9h4V8a6 6 0 0 1 6-6m4 7V8a4 4 0 0 0-8 0v1zM5.105 11l.8 8h12.19l.8-8z\"\n  />\n</svg>\n"
+    },
+    "shopping-bag-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 1a5 5 0 0 0-5 5v2H4L3 9v12l1 1h16l1-1V9l-1-1h-3V6a5 5 0 0 0-5-5m3 9v2h2v-2h2v10H5V10h2v2h2v-2zm0-2H9V6a3 3 0 1 1 6 0z\"\n  />\n</svg>\n"
+    },
+    "shopping-bag-3-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M7 12a5 5 0 0 0 10 0v-2h-2v2a3 3 0 1 1-6 0v-2H7z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M18.054 2 21 6.713V22H3V6.713L5.946 2zm.142 4-1.25-2H7.054l-1.25 2zM5 8v12h14V8z\"\n  />\n</svg>\n"
+    },
+    "shopping-bag-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 13a5 5 0 0 1-5-5V6h2v2a3 3 0 1 0 6 0V6h2v2a5 5 0 0 1-5 5\"\n  />\n  <path fill=\"currentColor\" d=\"M21 2H3v20h18zM5 20V4h14v16z\" />\n</svg>\n"
+    },
+    "price-tag-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M12 11a2 2 0 1 0 0-4 2 2 0 0 0 0 4\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M20 7.014 12 .728 4 7.014V22h16zM6 20V7.986l6-4.714 6 4.714V20z\"\n  />\n</svg>\n"
+    },
+    "price-tag-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 11a2 2 0 1 0 0-4 2 2 0 0 0 0 4m4 2v2H8v-2zm0 5v-2H8v2z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M20 7.014 12 .728 4 7.014V22h16zM6 20V7.986l6-4.714 6 4.714V20z\"\n  />\n</svg>\n"
+    },
+    "price-tag-3-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <g fill=\"currentColor\" clip-path=\"url(#a)\">\n    <path d=\"M13.352 11.147a2 2 0 1 0 2.828-2.829 2 2 0 0 0-2.828 2.829\" />\n    <path\n      d=\"M21.827 13.985 20.615 3.883 10.514 2.671-.083 13.268l11.314 11.314zm-19.082-.717 8.496-8.495 7.576.909.909 7.576-8.495 8.495z\"\n    />\n  </g>\n  <defs>\n    <clipPath id=\"a\"><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" /></clipPath>\n  </defs>\n</svg>\n"
+    },
+    "ticket-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M2 3h20v7h-1a2 2 0 1 0 0 4h1v7H2v-7h1a2 2 0 1 0 0-4H2zm2 2v3.126a4.002 4.002 0 0 1 0 7.748V19h16v-3.126a4.002 4.002 0 0 1 0-7.748V5z\"\n  />\n</svg>\n"
+    },
+    "coupon-5-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M9 6h6v2H9zm6 10H9v2h6z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M3 2h18v8h-1a2 2 0 1 0 0 4h1v8H3v-8h1a2 2 0 1 0 0-4H3zm2 2v4.126a4.002 4.002 0 0 1 0 7.748V20h14v-4.126a4.002 4.002 0 0 1 0-7.748V4z\"\n  />\n</svg>\n"
+    },
+    "coupon-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M9 9h6v2H9zm6 4H9v2h6z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M2 3h20v7h-1a2 2 0 1 0 0 4h1v7H2v-7h1a2 2 0 1 0 0-4H2zm2 2v3.126a4.002 4.002 0 0 1 0 7.748V19h16v-3.126a4.002 4.002 0 0 1 0-7.748V5z\"\n  />\n</svg>\n"
+    },
+    "coupon-4-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M16 16V8h2v8zM6 8v8h2V8z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M2 3h8v1a2 2 0 1 0 4 0V3h8v18h-8v-1a2 2 0 1 0-4 0v1H2zm2 2v14h4.126a4.002 4.002 0 0 1 7.748 0H20V5h-4.126a4.002 4.002 0 0 1-7.748 0z\"\n  />\n</svg>\n"
+    },
+    "coupon-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M2 3h20v7h-1a2 2 0 1 0 0 4h1v7H2v-7h1a2 2 0 1 0 0-4H2zm11 2H4v3.126a4.002 4.002 0 0 1 0 7.748V19h9zm2 14h5v-3.126a4.002 4.002 0 0 1 0-7.748V5h-5z\"\n  />\n</svg>\n"
+    },
+    "ticket-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M16 9H8v6h8z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M22 3H2v7h1a2 2 0 1 1 0 4H2v7h20v-7h-1a2 2 0 1 1 0-4h1zM4 8.126V5h16v3.126a4.002 4.002 0 0 0 0 7.748V19H4v-3.126a4.002 4.002 0 0 0 0-7.748\"\n  />\n</svg>\n"
+    },
+    "coupon-3-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M11 9.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m0 5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M22 3H2v18h20v-7h-1a2 2 0 1 1 0-4h1zM10.915 19a1.5 1.5 0 0 0-2.83 0H4V5h4.085a1.5 1.5 0 0 0 2.83 0H20v3.126a4.002 4.002 0 0 0 0 7.748V19z\"\n  />\n</svg>\n"
+    },
+    "refund-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M11.914 13H16v2h-4.086l.793.793-1.414 1.414L8.086 14l3.207-3.207 1.414 1.414z\"\n  />\n  <path fill=\"currentColor\" d=\"M22 3H2v18h20zM4 7V5h16v2zm0 2h16v10H4z\" />\n</svg>\n"
+    },
+    "gift-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M16.24 2.462A3.5 3.5 0 0 1 17.67 7H22v.903q.005.05.005.1v4q0 .05-.005.1V13h-.92l-.075.003h-1v8q0 .05-.005.1V22h-.92l-.075.003h-14L4.929 22H4v-8.997h-.995L2.929 13H2V7h4.337A3.5 3.5 0 0 1 12 3.05 3.5 3.5 0 0 1 14.5 2c.633 0 1.227.168 1.74.462M9.65 4.01l-.145-.007a1.5 1.5 0 0 0-.75 2.8c.22.125.474.197.745.197H11V5.5a1.5 1.5 0 0 0-1.35-1.49M14.5 7a1.5 1.5 0 0 0 .15-2.99l-.145-.007-.145.007a1.5 1.5 0 0 0-1.348 1.348l-.007.145V7zm5.5 4V9.003H4.005V11zm-2 9v-6.997H6.005V20z\"\n  />\n</svg>\n"
+    },
+    "gift-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 3.05A3.5 3.5 0 1 1 16.95 8H23v2h-2v12H3V10H1V8h6.05A3.5 3.5 0 1 1 12 3.05M9.5 4a1.5 1.5 0 1 0 0 3H11V5.5A1.5 1.5 0 0 0 9.5 4M13 5.5V7h1.5A1.5 1.5 0 1 0 13 5.5m6 8.5v-4h-6v4zm0 2h-6v4h6zm-8-2v-4H5v4zm-6 2v4h6v-4z\"\n  />\n</svg>\n"
+    },
+    "red-packet-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3 2h18v20H3zm16 2H5v3.141a10 10 0 0 0 4.827 2.622 2.5 2.5 0 0 1 4.346 0A10 10 0 0 0 19 7.141zm-9.381 7.764A11.9 11.9 0 0 1 5 9.748V20h14V9.748a11.9 11.9 0 0 1-4.619 2.016 2.501 2.501 0 0 1-4.762 0\"\n  />\n</svg>\n"
+    },
+    "discount-percent-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M9.5 11a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m6.5 3.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m-6.793 1.707 7-7-1.414-1.414-7 7z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M9.702 2.793a2.977 2.977 0 0 1 4.597 0c.63.766 1.6 1.167 2.586 1.071a2.977 2.977 0 0 1 3.25 3.251 2.98 2.98 0 0 0 1.072 2.586 2.977 2.977 0 0 1 0 4.598 2.98 2.98 0 0 0-1.071 2.586 2.977 2.977 0 0 1-3.25 3.25 2.98 2.98 0 0 0-2.587 1.072 2.977 2.977 0 0 1-4.597 0 2.98 2.98 0 0 0-2.587-1.071 2.977 2.977 0 0 1-3.25-3.251 2.98 2.98 0 0 0-1.072-2.587 2.977 2.977 0 0 1 0-4.597 2.98 2.98 0 0 0 1.072-2.586 2.977 2.977 0 0 1 3.25-3.25 2.98 2.98 0 0 0 2.587-1.072m-2.78 3.062a.977.977 0 0 0-1.067 1.067 4.98 4.98 0 0 1-1.79 4.324.977.977 0 0 0 0 1.508 4.98 4.98 0 0 1 1.79 4.324.977.977 0 0 0 1.067 1.067c1.65-.16 3.27.511 4.324 1.791a.977.977 0 0 0 1.508 0 4.98 4.98 0 0 1 4.324-1.791.977.977 0 0 0 1.067-1.067 4.98 4.98 0 0 1 1.791-4.324.977.977 0 0 0 0-1.508 4.98 4.98 0 0 1-1.79-4.324.977.977 0 0 0-1.068-1.067 4.98 4.98 0 0 1-4.323-1.791.977.977 0 0 0-1.51 0 4.98 4.98 0 0 1-4.323 1.791\"\n  />\n</svg>\n"
+    },
+    "refund-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M4.219 5.719 2.5 4v5h5L5.643 7.143A8 8 0 1 1 4 12H2c0 5.523 4.477 10 10 10s10-4.477 10-10S17.523 2 12 2a9.98 9.98 0 0 0-7.781 3.719\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M15.5 8H13V6h-2v2h-.5a2.5 2.5 0 0 0 0 5h3a.5.5 0 0 1 0 1h-5v2H11v2h2v-2h.5a2.5 2.5 0 0 0 0-5h-3a.5.5 0 0 1 0-1h5z\"\n  />\n</svg>\n"
+    },
+    "goggles-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M1 12.5a6 6 0 0 1 6-6h10a6 6 0 0 1 6 6c0 1.51-.336 2.991-1.154 4.122C20.996 17.795 19.69 18.5 18 18.5c-.777 0-1.476-.266-2.073-.59-.593-.323-1.154-.742-1.643-1.113l-.095-.072c-.473-.358-.876-.664-1.267-.893-.417-.245-.708-.332-.922-.332s-.505.087-.922.332c-.391.229-.794.535-1.267.893l-.095.072c-.49.37-1.05.79-1.643 1.113-.597.324-1.296.59-2.073.59-1.69 0-2.996-.705-3.846-1.878C1.336 15.492 1 14.01 1 12.5m6-4a4 4 0 0 0-4 4c0 1.25.283 2.27.775 2.95.46.636 1.154 1.05 2.225 1.05.318 0 .68-.11 1.118-.347.442-.24.89-.57 1.39-.95l.117-.089c.446-.339.943-.716 1.442-1.008.543-.318 1.201-.606 1.933-.606s1.39.288 1.933.606c.5.292.996.67 1.442 1.008l.117.089c.5.38.948.71 1.39.95.438.238.8.347 1.118.347 1.07 0 1.765-.415 2.225-1.05.492-.68.775-1.7.775-2.95a4 4 0 0 0-4-4z\"\n  />\n</svg>\n"
+    },
+    "glasses-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M1 12a5 5 0 0 1 8.192-3.849A4 4 0 0 1 12 7a4 4 0 0 1 2.808 1.151 5 5 0 1 1-1.264 1.578A2 2 0 0 0 12 9c-.622 0-1.178.284-1.544.729A5 5 0 1 1 1 12m5-3a3 3 0 1 0 0 6 3 3 0 0 0 0-6m9 3a3 3 0 1 0 6 0 3 3 0 0 0-6 0\"\n  />\n</svg>\n"
+    },
+    "glasses-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M5 2H2L1 3v11.5h.025a5 5 0 1 0 9.926-.203A2 2 0 0 1 12 14c.385 0 .744.109 1.05.297Q13 14.642 13 15a5 5 0 1 0 9.975-.5H23V3l-1-1h-3v2h2v7a4.98 4.98 0 0 0-3-1c-1.806 0-3.39.958-4.268 2.393A4 4 0 0 0 12 12c-.62 0-1.208.141-1.732.393A5 5 0 0 0 6 10a4.98 4.98 0 0 0-3 1V4h2zm1 10a3 3 0 1 1 0 6 3 3 0 0 1 0-6m9 3a3 3 0 1 1 6 0 3 3 0 0 1-6 0\"\n  />\n</svg>\n"
+    },
+    "t-shirt-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m1.293 6.536 4.243-4.243H6.95L9.657 5h4.686l2.707-2.707h1.415l4.242 4.243V7.95L19 11.657V21l-1 1H6l-1-1v-9.343L1.293 7.95zm2.121.707L7 10.828V20h10v-9.171l3.586-3.586-2.829-2.829L15.172 7H8.828L6.243 4.414z\"\n  />\n</svg>\n"
+    },
+    "t-shirt-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M2 3h6.901l.193.75a3.002 3.002 0 0 0 5.812 0l.193-.75H22v9h-3v9H5v-9H2zm2 2v5h3v9h10v-9h3V5h-3.416a5 5 0 0 1-9.168 0z\"\n  />\n</svg>\n"
+    },
+    "t-shirt-air-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M8.901 3H2v9h3v9h5v-2H7v-9H4V5h3.416a5 5 0 0 0 9.168 0H20v5h-3v2h5V3h-6.901l-.194.75a3.002 3.002 0 0 1-5.81 0z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"m12.439 16.168-1.08-.9 1.28-1.536 1.08.9c.77.64 1.88.67 2.68.068a4.16 4.16 0 0 1 5.161.132l1.08.9-1.28 1.536-1.08-.9a2.16 2.16 0 0 0-2.68-.068 4.16 4.16 0 0 1-5.161-.132m-1.079 3.1 1.079.9a4.16 4.16 0 0 0 5.16.132 2.16 2.16 0 0 1 2.68.069l1.08.9 1.28-1.537-1.079-.9a4.16 4.16 0 0 0-5.16-.132 2.16 2.16 0 0 1-2.68-.069l-1.08-.9z\"\n  />\n</svg>\n"
+    },
+    "shirt-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    fill-rule=\"evenodd\"\n    d=\"M17 3H7v1H4L3 5v16l1 1h16l1-1V5l-1-1h-3zm-1.5 2h-7L12 8zM5 6h2v5l4-1.6V20H5zm8 14V9.4l4 1.6V6h2v8h-4v2h4v4z\"\n    clip-rule=\"evenodd\"\n  />\n</svg>\n"
+    },
+    "handbag-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M14 15v-2h-4v2z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M4 9h1a7 7 0 0 1 14 0h1l.996.91 1 11L21 22H3l-.996-1.09 1-11zm8-5a5 5 0 0 0-5 5h10a5 5 0 0 0-5-5m-7.087 7-.818 9h15.81l-.818-9z\"\n  />\n</svg>\n"
+    },
+    "community-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 7v2h2V7zm4 2V7h2v2zm0 2v2h2v-2zm0 6v-2h2v2z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M7 3 6 4v4.82l-3.625 2.9L2 12.5V20l1 1h18l1-1V4l-1-1zm1.625 4.72H8V5h12v14h-6v-6.5l-.375-.78zM4 12.98l4-3.2 4 3.2V19H9v-4H7v4H4z\"\n  />\n</svg>\n"
+    },
+    "store-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M19.644 2H4.356L1.691 7.863A4.24 4.24 0 0 0 1.25 9.75c0 1.413.69 2.665 1.75 3.437V21l1 1h16l1-1v-7.813a4.24 4.24 0 0 0 1.75-3.437c0-.676-.159-1.317-.441-1.887zM19 13.97V20H5v-6.03q.245.03.5.03a4.24 4.24 0 0 0 3.25-1.511A4.24 4.24 0 0 0 12 14a4.24 4.24 0 0 0 3.25-1.511A4.24 4.24 0 0 0 19 13.97M3.496 8.726 5.644 4h12.712l2.148 4.725.008.017a2.25 2.25 0 1 1-4.256 1.182L16.187 9h-1.872l-.07.924a2.25 2.25 0 0 1-4.487 0L9.687 9H7.813l-.07.924a2.25 2.25 0 1 1-4.256-1.182z\"\n  />\n</svg>\n"
+    },
+    "store-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M22 2H2v7a4 4 0 0 0 1 2.646V21l1 1h16l1-1v-9.354c.622-.705 1-1.632 1-2.646zm-3 10.874V20H5v-7.126a4.01 4.01 0 0 0 4-1.228A4 4 0 0 0 12 13a4 4 0 0 0 3-1.354 3.99 3.99 0 0 0 4 1.228M8 9a2 2 0 1 1-4 0V4h16v5a2 2 0 1 1-4 0V8h-2v1a2 2 0 1 1-4 0V8H8z\"\n  />\n</svg>\n"
+    },
+    "store-3-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M3 3h18v2H3zm3 13h8v-2H6z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"m20.82 6 1.4 7H21v8H3v-8H1.78l1.4-7zM19 13H5v6h14zm.78-2-.6-3H4.82l-.6 3z\"\n  />\n</svg>\n"
+    },
+    "shopping-cart-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M.793 3.207 4 6.414V18l1 1h12v-2H6v-2h12l.954-.702 2.5-8L20.5 5H5.414L2.207 1.793z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M.793 3.207 4 6.414V18l1 1h12v-2H6v-2h12l.954-.702 2.5-8L20.5 5H5.414L2.207 1.793z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M.793 3.207 4 6.414V18l1 1h12v-2H6v-2h12l.954-.702 2.5-8L20.5 5H5.414L2.207 1.793zM7 21.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0\"\n  />\n  <path fill=\"currentColor\" d=\"M7 21.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M7 21.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0M17.5 23a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3\"\n  />\n  <path fill=\"currentColor\" d=\"M17.5 23a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3\" />\n  <path fill=\"currentColor\" d=\"M17.5 23a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3\" />\n</svg>\n"
+    },
+    "shopping-cart-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M2 4h2v12l1 1h14l.97-.758 2.5-10L21.5 5H8v2h12.22l-.5 2H6V3L5 2H2zm16 19a2 2 0 1 0 0-4 2 2 0 0 0 0 4M8 21a2 2 0 1 1-4 0 2 2 0 0 1 4 0\"\n  />\n</svg>\n"
+    },
+    "shopping-basket-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M7.74 9h8.519l-2.623-4.496 1.727-1.008L18.573 9H22v2h-1.095l-.91 9.1L19 21H5l-.995-.9-.91-9.1H2V9h3.425l3.21-5.504 1.728 1.008zM7 13v4h2v-4zm4 0v4h2v-4zm4 4h2v-4h-2z\"\n  />\n</svg>\n"
+    },
+    "shopping-basket-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M6 8a6 6 0 1 1 12 0v1h4v2h-1.095l-.91 9.1L19 21H5l-.995-.9-.91-9.1H2V9h4zm10 0a4 4 0 0 0-8 0v1h8zm-9 5v4h2v-4zm4 0v4h2v-4zm4 4h2v-4h-2z\"\n  />\n</svg>\n"
+    },
+    "shopping-bag-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M7 6v2H4L3 9v12l1 1h16l1-1V9l-1-1h-3V6A5 5 0 0 0 7 6m8 0v2H9V6a3 3 0 1 1 6 0m-8 6v-2h2v2zm8 0v-2h2v2z\"\n  />\n</svg>\n"
+    },
+    "shopping-bag-3-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M5.946 2 3 6.713V22h18V6.713L18.054 2zm11 2 1.25 2H5.804l1.25-2zM12 17a5 5 0 0 1-5-5v-2h2v2a3 3 0 1 0 6 0v-2h2v2a5 5 0 0 1-5 5\"\n  />\n</svg>\n"
+    },
+    "shopping-bag-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3 2v20h18V2zm9 11a5 5 0 0 1-5-5V6h2v2a3 3 0 1 0 6 0V6h2v2a5 5 0 0 1-5 5\"\n  />\n</svg>\n"
+    },
+    "price-tag-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m12 .728 8 6.286V22H4V7.014zM12 11a2 2 0 1 0 0-4 2 2 0 0 0 0 4\"\n  />\n</svg>\n"
+    },
+    "price-tag-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m12 .728 8 6.286V22H4V7.014zM12 11a2 2 0 1 0 0-4 2 2 0 0 0 0 4m4 4v-2H8v2zm0 1H8v2h8z\"\n  />\n</svg>\n"
+    },
+    "price-tag-3-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <g clip-path=\"url(#a)\">\n    <path\n      fill=\"currentColor\"\n      d=\"m20.617 3.883 1.212 10.102L11.233 24.58-.081 13.268 10.516 2.67zm-7.264 7.263a2 2 0 1 0 2.829-2.828 2 2 0 0 0-2.829 2.829\"\n    />\n  </g>\n  <defs>\n    <clipPath id=\"a\"><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" /></clipPath>\n  </defs>\n</svg>\n"
+    },
+    "ticket-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M22 3H2v7h1a2 2 0 1 1 0 4H2v7h20v-7h-1a2 2 0 1 1 0-4h1z\"\n  />\n</svg>\n"
+    },
+    "coupon-5-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3 2v8h1a2 2 0 1 1 0 4H3v8h18v-8h-1a2 2 0 1 1 0-4h1V2zm6 4h6v2H9zm0 10h6v2H9z\"\n  />\n</svg>\n"
+    },
+    "coupon-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M2 3v7h1a2 2 0 1 1 0 4H2v7h20v-7h-1a2 2 0 1 1 0-4h1V3zm7 6h6v2H9zm0 4h6v2H9z\"\n  />\n</svg>\n"
+    },
+    "coupon-4-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M2 3v18h8v-1a2 2 0 1 1 4 0v1h8V3h-8v1a2 2 0 1 1-4 0V3zm4 13V8h2v8zm10 0V8h2v8z\"\n  />\n</svg>\n"
+    },
+    "coupon-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M15 3h7v7h-1a2 2 0 1 0 0 4h1v7h-7zm-2 0H2v7h1a2 2 0 1 1 0 4H2v7h11z\"\n  />\n</svg>\n"
+    },
+    "ticket-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M2 3h20v7h-1a2 2 0 1 0 0 4h1v7H2v-7h1a2 2 0 1 0 0-4H2zm14 6H8v6h8z\"\n  />\n</svg>\n"
+    },
+    "coupon-3-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M9.5 3H22v7h-1a2 2 0 1 0 0 4h1v7H9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3H2V3zm0 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3M11 9.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0M9.5 16a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3\"\n  />\n</svg>\n"
+    },
+    "refund-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M2 3h20v4H2zm0 6v12h20V9zm9.996 9.5L8 14.49l3.996-3.99v2.75H16v2.5h-4.004z\"\n  />\n</svg>\n"
+    },
+    "gift-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M6.337 7A3.5 3.5 0 0 1 12 3.05 3.5 3.5 0 0 1 17.663 7H22v5H2V7zM8 5.5A1.5 1.5 0 0 0 9.5 7H11V5.5a1.5 1.5 0 0 0-3 0M14.5 7A1.5 1.5 0 1 0 13 5.5V7zm5.5 7H4v8h16z\"\n  />\n</svg>\n"
+    },
+    "gift-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M9.5 2a3.5 3.5 0 0 0-2.45 6H1v2h3v5h7v-5h2v5h7v-5h3V8h-6.05A3.5 3.5 0 1 0 12 3.05 3.5 3.5 0 0 0 9.5 2M8 5.5a1.5 1.5 0 1 1 3 0V7H9.5A1.5 1.5 0 0 1 8 5.5M13 7V5.5A1.5 1.5 0 1 1 14.5 7zM4 17v5h7v-5zm9 5h7v-5h-7z\"\n  />\n</svg>\n"
+    },
+    "red-packet-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3 2h18v2.364a10.02 10.02 0 0 1-6.827 5.4 2.499 2.499 0 0 0-4.346 0A10.02 10.02 0 0 1 3 4.363z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M3 7.937V22h18V7.937a12 12 0 0 1-6.619 3.827 2.501 2.501 0 0 1-4.762 0A12 12 0 0 1 3 7.937\"\n  />\n</svg>\n"
+    },
+    "discount-percent-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M14.299 2.793a2.977 2.977 0 0 0-4.597 0 2.98 2.98 0 0 1-2.587 1.071 2.977 2.977 0 0 0-3.25 3.251 2.98 2.98 0 0 1-1.072 2.586 2.977 2.977 0 0 0 0 4.598c.766.63 1.167 1.6 1.072 2.586a2.977 2.977 0 0 0 3.25 3.25 2.98 2.98 0 0 1 2.587 1.072 2.977 2.977 0 0 0 4.597 0 2.98 2.98 0 0 1 2.586-1.071 2.977 2.977 0 0 0 3.25-3.251 2.98 2.98 0 0 1 1.072-2.586 2.977 2.977 0 0 0 0-4.598 2.98 2.98 0 0 1-1.071-2.586 2.978 2.978 0 0 0-3.25-3.25 2.98 2.98 0 0 1-2.587-1.072m1.908 6.414-7 7-1.414-1.414 7-7zM9.5 11a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3m5 5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3\"\n  />\n</svg>\n"
+    },
+    "refund-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M4 6V4H2v5.5h5.5v-2H5.384A8 8 0 1 1 4 12H2c0 5.523 4.477 10 10 10s10-4.477 10-10S17.523 2 12 2a9.99 9.99 0 0 0-8 4\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M8 10.5A2.5 2.5 0 0 1 10.5 8h.5V6h2v2h2.5v2h-5a.5.5 0 0 0 0 1h3a2.5 2.5 0 0 1 0 5H13v2h-2v-2H8.5v-2h5a.5.5 0 0 0 0-1h-3A2.5 2.5 0 0 1 8 10.5\"\n  />\n</svg>\n"
+    },
+    "goggles-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M7 6.5a6 6 0 0 0-6 6c0 1.51.336 2.991 1.154 4.122C3.004 17.795 4.31 18.5 6 18.5c.777 0 1.476-.266 2.073-.59.593-.323 1.154-.742 1.643-1.113l.095-.072c.473-.358.876-.664 1.267-.893.417-.245.708-.332.922-.332s.505.087.922.332c.391.229.794.535 1.268.893l.094.072c.49.37 1.05.79 1.643 1.113.597.324 1.296.59 2.073.59 1.69 0 2.996-.705 3.846-1.878C22.664 15.492 23 14.01 23 12.5a6 6 0 0 0-6-6z\"\n  />\n</svg>\n"
+    },
+    "glasses-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M6 7a5 5 0 1 0 4.456 2.729A2 2 0 0 1 12 9c.622 0 1.178.284 1.544.729a5 5 0 1 0 1.264-1.578A4 4 0 0 0 12 7a4 4 0 0 0-2.808 1.151A4.98 4.98 0 0 0 6 7\"\n  />\n</svg>\n"
+    },
+    "glasses-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M2 2h3v2H3v7a4.997 4.997 0 0 1 7.268 1.394A4 4 0 0 1 12 12c.62 0 1.208.141 1.732.393A5 5 0 0 1 18 10c1.126 0 2.164.372 3 1V4h-2V2h3l1 1v11.5h-.025q.025.247.025.5a5 5 0 1 1-9.95-.703A2 2 0 0 0 12 14a2 2 0 0 0-1.05.297q.05.345.05.703a5 5 0 1 1-9.975-.5H1V3z\"\n  />\n</svg>\n"
+    },
+    "t-shirt-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M6.95 2.293H5.536L1.293 6.536V7.95L5 11.657V21l1 1h12l1-1v-9.343l3.707-3.707V6.536l-4.242-4.243H17.05L14.343 5H9.657z\"\n  />\n</svg>\n"
+    },
+    "t-shirt-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M8.901 3H2v9h3v9h14v-9h3V3h-6.901l-.194.75a3.002 3.002 0 0 1-5.81 0z\"\n  />\n</svg>\n"
+    },
+    "t-shirt-air-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M2 3h6.901l.193.75a3.002 3.002 0 0 0 5.812 0l.193-.75H22v9h-9a3 3 0 0 0-3 3v6H5v-9H2z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"m12.439 16.168-1.08-.9 1.28-1.536 1.08.9c.77.64 1.88.67 2.68.068a4.16 4.16 0 0 1 5.161.132l1.08.9-1.28 1.536-1.08-.9a2.16 2.16 0 0 0-2.68-.068 4.16 4.16 0 0 1-5.161-.132m-1.079 3.1 1.079.9a4.16 4.16 0 0 0 5.16.132 2.16 2.16 0 0 1 2.68.069l1.08.9 1.28-1.537-1.079-.9a4.16 4.16 0 0 0-5.16-.132 2.16 2.16 0 0 1-2.68-.069l-1.08-.9z\"\n  />\n</svg>\n"
+    },
+    "shirt-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M16.167 3H7.833L12 8zM7 4H4L3 5v16l1 1h7V9.4L7 11zm6 18h7l1-1V5l-1-1h-3v7l-4-1.6zm6-8v2h-4v-2z\"\n  />\n</svg>\n"
+    },
+    "handbag-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 2a7 7 0 0 1 7 7h1l.996.91 1 11L21 22H3l-.996-1.09 1-11L4 9h1a7 7 0 0 1 7-7m0 2a5 5 0 0 0-5 5h10a5 5 0 0 0-5-5m2 11v-2h-4v2z\"\n  />\n</svg>\n"
+    },
+    "community-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M7 3 6 4v4.82l-3.625 2.9L2 12.5V20l1 1h18l1-1V4l-1-1zm5 6V7h2v2zm4 0V7h2v2zm0 2h2v2h-2zm0 6v-2h2v2zM4 12.98l4-3.2 4 3.2V19H9v-4H7v4H4z\"\n  />\n</svg>\n"
+    },
+    "store-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M19.644 2H4.356L1.691 7.863A4.24 4.24 0 0 0 1.25 9.75c0 1.413.69 2.665 1.75 3.437V21l1 1h16l1-1v-7.813a4.24 4.24 0 0 0 1.75-3.437c0-.676-.159-1.317-.441-1.887zM3.496 8.725 5.644 4h12.712l2.148 4.725.008.017a2.25 2.25 0 1 1-4.256 1.182L16.187 9h-1.872l-.07.924a2.25 2.25 0 0 1-4.487 0L9.687 9H7.813l-.07.924a2.25 2.25 0 1 1-4.256-1.182z\"\n  />\n</svg>\n"
+    },
+    "store-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M22 2H2v7a4 4 0 0 0 1 2.646V21l1 1h16l1-1v-9.354c.622-.705 1-1.632 1-2.646zm-6 7V8h-2v1a2 2 0 1 1-4 0V8H8v1a2 2 0 1 1-4 0V4h16v5a2 2 0 1 1-4 0\"\n  />\n</svg>\n"
+    },
+    "store-3-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M3 3h18v2H3zm3 13h8v-2H6z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M20.82 6H3.18l-1.4 7H3v8h18v-8h1.22zM19 13v6H5v-6z\"\n  />\n</svg>\n"
+    }
+  },
+  "Development": {
+    "cursor-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m7.39 1.863 13.173 10.073-5.268.965 3.092 6.629-4.532 2.113-3.091-6.629-4.125 3.415zM8.841 14.01l2.642-2.186 3.34 7.162.906-.422-3.34-7.163 3.373-.618-6.547-5.006z\"\n  />\n</svg>\n"
+    },
+    "code-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M10.207 6.207 8.793 4.793 1.586 12l7.207 7.207 1.414-1.414L4.414 12zm3.586 0 1.414-1.414L22.414 12l-7.207 7.207-1.414-1.414L19.586 12z\"\n  />\n</svg>\n"
+    },
+    "braces-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M20 6a3 3 0 0 0-3-3h-1v2h1a1 1 0 0 1 1 1v4c0 .768.289 1.47.764 2A3 3 0 0 0 18 14v4a1 1 0 0 1-1 1h-1v2h1a3 3 0 0 0 3-3v-4a1 1 0 0 1 1-1h1v-2h-1a1 1 0 0 1-1-1zM7 3a3 3 0 0 0-3 3v4a1 1 0 0 1-1 1H2v2h1a1 1 0 0 1 1 1v4a3 3 0 0 0 3 3h1v-2H7a1 1 0 0 1-1-1v-4c0-.768-.289-1.47-.764-2 .475-.53.764-1.232.764-2V6a1 1 0 0 1 1-1h1V3z\"\n  />\n</svg>\n"
+    },
+    "code-s-slash-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M15.974 4h-2.129L8.028 20h2.129z\" />\n  <path fill=\"currentColor\" d=\"M15.974 4h-2.129L8.028 20h2.129z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M15.974 4h-2.129L8.028 20h2.129zM6.293 6.293l1.414 1.414L3.414 12l4.293 4.293-1.414 1.414L.586 12z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"m6.293 6.293 1.414 1.414L3.414 12l4.293 4.293-1.414 1.414L.586 12z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"m6.293 6.293 1.414 1.414L3.414 12l4.293 4.293-1.414 1.414L.586 12zm11.414 0-1.414 1.414L20.586 12l-4.293 4.293 1.414 1.414L23.414 12z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"m17.707 6.293-1.414 1.414L20.586 12l-4.293 4.293 1.414 1.414L23.414 12z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"m17.707 6.293-1.414 1.414L20.586 12l-4.293 4.293 1.414 1.414L23.414 12z\"\n  />\n</svg>\n"
+    },
+    "code-s-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M7.707 7.707 6.293 6.293.586 12l5.707 5.707 1.414-1.414L3.414 12zm8.586 0 1.414-1.414L23.414 12l-5.707 5.707-1.414-1.414L20.586 12z\"\n  />\n</svg>\n"
+    },
+    "slash-command-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M4 6a3 3 0 0 1 3-3h1v2H7a1 1 0 0 0-1 1v4c0 .768-.289 1.47-.764 2 .475.53.764 1.232.764 2v4a1 1 0 0 0 1 1h1v2H7a3 3 0 0 1-3-3v-4a1 1 0 0 0-1-1H2v-2h1a1 1 0 0 0 1-1z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M4 6a3 3 0 0 1 3-3h1v2H7a1 1 0 0 0-1 1v4c0 .768-.289 1.47-.764 2 .475.53.764 1.232.764 2v4a1 1 0 0 0 1 1h1v2H7a3 3 0 0 1-3-3v-4a1 1 0 0 0-1-1H2v-2h1a1 1 0 0 0 1-1z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M4 6a3 3 0 0 1 3-3h1v2H7a1 1 0 0 0-1 1v4c0 .768-.289 1.47-.764 2 .475.53.764 1.232.764 2v4a1 1 0 0 0 1 1h1v2H7a3 3 0 0 1-3-3v-4a1 1 0 0 0-1-1H2v-2h1a1 1 0 0 0 1-1zm13-3a3 3 0 0 1 3 3v4a1 1 0 0 0 1 1h1v2h-1a1 1 0 0 0-1 1v4a3 3 0 0 1-3 3h-1v-2h1a1 1 0 0 0 1-1v-4c0-.768.289-1.47.764-2A3 3 0 0 1 18 10V6a1 1 0 0 0-1-1h-1V3z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M17 3a3 3 0 0 1 3 3v4a1 1 0 0 0 1 1h1v2h-1a1 1 0 0 0-1 1v4a3 3 0 0 1-3 3h-1v-2h1a1 1 0 0 0 1-1v-4c0-.768.289-1.47.764-2A3 3 0 0 1 18 10V6a1 1 0 0 0-1-1h-1V3z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M17 3a3 3 0 0 1 3 3v4a1 1 0 0 0 1 1h1v2h-1a1 1 0 0 0-1 1v4a3 3 0 0 1-3 3h-1v-2h1a1 1 0 0 0 1-1v-4c0-.768.289-1.47.764-2A3 3 0 0 1 18 10V6a1 1 0 0 0-1-1h-1V3zm-2.28 4h-2.107L9.279 17h2.108z\"\n  />\n  <path fill=\"currentColor\" d=\"M14.72 7h-2.107L9.279 17h2.108z\" />\n  <path fill=\"currentColor\" d=\"M14.72 7h-2.107L9.279 17h2.108z\" />\n</svg>\n"
+    },
+    "code-box-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M9.707 9.707 8.293 8.293 4.586 12l3.707 3.707 1.414-1.414L7.414 12z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M9.707 9.707 8.293 8.293 4.586 12l3.707 3.707 1.414-1.414L7.414 12z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M9.707 9.707 8.293 8.293 4.586 12l3.707 3.707 1.414-1.414L7.414 12zm6-1.414-1.414 1.414L16.586 12l-2.293 2.293 1.414 1.414L19.414 12z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"m15.707 8.293-1.414 1.414L16.586 12l-2.293 2.293 1.414 1.414L19.414 12z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"m15.707 8.293-1.414 1.414L16.586 12l-2.293 2.293 1.414 1.414L19.414 12zM14.72 7h-2.107L9.279 17h2.108z\"\n  />\n  <path fill=\"currentColor\" d=\"M14.72 7h-2.107L9.279 17h2.108z\" />\n  <path fill=\"currentColor\" d=\"M14.72 7h-2.107L9.279 17h2.108z\" />\n  <path fill=\"currentColor\" d=\"M3 3 2 4v16l1 1h18l1-1V4l-1-1zm1 16V5h16v14z\" />\n  <path fill=\"currentColor\" d=\"M3 3 2 4v16l1 1h18l1-1V4l-1-1zm1 16V5h16v14z\" />\n  <path fill=\"currentColor\" d=\"M3 3 2 4v16l1 1h18l1-1V4l-1-1zm1 16V5h16v14z\" />\n</svg>\n"
+    },
+    "git-commit-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M8.126 13H3v-2h5.126a4.002 4.002 0 0 1 7.748 0H21v2h-5.126a4.002 4.002 0 0 1-7.748 0M10 12a2 2 0 1 0 4 0 2 2 0 0 0-4 0\"\n  />\n</svg>\n"
+    },
+    "git-branch-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3 6a3 3 0 1 1 4 2.83V12c.836-.628 1.874-1 3-1h4a3 3 0 0 0 2.895-2.21 3.001 3.001 0 1 1 2.032.064A5 5 0 0 1 14 13h-4a3 3 0 0 0-2.895 2.21A3.001 3.001 0 1 1 5 15.17V8.83A3 3 0 0 1 3 6m3-1a1 1 0 1 0 0 2 1 1 0 0 0 0-2m11 1a1 1 0 1 0 2 0 1 1 0 0 0-2 0M6 17a1 1 0 1 0 0 2 1 1 0 0 0 0-2\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M3 6a3 3 0 1 1 4 2.83V12c.836-.628 1.874-1 3-1h4a3 3 0 0 0 2.895-2.21 3.001 3.001 0 1 1 2.032.064A5 5 0 0 1 14 13h-4a3 3 0 0 0-2.895 2.21A3.001 3.001 0 1 1 5 15.17V8.83A3 3 0 0 1 3 6m3-1a1 1 0 1 0 0 2 1 1 0 0 0 0-2m11 1a1 1 0 1 0 2 0 1 1 0 0 0-2 0M6 17a1 1 0 1 0 0 2 1 1 0 0 0 0-2\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M3 6a3 3 0 1 1 4 2.83V12c.836-.628 1.874-1 3-1h4a3 3 0 0 0 2.895-2.21 3.001 3.001 0 1 1 2.032.064A5 5 0 0 1 14 13h-4a3 3 0 0 0-2.895 2.21A3.001 3.001 0 1 1 5 15.17V8.83A3 3 0 0 1 3 6m3-1a1 1 0 1 0 0 2 1 1 0 0 0 0-2m11 1a1 1 0 1 0 2 0 1 1 0 0 0-2 0M6 17a1 1 0 1 0 0 2 1 1 0 0 0 0-2\"\n  />\n</svg>\n"
+    },
+    "git-fork-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3 6a3 3 0 1 1 4 2.83V9a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-.17a3.001 3.001 0 1 1 2 0V9a4 4 0 0 1-4 4h-2v2.17a3.001 3.001 0 1 1-2 0V13H9a4 4 0 0 1-4-4v-.17A3 3 0 0 1 3 6m3-1a1 1 0 1 0 0 2 1 1 0 0 0 0-2m11 1a1 1 0 1 0 2 0 1 1 0 0 0-2 0m-5 11a1 1 0 1 0 0 2 1 1 0 0 0 0-2\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M3 6a3 3 0 1 1 4 2.83V9a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-.17a3.001 3.001 0 1 1 2 0V9a4 4 0 0 1-4 4h-2v2.17a3.001 3.001 0 1 1-2 0V13H9a4 4 0 0 1-4-4v-.17A3 3 0 0 1 3 6m3-1a1 1 0 1 0 0 2 1 1 0 0 0 0-2m11 1a1 1 0 1 0 2 0 1 1 0 0 0-2 0m-5 11a1 1 0 1 0 0 2 1 1 0 0 0 0-2\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M3 6a3 3 0 1 1 4 2.83V9a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-.17a3.001 3.001 0 1 1 2 0V9a4 4 0 0 1-4 4h-2v2.17a3.001 3.001 0 1 1-2 0V13H9a4 4 0 0 1-4-4v-.17A3 3 0 0 1 3 6m3-1a1 1 0 1 0 0 2 1 1 0 0 0 0-2m11 1a1 1 0 1 0 2 0 1 1 0 0 0-2 0m-5 11a1 1 0 1 0 0 2 1 1 0 0 0 0-2\"\n  />\n</svg>\n"
+    },
+    "git-merge-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M5 8.83a3.001 3.001 0 1 1 2.105-.04A3 3 0 0 0 10 11h4a5 5 0 0 1 4.927 4.146A3.001 3.001 0 0 1 18 21a3 3 0 0 1-1.105-5.79A3 3 0 0 0 14 13h-4a4.98 4.98 0 0 1-3-1v3.17a3.001 3.001 0 1 1-2 0zM6 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2m0 12a1 1 0 1 0 0-2 1 1 0 0 0 0 2m11-1a1 1 0 1 0 2 0 1 1 0 0 0-2 0\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M5 8.83a3.001 3.001 0 1 1 2.105-.04A3 3 0 0 0 10 11h4a5 5 0 0 1 4.927 4.146A3.001 3.001 0 0 1 18 21a3 3 0 0 1-1.105-5.79A3 3 0 0 0 14 13h-4a4.98 4.98 0 0 1-3-1v3.17a3.001 3.001 0 1 1-2 0zM6 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2m0 12a1 1 0 1 0 0-2 1 1 0 0 0 0 2m11-1a1 1 0 1 0 2 0 1 1 0 0 0-2 0\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M5 8.83a3.001 3.001 0 1 1 2.105-.04A3 3 0 0 0 10 11h4a5 5 0 0 1 4.927 4.146A3.001 3.001 0 0 1 18 21a3 3 0 0 1-1.105-5.79A3 3 0 0 0 14 13h-4a4.98 4.98 0 0 1-3-1v3.17a3.001 3.001 0 1 1-2 0zM6 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2m0 12a1 1 0 1 0 0-2 1 1 0 0 0 0 2m11-1a1 1 0 1 0 2 0 1 1 0 0 0-2 0\"\n  />\n</svg>\n"
+    },
+    "git-close-pull-request-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M14.793 4.207 16.586 6l-1.793 1.793 1.414 1.414L18 7.414l1.793 1.793 1.414-1.414L19.414 6l1.793-1.793-1.414-1.414L18 4.586l-1.793-1.793z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M14.793 4.207 16.586 6l-1.793 1.793 1.414 1.414L18 7.414l1.793 1.793 1.414-1.414L19.414 6l1.793-1.793-1.414-1.414L18 4.586l-1.793-1.793z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M14.793 4.207 16.586 6l-1.793 1.793 1.414 1.414L18 7.414l1.793 1.793 1.414-1.414L19.414 6l1.793-1.793-1.414-1.414L18 4.586l-1.793-1.793zM5 8.83v6.34a3.001 3.001 0 1 0 2 0V8.83a3.001 3.001 0 1 0-2 0M6 7a1 1 0 1 1 0-2 1 1 0 0 1 0 2m0 12a1 1 0 1 1 0-2 1 1 0 0 1 0 2\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M5 8.83v6.34a3.001 3.001 0 1 0 2 0V8.83a3.001 3.001 0 1 0-2 0M6 7a1 1 0 1 1 0-2 1 1 0 0 1 0 2m0 12a1 1 0 1 1 0-2 1 1 0 0 1 0 2\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M5 8.83v6.34a3.001 3.001 0 1 0 2 0V8.83a3.001 3.001 0 1 0-2 0M6 7a1 1 0 1 1 0-2 1 1 0 0 1 0 2m0 12a1 1 0 1 1 0-2 1 1 0 0 1 0 2m11-3.83V10h2v5.17a3.001 3.001 0 1 1-2 0M18 17a1 1 0 1 0 0 2 1 1 0 0 0 0-2\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M17 15.17V10h2v5.17a3.001 3.001 0 1 1-2 0M18 17a1 1 0 1 0 0 2 1 1 0 0 0 0-2\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M17 15.17V10h2v5.17a3.001 3.001 0 1 1-2 0M18 17a1 1 0 1 0 0 2 1 1 0 0 0 0-2\"\n  />\n</svg>\n"
+    },
+    "git-pr-draft-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3 6a3 3 0 1 1 4 2.83v6.34a3.001 3.001 0 1 1-2 0V8.83A3 3 0 0 1 3 6m2 0a1 1 0 1 0 2 0 1 1 0 0 0-2 0m0 12a1 1 0 1 0 2 0 1 1 0 0 0-2 0\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M3 6a3 3 0 1 1 4 2.83v6.34a3.001 3.001 0 1 1-2 0V8.83A3 3 0 0 1 3 6m2 0a1 1 0 1 0 2 0 1 1 0 0 0-2 0m0 12a1 1 0 1 0 2 0 1 1 0 0 0-2 0m13-5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M18 13a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m-3 5a3 3 0 1 0 6 0 3 3 0 0 0-6 0m3 1a1 1 0 1 1 0-2 1 1 0 0 1 0 2\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M15 18a3 3 0 1 0 6 0 3 3 0 0 0-6 0m3 1a1 1 0 1 1 0-2 1 1 0 0 1 0 2m0-11.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3\"\n  />\n  <path fill=\"currentColor\" d=\"M18 7.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3\" />\n</svg>\n"
+    },
+    "git-pull-request-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m14.293 2.293 1.414 1.414L14.414 5H18l1 1v9.17a3.001 3.001 0 1 1-2 0V7h-2.586l1.293 1.293-1.414 1.414L10.586 6zM17 18a1 1 0 1 0 2 0 1 1 0 0 0-2 0\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"m14.293 2.293 1.414 1.414L14.414 5H18l1 1v9.17a3.001 3.001 0 1 1-2 0V7h-2.586l1.293 1.293-1.414 1.414L10.586 6zM17 18a1 1 0 1 0 2 0 1 1 0 0 0-2 0\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"m14.293 2.293 1.414 1.414L14.414 5H18l1 1v9.17a3.001 3.001 0 1 1-2 0V7h-2.586l1.293 1.293-1.414 1.414L10.586 6zM17 18a1 1 0 1 0 2 0 1 1 0 0 0-2 0M5 8.83a3.001 3.001 0 1 1 2 0v6.34a3.001 3.001 0 1 1-2 0zM6 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2M5 18a1 1 0 1 0 2 0 1 1 0 0 0-2 0\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M5 8.83a3.001 3.001 0 1 1 2 0v6.34a3.001 3.001 0 1 1-2 0zM6 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2M5 18a1 1 0 1 0 2 0 1 1 0 0 0-2 0\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M5 8.83a3.001 3.001 0 1 1 2 0v6.34a3.001 3.001 0 1 1-2 0zM6 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2M5 18a1 1 0 1 0 2 0 1 1 0 0 0-2 0\"\n  />\n</svg>\n"
+    },
+    "git-repository-commits-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3 5a3 3 0 0 1 3-3h15v19h-5v-2h3v-3h-1v-2h1V4H6v10.035Q6.245 14 6.5 14H8v2H6.5a1.5 1.5 0 0 0 0 3H10v2H6a3 3 0 0 1-3-3z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M3 5a3 3 0 0 1 3-3h15v19h-5v-2h3v-3h-1v-2h1V4H6v10.035Q6.245 14 6.5 14H8v2H6.5a1.5 1.5 0 0 0 0 3H10v2H6a3 3 0 0 1-3-3z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M3 5a3 3 0 0 1 3-3h15v19h-5v-2h3v-3h-1v-2h1V4H6v10.035Q6.245 14 6.5 14H8v2H6.5a1.5 1.5 0 0 0 0 3H10v2H6a3 3 0 0 1-3-3z\"\n  />\n  <path fill=\"currentColor\" d=\"M7 5v2h2V5z\" />\n  <path fill=\"currentColor\" d=\"M7 5v2h2V5z\" />\n  <path fill=\"currentColor\" d=\"M7 5v2h2V5zm0 5V8h2v2z\" />\n  <path fill=\"currentColor\" d=\"M7 10V8h2v2z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M7 10V8h2v2zm7 6.203V23h-2v-6.796l-1.24 1.447-1.519-1.302 3.76-4.386 3.759 4.386-1.519 1.302z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M14 16.203V23h-2v-6.796l-1.24 1.447-1.519-1.302 3.76-4.386 3.759 4.386-1.519 1.302z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M14 16.203V23h-2v-6.796l-1.24 1.447-1.519-1.302 3.76-4.386 3.759 4.386-1.519 1.302z\"\n  />\n</svg>\n"
+    },
+    "git-repository-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M7 5v2h2V5zm0 5V8h2v2z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M6 2h15v19h-8v2.5l-3-2-3 2V21H6a3 3 0 0 1-3-3V5a3 3 0 0 1 3-3m7 17h6v-3H6.5a1.5 1.5 0 0 0 0 3H7v-2h6zm6-5V4H6v10.035Q6.245 14 6.5 14z\"\n  />\n</svg>\n"
+    },
+    "git-repository-private-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M7 11v2h2v-2zm0 5v-2h2v2zm0 1v2h2v-2z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M12 1a6 6 0 0 0-6 6v1H3v14h18V8h-3V7a6 6 0 0 0-6-6m4 7H8V7a4 4 0 1 1 8 0zM6 20V10h13v10z\"\n  />\n</svg>\n"
+    },
+    "css3-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m2 18 .8-4h2.04l-.545 2.724 5.744 2.155 7.228-2.41L18.36 11H3.4l.4-2h14.96l.8-4H4.6L5 3h17l-3 15-9 3z\"\n  />\n</svg>\n"
+    },
+    "html5-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M8.899 10h8.21l-.609 7-4.5 1-4.5-1-.348-4H9.16l.205 2.366L12 15.95l2.635-.585.292-3.366H7.065L6.5 5.5h11l-.174 2H8.681z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M3 2h18l-1.5 18-7.5 2-7.5-2zm2.174 2 1.202 14.43L12 19.93l5.624-1.5L18.826 4z\"\n  />\n</svg>\n"
+    },
+    "javascript-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M15.233 9.99c-.8 0-1.469.206-1.995.627-.54.42-.819.951-.819 1.587v.001c.008.657.226 1.183.665 1.56v.001q.652.546 1.813.881c.632.2 1.041.393 1.248.574a.82.82 0 0 1 .29.634c0 .24-.092.415-.277.54-.2.137-.499.214-.915.214h-.001c-.663.006-1.336-.257-2.02-.808l-.102-.083-.978 1.355.084.075q1.229 1.093 3.039 1.092h.003c.918-.022 1.637-.259 2.139-.73.501-.472.756-1.04.756-1.697 0-.631-.175-1.162-.533-1.58-.358-.42-.948-.743-1.751-.982-.655-.199-1.105-.377-1.362-.533-.248-.156-.348-.328-.348-.514 0-.17.08-.312.272-.43.195-.119.466-.184.824-.184q.382-.001.883.155h.005q.492.134.866.428l.108.085.885-1.377-.088-.07c-.685-.552-1.586-.82-2.691-.82m-3.91.128H9.627v5.287c0 .478-.108.78-.29.945-.195.17-.443.258-.753.258a1.4 1.4 0 0 1-.758-.196h-.002a2 2 0 0 1-.564-.536l-.078-.105-1.19.976.054.092c.31.524.7.898 1.17 1.11q.65.291 1.476.29.459 0 .945-.144.497-.147.912-.494c.502-.403.752-1.052.774-1.915z\"\n  />\n  <path fill=\"currentColor\" d=\"m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm2 1v14h14V5z\" />\n</svg>\n"
+    },
+    "command-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M6.5 5a1.5 1.5 0 1 0 0 3H8V6.5A1.5 1.5 0 0 0 6.5 5M10 8h4V6.5a3.5 3.5 0 1 1 3.5 3.5H16v4h1.5a3.5 3.5 0 1 1-3.5 3.5V16h-4v1.5A3.5 3.5 0 1 1 6.5 14H8v-4H6.5A3.5 3.5 0 1 1 10 6.5zm0 2v4h4v-4zm6-2h1.5A1.5 1.5 0 1 0 16 6.5zm0 8v1.5a1.5 1.5 0 1 0 1.5-1.5zm-8 0H6.5A1.5 1.5 0 1 0 8 17.5z\"\n  />\n</svg>\n"
+    },
+    "puzzle-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M7 5a4 4 0 1 1 8 0h4v4a4 4 0 0 1 0 8v4H3V5zm4-2a2 2 0 0 0-1.886 2.667L9.584 7H5v12h12v-4.585l1.333.472q.313.111.667.113a2 2 0 1 0-.667-3.886l-1.333.47V7h-4.585l.472-1.333Q12.998 5.355 13 5a2 2 0 0 0-2-2\"\n  />\n</svg>\n"
+    },
+    "puzzle-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M7 5a4 4 0 1 1 8 0h6v6.585l-1.333-.472a2 2 0 1 0 0 3.773l1.333-.47V21H3V5zm4-2a2 2 0 0 0-1.886 2.667L9.584 7H5v12h14v-2a4 4 0 0 1 0-8V7h-6.585l.472-1.333Q12.998 5.355 13 5a2 2 0 0 0-2-2\"\n  />\n</svg>\n"
+    },
+    "bug-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 2a4 4 0 0 0-4 4h8a4 4 0 0 0-4-4m6.366 6 .08.226 1.477-1.043 1.153 1.634-2.11 1.49q.033.343.034.693v2h3v2h-3c0 .856-.154 1.676-.435 2.434l.011-.016 2.5 1.765-1.153 1.634-2.311-1.632A6.99 6.99 0 0 1 12 22a6.99 6.99 0 0 1-5.611-2.815l-2.312 1.632-1.153-1.634 2.5-1.765.01.016A7 7 0 0 1 5 15H2v-2h3v-2q0-.35.034-.694l-2.11-1.489 1.153-1.634 1.477 1.043.08-.226zM7 11v4a5 5 0 0 0 4 4.9V14h2v5.9a5 5 0 0 0 4-4.9v-4q0-.515-.1-1H7.1q-.1.485-.1 1\"\n  />\n</svg>\n"
+    },
+    "bug-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M15 12H9v-2h6zm-6 4h6v-2H9z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M10.562 4.148 8.707 2.293 7.293 3.707l1.221 1.221A7.03 7.03 0 0 0 5.674 8H3v2h2.07A7 7 0 0 0 5 11v1H3v2h2v1q0 .51.07 1H3v2h2.674a7 7 0 0 0 12.652 0H21v-2h-2.07q.07-.49.07-1v-1h2v-2h-2v-1q0-.51-.07-1H21V8h-2.674a7.03 7.03 0 0 0-2.84-3.072l1.221-1.22-1.414-1.415-1.855 1.855a7 7 0 0 0-2.876 0M7 11a5 5 0 0 1 10 0v4a5 5 0 0 1-10 0z\"\n  />\n</svg>\n"
+    },
+    "terminal-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M2.293 6.207 8.086 12l-5.793 5.793 1.414 1.414L10.914 12 3.707 4.793zM11 21h10v-2H11z\"\n  />\n</svg>\n"
+    },
+    "terminal-box-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M8.586 12 5.793 9.207l1.414-1.414L11.414 12l-4.207 4.207-1.414-1.414zM12 17h6v-2h-6z\"\n  />\n  <path fill=\"currentColor\" d=\"M2 3h20v18H2zm2 2v14h16V5z\" />\n</svg>\n"
+    },
+    "brackets-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M4 3h5v2H6v14h3v2H4zm14 2h-3V3h5v18h-5v-2h3z\" />\n</svg>\n"
+    },
+    "parentheses-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M9.276 3H6.769A15.93 15.93 0 0 0 4 12c0 3.337 1.022 6.436 2.77 9h2.506A13.94 13.94 0 0 1 6 12c0-3.427 1.231-6.566 3.276-9m5.448 0h2.507A15.93 15.93 0 0 1 20 12c0 3.337-1.022 6.436-2.77 9h-2.506A13.94 13.94 0 0 0 18 12c0-3.427-1.231-6.566-3.276-9\"\n  />\n</svg>\n"
+    },
+    "window-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M19 6h-4v2h4z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"m2 4 1-1h18l1 1v16l-1 1H3l-1-1zm18 1H4v4h16zm0 6H4v8h16z\"\n  />\n</svg>\n"
+    },
+    "window-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M7 8H5V6h2zm2 0h2V6H9z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M3 3 2 4v16l1 1h18l1-1V4l-1-1zm17 6H4V5h16zM4 11h16v8H4z\"\n  />\n</svg>\n"
+    },
+    "terminal-window-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M5 12h3v5H5zm2-4H5V6h2zm2 0h2V6H9z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"m2 4 1-1h18l1 1v16l-1 1H3l-1-1zm2 7v8h16v-8zm16-2V5H4v4z\"\n  />\n</svg>\n"
+    },
+    "cursor-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m7.649 1.531-.244 15.434 3.786-3.791 3.832 8.608 2.741-1.22-3.85-8.646 5.824-.442z\"\n  />\n</svg>\n"
+    },
+    "code-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M10.56 6.56 8.44 4.44.879 12l7.56 7.56 2.122-2.12L5.12 12zm2.88 0 2.12-2.12L23.121 12l-7.56 7.56-2.122-2.12L18.88 12z\"\n  />\n</svg>\n"
+    },
+    "braces-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M7 2.5A3.5 3.5 0 0 0 3.5 6v4a.5.5 0 0 1-.5.5H2v3h1a.5.5 0 0 1 .5.5v4A3.5 3.5 0 0 0 7 21.5h2v-3H7a.5.5 0 0 1-.5-.5v-4c0-.744-.232-1.433-.627-2a3.5 3.5 0 0 0 .627-2V6a.5.5 0 0 1 .5-.5h2v-3zM20.5 6A3.5 3.5 0 0 0 17 2.5h-2v3h2a.5.5 0 0 1 .5.5v4c0 .744.232 1.433.627 2a3.5 3.5 0 0 0-.627 2v4a.5.5 0 0 1-.5.5h-2v3h2a3.5 3.5 0 0 0 3.5-3.5v-4a.5.5 0 0 1 .5-.5h1v-3h-1a.5.5 0 0 1-.5-.5z\"\n  />\n</svg>\n"
+    },
+    "code-s-slash-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <g fill=\"currentColor\" clip-path=\"url(#a)\">\n    <path d=\"M16.505 4h-3.193L7.494 20h3.192z\" />\n    <path d=\"M16.505 4h-3.193L7.494 20h3.192z\" />\n    <path\n      d=\"M16.505 4h-3.193L7.494 20h3.192zM5.94 5.94l2.12 2.12L4.123 12l3.939 3.94-2.121 2.12L-.121 12z\"\n    />\n    <path d=\"m5.94 5.94 2.12 2.12L4.123 12l3.939 3.94-2.121 2.12L-.121 12z\" />\n    <path\n      d=\"m5.94 5.94 2.12 2.12L4.123 12l3.939 3.94-2.121 2.12L-.121 12zm12.12 0-2.12 2.12L19.877 12l-3.939 3.94 2.121 2.12L24.121 12z\"\n    />\n    <path\n      d=\"m18.06 5.94-2.12 2.12L19.877 12l-3.939 3.94 2.121 2.12L24.121 12z\"\n    />\n    <path\n      d=\"m18.06 5.94-2.12 2.12L19.877 12l-3.939 3.94 2.121 2.12L24.121 12z\"\n    />\n  </g>\n  <defs>\n    <clipPath id=\"a\"><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" /></clipPath>\n  </defs>\n</svg>\n"
+    },
+    "code-s-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <g fill=\"currentColor\" clip-path=\"url(#a)\">\n    <path\n      d=\"M8.06 8.06 5.94 5.94-.121 12l6.06 6.06 2.122-2.12L4.12 12zm7.88 0 2.12-2.12L24.121 12l-6.06 6.06-2.122-2.12L19.88 12z\"\n    />\n  </g>\n  <defs>\n    <clipPath id=\"a\"><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" /></clipPath>\n  </defs>\n</svg>\n"
+    },
+    "slash-command-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3.5 6A3.5 3.5 0 0 1 7 2.5h2v3H7a.5.5 0 0 0-.5.5v4c0 .744-.232 1.433-.627 2 .395.567.627 1.256.627 2v4a.5.5 0 0 0 .5.5h2v3H7A3.5 3.5 0 0 1 3.5 18v-4a.5.5 0 0 0-.5-.5H2v-3h1a.5.5 0 0 0 .5-.5z\"\n  />\n  <path fill=\"currentColor\" d=\"M12.085 7h3.163l-3.334 10H8.752z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M20.5 6A3.5 3.5 0 0 0 17 2.5h-2v3h2a.5.5 0 0 1 .5.5v4c0 .744.232 1.433.627 2a3.5 3.5 0 0 0-.627 2v4a.5.5 0 0 1-.5.5h-2v3h2a3.5 3.5 0 0 0 3.5-3.5v-4a.5.5 0 0 1 .5-.5h1v-3h-1a.5.5 0 0 1-.5-.5z\"\n  />\n</svg>\n"
+    },
+    "code-box-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m2 4 1-1h18l1 1v16l-1 1H3l-1-1zm10.613 3L9.279 17h2.108l3.334-10zM9.707 9.707 8.293 8.293 4.586 12l3.707 3.707 1.414-1.414L7.414 12zm4.586 0L16.586 12l-2.293 2.293 1.414 1.414L19.414 12l-3.707-3.707z\"\n  />\n</svg>\n"
+    },
+    "git-commit-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 8a4 4 0 0 0-3.874 3H3v2h5.126a4.002 4.002 0 0 0 7.748 0H21v-2h-5.126A4 4 0 0 0 12 8\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M12 8a4 4 0 0 0-3.874 3H3v2h5.126a4.002 4.002 0 0 0 7.748 0H21v-2h-5.126A4 4 0 0 0 12 8\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M12 8a4 4 0 0 0-3.874 3H3v2h5.126a4.002 4.002 0 0 0 7.748 0H21v-2h-5.126A4 4 0 0 0 12 8\"\n  />\n</svg>\n"
+    },
+    "git-branch-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3 6a3 3 0 1 1 4 2.83V12c.836-.628 1.874-1 3-1h4a3 3 0 0 0 2.895-2.21 3.001 3.001 0 1 1 2.032.064A5 5 0 0 1 14 13h-4a3 3 0 0 0-2.895 2.21A3.001 3.001 0 1 1 5 15.17V8.83A3 3 0 0 1 3 6\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M3 6a3 3 0 1 1 4 2.83V12c.836-.628 1.874-1 3-1h4a3 3 0 0 0 2.895-2.21 3.001 3.001 0 1 1 2.032.064A5 5 0 0 1 14 13h-4a3 3 0 0 0-2.895 2.21A3.001 3.001 0 1 1 5 15.17V8.83A3 3 0 0 1 3 6\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M3 6a3 3 0 1 1 4 2.83V12c.836-.628 1.874-1 3-1h4a3 3 0 0 0 2.895-2.21 3.001 3.001 0 1 1 2.032.064A5 5 0 0 1 14 13h-4a3 3 0 0 0-2.895 2.21A3.001 3.001 0 1 1 5 15.17V8.83A3 3 0 0 1 3 6\"\n  />\n</svg>\n"
+    },
+    "git-fork-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3 6a3 3 0 1 1 4 2.83V9a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-.17a3.001 3.001 0 1 1 2 0V9a4 4 0 0 1-4 4h-2v2.17a3.001 3.001 0 1 1-2 0V13H9a4 4 0 0 1-4-4v-.17A3 3 0 0 1 3 6\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M3 6a3 3 0 1 1 4 2.83V9a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-.17a3.001 3.001 0 1 1 2 0V9a4 4 0 0 1-4 4h-2v2.17a3.001 3.001 0 1 1-2 0V13H9a4 4 0 0 1-4-4v-.17A3 3 0 0 1 3 6\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M3 6a3 3 0 1 1 4 2.83V9a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-.17a3.001 3.001 0 1 1 2 0V9a4 4 0 0 1-4 4h-2v2.17a3.001 3.001 0 1 1-2 0V13H9a4 4 0 0 1-4-4v-.17A3 3 0 0 1 3 6\"\n  />\n</svg>\n"
+    },
+    "git-merge-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M5 8.83a3.001 3.001 0 1 1 2.105-.04A3 3 0 0 0 10 11h4a5 5 0 0 1 4.927 4.146A3.001 3.001 0 0 1 18 21a3 3 0 0 1-1.105-5.79A3 3 0 0 0 14 13h-4a4.98 4.98 0 0 1-3-1v3.17a3.001 3.001 0 1 1-2 0z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M5 8.83a3.001 3.001 0 1 1 2.105-.04A3 3 0 0 0 10 11h4a5 5 0 0 1 4.927 4.146A3.001 3.001 0 0 1 18 21a3 3 0 0 1-1.105-5.79A3 3 0 0 0 14 13h-4a4.98 4.98 0 0 1-3-1v3.17a3.001 3.001 0 1 1-2 0z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M5 8.83a3.001 3.001 0 1 1 2.105-.04A3 3 0 0 0 10 11h4a5 5 0 0 1 4.927 4.146A3.001 3.001 0 0 1 18 21a3 3 0 0 1-1.105-5.79A3 3 0 0 0 14 13h-4a4.98 4.98 0 0 1-3-1v3.17a3.001 3.001 0 1 1-2 0z\"\n  />\n</svg>\n"
+    },
+    "git-close-pull-request-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M14.793 4.207 16.586 6l-1.793 1.793 1.414 1.414L18 7.414l1.793 1.793 1.414-1.414L19.414 6l1.793-1.793-1.414-1.414L18 4.586l-1.793-1.793z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M14.793 4.207 16.586 6l-1.793 1.793 1.414 1.414L18 7.414l1.793 1.793 1.414-1.414L19.414 6l1.793-1.793-1.414-1.414L18 4.586l-1.793-1.793z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M14.793 4.207 16.586 6l-1.793 1.793 1.414 1.414L18 7.414l1.793 1.793 1.414-1.414L19.414 6l1.793-1.793-1.414-1.414L18 4.586l-1.793-1.793zM3 6c0 1.306.835 2.417 2 2.83v6.34a3.001 3.001 0 1 0 2 0V8.83A3.001 3.001 0 1 0 3 6\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M3 6c0 1.306.835 2.417 2 2.83v6.34a3.001 3.001 0 1 0 2 0V8.83A3.001 3.001 0 1 0 3 6\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M3 6c0 1.306.835 2.417 2 2.83v6.34a3.001 3.001 0 1 0 2 0V8.83A3.001 3.001 0 1 0 3 6m16 9.17V10h-2v5.17a3.001 3.001 0 1 0 2 0\"\n  />\n  <path fill=\"currentColor\" d=\"M19 15.17V10h-2v5.17a3.001 3.001 0 1 0 2 0\" />\n  <path fill=\"currentColor\" d=\"M19 15.17V10h-2v5.17a3.001 3.001 0 1 0 2 0\" />\n</svg>\n"
+    },
+    "git-pr-draft-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3 6c0 1.306.835 2.417 2 2.83v6.34a3.001 3.001 0 1 0 2 0V8.83A3.001 3.001 0 1 0 3 6\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M3 6c0 1.306.835 2.417 2 2.83v6.34a3.001 3.001 0 1 0 2 0V8.83A3.001 3.001 0 1 0 3 6m16.5 5.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M19.5 11.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0M18 21a3 3 0 1 1 0-6 3 3 0 0 1 0 6\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M18 21a3 3 0 1 1 0-6 3 3 0 0 1 0 6m0-13.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3\"\n  />\n  <path fill=\"currentColor\" d=\"M18 7.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3\" />\n</svg>\n"
+    },
+    "git-pull-request-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M13.732 2.36 15.5 3v2H18l1 1v9.17a3.001 3.001 0 1 1-2 0V7h-1.5v2l-1.768.64L10.698 6z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M13.732 2.36 15.5 3v2H18l1 1v9.17a3.001 3.001 0 1 1-2 0V7h-1.5v2l-1.768.64L10.698 6z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M13.732 2.36 15.5 3v2H18l1 1v9.17a3.001 3.001 0 1 1-2 0V7h-1.5v2l-1.768.64L10.698 6zM5 8.83a3.001 3.001 0 1 1 2 0v6.34a3.001 3.001 0 1 1-2 0z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M5 8.83a3.001 3.001 0 1 1 2 0v6.34a3.001 3.001 0 1 1-2 0z\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M5 8.83a3.001 3.001 0 1 1 2 0v6.34a3.001 3.001 0 1 1-2 0z\"\n  />\n</svg>\n"
+    },
+    "git-repository-commits-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M6 2a3 3 0 0 0-3 3v13a3 3 0 0 0 3 3h4.75v-2H6.5a1.5 1.5 0 0 1 0-3h1.382L13 9.952 18.117 16H19v3h-3.75v2H21V2zm1 5V5h2v2zm0 3V8h2v2z\"\n  />\n  <path fill=\"currentColor\" d=\"m9 17 4-5 4 5h-3v6h-2v-6z\" />\n</svg>\n"
+    },
+    "git-repository-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M6 2a3 3 0 0 0-3 3v13a3 3 0 0 0 3 3h1v2.5l3-2 3 2V21h8V2zm7 17v-2H7v2h-.5a1.5 1.5 0 0 1 0-3H19v3zM7 7V5h2v2zm0 3V8h2v2z\"\n  />\n</svg>\n"
+    },
+    "git-repository-private-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M6 7a6 6 0 1 1 12 0v1h3v14H3V8h3zm10 0a4 4 0 0 0-8 0v1h8zm-9 4v2h2v-2zm0 3v2h2v-2zm0 5h2v-2H7z\"\n  />\n</svg>\n"
+    },
+    "css3-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m2 18 .8-4h3.06l-.418 2.087 4.617 1.731 6.34-2.114.842-4.204H3.3l.6-3h13.94l.5-2.5H4.4L5 3h17l-3 15-9 3z\"\n  />\n</svg>\n"
+    },
+    "html5-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m3 2 1.5 18 7.5 2 7.5-2L21 2zm4.087 10.25L6.5 5.5h11L17.283 8H9.227l.152 1.75h7.751L16.5 17 12 18l-4.5-1-.304-3.5h2.51l.126 1.457L12 15.44l2.168-.482.236-2.707z\"\n  />\n  <path\n    stroke=\"currentColor\"\n    stroke-width=\"2\"\n    d=\"m6.09 12.337.015.163.065.75.03.337.304 3.5.063.73.716.16 4.5 1 .217.047.217-.048 4.5-1 .716-.159.063-.73.63-7.25L18.2 9l.022-.25.058-.663.217-2.5.095-1.087H5.41l.094 1.087zm4.611 1.076-.014-.163h2.626l-.078.89-1.235.275-1.235-.275zm-5.263 5.802L4.087 3h15.826l-1.351 16.215L12 20.965z\"\n  />\n</svg>\n"
+    },
+    "javascript-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3 4v16l1 1h16l1-1V4l-1-1H4zm10.238 6.617c.526-.421 1.195-.627 1.995-.627 1.105 0 2.006.27 2.691.82l.088.07-.885 1.378-.108-.085a2.4 2.4 0 0 0-.866-.427l-.005-.001a3 3 0 0 0-.883-.155c-.358 0-.629.065-.824.185-.192.117-.272.259-.272.429 0 .186.1.358.348.514.257.156.707.334 1.362.533.803.239 1.393.562 1.751.981.358.42.533.95.533 1.58 0 .659-.255 1.226-.756 1.698-.502.471-1.221.708-2.14.73h-.002q-1.81.002-3.04-1.092l-.083-.075.978-1.355.103.083c.683.551 1.356.815 2.019.808h.001c.416 0 .716-.077.915-.214a.61.61 0 0 0 .277-.54.82.82 0 0 0-.29-.634c-.207-.181-.616-.375-1.248-.574q-1.163-.335-1.812-.88v-.001c-.44-.378-.658-.904-.666-1.561v-.001c0-.636.278-1.166.82-1.587m-3.611-.498h1.696v5.568c-.022.863-.272 1.512-.774 1.915q-.415.346-.912.494-.487.144-.945.144-.826.001-1.476-.29c-.47-.212-.86-.585-1.17-1.11l-.055-.092 1.191-.976.078.105q.269.359.564.535l.002.002a1.4 1.4 0 0 0 .758.195c.31 0 .558-.088.753-.258.182-.165.29-.466.29-.945z\"\n  />\n</svg>\n"
+    },
+    "command-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M6.5 5.5a1 1 0 0 0 0 2h1v-1a1 1 0 0 0-1-1m4 2h3v-1a4 4 0 1 1 4 4h-1v3h1a4 4 0 1 1-4 4v-1h-3v1a4 4 0 1 1-4-4h1v-3h-1a4 4 0 1 1 4-4zm0 3v3h3v-3zm6-3h1a1 1 0 1 0-1-1zm0 9v1a1 1 0 1 0 1-1zm-9 0h-1a1 1 0 1 0 1 1z\"\n  />\n</svg>\n"
+    },
+    "puzzle-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M11 1a4 4 0 0 0-4 4H3v16h16v-4a4 4 0 0 0 0-8V5h-4a4 4 0 0 0-4-4\"\n  />\n</svg>\n"
+    },
+    "puzzle-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M11 1a4 4 0 0 0-4 4H3v16h18v-6.585l-1.333.472a2 2 0 1 1 0-3.773l1.333.47V5h-6a4 4 0 0 0-4-4\"\n  />\n</svg>\n"
+    },
+    "bug-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 2a4 4 0 0 0-4 4h8a4 4 0 0 0-4-4M5.554 8.226 5.634 8h12.732l.08.226 1.477-1.043 1.153 1.634-2.11 1.49q.033.343.034.693v2h3v2h-3c0 .856-.154 1.676-.435 2.434l.011-.016 2.5 1.765-1.153 1.634-2.311-1.632A7 7 0 0 1 13 21.93V14h-2v7.93a7 7 0 0 1-4.611-2.745l-2.312 1.632-1.153-1.634 2.5-1.765.01.016A7 7 0 0 1 5 15H2v-2h3v-2q0-.35.034-.694l-2.11-1.489 1.153-1.634z\"\n  />\n</svg>\n"
+    },
+    "bug-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M8.707 2.293 7.293 3.707l1.221 1.221A7.03 7.03 0 0 0 5.674 8H3v2h2.07A7 7 0 0 0 5 11v1H3v2h2v1q0 .51.07 1H3v2h2.674a7 7 0 0 0 12.652 0H21v-2h-2.07q.07-.49.07-1v-1h2v-2h-2v-1q0-.51-.07-1H21V8h-2.674a7.03 7.03 0 0 0-2.84-3.072l1.221-1.22-1.414-1.415-1.855 1.855a7 7 0 0 0-2.876 0zM15 12H9v-2h6zm0 4H9v-2h6z\"\n  />\n</svg>\n"
+    },
+    "terminal-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M1.94 6.56 7.378 12l-5.44 5.44 2.122 2.12L11.62 12 4.06 4.44zM11 21.5h10v-3H11z\"\n  />\n</svg>\n"
+    },
+    "terminal-box-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M2 3v18h20V3zm6.586 9L5.793 9.207l1.414-1.414L11.414 12l-4.207 4.207-1.414-1.414zM18 17h-6v-2h6z\"\n  />\n</svg>\n"
+    },
+    "brackets-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3.5 2.5H9v3H6.5v13H9v3H3.5zm14 3H15v-3h5.5v19H15v-3h2.5z\"\n  />\n</svg>\n"
+    },
+    "parentheses-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M9.938 3h-3.77A16.4 16.4 0 0 0 3.5 12c0 3.32.98 6.412 2.668 9h3.77A13.45 13.45 0 0 1 6.5 12c0-3.458 1.3-6.612 3.438-9m4.125 0h3.769a16.4 16.4 0 0 1 2.668 9c0 3.32-.98 6.412-2.668 9h-3.77a13.45 13.45 0 0 0 3.438-9c0-3.458-1.3-6.612-3.437-9\"\n  />\n</svg>\n"
+    },
+    "window-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m2 4 1-1h18l1 1v16l-1 1H3l-1-1zm2 15h16v-9H4zM19 6h-4v2h4z\"\n  />\n</svg>\n"
+    },
+    "window-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M2 4v16l1 1h18l1-1V4l-1-1H3zm2 15v-9h16v9zM7 8H5V6h2zm4 0H9V6h2z\"\n  />\n</svg>\n"
+    },
+    "terminal-window-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M5 12h3v5H5z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M3 3 2 4v16l1 1h18l1-1V4l-1-1zm1 7h16v9H4zm3-2H5V6h2zm4 0H9V6h2z\"\n  />\n</svg>\n"
+    }
+  },
+  "Food and Drinks": {
+    "beer-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path fill=\"currentColor\" d=\"M7 11v7h2v-7zm4 7v-7h2v7z\" />\n  <path\n    fill=\"currentColor\"\n    d=\"M2 6a3 3 0 0 1 3.51-2.957 3.998 3.998 0 0 1 6.594-.566A4 4 0 0 1 17 8.646V9h3l1 1v9l-1 1h-3v1l-1 1H4l-1-1V8.236C2.386 7.686 2 6.888 2 6m7-3c-.946 0-1.741.658-1.948 1.543a1 1 0 0 1-1.513.614A1 1 0 1 0 5 7h10.733a2 2 0 0 0-3.192-2.367 1 1 0 0 1-1.667-.334A2 2 0 0 0 9 3m8 8v7h2v-7zm-2-2H5v11h10z\"\n  />\n</svg>\n"
+    },
+    "restaurant-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m14.268 12.147-.853.853 7.07 7.071-1.413 1.414L12 14.415l-7.072 7.07-1.414-1.414 9.339-9.339c-.588-1.457.02-3.555 1.621-5.156 1.953-1.953 4.644-2.428 6.01-1.061 1.368 1.367.893 4.058-1.06 6.01-1.602 1.602-3.7 2.21-5.157 1.622M4.222 3.807l6.718 6.718-2.829 2.829-3.889-3.89a4 4 0 0 1 0-5.656m13.789 5.304c1.257-1.257 1.516-2.726 1.06-3.182s-1.924-.196-3.181 1.06c-1.258 1.258-1.517 2.727-1.061 3.183s1.925.196 3.182-1.06\"\n  />\n</svg>\n"
+    },
+    "goblet-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3 4.94V3h18v1.941l-8 8.941V19h5v2H6v-2h5v-5.118zM5.737 5l1.79 2h8.947l1.79-2zM12 12l2.685-3h-5.37z\"\n  />\n</svg>\n"
+    },
+    "knife-blood-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M4.343 1.408 22.374 19.44a1.5 1.5 0 1 1-2.121 2.122l-4.596-4.596L12.12 20.5 8 16.38V19a1 1 0 1 1-2 0v-4a1 1 0 0 0-1.993-.117L4.001 15v1a1 1 0 1 1-2 0V7.214A7.98 7.98 0 0 1 4.17 1.587zm.241 3.07-.051.11a6 6 0 0 0-.522 2.103l-.01.31v.119a5.98 5.98 0 0 0 1.58 4.003l.176.185 6.364 6.364 2.828-2.829z\"\n  />\n</svg>\n"
+    },
+    "cake-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 5c.828 0 1.5-.696 1.5-1.555C13.5 2.5 13 1.5 12 1c0 .757-.382 1.005-.76 1.25-.372.24-.74.48-.74 1.195C10.5 4.304 11.172 5 12 5m-1 5H8V6H6v4H3l-1 1v3a4 4 0 0 0 1 2.646V21l1 1h16l1-1v-4.354c.622-.705 1-1.632 1-2.646v-3l-1-1h-3V6h-2v4h-3V6h-2zm8 7.874V20H5v-2.126a4.01 4.01 0 0 0 4-1.228A4 4 0 0 0 12 18a4 4 0 0 0 3-1.354 3.99 3.99 0 0 0 4 1.228M10 14H8a2 2 0 1 1-4 0v-2h16v2a2 2 0 1 1-4 0h-2a2 2 0 1 1-4 0m8.6-10.555C18.6 4.304 17.928 5 17.1 5c-.829 0-1.5-.696-1.5-1.555 0-.716.368-.954.739-1.195.379-.245.76-.493.76-1.25 1 .5 1.5 1.5 1.5 2.445M7 5c.828 0 1.5-.696 1.5-1.555C8.5 2.5 8 1.5 7 1c0 .757-.382 1.005-.76 1.25-.372.24-.74.48-.74 1.195C5.5 4.304 6.172 5 7 5\"\n  />\n</svg>\n"
+    },
+    "cake-3-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12.574 3.579a3.5 3.5 0 0 1 6.35 2.651 4.502 4.502 0 0 1-.025 8.548L17.867 22H6.191l-1.503-7.016a3 3 0 0 1-.686-5.814L4 9a6 6 0 0 1 8.574-5.421m1.64 1.15a6 6 0 0 1 1.238 1.763A4.5 4.5 0 0 1 16.9 6.04q.098-.253.1-.54a1.5 1.5 0 0 0-2.787-.772M15 20h1.132l.715-5H15zm-2-5h-2v5h2zm-6.263 0 1.071 5H9v-5zM5 13h12.5a2.5 2.5 0 1 0-1.576-4.44c-.694.564-1.814.27-2.074-.651a4 4 0 0 0-7.784 1.815A1.082 1.082 0 0 1 5 11a1 1 0 1 0 0 2\"\n  />\n</svg>\n"
+    },
+    "bowl-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M8 .5v2.303l-1 1.5V6.5H5V3.697l1-1.5V.5zm5.5 0v2.303l-1 1.5V6.5h-2V3.697l1-1.5V.5zM19 2.803V.5h-2v1.697l-1 1.5V6.5h2V4.303zM2 8h20v1c0 4.452-2.434 8.379-6 10.09V21H8v-1.91C4.434 17.379 2 13.452 2 9zm2.048 2c.446 4.58 3.919 8 7.952 8s7.506-3.42 7.952-8z\"\n  />\n</svg>\n"
+    },
+    "knife-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M4.343 1.408 22.374 19.44a1.5 1.5 0 1 1-2.121 2.122l-4.596-4.596L12.12 20.5l-7.778-7.778A8 8 0 0 1 4.17 1.587zm.241 3.07-.051.11a6 6 0 0 0 1.048 6.535l.176.185 6.364 6.364 2.828-2.829z\"\n  />\n</svg>\n"
+    },
+    "bread-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3 22V10.465A4 4 0 0 1 5 3h14a4 4 0 0 1 2 7.465V22zM4 7a2 2 0 0 0 1.333 1.886L6 9.122V20h13V9.122l.667-.236A2.001 2.001 0 0 0 19 5H6a2 2 0 0 0-2 2\"\n  />\n</svg>\n"
+    },
+    "restaurant-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M20 2c-1.412 0-2.671.863-3.53 1.938C15.594 5.03 15 6.496 15 8v7h4v7h2V2zm-1 2.314V13h-2V8c0-.996.405-2.03 1.03-2.813.31-.386.642-.676.97-.873M3 10V3h2v7h2V3h2v7h2V3h2v7a4 4 0 0 1-4 4v8H7v-8a4 4 0 0 1-4-4\"\n  />\n</svg>\n"
+    },
+    "cake-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 6c.828 0 1.5-.696 1.5-1.555C13.5 3.5 13 2.5 12 2c0 .757-.382 1.005-.76 1.25-.372.24-.74.48-.74 1.195C10.5 5.304 11.172 6 12 6m-1 5V7h2v4h7l1 1v8h2v2H1v-2h2v-8l1-1zm8 9v-7H5v7z\"\n  />\n</svg>\n"
+    },
+    "drinks-2-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M8.677 1H4v2h3.323l1.2 3H3v2h2.064l1 15h11.873l.968-15H21V6H10.677zM7.272 11.045 7.069 8H16.9l-.327 5.06c-1.796.059-2.979-.339-4.298-.813l-.18-.066c-1.289-.465-2.723-.983-4.824-1.136m4.327 3.083c1.372.494 2.783.972 4.846.936L16.062 21H7.935l-.529-7.937c1.67.155 2.841.578 4.024 1.004z\"\n  />\n</svg>\n"
+    },
+    "cup-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M4 3v10a4 4 0 0 0 4 4h6a4 4 0 0 0 4-4v-3h3l1-1V4l-1-1zm2 2h10v8a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2zm12 3V5h2v3zM3 21h18v-2H3z\"\n  />\n</svg>\n"
+    },
+    "drinks-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M16 2h2.82l1 5H22v2h-2.109l-1.5 13H5.61L4.11 9H2V7h2.18l1-5H14V0h2zM6.122 9l1.27 11h9.217l1.269-11zM17.78 7l-.6-3H6.82l-.6 3z\"\n  />\n</svg>\n"
+    },
+    "candle-line": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m11.601.797.211-.211.204.203c.333.331.665.662.98 1.01.277.309.648.743 1.023 1.242a11.3 11.3 0 0 1 1.061 1.676c.292.584.545 1.275.545 1.97 0 1.691-1.1 3.125-2.625 3.624V12h5l1 1v7h2v2H3v-2h2v-7l1-1h5v-1.587a3.814 3.814 0 0 1-3-3.726c0-.695.253-1.386.545-1.97.3-.6.69-1.18 1.061-1.676.375-.5.746-.933 1.024-1.241.311-.346.641-.675.971-1.003m-.395 3.444a9.3 9.3 0 0 0-.872 1.37c-.236.471-.334.834-.334 1.077a1.813 1.813 0 0 0 3.625 0c0-.243-.098-.606-.334-1.077a9.3 9.3 0 0 0-.872-1.37 16 16 0 0 0-.607-.756 16 16 0 0 0-.606.756M7 20h10v-6H7z\"\n  />\n</svg>\n"
+    },
+    "beer-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3 8.236V21l1 1h12l1-1v-1h3l1-1v-9l-1-1h-3v-.354a4 4 0 0 0-4.896-6.169 3.998 3.998 0 0 0-6.593.566A3 3 0 0 0 3 8.236m4.052-3.693a2.001 2.001 0 0 1 3.822-.244 1 1 0 0 0 1.666.334A2 2 0 0 1 15.732 7H5a1 1 0 1 1 .539-1.843 1 1 0 0 0 1.513-.614M17 18v-7h2v7zM7 18v-7h2v7zm4 0v-7h2v7z\"\n  />\n</svg>\n"
+    },
+    "bowl-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M8 2.803V.5H6v1.697l-1 1.5V6.5h2V4.303zM22 8H2v1c0 4.452 2.434 8.379 6 10.09V21h8v-1.91c3.566-1.711 6-5.638 6-10.09zM13.5.5v2.303l-1 1.5V6.5h-2V3.697l1-1.5V.5zM19 2.803V.5h-2v1.697l-1 1.5V6.5h2V4.303z\"\n  />\n</svg>\n"
+    },
+    "bread-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M5 6.5C5 4.453 6.45 3 8 3h11a4 4 0 0 1 2 7.465V22H7V9.796C5.88 9.327 5 8.094 5 6.5M5 22H3V10.465A4.002 4.002 0 0 1 4.063 3.11 5.9 5.9 0 0 0 3 6.5c0 1.754.767 3.383 2 4.406z\"\n  />\n</svg>\n"
+    },
+    "knife-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M22.374 19.44a1.5 1.5 0 1 1-2.121 2.12l-4.596-4.595L12.12 20.5l-7.778-7.778A8 8 0 0 1 4.17 1.587l.173-.179z\"\n  />\n</svg>\n"
+    },
+    "cake-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M8.5 3.445C8.5 4.304 7.828 5 7 5s-1.5-.696-1.5-1.555c0-.716.368-.954.74-1.195C6.617 2.005 7 1.757 7 1c1 .5 1.5 1.5 1.5 2.445M12 5c.828 0 1.5-.696 1.5-1.555C13.5 2.5 13 1.5 12 1c0 .757-.382 1.005-.76 1.25-.372.24-.74.48-.74 1.195C10.5 4.304 11.172 5 12 5m5.1 0c.828 0 1.5-.696 1.5-1.555C18.6 2.5 18.1 1.5 17.1 1c0 .757-.383 1.005-.761 1.25-.371.24-.74.48-.74 1.195 0 .859.672 1.555 1.5 1.555M3 21v-4.354A4 4 0 0 1 2 14v-3l1-1h3V6h2v4h3V6h2v4h3V6h2v4h3l1 1v3a4 4 0 0 1-1 2.646V21l-1 1H4zm13-7a2 2 0 1 0 4 0v-2H4v2a2 2 0 1 0 4 0h2a2 2 0 1 0 4 0z\"\n  />\n</svg>\n"
+    },
+    "goblet-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M3 4.94V3h18v1.941l-8 8.941V19h5v2H6v-2h5v-5.118zM5.737 5l1.79 2h8.947l1.79-2z\"\n  />\n</svg>\n"
+    },
+    "cake-3-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M22 10.5a4.5 4.5 0 0 1-3.101 4.278L17.867 22H6.191l-1.503-7.016a3 3 0 0 1-.686-5.814L4 9a6 6 0 0 1 8.574-5.421 3.5 3.5 0 0 1 6.35 2.651A4.5 4.5 0 0 1 22 10.5M15 15h-2v5h2zm-4 0H9v5h2zm6.5-2a2.5 2.5 0 1 0-1.576-4.44c-.694.564-1.814.27-2.074-.651a4 4 0 0 0-7.784 1.815A1.082 1.082 0 0 1 5 11a1 1 0 1 0 0 2z\"\n  />\n</svg>\n"
+    },
+    "knife-blood-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M4.343 1.408 22.374 19.44a1.5 1.5 0 1 1-2.121 2.122l-4.596-4.596L12.12 20.5 8 16.38V19a1 1 0 1 1-2 0v-4a1 1 0 0 0-1.993-.117L4.001 15v1a1 1 0 1 1-2 0V7.214A7.98 7.98 0 0 1 4.17 1.587z\"\n  />\n</svg>\n"
+    },
+    "drinks-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M4 1h4.677l2 5H21v2h-2.095l-.968 15H6.064l-1-15H3V6h5.523l-1.2-3H4zm3.272 10.045c2.1.153 3.535.671 4.823 1.136l.181.066c1.32.474 2.502.872 4.298.814L16.901 8H7.069z\"\n  />\n</svg>\n"
+    },
+    "restaurant-2-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m4.222 3.808 6.718 6.717-2.829 2.829-3.889-3.89a4 4 0 0 1 0-5.656m10.046 8.338-.853.854 7.07 7.071-1.413 1.414L12 14.415l-7.072 7.07-1.414-1.414 9.339-9.339c-.588-1.457.02-3.555 1.621-5.157 1.953-1.952 4.644-2.427 6.01-1.06 1.368 1.366.893 4.057-1.06 6.01-1.602 1.602-3.7 2.21-5.157 1.621\"\n  />\n</svg>\n"
+    },
+    "cake-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M13.5 4.445C13.5 5.304 12.828 6 12 6s-1.5-.696-1.5-1.555c0-.716.368-.954.74-1.195.378-.245.76-.493.76-1.25 1 .5 1.5 1.5 1.5 2.445M4 11l-1 1v8H1v2h22v-2h-2v-8l-1-1h-7V7h-2v4z\"\n  />\n</svg>\n"
+    },
+    "restaurant-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M20 2c-1.412 0-2.671.863-3.53 1.938C15.594 5.03 15 6.496 15 8v7h4v7h2V2zM3 10V3h2v7h2V3h2v7h2V3h2v7a4 4 0 0 1-4 4v8H7v-8a4 4 0 0 1-4-4\"\n  />\n</svg>\n"
+    },
+    "drinks-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M18.82 2H16V0h-2v2H5.18l-1 5H2v2h20V7h-2.18zm.84 9H4.34l1.269 11H18.39z\"\n  />\n</svg>\n"
+    },
+    "cup-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M4 3v10a4 4 0 0 0 4 4h6a4 4 0 0 0 4-4v-3h3l1-1V4l-1-1zm16 5h-2V5h2zM3 21h18v-2H3z\"\n  />\n</svg>\n"
+    },
+    "candle-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M11.6.797c-.329.328-.659.657-.97 1.003-.278.308-.65.742-1.024 1.24a11.3 11.3 0 0 0-1.061 1.677C8.253 5.3 8 5.992 8 6.687a3.814 3.814 0 0 0 3 3.726V12H6l-1 1v7H3v2h18v-2h-2v-7l-1-1h-5v-1.689a3.81 3.81 0 0 0 2.625-3.623c0-.696-.253-1.387-.545-1.971-.3-.6-.69-1.18-1.061-1.676-.375-.5-.746-.933-1.024-1.241-.314-.35-.646-.68-.979-1.011l-.203-.203zm.213 2.688c.188.221.398.478.606.756.331.441.645.916.872 1.37.236.471.334.834.334 1.077a1.813 1.813 0 0 1-3.625 0c0-.243.098-.606.334-1.077.227-.454.541-.929.872-1.37.208-.278.418-.535.607-.756\"\n  />\n</svg>\n"
     }
   },
   "Editor": {
@@ -10311,7 +12059,7 @@
     "hand-fill": {
       "tags": [""],
       "labels": [""],
-      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <g clip-path=\"url(#a)\">\n    <path\n      fill=\"currentColor\"\n      fill-rule=\"evenodd\"\n      d=\"M10.952 0h3.286v2.19h3.286v3.286h3.285v6.572h-2.834c1.758.967 3.025 2.82 3.025 5.115A5.837 5.837 0 0 1 15.163 23H13.46a5.33 5.33 0 0 1-3.134-1.004 1.644 1.644 0 0 1-1.88-.757l-5.434-9.411a1.643 1.643 0 1 1 2.845-1.643l1.81 3.133V2.19h3.285z\"\n      clip-rule=\"evenodd\"\n    />\n    <path\n      stroke=\"currentColor\"\n      d=\"M21 12v3.176C21 19.496 17.46 23 13.139 23a7.76 7.76 0 0 1-7.056-4.52l-3.325-7.283a1.434 1.434 0 0 1 2.547-1.312l2.283 3.961\"\n    />\n    <path\n      stroke=\"currentColor\"\n      d=\"M11 11.818V3.5a1.5 1.5 0 1 0-3 0V14m6-2V1.5a1.5 1.5 0 0 0-3 0V12m7 0V4a2 2 0 1 0-4 0v8m7 0V6.5a1.5 1.5 0 0 0-3 0V12\"\n    />\n  </g>\n  <defs>\n    <clipPath id=\"a\"><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" /></clipPath>\n  </defs>\n</svg>\n"
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <g clip-path=\"url(#a)\">\n    <path\n      fill=\"currentColor\"\n      fill-rule=\"evenodd\"\n      d=\"M10.952 0h3.286v2.19h3.286v3.286h3.285v6.572h-3.285v4.38H9.462l1.829 3.168a1.643 1.643 0 0 1-2.846 1.643l-5.433-9.411a1.643 1.643 0 1 1 2.845-1.643l1.81 3.133V2.19h3.285z\"\n      clip-rule=\"evenodd\"\n    />\n    <path\n      stroke=\"currentColor\"\n      d=\"M21 12v3.176C21 19.496 17.46 23 13.139 23a7.76 7.76 0 0 1-7.056-4.52l-3.325-7.283a1.434 1.434 0 0 1 2.547-1.312l2.283 3.961\"\n    />\n    <path\n      stroke=\"currentColor\"\n      d=\"M11 11.818V3.5a1.5 1.5 0 1 0-3 0V14m6-2V1.5a1.5 1.5 0 0 0-3 0V12m7 0V4a2 2 0 1 0-4 0v8m7 0V6.5a1.5 1.5 0 0 0-3 0V12\"\n    />\n  </g>\n  <defs>\n    <clipPath id=\"a\"><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" /></clipPath>\n  </defs>\n</svg>\n"
     },
     "space-fill": {
       "tags": [""],

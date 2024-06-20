@@ -2,9 +2,7 @@
   <g clip-path="url(#a)">
     <path
       fill="currentColor"
-      fill-rule="evenodd"
-      d="M21 9h.392L11 24.242V15H4l9-15v9zm-8 4H7.766L11 7.61V11h6.263L13 17.394z"
-      clip-rule="evenodd"
+      d="M21.392 9 11 24.242V15H4l9-15v9zM13 13v4.394L17.263 11H11V7.61L7.766 13z"
     />
   </g>
   <defs>

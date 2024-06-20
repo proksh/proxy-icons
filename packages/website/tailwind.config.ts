@@ -7,7 +7,16 @@ const config: Config = {
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        brand: {
+          '100': '#FFFBF5',
+          '200': '#FFF6E5',
+          '600': '#FF620A',
+          '700': '#F15802',
+        },
+      },
+    },
   },
   plugins: [],
 };

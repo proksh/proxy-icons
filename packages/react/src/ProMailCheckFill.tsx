@@ -12,12 +12,6 @@ export const ProMailCheckFill = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <path
-          fill={color}
-          d="M23.707 17.207 18 22.914l-3.707-3.707 1.414-1.414L18 20.086l4.293-4.293z"
-          fillRule="evenodd"
-          clipRule="evenodd"
-        />
         <path fill={color} d="M22 3H2v1.009l10 7.727L22 4.01z" />
         <path
           fill={color}
