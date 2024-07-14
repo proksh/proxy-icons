@@ -3355,6 +3355,11 @@
       "labels": [""],
       "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M16 1H8v2h8zm-4 3a8.97 8.97 0 0 0-5.89 2.195L4.207 4.293 2.793 5.707l1.958 1.958a9 9 0 1 0 14.498 0l1.958-1.958-1.414-1.414-1.902 1.902A8.97 8.97 0 0 0 12 4M8 14l5-6.5V12h3l-5 6.5V14z\"\n  />\n</svg>\n"
     },
+    "time-history-fill": {
+      "tags": [""],
+      "labels": [""],
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M5.4 4.487 3.708 2.793 2 3.5v5l1 1h5l.707-1.707L6.82 5.904A8 8 0 1 1 4 12H2c0 5.523 4.477 10 10 10s10-4.477 10-10S17.523 2 12 2c-2.53 0-4.839.94-6.6 2.487\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"m11 12.414 3.793 3.793 1.414-1.414L13 11.586V7h-2z\"\n  />\n</svg>\n"
+    },
     "24-hours-fill": {
       "tags": [""],
       "labels": [""],
@@ -8147,7 +8152,7 @@
     "space-ship-line": {
       "tags": [""],
       "labels": [""],
-      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <g fill=\"currentColor\" clip-path=\"url(#a)\">\n    <path\n      d=\"M12 9a3 3 0 1 0 0 6 3 3 0 0 0 0-6m-1 3a1 1 0 1 1 2 0 1 1 0 0 1-2 0\"\n    />\n    <path\n      d=\"M12 1.72c.54.432 1.063.867 1.546 1.365a23 23 0 0 1 2.14 2.58c1.686 2.334 3.738 5.934 5.272 11.048l.3 1.003c-.512.128-1.024.262-1.54.375a41 41 0 0 1-5.204.796L12 24.417l-2.513-5.53a41 41 0 0 1-5.205-.796c-.516-.113-1.028-.247-1.54-.375l.3-1.003c1.534-5.114 3.586-8.714 5.272-11.048a23 23 0 0 1 2.14-2.58c.483-.498 1.005-.933 1.546-1.366M6.02 16.4c1.101.203 2.6.43 4.2.537l.596.04L12 19.584l1.185-2.605.596-.04a38 38 0 0 0 4.939-.68c-1.421-4.339-3.204-7.413-4.656-9.423A21 21 0 0 0 12 4.365a21 21 0 0 0-2.064 2.47C8.484 8.845 6.7 11.92 5.28 16.258q.328.068.739.143\"\n    />\n  </g>\n  <defs>\n    <clipPath id=\"a\"><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" /></clipPath>\n  </defs>\n</svg>\n"
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12 8.38a3 3 0 1 0 0 6 3 3 0 0 0 0-6m-1 3a1 1 0 1 1 2 0 1 1 0 0 1-2 0\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"m20.958 16.093.3 1.004-.319.08c-.406.102-.812.205-1.221.295a41 41 0 0 1-5.204.796L12 23.798l-2.513-5.53a41 41 0 0 1-5.205-.796c-.409-.09-.815-.193-1.221-.295l-.32-.08.301-1.004C4.576 10.98 6.628 7.38 8.314 5.045a23 23 0 0 1 2.14-2.58C10.937 1.968 11.46 1.533 12 1.1c.54.433 1.063.868 1.546 1.365a23 23 0 0 1 2.14 2.58c1.686 2.335 3.738 5.935 5.272 11.048M6.02 15.781c1.101.202 2.6.43 4.2.537l.596.04L12 18.964l1.185-2.606.596-.04a38 38 0 0 0 4.939-.679c-1.421-4.34-3.204-7.413-4.656-9.423A21 21 0 0 0 12 3.746l-.11.112a21 21 0 0 0-1.954 2.358C8.484 8.226 6.7 11.3 5.28 15.64q.328.067.739.143\"\n  />\n</svg>\n"
     },
     "ship-line": {
       "tags": [""],
@@ -8834,7 +8839,7 @@
     "flashlight-line": {
       "tags": [""],
       "labels": [""],
-      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <g clip-path=\"url(#a)\">\n    <path\n      fill=\"currentColor\"\n      d=\"M21.392 9 11 24.242V15H4l9-15v9zM13 13v4.394L17.263 11H11V7.61L7.766 13z\"\n    />\n  </g>\n  <defs>\n    <clipPath id=\"a\"><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" /></clipPath>\n  </defs>\n</svg>\n"
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    fill-rule=\"evenodd\"\n    d=\"M12.25.09V8.7h8.392L10.25 23.942V14.7H3.483zM7.016 12.7h5.234v4.758l4.608-6.758H10.25V7.31z\"\n    clip-rule=\"evenodd\"\n  />\n</svg>\n"
     },
     "sun-line": {
       "tags": [""],
@@ -8929,7 +8934,7 @@
     "foggy-line": {
       "tags": [""],
       "labels": [""],
-      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <g fill=\"currentColor\" clip-path=\"url(#a)\">\n    <path\n      d=\"M15.733 7.384A5 5 0 0 0 6 9l.002.923-.892.098A3.5 3.5 0 0 0 2.036 13H.022a5.5 5.5 0 0 1 4.024-4.805 7.001 7.001 0 0 1 13.281-2.193L17.5 6a6.5 6.5 0 0 1 6.495 6.755Q24 12.877 24 13h-2q0-.099-.005-.196l-.002-.047.002-.047q.005-.105.005-.21a4.5 4.5 0 0 0-5.172-4.45l-.825.123zM4 19h17v2H4zm20-4H0v2h24z\"\n    />\n  </g>\n  <defs>\n    <clipPath id=\"a\"><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" /></clipPath>\n  </defs>\n</svg>\n"
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <g fill=\"currentColor\" clip-path=\"url(#a)\">\n    <path\n      d=\"M15.733 7.384A5 5 0 0 0 6 9l.002.923-.892.098A3.5 3.5 0 0 0 2.036 13H.022a5.5 5.5 0 0 1 4.024-4.805 7.001 7.001 0 0 1 13.281-2.193L17.5 6a6.5 6.5 0 0 1 6.5 6.5v.5h-2v-.5a4.5 4.5 0 0 0-5.172-4.45l-.825.123zM4 19h17v2H4zm20-4H0v2h24z\"\n    />\n  </g>\n  <defs>\n    <clipPath id=\"a\"><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" /></clipPath>\n  </defs>\n</svg>\n"
     },
     "cloud-windy-line": {
       "tags": [""],
@@ -9069,7 +9074,7 @@
     "flashlight-fill": {
       "tags": [""],
       "labels": [""],
-      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <g clip-path=\"url(#a)\">\n    <path fill=\"currentColor\" d=\"M13 9V.39L4.233 15H11v9.242L21.392 9z\" />\n  </g>\n  <defs>\n    <clipPath id=\"a\"><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" /></clipPath>\n  </defs>\n</svg>\n"
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M12.25 8.7V.09L3.483 14.7h6.767v9.242L20.642 8.7z\"\n  />\n</svg>\n"
     },
     "sun-fill": {
       "tags": [""],
@@ -9169,7 +9174,7 @@
     "foggy-fill": {
       "tags": [""],
       "labels": [""],
-      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <g fill=\"currentColor\" clip-path=\"url(#a)\">\n    <path\n      d=\"M17.327 6.002A7.001 7.001 0 0 0 4.046 8.194 5.5 5.5 0 0 0 .022 13H24q0-.123-.005-.245.005-.128.005-.255a6.5 6.5 0 0 0-6.673-6.498M4 19h17v2H4zm20-4H0v2h24z\"\n    />\n  </g>\n  <defs>\n    <clipPath id=\"a\"><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" /></clipPath>\n  </defs>\n</svg>\n"
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <g fill=\"currentColor\" clip-path=\"url(#a)\">\n    <path\n      d=\"M17.327 6.002A7.001 7.001 0 0 0 4.046 8.194 5.5 5.5 0 0 0 .022 13H24v-.5a6.5 6.5 0 0 0-6.673-6.498M4 19h17v2H4zm20-4H0v2h24z\"\n    />\n  </g>\n  <defs>\n    <clipPath id=\"a\"><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" /></clipPath>\n  </defs>\n</svg>\n"
     },
     "mist-fill": {
       "tags": [""],
@@ -10233,7 +10238,7 @@
     "price-tag-3-line": {
       "tags": [""],
       "labels": [""],
-      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <g fill=\"currentColor\" clip-path=\"url(#a)\">\n    <path d=\"M13.352 11.147a2 2 0 1 0 2.828-2.829 2 2 0 0 0-2.828 2.829\" />\n    <path\n      d=\"M21.827 13.985 20.615 3.883 10.514 2.671-.083 13.268l11.314 11.314zm-19.082-.717 8.496-8.495 7.576.909.909 7.576-8.495 8.495z\"\n    />\n  </g>\n  <defs>\n    <clipPath id=\"a\"><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" /></clipPath>\n  </defs>\n</svg>\n"
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"M13.935 10.115a2.005 2.005 0 0 0 2.828 0 1.987 1.987 0 0 0 0-2.818 2.005 2.005 0 0 0-2.828 0 1.99 1.99 0 0 0 0 2.818\"\n  />\n  <path\n    fill=\"currentColor\"\n    d=\"M22.41 12.943 21.198 2.88 11.097 1.67.5 12.23 11.814 23.5zM3.328 12.23l8.496-8.464 7.576.906.909 7.548-8.495 8.464z\"\n  />\n</svg>\n"
     },
     "ticket-line": {
       "tags": [""],
@@ -10408,7 +10413,7 @@
     "price-tag-3-fill": {
       "tags": [""],
       "labels": [""],
-      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <g clip-path=\"url(#a)\">\n    <path\n      fill=\"currentColor\"\n      d=\"m20.617 3.883 1.212 10.102L11.233 24.58-.081 13.268 10.516 2.67zm-7.264 7.263a2 2 0 1 0 2.829-2.828 2 2 0 0 0-2.829 2.829\"\n    />\n  </g>\n  <defs>\n    <clipPath id=\"a\"><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" /></clipPath>\n  </defs>\n</svg>\n"
+      "svgContent": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\">\n  <path\n    fill=\"currentColor\"\n    d=\"m21.198 2.879 1.212 10.064-10.596 10.558L.5 12.23 11.097 1.67zm-7.264 7.236a2.005 2.005 0 0 0 2.829 0 1.987 1.987 0 0 0 0-2.818 2.005 2.005 0 0 0-2.829 0 1.99 1.99 0 0 0 0 2.818\"\n  />\n</svg>\n"
     },
     "ticket-fill": {
       "tags": [""],

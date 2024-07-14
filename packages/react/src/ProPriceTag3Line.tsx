@@ -12,15 +12,14 @@ export const ProPriceTag3Line = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <g fill={color} clipPath="url(#a)">
-          <path d="M13.352 11.147a2 2 0 1 0 2.828-2.829 2 2 0 0 0-2.828 2.829" />
-          <path d="M21.827 13.985 20.615 3.883 10.514 2.671-.083 13.268l11.314 11.314zm-19.082-.717 8.496-8.495 7.576.909.909 7.576-8.495 8.495z" />
-        </g>
-        <defs>
-          <clipPath id="a">
-            <path fill={color} d="M0 0h24v24H0z" />
-          </clipPath>
-        </defs>
+        <path
+          fill={color}
+          d="M13.935 10.115a2.005 2.005 0 0 0 2.828 0 1.987 1.987 0 0 0 0-2.818 2.005 2.005 0 0 0-2.828 0 1.99 1.99 0 0 0 0 2.818"
+        />
+        <path
+          fill={color}
+          d="M22.41 12.943 21.198 2.88 11.097 1.67.5 12.23 11.814 23.5zM3.328 12.23l8.496-8.464 7.576.906.909 7.548-8.495 8.464z"
+        />
       </svg>
     );
   },

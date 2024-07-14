@@ -12,17 +12,10 @@ export const ProPriceTag3Fill = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <g clipPath="url(#a)">
-          <path
-            fill={color}
-            d="m20.617 3.883 1.212 10.102L11.233 24.58-.081 13.268 10.516 2.67zm-7.264 7.263a2 2 0 1 0 2.829-2.828 2 2 0 0 0-2.829 2.829"
-          />
-        </g>
-        <defs>
-          <clipPath id="a">
-            <path fill={color} d="M0 0h24v24H0z" />
-          </clipPath>
-        </defs>
+        <path
+          fill={color}
+          d="m21.198 2.879 1.212 10.064-10.596 10.558L.5 12.23 11.097 1.67zm-7.264 7.236a2.005 2.005 0 0 0 2.829 0 1.987 1.987 0 0 0 0-2.818 2.005 2.005 0 0 0-2.829 0 1.99 1.99 0 0 0 0 2.818"
+        />
       </svg>
     );
   },

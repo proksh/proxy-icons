@@ -12,17 +12,12 @@ export const ProFlashlightLine = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <g clipPath="url(#a)">
-          <path
-            fill={color}
-            d="M21.392 9 11 24.242V15H4l9-15v9zM13 13v4.394L17.263 11H11V7.61L7.766 13z"
-          />
-        </g>
-        <defs>
-          <clipPath id="a">
-            <path fill={color} d="M0 0h24v24H0z" />
-          </clipPath>
-        </defs>
+        <path
+          fill={color}
+          d="M12.25.09V8.7h8.392L10.25 23.942V14.7H3.483zM7.016 12.7h5.234v4.758l4.608-6.758H10.25V7.31z"
+          fillRule="evenodd"
+          clipRule="evenodd"
+        />
       </svg>
     );
   },

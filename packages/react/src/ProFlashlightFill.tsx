@@ -12,14 +12,10 @@ export const ProFlashlightFill = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <g clipPath="url(#a)">
-          <path fill={color} d="M13 9V.39L4.233 15H11v9.242L21.392 9z" />
-        </g>
-        <defs>
-          <clipPath id="a">
-            <path fill={color} d="M0 0h24v24H0z" />
-          </clipPath>
-        </defs>
+        <path
+          fill={color}
+          d="M12.25 8.7V.09L3.483 14.7h6.767v9.242L20.642 8.7z"
+        />
       </svg>
     );
   },
