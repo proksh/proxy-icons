@@ -9,9 +9,8 @@ import rehypeCodeTitles from 'rehype-code-titles';
 import { page_routes } from './routes-config';
 import { visit } from 'unist-util-visit';
 
-// custom components imports
-import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
-import Pre from '@/components/pre';
+import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/common/tabs';
+import Pre from '@/components/docs/pre';
 
 type MdxFrontmatter = {
   title: string;
@@ -81,7 +80,7 @@ function sluggify(text: string) {
 }
 
 function getContentPath(slug: string) {
-  return path.join(process.cwd(), '/contents/docs/', `${slug}.mdx`);
+  return path.join(process.cwd(), '/src/contents/docs/', `${slug}.mdx`);
 }
 
 // for copying the code
