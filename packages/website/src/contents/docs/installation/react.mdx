@@ -1,0 +1,57 @@
+---
+title: React Installation
+description: Installation guide for using Proxy Icons as React components.
+---
+
+## Installation Steps
+
+1. **Install the Package**: Add the Proxy Icons package to your React project using npm, yarn, or pnpm.
+
+   ```bash
+   npm install @remixicon/react
+   # or
+   yarn add @remixicon/react
+   # or
+   pnpm install @remixicon/react
+   ```
+
+2. **Usage**: Import the desired icon and use it within your React components.
+
+   ```jsx
+   import { RiUserFill } from '@remixicon/react';
+
+   const MyComponent = () => {
+     return (
+       <RiUserFill
+         className="my-icon" // Add your custom class name here
+       />
+     );
+   };
+   ```
+
+   Note: Replace RiUserFill with any icon component from the @remixicon/react package that suits your needs.
+
+3. **Sizing**: Apply styles or classes to adjust the size of your icons.
+
+   ```jsx
+   import { RiUserFill } from '@remixicon/react';
+
+   const MyComponent = () => {
+     return (
+       <RiUserFill
+         className="text-xs" // If using Tailwind CSS or similar framework
+         style={{ height: '20px', width: '20px' }} // Or use inline styles for sizing
+       />
+     );
+   };
+   ```
+
+Note: The example shows using Tailwind CSS for sizing with text-xs, but you can customize this based on your CSS framework or design system.
+
+## Additional Notes
+
+- **Icon Import:** Only import the icons you need to keep your bundle size small.
+- **Custom Styles:** You can further customize the icons using additional CSS classes or inline styles as required.
+- **Responsive Sizing:** Consider using responsive classes or media queries to adjust icon sizes based on screen size.
+
+This refined version enhances clarity, offers more detailed instructions, and includes additional notes to help with efficient usage in React projects. Let me know if you need further adjustments!

@@ -14,7 +14,7 @@ export default function DocsBreadcrumb({ paths }: { paths: string[] }) {
       <Breadcrumb>
         <BreadcrumbList>
           <BreadcrumbItem>
-            <BreadcrumbLink href="/docs/getting-started/installation">Docs</BreadcrumbLink>
+            <BreadcrumbLink href="/docs/getting-started/introduction">Docs</BreadcrumbLink>
           </BreadcrumbItem>
           {paths.map((path) => (
             <Fragment key={path}>

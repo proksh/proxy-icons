@@ -18,7 +18,7 @@ export default function Copy({ content }: { content: string }) {
 
   return (
     <Button variant="secondary" size="xs" onClick={handleCopy}>
-      {isCopied ? <i className="pro-check-line" /> : <i className="pro-arrow-left-circle-line" />}
+      {isCopied ? <i className="pro-check-line" /> : <i className="pro-copy-line" />}
     </Button>
   );
 }

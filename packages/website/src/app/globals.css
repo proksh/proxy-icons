@@ -1,3 +1,102 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.prose {
+  @apply !m-0;
+}
+
+pre {
+  @apply !p-0 !w-auto overflow-x-auto;
+}
+
+table {
+  @apply text-left;
+}
+
+h2 {
+  @apply text-2xl font-semibold;
+}
+
+code {
+  @apply text-sm bg-orange-200 px-2 py-1 rounded-lg;
+}
+
+pre > code {
+  @apply grid bg-gray-200 font-mono text-sm !py-3 rounded-xl;
+  max-width: inherit !important;
+}
+
+.code-line {
+  @apply py-px px-3;
+}
+
+.line-number::before {
+  @apply inline-block text-gray-500 w-6 mr-6 -ml-1 text-right;
+  content: attr(line);
+}
+
+.highlight-line {
+  @apply dark:bg-neutral-800/90;
+  @apply bg-neutral-200/90;
+}
+
+.punctuation {
+  @apply text-gray-600;
+}
+
+.comment {
+  @apply text-gray-600;
+}
+
+.keyword {
+  @apply text-orange-600;
+}
+
+.function {
+  @apply text-purple-600;
+}
+
+.string,
+.constant,
+.annotation,
+.boolean,
+.number {
+  @apply text-gray-600;
+}
+
+.dark .string,
+.dark .constant,
+.dark .annotation,
+.dark .boolean,
+.dark.number {
+  @apply text-gray-400;
+}
+
+.dark .keyword {
+  @apply text-orange-600;
+}
+
+.attr-value {
+  @apply text-green-600;
+}
+
+.tag {
+  @apply text-pink-600;
+}
+
+.attr-name {
+  @apply text-gray-700;
+}
+
+.dark .attr-name {
+  @apply text-gray-400;
+}
+
+.rehype-code-title {
+  @apply px-2 -mb-8 w-full text-sm pt-1 pb-5 tracking-wider font-medium font-mono;
+}
+
+.highlight-comp > code {
+  @apply !bg-transparent;
+}
