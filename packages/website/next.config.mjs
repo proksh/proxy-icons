@@ -5,7 +5,7 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-
+  transpilePackages: ['next-mdx-remote'],
   webpack: (config, { isServer }) => {
     if (!isServer) {
       config.resolve.fallback = {
