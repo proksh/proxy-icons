@@ -1,0 +1,27 @@
+import * as React from "react";
+import { IconProps } from "./types";
+
+export const ProFileChartLine = React.forwardRef<SVGSVGElement, IconProps>(
+  ({ color = "currentColor", ...props }, forwardedRef) => {
+    return (
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="24"
+        height="24"
+        fill="none"
+        {...props}
+        ref={forwardedRef}
+      >
+        <path fill={color} d="M17 17v-4h-2v4zM13 7v10h-2V7zM9 17v-5H7v5z" />
+        <path
+          fill={color}
+          d="M15.914 2H3v20h18V7.086zM15 8V4H5v16h14V8z"
+          fillRule="evenodd"
+          clipRule="evenodd"
+        />
+      </svg>
+    );
+  },
+);
+
+export default ProFileChartLine;
