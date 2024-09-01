@@ -14,9 +14,7 @@ export const ProFolderChartFill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M2 3h8.414l2 2H22v16H2zm11 14V9h-2v8zm4 0v-4h-2v4zm-8-5v5H7v-5z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M2 3h8.414l2 2H22v16H2zm11 14V9h-2v8zm4 0v-4h-2v4zm-8-5H7v5h2z"
         />
       </svg>
     );

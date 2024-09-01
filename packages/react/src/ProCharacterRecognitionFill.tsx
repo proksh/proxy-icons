@@ -18,8 +18,6 @@ export const ProCharacterRecognitionFill = React.forwardRef<
       <path
         fill={color}
         d="M21 3H3v18h18zM10.012 14l-1.227 3H6.624l4.45-10.879h1.851L17.376 17h-2.16l-1.227-3z"
-        fillRule="evenodd"
-        clipRule="evenodd"
       />
     </svg>
   );

@@ -14,9 +14,7 @@ export const ProSurveyFill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M3 4h3v4h12V4h3v18H3zm4 6v2h2v-2zm0 3v2h2v-2zm0 5v-2h2v2z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M3 4h3v4h12V4h3v18H3zm4 6v2h2v-2zm0 3v2h2v-2zm0 5h2v-2H7z"
         />
         <path fill={color} d="M8 3v3h8V3z" />
       </svg>

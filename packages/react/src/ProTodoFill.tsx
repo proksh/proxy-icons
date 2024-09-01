@@ -14,9 +14,7 @@ export const ProTodoFill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M9 3h6V1h2v2h4v20H3V3h4V1h2zm8 8H7V9h10zm0 4H7v-2h10z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M9 3V1H7v2H3v20h18V3h-4V1h-2v2zm8 8H7V9h10zm0 4H7v-2h10z"
         />
       </svg>
     );

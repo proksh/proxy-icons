@@ -19,8 +19,6 @@ export const ProFilePdf2Fill = React.forwardRef<SVGSVGElement, IconProps>(
         <path
           fill={color}
           d="M3 2h12.914L21 7.086V22H3zm9.48 5.304-1.975.096-.147 1.47a11 11 0 0 1-2.356 5.776l-1.783 2.23 1.295 1.482 1.912-1.148A12 12 0 0 1 15.6 15.5H17l.406-1.914-1.19-.528A6 6 0 0 1 12.77 8.75z"
-          fillRule="evenodd"
-          clipRule="evenodd"
         />
       </svg>
     );

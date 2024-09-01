@@ -20,9 +20,7 @@ export const ProCharacterRecognitionLine = React.forwardRef<
       />
       <path
         fill={color}
-        d="m10.012 14-1.227 3H6.624l4.45-10.879h1.851L17.376 17h-2.16l-1.227-3zm.818-2L12 9.141 13.17 12z"
-        fillRule="evenodd"
-        clipRule="evenodd"
+        d="m10.012 14-1.227 3H6.624l4.45-10.879h1.851L17.376 17h-2.16l-1.227-3zm.818-2h2.34L12 9.141z"
       />
     </svg>
   );

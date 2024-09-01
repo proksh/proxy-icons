@@ -14,9 +14,7 @@ export const ProBox1Line = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M12.5 1.134h-1l-8.66 5-.5.866v10l.5.866 8.66 5h1l8.66-5 .5-.866V7l-.5-.866zm-7.253 5.92L12 3.154l7.66 4.423v8.846L13 20.268v-8.853zM4.34 8.838v7.585L11 20.268v-7.683z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M12.5 1.134h-1l-8.66 5-.5.866v10l.5.866 8.66 5h1l8.66-5 .5-.866V7l-.5-.866zm-7.253 5.92L12 3.154l7.66 4.423v8.846L13 20.268v-8.853zM4.34 8.838 11 12.585v7.683l-6.66-3.845z"
         />
       </svg>
     );

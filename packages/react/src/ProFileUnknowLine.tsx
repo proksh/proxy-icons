@@ -16,12 +16,7 @@ export const ProFileUnknowLine = React.forwardRef<SVGSVGElement, IconProps>(
           fill={color}
           d="M12 9a1.5 1.5 0 0 0-1.5 1.5h-2A3.5 3.5 0 1 1 12 14h-1v-2h1a1.5 1.5 0 0 0 0-3m-1 6v2h2v-2z"
         />
-        <path
-          fill={color}
-          d="M3 2h12.914L21 7.086V22H3zm12 2v4h4v12H5V4z"
-          fillRule="evenodd"
-          clipRule="evenodd"
-        />
+        <path fill={color} d="M3 2h12.914L21 7.086V22H3zm12 2H5v16h14V8h-4z" />
       </svg>
     );
   },

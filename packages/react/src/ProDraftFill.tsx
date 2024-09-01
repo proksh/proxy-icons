@@ -14,9 +14,7 @@ export const ProDraftFill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M21 2H3v20h18v-7.193l-4.842 4.842-3.811-.431-.431-3.811L21 6.322zM7 10h8V8H7zm5 4H7v-2h5z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M21 2H3v20h18v-7.193l-4.842 4.842-3.811-.431-.431-3.811L21 6.322zM7 10V8h8v2zm5 4H7v-2h5z"
         />
         <path
           fill={color}

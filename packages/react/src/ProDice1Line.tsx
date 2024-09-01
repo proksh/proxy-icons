@@ -21,8 +21,6 @@ export const ProDice1Line = React.forwardRef<SVGSVGElement, IconProps>(
           fill={color}
           d="M4 3 3 4v16l1 1h16l1-1V4l-1-1zm1 16V5h14v14z"
           fillOpacity=".961"
-          fillRule="evenodd"
-          clipRule="evenodd"
         />
       </svg>
     );

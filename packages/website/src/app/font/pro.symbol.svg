@@ -333,10 +333,10 @@
 </symbol><symbol id="pro-artboard-line">
   <path fill="currentColor" d="M5 3 4 4v9l1 1h14l1-1V4l-1-1zm1 9V5h12v7zm15 3H3v2h5.586l-3.293 3.293 1.414 1.414L11 17.414V20h2v-2.586l4.293 4.293 1.414-1.414L15.414 17H21z"></path>
 </symbol><symbol id="pro-article-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h18v20H3zm4 8V6h4v4zm10 4H7v-2h10zm-4-5h4V7h-4zm4 9H7v-2h10z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2v20h18V2zm4 8V6h4v4zm10 4H7v-2h10zm-4-5V7h4v2zm4 9H7v-2h10z"></path>
 </symbol><symbol id="pro-article-line">
   <path fill="currentColor" d="M7 6h4v4H7zm0 8h10v-2H7zm10-5h-4V7h4zM7 18h10v-2H7z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h18v20H3zm2 2v16h14V4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h18v20H3zm2 2v16h14V4z"></path>
 </symbol><symbol id="pro-aspect-ratio-fill">
   <path fill="currentColor" d="M2 3v18h20V3zm4 4h5v2H8v3H6zm10 8v-3h2v5h-5v-2z"></path>
 </symbol><symbol id="pro-aspect-ratio-line">
@@ -374,9 +374,9 @@
 </symbol><symbol id="pro-baidu-line">
   <path fill="currentColor" d="M7.563 19.28q.257.012.584.006a9.7 9.7 0 0 0 1.912-.223 8.8 8.8 0 0 1 2.98-.131 8 8 0 0 1 1.289.257c1.077.275 2.61.223 3.005-.41.29-.468.253-.787-.026-1.199-.06-.09-.126-.17-.188-.235l-.024-.025-.165-.132q-.265-.215-.579-.486a26 26 0 0 1-1.752-1.66 16 16 0 0 1-1.577-1.893l-.036-.053c-.742-1.139-1.558-1.067-2.002-.318a9.6 9.6 0 0 1-.955 1.332c-.41.482-.83.89-1.306 1.297-.122.105-.502.42-.411.344-.004.003-.017.015.05-.071-.098.12-.95.877-1.2 1.162-.515.583-.722 1.08-.645 1.48.073.376.22.587.45.745a1.4 1.4 0 0 0 .48.206zm7.099-7.276c1.375 1.97 3.731 3.793 3.731 3.793s2.064 1.748.638 4.038-5.253 1.278-5.253 1.278-1.52-.49-3.286-.098c-1.765.395-3.286.245-3.286.245S5 21.015 4.553 18.701c-.446-2.314 2.06-4.04 2.258-4.284.196-.247 1.512-1.073 2.452-2.658.94-1.586 3.584-2.54 5.399.245m5.538-1.42c0 .457.191 2.393-1.552 2.432-1.743.038-1.816-1.178-1.816-2.05 0-.913.187-2.205 1.59-2.205 1.4 0 1.778 1.369 1.778 1.824m-5.429-2.777c-1.18-.152-1.447-1.222-1.333-2.293.095-.875 1.142-2.219 1.981-2.026.837.19 1.6 1.3 1.446 2.254-.152.957-.912 2.218-2.094 2.065M9.755 7.44c-.861 0-1.56-.993-1.56-2.22S8.892 3 9.754 3s1.56.993 1.56 2.22-.697 2.22-1.56 2.22m-3.793 4.566c-1.695.365-2.327-1.597-2.14-2.515 0 0 .2-1.987 1.576-2.11 1.093-.095 1.898 1.101 1.98 1.785.052.444.283 2.475-1.416 2.84"></path>
 </symbol><symbol id="pro-ball-pen-fill">
-  <path fill="currentColor" d="M17.097 2.04h1.414l2.828 2.828v1.415l-1.414 1.414-4.243-4.243zm-2.829 2.828L2.66 16.475v4.243h4.243l10.192-10.193.707.707-6.364 6.364 1.414 1.415 7.071-7.071v-1.415z"></path>
+  <path fill="currentColor" d="M17.097 2.04h1.414l2.828 2.828v1.415l-1.414 1.414-4.243-4.243zm-2.829 2.828L2.66 16.475v4.243h4.243l10.192-10.193.707.707-6.364 6.364 1.414 1.415 7.071-7.072v-1.414z"></path>
 </symbol><symbol id="pro-ball-pen-line">
-  <path fill="currentColor" d="M17.097 2.04h1.414l2.828 2.828v1.415l-1.414 1.414-4.243-4.243zm-2.829 2.828 5.656 5.657v1.415l-7.07 7.07-1.415-1.414 6.364-6.364-.707-.707L6.904 20.718H2.66v-4.243zm1.414 4.243-1.414-1.414-9.607 9.606v1.415h1.414z"></path>
+  <path fill="currentColor" d="M17.097 2.04h1.414l2.828 2.828v1.415l-1.414 1.414-4.243-4.243zm-2.829 2.828 5.656 5.657v1.414l-7.07 7.072-1.415-1.415 6.364-6.364-.707-.707L6.904 20.718H2.66v-4.243zm1.414 4.243-1.414-1.414-9.607 9.606v1.415h1.414z"></path>
 </symbol><symbol id="pro-bar-chart-2-fill">
   <path fill="currentColor" d="M15 2h-5v20h5zM8 8H3v14h5zm14 3h-5v11h5z"></path>
 </symbol><symbol id="pro-bar-chart-2-line">
@@ -422,7 +422,7 @@
 </symbol><symbol id="pro-basketball-fill">
   <path fill="currentColor" d="m16.954 3.313.093.054zm-.844-.43a9.96 9.96 0 0 0-5.94-.714 9.98 9.98 0 0 1-.31 7.44l1.774 1.025zM2.572 15.332a9.96 9.96 0 0 0 3.587 4.785l4.475-7.75-1.775-1.025a9.98 9.98 0 0 1-6.287 3.99m5.319 5.786a9.96 9.96 0 0 0 5.939.714 9.98 9.98 0 0 1 .31-7.441l-1.774-1.025zM21.43 8.669a9.96 9.96 0 0 0-3.588-4.787l-4.476 7.752 1.775 1.025a9.98 9.98 0 0 1 6.289-3.99m.475 1.946a9.95 9.95 0 0 1-.787 5.495l-4.234-2.445a8 8 0 0 1 5.02-3.05m-1.178 6.271-.131.227a8 8 0 0 0 .13-.227m-.607.956a9.95 9.95 0 0 1-4.365 3.428 8 8 0 0 1 .13-5.873zM2.097 13.385a9.95 9.95 0 0 1 .786-5.494l4.233 2.444a8 8 0 0 1-5.02 3.05M3.883 6.16a9.95 9.95 0 0 1 4.364-3.43 8 8 0 0 1-.13 5.873z"></path>
 </symbol><symbol id="pro-basketball-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M9.203 2.399a9.97 9.97 0 0 0-5.864 4.6 9.97 9.97 0 0 0-1.052 7.38A9.97 9.97 0 0 0 7 20.66c4.559 2.632 10.328 1.267 13.25-3.008a10 10 0 0 0 .41-.652q.246-.425.445-.863a9.97 9.97 0 0 0 .608-6.516A9.97 9.97 0 0 0 17 3.34a9.97 9.97 0 0 0-7.797-.941m-.5 2.311a7.96 7.96 0 0 0-3.078 2.455l2.49 1.438a7.95 7.95 0 0 0 .588-3.893m1.942-.595A9.96 9.96 0 0 1 9.86 9.61l1.775 1.025 3.469-6.009a7.97 7.97 0 0 0-4.458-.51m-3.529 6.22-2.49-1.438a7.96 7.96 0 0 0-.588 3.893 7.95 7.95 0 0 0 3.078-2.455M4.495 14.77a9.96 9.96 0 0 0 4.365-3.428l1.775 1.025-3.47 6.009a7.97 7.97 0 0 1-2.67-3.606m12.34-9.144-3.468 6.009 1.775 1.025a9.96 9.96 0 0 1 4.364-3.429 7.97 7.97 0 0 0-2.67-3.605m-4.468 7.74 1.775 1.026a9.96 9.96 0 0 0-.787 5.494 7.96 7.96 0 0 1-4.457-.51zm3.518 2.032a7.95 7.95 0 0 0-.587 3.893 7.96 7.96 0 0 0 3.078-2.455zm3.49-.294a7.96 7.96 0 0 0 .587-3.893 7.95 7.95 0 0 0-3.077 2.455z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M9.203 2.399a9.97 9.97 0 0 0-5.864 4.6 9.97 9.97 0 0 0-1.052 7.38A9.97 9.97 0 0 0 7 20.66c4.559 2.632 10.328 1.267 13.25-3.008a10 10 0 0 0 .41-.652q.246-.425.445-.863a9.97 9.97 0 0 0 .608-6.516A9.97 9.97 0 0 0 17 3.34a9.97 9.97 0 0 0-7.797-.941m-.5 2.311a7.95 7.95 0 0 1-.587 3.893l-2.49-1.438A7.96 7.96 0 0 1 8.702 4.71m1.942-.595a7.97 7.97 0 0 1 4.458.51l-3.47 6.009L9.86 9.609a9.96 9.96 0 0 0 .786-5.494m-3.529 6.22a7.95 7.95 0 0 1-3.078 2.455 7.96 7.96 0 0 1 .587-3.893zm-2.622 4.434a9.96 9.96 0 0 0 4.365-3.428l1.775 1.025-3.47 6.009a7.97 7.97 0 0 1-2.67-3.606m12.34-9.144a7.97 7.97 0 0 1 2.671 3.605 9.96 9.96 0 0 0-4.364 3.429l-1.775-1.025zm-4.468 7.74 1.775 1.026a9.96 9.96 0 0 0-.787 5.494 7.96 7.96 0 0 1-4.457-.51zm3.518 2.032 2.49 1.438a7.96 7.96 0 0 1-3.077 2.455 7.95 7.95 0 0 1 .587-3.893m3.49-.294-2.49-1.438a7.95 7.95 0 0 1 3.077-2.455 7.96 7.96 0 0 1-.586 3.893"></path>
 </symbol><symbol id="pro-battery-2-charge-fill">
   <path fill="currentColor" d="m9 3 1-1h4l1 1v1h3l1 1v16l-1 1H6l-1-1V5l1-1h3zm4 4-5 7h3v5l5-7h-3z"></path>
 </symbol><symbol id="pro-battery-2-charge-line">
@@ -479,17 +479,17 @@
 </symbol><symbol id="pro-bilibili-line">
   <path fill="currentColor" d="M7.172 2.757 10.414 6h3.171l3.243-3.242a1 1 0 1 1 1.415 1.415L16.414 6H18.5A3.5 3.5 0 0 1 22 9.5v8a3.5 3.5 0 0 1-3.5 3.5h-13A3.5 3.5 0 0 1 2 17.5v-8A3.5 3.5 0 0 1 5.5 6h2.085L5.757 4.171a1 1 0 0 1 1.415-1.415M18.5 8h-13a1.5 1.5 0 0 0-1.493 1.356L4 9.5v8a1.5 1.5 0 0 0 1.356 1.493L5.5 19h13a1.5 1.5 0 0 0 1.493-1.355L20 17.5v-8A1.5 1.5 0 0 0 18.5 8M8 11a1 1 0 0 1 1 1v2a1 1 0 1 1-2 0v-2a1 1 0 0 1 1-1m8 0a1 1 0 0 1 1 1v2a1 1 0 1 1-2 0v-2a1 1 0 0 1 1-1"></path>
 </symbol><symbol id="pro-bill-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h18v20H3zm13 9H8V9h8zm0 4H8v-2h8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2v20h18V2zm13 9H8V9h8zm0 4H8v-2h8z"></path>
 </symbol><symbol id="pro-bill-line">
   <path fill="currentColor" d="M16 11H8V9h8zm-8 4h8v-2H8z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h18v20H3zm2 2v16h14V4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h18v20H3zm2 2v16h14V4z"></path>
 </symbol><symbol id="pro-billiards-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M14.5 10.25a2.5 2.5 0 0 1-.633 1.663c.533.443.883 1.081.883 1.837 0 1.472-1.328 2.5-2.75 2.5s-2.75-1.028-2.75-2.5c0-.756.35-1.394.883-1.837A2.5 2.5 0 1 1 14.5 10.25m-2.5-1a1 1 0 1 0 0 2 1 1 0 0 0 0-2m-1.25 4.5c0-.461.462-1 1.25-1s1.25.539 1.25 1-.462 1-1.25 1-1.25-.539-1.25-1" clip-rule="evenodd"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2m6 10a6 6 0 1 1-12 0 6 6 0 0 1 12 0" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M14.5 10.25a2.5 2.5 0 0 1-.633 1.663c.533.443.883 1.081.883 1.837 0 1.472-1.328 2.5-2.75 2.5s-2.75-1.028-2.75-2.5c0-.756.35-1.394.883-1.837A2.5 2.5 0 1 1 14.5 10.25m-2.5-1a1 1 0 1 0 0 2 1 1 0 0 0 0-2m-1.25 4.5c0 .461.462 1 1.25 1s1.25-.539 1.25-1-.462-1-1.25-1-1.25.539-1.25 1"></path>
+  <path fill="currentColor" d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2m6 10a6 6 0 1 1-12 0 6 6 0 0 1 12 0"></path>
 </symbol><symbol id="pro-billiards-line">
   <path fill="currentColor" d="M12 9.25a1 1 0 1 0 0 2 1 1 0 0 0 0-2m-1.25 4.5c0-.461.462-1 1.25-1s1.25.539 1.25 1-.462 1-1.25 1-1.25-.539-1.25-1"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M18 12a6 6 0 1 1-12 0 6 6 0 0 1 12 0m-3.5-1.75a2.5 2.5 0 0 1-.633 1.663c.533.443.883 1.081.883 1.837 0 1.472-1.328 2.5-2.75 2.5s-2.75-1.028-2.75-2.5c0-.756.35-1.394.883-1.837A2.5 2.5 0 1 1 14.5 10.25" clip-rule="evenodd"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12m10-8a8 8 0 1 0 0 16 8 8 0 0 0 0-16" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M18 12a6 6 0 1 1-12 0 6 6 0 0 1 12 0m-3.5-1.75a2.5 2.5 0 1 0-4.367 1.663c-.533.443-.883 1.081-.883 1.837 0 1.472 1.328 2.5 2.75 2.5s2.75-1.028 2.75-2.5c0-.756-.35-1.394-.883-1.837a2.5 2.5 0 0 0 .633-1.663"></path>
+  <path fill="currentColor" d="M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12m10-8a8 8 0 1 0 0 16 8 8 0 0 0 0-16"></path>
 </symbol><symbol id="pro-blender-fill">
   <path fill="currentColor" d="M7.79 15.714c-.144-.455-.24-1.039-.245-1.339-.006-.299.06-.797.06-.797l-4.509 3.69c-.787.636-1.846.635-2.344-.004-.491-.628-.24-1.62.54-2.217l8.293-6.364-4.628.006c-.785-.003-1.298-.532-1.15-1.17.143-.626.869-1.121 1.624-1.122l9.146-.01-2.995-2.439c-.466-.382-.407-.989.118-1.355.518-.363 1.31-.364 1.782-.002l7.204 5.531-.002.001a7.4 7.4 0 0 1 1.775 1.958 6.82 6.82 0 0 1 1.021 4.13 6.7 6.7 0 0 1-.287 1.479 7.1 7.1 0 0 1-1.526 2.647A7.9 7.9 0 0 1 19 20.263a8.6 8.6 0 0 1-3.505.74 8.6 8.6 0 0 1-3.508-.728 7.9 7.9 0 0 1-2.67-1.918 7.1 7.1 0 0 1-1.527-2.643m7.703 1.815c1.408-.003 2.708-.54 3.637-1.486.454-.462.787-.992.993-1.558.201-.555.28-1.143.229-1.736a4.1 4.1 0 0 0-.5-1.634 4.5 4.5 0 0 0-1.104-1.31 5.14 5.14 0 0 0-3.257-1.127 5.15 5.15 0 0 0-3.255 1.136c-.46.377-.834.822-1.105 1.314a4.1 4.1 0 0 0-.27 3.373 4.3 4.3 0 0 0 .994 1.554c.929.945 2.23 1.477 3.638 1.474m-2.018-6.625a3.28 3.28 0 0 1 2.12-.759c.815 0 1.564.288 2.12.759.566.479.942 1.155.985 1.92.043.79-.274 1.521-.83 2.064a3.25 3.25 0 0 1-2.275.899 3.25 3.25 0 0 1-2.277-.899c-.556-.543-.872-1.275-.828-2.062.043-.768.418-1.443.985-1.922m0 0c-.567.479-.942 1.155-.985 1.922-.044.787.272 1.52.829 2.062a3.25 3.25 0 0 0 2.276.899 3.25 3.25 0 0 0 2.276-.899c.555-.543.872-1.275.83-2.063-.044-.766-.42-1.442-.986-1.921a3.28 3.28 0 0 0-2.12-.759 3.28 3.28 0 0 0-2.12.759m-5.686 4.81c-.143-.455-.239-1.039-.244-1.339-.006-.299.06-.797.06-.797l-4.509 3.69c-.787.636-1.846.635-2.344-.004-.491-.628-.24-1.62.54-2.217l8.293-6.364-4.628.006c-.785-.003-1.298-.532-1.15-1.17.143-.626.869-1.121 1.624-1.122l9.146-.01-2.995-2.439c-.466-.382-.407-.989.118-1.355.518-.363 1.31-.364 1.782-.002l7.204 5.531-.002.001a7.4 7.4 0 0 1 1.775 1.958 6.82 6.82 0 0 1 1.021 4.13 6.7 6.7 0 0 1-.287 1.479 7.1 7.1 0 0 1-1.526 2.647A7.9 7.9 0 0 1 19 20.263a8.6 8.6 0 0 1-3.505.74 8.6 8.6 0 0 1-3.508-.728 7.9 7.9 0 0 1-2.67-1.918 7.1 7.1 0 0 1-1.527-2.643m7.704 1.815c1.408-.003 2.708-.54 3.637-1.486.454-.462.787-.992.993-1.558.201-.555.28-1.143.229-1.736a4.1 4.1 0 0 0-.5-1.634 4.5 4.5 0 0 0-1.104-1.31 5.14 5.14 0 0 0-3.257-1.127 5.15 5.15 0 0 0-3.255 1.136c-.46.377-.834.822-1.105 1.314a4.1 4.1 0 0 0-.27 3.373 4.3 4.3 0 0 0 .994 1.554c.929.945 2.23 1.477 3.638 1.474"></path>
 </symbol><symbol id="pro-blender-line">
@@ -531,38 +531,38 @@
 </symbol><symbol id="pro-bold-line">
   <path fill="currentColor" d="M12.5 4H6v16h7.5a4.5 4.5 0 0 0 2.256-8.394A4.5 4.5 0 0 0 12.5 4m0 7H8V6h4.5a2.5 2.5 0 0 1 0 5M8 13h5.5a2.5 2.5 0 0 1 0 5H8z"></path>
 </symbol><symbol id="pro-book-2-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 5a3 3 0 0 1 3-3h15v20H6a3 3 0 0 1-3-3zm3 13a1 1 0 1 0 0 2h13v-2zm2-9h8V7H8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 5a3 3 0 0 1 3-3h15v20H6a3 3 0 0 1-3-3zm3 13a1 1 0 1 0 0 2h13v-2zm2-9h8V7H8z"></path>
 </symbol><symbol id="pro-book-2-line">
   <path fill="currentColor" d="M8 9h8V7H8z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 5a3 3 0 0 1 3-3h15v20H6a3 3 0 0 1-3-3zm16-1v12H6c-.35 0-.687.06-1 .17V5a1 1 0 0 1 1-1zM6 20a1 1 0 1 1 0-2h13v2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 5a3 3 0 0 1 3-3h15v20H6a3 3 0 0 1-3-3zm16-1H6a1 1 0 0 0-1 1v11.17c.313-.11.65-.17 1-.17h13zM6 20h13v-2H6a1 1 0 1 0 0 2"></path>
 </symbol><symbol id="pro-book-3-fill">
   <path fill="currentColor" d="M6 22a3 3 0 0 1-3-3V5a3 3 0 0 1 3-3h15v2H7a2 2 0 1 0 0 4h14v14z"></path>
   <path fill="currentColor" d="M7 5a1 1 0 0 0 0 2h14V5z"></path>
 </symbol><symbol id="pro-book-3-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M6 22a3 3 0 0 1-3-3V5a3 3 0 0 1 3-3h15v2H7a2 2 0 1 0 0 4h14v14zM5 9.465c.588.34 1.271.535 2 .535h12v10H6a1 1 0 0 1-1-1z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M6 22a3 3 0 0 1-3-3V5a3 3 0 0 1 3-3h15v2H7a2 2 0 1 0 0 4h14v14zM5 9.465V19a1 1 0 0 0 1 1h13V10H7a4 4 0 0 1-2-.535"></path>
   <path fill="currentColor" d="M7 5a1 1 0 0 0 0 2h14V5z"></path>
 </symbol><symbol id="pro-book-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M6 2a3 3 0 0 0-3 3v14a3 3 0 0 0 3 3h15V2zM5 18.5A1.5 1.5 0 0 1 6.5 17H19v3H6.5A1.5 1.5 0 0 1 5 18.5" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M6 2a3 3 0 0 0-3 3v14a3 3 0 0 0 3 3h15V2zM5 18.5A1.5 1.5 0 0 1 6.5 17H19v3H6.5A1.5 1.5 0 0 1 5 18.5"></path>
 </symbol><symbol id="pro-book-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M6 2a3 3 0 0 0-3 3v14a3 3 0 0 0 3 3h15V2zm13 13V4H6a1 1 0 0 0-1 1v10.337A3.5 3.5 0 0 1 6.5 15zM6.5 20a1.5 1.5 0 0 1 0-3H19v3z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M6 2a3 3 0 0 0-3 3v14a3 3 0 0 0 3 3h15V2zm13 13H6.5c-.537 0-1.045.12-1.5.337V5a1 1 0 0 1 1-1h13zM6.5 20a1.5 1.5 0 0 1 0-3H19v3z"></path>
 </symbol><symbol id="pro-book-marked-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 5a3 3 0 0 1 3-3h15v20H6a3 3 0 0 1-3-3zm3.5 12H19v3H6.5a1.5 1.5 0 0 1 0-3M17 4h-7v8l3.5-2 3.5 2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 5a3 3 0 0 1 3-3h15v20H6a3 3 0 0 1-3-3zm3.5 12a1.5 1.5 0 0 0 0 3H19v-3zM17 4h-7v8l3.5-2 3.5 2z"></path>
 </symbol><symbol id="pro-book-marked-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 5a3 3 0 0 1 3-3h15v20H6a3 3 0 0 1-3-3zm16-1v11H6.5c-.537 0-1.045.12-1.5.337V5a1 1 0 0 1 1-1h4v8l3.5-2 3.5 2V4zM5 18.5A1.5 1.5 0 0 0 6.5 20H19v-3H6.5A1.5 1.5 0 0 0 5 18.5" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 5a3 3 0 0 1 3-3h15v20H6a3 3 0 0 1-3-3zm16-1h-2v8l-3.5-2-3.5 2V4H6a1 1 0 0 0-1 1v10.337A3.5 3.5 0 0 1 6.5 15H19zM5 18.5A1.5 1.5 0 0 0 6.5 20H19v-3H6.5A1.5 1.5 0 0 0 5 18.5"></path>
 </symbol><symbol id="pro-book-open-fill">
   <path fill="currentColor" d="m2 4 1-1h5a3 3 0 0 1 3 3v15H3l-1-1zm11 17h-2v2h2zm0 0V6a3 3 0 0 1 3-3h5l1 1v16l-1 1z"></path>
 </symbol><symbol id="pro-book-open-line">
-  <path fill="currentColor" fill-rule="evenodd" d="m2 4 1-1h6a4 4 0 0 1 3 1.354A4 4 0 0 1 15 3h6l1 1v16l-1 1h-8v2h-2v-2H3l-1-1zm7 1a2 2 0 0 1 2 2v12H4V5zm11 14h-7V7a2 2 0 0 1 2-2h5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 4v16l1 1h8v2h2v-2h8l1-1V4l-1-1h-6a4 4 0 0 0-3 1.354A4 4 0 0 0 9 3H3zm7 1a2 2 0 0 1 2 2v12H4V5zm11 14h-7V7a2 2 0 0 1 2-2h5z"></path>
 </symbol><symbol id="pro-book-read-fill">
   <path fill="currentColor" d="M19 9h-6V7h6zm-6 3h6v-2h-6z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="m2 4 1-1h18l1 1v16l-1 1H3l-1-1zm18 1h-8v14h8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m2 4 1-1h18l1 1v16l-1 1H3l-1-1zm18 1h-8v14h8z"></path>
 </symbol><symbol id="pro-book-read-line">
   <path fill="currentColor" d="M19 9h-5V7h5zm-5 3h5v-2h-5z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 3 2 4v16l1 1h18l1-1V4l-1-1zm1 16V5h7v14zm9 0h7V5h-7z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 3 2 4v16l1 1h18l1-1V4l-1-1zm1 16V5h7v14zm9 0V5h7v14z"></path>
 </symbol><symbol id="pro-booklet-fill">
   <path fill="currentColor" d="M10 2h11l1 1v18l-1 1H10zM8 2H4v4H2v2h2v3H2v2h2v3H2v2h2v4h4z"></path>
 </symbol><symbol id="pro-booklet-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M4 2h17l1 1v18l-1 1H4v-4H2v-2h2v-3H2v-2h2V8H2V6h2zm2 2v16h2V4zm4 0v16h10V4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M4 2h17l1 1v18l-1 1H4v-4H2v-2h2v-3H2v-2h2V8H2V6h2zm2 2v16h2V4zm4 0v16h10V4z"></path>
 </symbol><symbol id="pro-bookmark-2-fill">
   <path fill="currentColor" d="m4 3.5 1-1h14l1 1v18l-1.54.841L12 18.19l-6.46 4.15L4 21.5zM16 9H8v2h8z"></path>
 </symbol><symbol id="pro-bookmark-2-line">
@@ -589,19 +589,19 @@
   <path fill="currentColor" d="M11.5 1.134h1l8.66 5 .5.866v10l-.5.866L13 22.577V11.42L3.293 5.873z"></path>
   <path fill="currentColor" d="M2.34 7.632V17l.5.866L11 22.577V12.58z"></path>
 </symbol><symbol id="pro-box-1-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M12.5 1.134h-1l-8.66 5-.5.866v10l.5.866 8.66 5h1l8.66-5 .5-.866V7l-.5-.866zm-7.253 5.92L12 3.154l7.66 4.423v8.846L13 20.268v-8.853zM4.34 8.838v7.585L11 20.268v-7.683z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M12.5 1.134h-1l-8.66 5-.5.866v10l.5.866 8.66 5h1l8.66-5 .5-.866V7l-.5-.866zm-7.253 5.92L12 3.154l7.66 4.423v8.846L13 20.268v-8.853zM4.34 8.838 11 12.585v7.683l-6.66-3.845z"></path>
 </symbol><symbol id="pro-box-2-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="m21.16 6.134-8.66-5h-1l-8.66 5-.5.866v10l.5.866 8.66 5h1l8.66-5 .5-.866V7zM4.34 7.744 12 12v8.845l-7.66-4.422z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m21.16 6.134-8.66-5h-1l-8.66 5-.5.866v10l.5.866 8.66 5h1l8.66-5 .5-.866V7zM4.34 7.744 12 12v8.845l-7.66-4.422z"></path>
 </symbol><symbol id="pro-box-2-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M12.5 1.134h-1l-8.66 5-.5.866v10l.5.866 8.66 5h1l8.66-5 .5-.866V7l-.5-.866zM4.34 7.577 12 3.155l7.66 4.422v8.846L12 20.845V12L4.34 7.744z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M12.5 1.134h-1l-8.66 5-.5.866v10l.5.866 8.66 5h1l8.66-5 .5-.866V7l-.5-.866zM4.34 7.577 12 3.155l7.66 4.422v8.846L12 20.845V12L4.34 7.744z"></path>
 </symbol><symbol id="pro-box-3-fill">
   <path fill="currentColor" d="M11.5 1.134h1l8.258 4.767-8.755 4.949-8.71-4.977zM2.34 7.632V17l.5.866L11 22.577V12.58zM13 22.577l8.16-4.711.5-.866V7.689L13 12.584z"></path>
 </symbol><symbol id="pro-box-3-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M12.5 1.134h-1l-8.66 5-.5.866v10l.5.866 8.66 5h1l8.66-5 .5-.866V7l-.5-.866zm-7.253 5.92L12 3.154l6.753 3.9L12 10.853zM13 12.584l6.66-3.746v7.585L13 20.268zm-2 0L4.34 8.839v7.585L11 20.268z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M12.5 1.134h-1l-8.66 5-.5.866v10l.5.866 8.66 5h1l8.66-5 .5-.866V7l-.5-.866zm-7.253 5.92L12 3.154l6.753 3.9L12 10.853zM13 12.584l6.66-3.746v7.585L13 20.268zm-2 0v7.684l-6.66-3.845V8.838z"></path>
 </symbol><symbol id="pro-boxing-fill">
   <path fill="currentColor" d="M3 6a4 4 0 0 1 4-4h10a5 5 0 0 1 5 5v1a3 3 0 0 1-3 3h-6.337A3.5 3.5 0 0 0 9.5 9H5c-.729 0-1.412.195-2 .535zm0 7v4c0 1.306.835 2.418 2 2.83V21l1 1h12l1-1v-1.17A3 3 0 0 0 21 17v-4.416A5 5 0 0 1 19 13h-6.035A3.5 3.5 0 0 1 9.5 16h-5v-2h5a1.5 1.5 0 0 0 0-3H5a2 2 0 0 0-2 2"></path>
 </symbol><symbol id="pro-boxing-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M7 2a4 4 0 0 0-4 4v11a3 3 0 0 0 1 2.236V21l1 1h14l1-1v-1.764c.614-.55 1-1.348 1-2.236v-4.764c.614-.55 1-1.348 1-2.236V8a6 6 0 0 0-6-6zM5 17a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-4h-6.035A3.5 3.5 0 0 1 9.5 16H6v-2h3.5a1.5 1.5 0 0 0 0-3H5zm0-8h4.5a3.5 3.5 0 0 1 3.163 2H19a1 1 0 0 0 1-1V8a4 4 0 0 0-4-4H7a2 2 0 0 0-2 2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M7 2a4 4 0 0 0-4 4v11a3 3 0 0 0 1 2.236V21l1 1h14l1-1v-1.764c.614-.55 1-1.348 1-2.236v-4.764c.614-.55 1-1.348 1-2.236V8a6 6 0 0 0-6-6zM5 17v-6h4.5a1.5 1.5 0 0 1 0 3H6v2h3.5a3.5 3.5 0 0 0 3.465-3H19v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1m0-8V6a2 2 0 0 1 2-2h9a4 4 0 0 1 4 4v2a1 1 0 0 1-1 1h-6.337A3.5 3.5 0 0 0 9.5 9z"></path>
 </symbol><symbol id="pro-braces-fill">
   <path fill="currentColor" d="M7 2.5A3.5 3.5 0 0 0 3.5 6v4a.5.5 0 0 1-.5.5H2v3h1a.5.5 0 0 1 .5.5v4A3.5 3.5 0 0 0 7 21.5h2v-3H7a.5.5 0 0 1-.5-.5v-4c0-.744-.232-1.433-.627-2a3.5 3.5 0 0 0 .627-2V6a.5.5 0 0 1 .5-.5h2v-3zM20.5 6A3.5 3.5 0 0 0 17 2.5h-2v3h2a.5.5 0 0 1 .5.5v4c0 .744.232 1.433.627 2a3.5 3.5 0 0 0-.627 2v4a.5.5 0 0 1-.5.5h-2v3h2a3.5 3.5 0 0 0 3.5-3.5v-4a.5.5 0 0 1 .5-.5h1v-3h-1a.5.5 0 0 1-.5-.5z"></path>
 </symbol><symbol id="pro-braces-line">
@@ -865,10 +865,10 @@
   <path fill="currentColor" d="m12 2 4.292 4.292 1.061-1.06L16.121 4H20v3.879l-1.233-1.233-1.06 1.061L22 12l-4.292 4.293 1.059 1.059L20 16.121V20h-3.88l1.232-1.233-1.059-1.06L12 22l-4.293-4.293-1.061 1.06L7.879 20H4v-3.88l1.231 1.232 1.061-1.06L2 12l4.293-4.293-1.062-1.061L4 7.879V4h3.879L6.646 5.23l1.062 1.062zm0 11.413-2.88 2.879 2.88 2.88 2.879-2.88zM7.707 9.12 4.828 12l2.878 2.878 2.88-2.88zm8.585 0-2.877 2.878 2.878 2.879L19.172 12zM12 4.828 9.122 7.707l2.879 2.878 2.877-2.879z"></path>
 </symbol><symbol id="pro-character-recognition-fill">
   <path fill="currentColor" d="M10.83 12 12 9.141 13.17 12z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M21 3H3v18h18zM10.012 14l-1.227 3H6.624l4.45-10.879h1.851L17.376 17h-2.16l-1.227-3z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M21 3H3v18h18zM10.012 14l-1.227 3H6.624l4.45-10.879h1.851L17.376 17h-2.16l-1.227-3z"></path>
 </symbol><symbol id="pro-character-recognition-line">
   <path fill="currentColor" d="M9 3H3v6h2V5h4zm6 2h4v4h2V3h-6zM5 15v4h4v2H3v-6zm16 0h-2v4h-4v2h6z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="m10.012 14-1.227 3H6.624l4.45-10.879h1.851L17.376 17h-2.16l-1.227-3zm.818-2L12 9.141 13.17 12z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m10.012 14-1.227 3H6.624l4.45-10.879h1.851L17.376 17h-2.16l-1.227-3zm.818-2h2.34L12 9.141z"></path>
 </symbol><symbol id="pro-charging-pile-2-fill">
   <path fill="currentColor" d="m3 4 1-1h9l1 1v8h3l1 1v5a1 1 0 1 0 2 0v-7l-1-1V8l1-1V4h2v3l1 1v2l-1 1v7a3 3 0 1 1-6 0v-4h-2v6l-1 1H4l-1-1zm6.25 3.5L5.5 12.818h2.25V16.5l3.75-5.318H9.25z"></path>
 </symbol><symbol id="pro-charging-pile-2-line">
@@ -1250,7 +1250,7 @@
   <path fill="currentColor" d="M6 4H4L3 5v16l1 1h16l1-1V5l-1-1h-2v4H6z"></path>
   <path fill="currentColor" d="M16 6H8V2h8z"></path>
 </symbol><symbol id="pro-clipboard-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M17 2H7v2H4L3 5v16l1 1h16l1-1V5l-1-1h-3zm0 4v2H7V6H5v14h14V6zm-2 0H9V4h6z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M17 2H7v2H4L3 5v16l1 1h16l1-1V5l-1-1h-3zm0 4h2v14H5V6h2v2h10zm-2 0H9V4h6z"></path>
 </symbol><symbol id="pro-clockwise-2-fill">
   <path fill="currentColor" d="m14.707 4.293-3.5-3.5L9.5 1.5V4H8a5 5 0 0 0-5 5v4h2V9a3 3 0 0 1 3-3h1.5v2.5l1.707.707 3.5-3.5zM20 10l1 1v10l-1 1H10l-1-1V11l1-1z"></path>
 </symbol><symbol id="pro-clockwise-2-line">
@@ -1319,27 +1319,21 @@
 </symbol><symbol id="pro-code-line">
   <path fill="currentColor" d="M10.207 6.207 8.793 4.793 1.586 12l7.207 7.207 1.414-1.414L4.414 12zm3.586 0 1.414-1.414L22.414 12l-7.207 7.207-1.414-1.414L19.586 12z"></path>
 </symbol><symbol id="pro-code-s-fill">
-  <g fill="currentColor" clip-path="url(#a)">
-    <path d="M8.06 8.06 5.94 5.94-.121 12l6.06 6.06 2.122-2.12L4.12 12zm7.88 0 2.12-2.12L24.121 12l-6.06 6.06-2.122-2.12L19.88 12z"></path>
-  </g>
-  <defs>
-    <clippath id="a"><path fill="currentColor" d="M0 0h24v24H0z"></path></clippath>
-  </defs>
+  <path fill="currentColor" d="M6.379 5.94 8.5 8.06 4.561 12l3.94 3.94-2.122 2.12L.319 12z"></path>
+  <path fill="currentColor" d="M6.379 5.94 8.5 8.06 4.561 12l3.94 3.94-2.122 2.12L.319 12z"></path>
+  <path fill="currentColor" d="M6.379 5.94 8.5 8.06 4.561 12l3.94 3.94-2.122 2.12L.319 12zm11.242 0L15.5 8.06 19.44 12l-3.94 3.94 2.121 2.12L23.682 12z"></path>
+  <path fill="currentColor" d="M17.621 5.94 15.5 8.06 19.44 12l-3.94 3.94 2.121 2.12L23.682 12z"></path>
+  <path fill="currentColor" d="M17.621 5.94 15.5 8.06 19.44 12l-3.94 3.94 2.121 2.12L23.682 12z"></path>
 </symbol><symbol id="pro-code-s-line">
   <path fill="currentColor" d="M7.707 7.707 6.293 6.293.586 12l5.707 5.707 1.414-1.414L3.414 12zm8.586 0 1.414-1.414L23.414 12l-5.707 5.707-1.414-1.414L20.586 12z"></path>
 </symbol><symbol id="pro-code-s-slash-fill">
-  <g fill="currentColor" clip-path="url(#a)">
-    <path d="M16.505 4h-3.193L7.494 20h3.192z"></path>
-    <path d="M16.505 4h-3.193L7.494 20h3.192z"></path>
-    <path d="M16.505 4h-3.193L7.494 20h3.192zM5.94 5.94l2.12 2.12L4.123 12l3.939 3.94-2.121 2.12L-.121 12z"></path>
-    <path d="m5.94 5.94 2.12 2.12L4.123 12l3.939 3.94-2.121 2.12L-.121 12z"></path>
-    <path d="m5.94 5.94 2.12 2.12L4.123 12l3.939 3.94-2.121 2.12L-.121 12zm12.12 0-2.12 2.12L19.877 12l-3.939 3.94 2.121 2.12L24.121 12z"></path>
-    <path d="m18.06 5.94-2.12 2.12L19.877 12l-3.939 3.94 2.121 2.12L24.121 12z"></path>
-    <path d="m18.06 5.94-2.12 2.12L19.877 12l-3.939 3.94 2.121 2.12L24.121 12z"></path>
-  </g>
-  <defs>
-    <clippath id="a"><path fill="currentColor" d="M0 0h24v24H0z"></path></clippath>
-  </defs>
+  <path fill="currentColor" d="M16.505 4h-3.192L7.494 20h3.193z"></path>
+  <path fill="currentColor" d="M16.505 4h-3.192L7.494 20h3.193z"></path>
+  <path fill="currentColor" d="M16.505 4h-3.192L7.494 20h3.193zM6.379 5.94 8.5 8.06 4.561 12l3.94 3.94-2.122 2.12L.319 12z"></path>
+  <path fill="currentColor" d="M6.379 5.94 8.5 8.06 4.561 12l3.94 3.94-2.122 2.12L.319 12z"></path>
+  <path fill="currentColor" d="M6.379 5.94 8.5 8.06 4.561 12l3.94 3.94-2.122 2.12L.319 12zm11.242 0L15.5 8.06 19.44 12l-3.94 3.94 2.121 2.12L23.682 12z"></path>
+  <path fill="currentColor" d="M17.621 5.94 15.5 8.06 19.44 12l-3.94 3.94 2.121 2.12L23.682 12z"></path>
+  <path fill="currentColor" d="M17.621 5.94 15.5 8.06 19.44 12l-3.94 3.94 2.121 2.12L23.682 12z"></path>
 </symbol><symbol id="pro-code-s-slash-line">
   <path fill="currentColor" d="M15.974 4h-2.129L8.028 20h2.129z"></path>
   <path fill="currentColor" d="M15.974 4h-2.129L8.028 20h2.129z"></path>
@@ -1407,29 +1401,25 @@
 </symbol><symbol id="pro-computer-line">
   <path fill="currentColor" d="m2 4 1-1h18l1 1v13l-1 1h-8v2h4v2H7v-2h4v-2H3l-1-1zm2 1v11h16V5z"></path>
 </symbol><symbol id="pro-contacts-book-2-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 5a3 3 0 0 1 3-3h15v20H6a3 3 0 0 1-3-3zm3 13a1 1 0 1 0 0 2h13v-2zm4-10a2 2 0 1 1 4 0 2 2 0 0 1-4 0m-1 5a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v1H9z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 5a3 3 0 0 1 3-3h15v20H6a3 3 0 0 1-3-3zm3 13a1 1 0 1 0 0 2h13v-2zm4-10a2 2 0 1 0 4 0 2 2 0 0 0-4 0m-1 5v1h6v-1a2 2 0 0 0-2-2h-2a2 2 0 0 0-2 2"></path>
 </symbol><symbol id="pro-contacts-book-2-line">
   <path fill="currentColor" d="M12 6a2 2 0 1 0 0 4 2 2 0 0 0 0-4m-1 5a2 2 0 0 0-2 2v1h6v-1a2 2 0 0 0-2-2z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 5a3 3 0 0 1 3-3h15v20H6a3 3 0 0 1-3-3zm2 14a1 1 0 0 0 1 1h13v-2H6a1 1 0 0 0-1 1m14-3H6c-.35 0-.687.06-1 .17V5a1 1 0 0 1 1-1h13z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 5a3 3 0 0 1 3-3h15v20H6a3 3 0 0 1-3-3zm2 14a1 1 0 0 0 1 1h13v-2H6a1 1 0 0 0-1 1m14-3V4H6a1 1 0 0 0-1 1v11.17c.313-.11.65-.17 1-.17z"></path>
 </symbol><symbol id="pro-contacts-book-3-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M4 2 3 3v2h3v2H2v2h4v2H2v2h4v2H2v2h4v2H3v2l1 1h16l1-1V3l-1-1zm6.5 8a2 2 0 1 1 4 0 2 2 0 0 1-4 0m-1 5a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v1h-6z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M4 2 3 3v2h3v2H2v2h4v2H2v2h4v2H2v2h4v2H3v2l1 1h16l1-1V3l-1-1zm6.5 8a2 2 0 1 1 4 0 2 2 0 0 1-4 0m-1 5a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v1h-6z"></path>
 </symbol><symbol id="pro-contacts-book-3-line">
   <path fill="currentColor" d="M4 2 3 3v2h2V4h14v16H5v-1H3v2l1 1h16l1-1V3l-1-1z"></path>
   <path fill="currentColor" d="M6 17v-2H2v2zM6 7H2v2h4zm0 4H2v2h4zm4.5-1a2 2 0 1 1 4 0 2 2 0 0 1-4 0m-1 5a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v1h-6z"></path>
 </symbol><symbol id="pro-contacts-book-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M9 2h11l1 1v18l-1 1H9zM7 2H3v20h4zm15 10v4h2v-4zm2-2h-2V6h2zm-12 0a2 2 0 1 1 4 0 2 2 0 0 1-4 0m-1 5a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v1h-6z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M9 2h11l1 1v18l-1 1H9zm3 8a2 2 0 1 0 4 0 2 2 0 0 0-4 0m-1 5v1h6v-1a2 2 0 0 0-2-2h-2a2 2 0 0 0-2 2M7 2H3v20h4zm15 10v4h2v-4zm2-2h-2V6h2z"></path>
 </symbol><symbol id="pro-contacts-book-line">
   <path fill="currentColor" d="M14 8a2 2 0 1 0 0 4 2 2 0 0 0 0-4m-1 5a2 2 0 0 0-2 2v1h6v-1a2 2 0 0 0-2-2z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M20 2H3v20h17l1-1V3zM5 20V4h2v16zm4 0V4h10v16z" clip-rule="evenodd"></path>
-  <path fill="currentColor" d="M22 16h2v-4h-2zm2-10h-2v4h2z"></path>
+  <path fill="currentColor" d="M20 2H3v20h17l1-1V3zM5 20V4h2v16zm4 0V4h10v16zm13-4h2v-4h-2zm2-10h-2v4h2z"></path>
 </symbol><symbol id="pro-contacts-book-upload-fill">
-  <path fill="currentColor" d="M7 2H3v20h4z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M9 2v20h11l1-1V3l-1-1zm9.013 9.992-4.012-4-3.991 4h2.751V16h2.5v-4.008z" clip-rule="evenodd"></path>
-  <path fill="currentColor" d="M22 16v-4h2v4zm0-6V6h2v4z"></path>
+  <path fill="currentColor" d="M7 2H3v20h4zm2 0h11l1 1v18l-1 1H9zm9.013 9.992-4.012-4-3.991 4h2.751V16h2.5v-4.008zM22 16v-4h2v4zm0-6V6h2v4z"></path>
 </symbol><symbol id="pro-contacts-book-upload-line">
   <path fill="currentColor" d="M18.013 11.992h-2.752V16h-2.5v-4.008H10.01l3.991-4z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h17l1 1v18l-1 1H3zm2 2v16h2V4zm4 0v16h10V4z" clip-rule="evenodd"></path>
-  <path fill="currentColor" d="M22 16v-4h2v4zm0-10v4h2V6z"></path>
+  <path fill="currentColor" d="M3 2h17l1 1v18l-1 1H3zm2 2v16h2V4zm4 0v16h10V4zm13 12v-4h2v4zm0-10v4h2V6z"></path>
 </symbol><symbol id="pro-contacts-fill">
   <path fill="currentColor" d="M5 7a5 5 0 1 1 10 0A5 5 0 0 1 5 7M1 19a5 5 0 0 1 5-5h8a5 5 0 0 1 5 5v3H1zM24 4h-5v2h5zm-4 10h4v2h-4zm4-5h-7v2h7z"></path>
 </symbol><symbol id="pro-contacts-line">
@@ -1437,7 +1427,7 @@
   <path fill="currentColor" d="M1 19a5 5 0 0 1 5-5h8a5 5 0 0 1 5 5v3h-2v-3a3 3 0 0 0-3-3H6a3 3 0 0 0-3 3v3H1zM24 4h-5v2h5zm-4 10h4v2h-4zm4-5h-7v2h7z"></path>
 </symbol><symbol id="pro-contract-fill">
   <path fill="currentColor" d="M3 2h12.914L21 7.086v4.588A7 7 0 0 0 12.255 22H3z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M19.15 13.397c.314.382.8.583 1.293.535a1.488 1.488 0 0 1 1.625 1.625 1.49 1.49 0 0 0 .535 1.294 1.488 1.488 0 0 1 0 2.298 1.49 1.49 0 0 0-.535 1.293 1.488 1.488 0 0 1-1.626 1.626 1.49 1.49 0 0 0-1.293.535 1.488 1.488 0 0 1-2.298 0 1.49 1.49 0 0 0-1.293-.535 1.488 1.488 0 0 1-1.626-1.626 1.49 1.49 0 0 0-.536-1.293 1.488 1.488 0 0 1 0-2.298c.383-.315.584-.8.536-1.293a1.488 1.488 0 0 1 1.625-1.626c.494.048.979-.153 1.294-.536a1.488 1.488 0 0 1 2.298 0M17.5 20.56l3.53-3.53-1.06-1.061-2.47 2.47-1.47-1.47-1.06 1.06z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M19.15 13.397c.314.382.8.583 1.293.535a1.488 1.488 0 0 1 1.625 1.625 1.49 1.49 0 0 0 .535 1.294 1.488 1.488 0 0 1 0 2.298 1.49 1.49 0 0 0-.535 1.293 1.488 1.488 0 0 1-1.626 1.626 1.49 1.49 0 0 0-1.293.535 1.488 1.488 0 0 1-2.298 0 1.49 1.49 0 0 0-1.293-.535 1.488 1.488 0 0 1-1.626-1.626 1.49 1.49 0 0 0-.536-1.293 1.488 1.488 0 0 1 0-2.298c.383-.315.584-.8.536-1.293a1.488 1.488 0 0 1 1.625-1.626c.494.048.979-.153 1.294-.536a1.488 1.488 0 0 1 2.298 0M17.5 20.56l3.53-3.53-1.06-1.061-2.47 2.47-1.47-1.47-1.06 1.06z"></path>
 </symbol><symbol id="pro-contract-left-fill">
   <path fill="currentColor" d="M6 5v14H3.5V5zm2.324 6.263 6-5.5L16 6.5V11h5v2h-5v4.5l-1.676.737-6-5.5z"></path>
 </symbol><symbol id="pro-contract-left-line">
@@ -1448,7 +1438,7 @@
   <path fill="currentColor" d="m3.293 7.207 1.414-1.414L10.914 12l-6.207 6.207-1.414-1.414L8.086 12zm17.414 0-1.414-1.414L13.086 12l6.207 6.207 1.414-1.414L15.914 12z"></path>
 </symbol><symbol id="pro-contract-line">
   <path fill="currentColor" d="M3 2h12.914L21 7.086v4.588a7 7 0 0 0-2-.603V8h-4V4H5v16h6.29a7 7 0 0 0 .965 2H3z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M16.85 13.397a1.488 1.488 0 0 1 2.299 0c.315.382.8.583 1.293.535a1.488 1.488 0 0 1 1.625 1.625c-.047.494.153.979.536 1.294a1.49 1.49 0 0 1 0 2.298c-.383.315-.584.8-.536 1.293a1.488 1.488 0 0 1-1.625 1.626 1.49 1.49 0 0 0-1.293.535 1.49 1.49 0 0 1-2.299 0 1.49 1.49 0 0 0-1.293-.535 1.488 1.488 0 0 1-1.625-1.626 1.49 1.49 0 0 0-.536-1.293 1.488 1.488 0 0 1 0-2.298c.383-.315.584-.8.536-1.293a1.488 1.488 0 0 1 1.625-1.626c.493.048.978-.153 1.293-.536m4.18 3.633-3.53 3.53-2.53-2.53 1.06-1.06 1.47 1.47 2.47-2.47z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M16.85 13.397a1.488 1.488 0 0 1 2.299 0c.315.382.8.583 1.293.535a1.488 1.488 0 0 1 1.625 1.625c-.047.494.153.979.536 1.294a1.49 1.49 0 0 1 0 2.298c-.383.315-.584.8-.536 1.293a1.488 1.488 0 0 1-1.625 1.626 1.49 1.49 0 0 0-1.293.535 1.49 1.49 0 0 1-2.299 0 1.49 1.49 0 0 0-1.293-.535 1.488 1.488 0 0 1-1.625-1.626 1.49 1.49 0 0 0-.536-1.293 1.488 1.488 0 0 1 0-2.298c.383-.315.584-.8.536-1.293a1.488 1.488 0 0 1 1.625-1.626c.493.048.978-.153 1.293-.536m4.18 3.633-1.06-1.06-2.47 2.47-1.47-1.47-1.06 1.06 2.53 2.53z"></path>
 </symbol><symbol id="pro-contract-right-fill">
   <path fill="currentColor" d="M18 5v14h2.5V5zm-2.324 6.263-6-5.5L8 6.5V11H3v2h5v4.5l1.676.737 6-5.5z"></path>
 </symbol><symbol id="pro-contract-right-line">
@@ -1611,7 +1601,7 @@
 </symbol><symbol id="pro-cross-fill">
   <path fill="currentColor" d="M10 2 9 3v4H5L4 8v4l1 1h4v8l1 1h4l1-1v-8h4l1-1V8l-1-1h-4V3l-1-1z"></path>
 </symbol><symbol id="pro-cross-line">
-  <path fill="currentColor" fill-rule="evenodd" d="m9 3 1-1h4l1 1v4h4l1 1v4l-1 1h-4v8l-1 1h-4l-1-1v-8H5l-1-1V8l1-1h4zm2 1v5H6v2h5v9h2v-9h5V9h-5V4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m9 3 1-1h4l1 1v4h4l1 1v4l-1 1h-4v8l-1 1h-4l-1-1v-8H5l-1-1V8l1-1h4zm2 1v5H6v2h5v9h2v-9h5V9h-5V4z"></path>
 </symbol><symbol id="pro-crosshair-2-fill">
   <path fill="currentColor" d="M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6"></path>
   <path fill="currentColor" d="M13 1h-2v2.055A9.004 9.004 0 0 0 3.055 11H1v2h2.055A9.004 9.004 0 0 0 11 20.945V23h2v-2.055A9.004 9.004 0 0 0 20.945 13H23v-2h-2.055A9.004 9.004 0 0 0 13 3.055zM5.07 13H7v-2H5.07A7.005 7.005 0 0 1 11 5.07V7h2V5.07A7 7 0 0 1 18.93 11H17v2h1.93A7 7 0 0 1 13 18.93V17h-2v1.93A7 7 0 0 1 5.07 13"></path>
@@ -1633,7 +1623,7 @@
 </symbol><symbol id="pro-cup-line">
   <path fill="currentColor" d="M4 3v10a4 4 0 0 0 4 4h6a4 4 0 0 0 4-4v-3h3l1-1V4l-1-1zm2 2h10v8a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2zm12 3V5h2v3zM3 21h18v-2H3z"></path>
 </symbol><symbol id="pro-cursor-fill">
-  <path fill="currentColor" d="m7.649 1.531-.244 15.434 3.786-3.791 3.832 8.608 2.741-1.22-3.85-8.646 5.824-.442z"></path>
+  <path fill="currentColor" d="m7.649 1.531-.244 15.434 3.786-3.791 3.832 8.608 2.741-1.22-3.85-8.646 5.824-.443z"></path>
 </symbol><symbol id="pro-cursor-line">
   <path fill="currentColor" d="m7.39 1.863 13.173 10.073-5.268.965 3.092 6.629-4.532 2.113-3.091-6.629-4.125 3.415zM8.841 14.01l2.642-2.186 3.34 7.162.906-.422-3.34-7.163 3.373-.618-6.547-5.006z"></path>
 </symbol><symbol id="pro-customer-service-headphone-2-fill">
@@ -1725,41 +1715,41 @@
   <path fill="currentColor" d="M12 9a3 3 0 1 0 0 6v2a5 5 0 1 1 4.614-3.072v.002a5.02 5.02 0 0 1-1.987 2.325L12.5 12H15a3 3 0 0 0-3-3"></path>
   <path fill="currentColor" d="m4 3 1-1h14l1 1v18l-1 1H5l-1-1zm2 1v16h12V4z"></path>
 </symbol><symbol id="pro-dice-1-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm9 10a2 2 0 1 0 0-4 2 2 0 0 0 0 4" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm9 10a2 2 0 1 0 0-4 2 2 0 0 0 0 4"></path>
 </symbol><symbol id="pro-dice-1-line">
   <path fill="currentColor" fill-opacity=".961" d="M12 14a2 2 0 1 0 0-4 2 2 0 0 0 0 4"></path>
-  <path fill="currentColor" fill-opacity=".961" fill-rule="evenodd" d="M4 3 3 4v16l1 1h16l1-1V4l-1-1zm1 16V5h14v14z" clip-rule="evenodd"></path>
+  <path fill="currentColor" fill-opacity=".961" d="M4 3 3 4v16l1 1h16l1-1V4l-1-1zm1 16V5h14v14z"></path>
 </symbol><symbol id="pro-dice-2-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm7.5 5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m6 6a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm7.5 5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0m6 6a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0"></path>
 </symbol><symbol id="pro-dice-2-line">
   <path fill="currentColor" d="M10.5 9a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m4.5 7.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm2 1v14h14V5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm2 1v14h14V5z"></path>
 </symbol><symbol id="pro-dice-3-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm5.5 6a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m3.5 3.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m5 2a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm5.5 6a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m3.5 3.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m5 2a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0"></path>
 </symbol><symbol id="pro-dice-3-line">
   <path fill="currentColor" d="M8.5 10a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m5 2a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m2 5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M4 3 3 4v16l1 1h16l1-1V4l-1-1zm1 16V5h14v14z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M4 3 3 4v16l1 1h16l1-1V4l-1-1zm1 16V5h14v14z"></path>
 </symbol><symbol id="pro-dice-4-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm7.5 5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m0 6a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m4.5 1.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3M16.5 9a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm7.5 5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0m0 6a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0m4.5 1.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3M16.5 9a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0"></path>
 </symbol><symbol id="pro-dice-4-line">
   <path fill="currentColor" d="M10.5 9a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0M9 16.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m7.5-1.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0M15 10.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm2 1v14h14V5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm2 1v14h14V5z"></path>
 </symbol><symbol id="pro-dice-5-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm5.5 6a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m0 7a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m5-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m2 5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3M17 8.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm5.5 6a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m0 7a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m5-5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0m2 5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3M17 8.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0"></path>
 </symbol><symbol id="pro-dice-5-line">
   <path fill="currentColor" d="M8.5 10a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m1.5 5.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m2-2a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m5 2a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0M15.5 10a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M4 3 3 4v16l1 1h16l1-1V4l-1-1zm1 16V5h14v14z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M4 3 3 4v16l1 1h16l1-1V4l-1-1zm1 16V5h14v14z"></path>
 </symbol><symbol id="pro-dice-6-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm7.5 4a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m6 0a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0M15 17.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3M10.5 16a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0M9 13.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m7.5-1.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm7.5 4a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0m6 0a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0M15 17.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3M10.5 16a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0M9 13.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m7.5-1.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0"></path>
 </symbol><symbol id="pro-dice-6-line">
   <path fill="currentColor" d="M10.5 8a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0M15 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m1.5 6.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0M9 17.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m1.5-5.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m4.5 1.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm2 1v14h14V5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm2 1v14h14V5z"></path>
 </symbol><symbol id="pro-dice-fill">
   <path fill="currentColor" d="M6.85 12.54c-.358.207-.929-.11-1.274-.707-.345-.598-.334-1.25.024-1.458.36-.207.93.11 1.275.707.345.598.334 1.251-.025 1.458m-1.274 3.293c.345.597.916.914 1.274.707.36-.207.37-.86.025-1.457s-.916-.915-1.275-.708-.37.86-.024 1.457m4.774-1.292c-.358.207-.929-.11-1.274-.707-.345-.598-.334-1.25.024-1.458.36-.207.93.11 1.275.707.345.598.334 1.251-.024 1.458m-1.275 3.293c.345.597.916.914 1.274.707.36-.207.37-.86.025-1.457s-.916-.915-1.275-.708-.37.86-.024 1.457"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="m12.5 1.134 8.66 5 .5.866v10l-.5.866-8.66 5h-1l-8.66-5-.5-.866V7l.5-.866 8.66-5zM12 12 4.34 7.744v8.679L12 20.845zM9.25 6.75c.69 0 1.25-.336 1.25-.75s-.56-.75-1.25-.75S8 5.586 8 6s.56.75 1.25.75m5.5 0c.69 0 1.25-.336 1.25-.75s-.56-.75-1.25-.75-1.25.336-1.25.75.56.75 1.25.75m3.008 6.59c.418.241.422 1.018.008 1.736-.415.717-1.09 1.103-1.508.861-.419-.241-.422-1.019-.008-1.736s1.09-1.103 1.508-.862" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m12.5 1.134 8.66 5 .5.866v10l-.5.866-8.66 5h-1l-8.66-5-.5-.866V7l.5-.866 8.66-5zM12 12 4.34 7.744v8.679L12 20.845zM9.25 6.75c.69 0 1.25-.336 1.25-.75s-.56-.75-1.25-.75S8 5.586 8 6s.56.75 1.25.75m5.5 0c.69 0 1.25-.336 1.25-.75s-.56-.75-1.25-.75-1.25.336-1.25.75.56.75 1.25.75m3.008 6.59c-.419-.242-1.094.143-1.508.861-.414.717-.41 1.495.008 1.736.418.242 1.093-.144 1.508-.861.414-.718.41-1.495-.008-1.737"></path>
 </symbol><symbol id="pro-dice-line">
   <path fill="currentColor" d="M10.5 7.5c0 .414-.56.75-1.25.75S8 7.914 8 7.5s.56-.75 1.25-.75 1.25.336 1.25.75m3.5.75c.69 0 1.25-.336 1.25-.75s-.56-.75-1.25-.75-1.25.336-1.25.75.56.75 1.25.75m2.758 4.59c.418.241.422 1.018.008 1.736-.415.717-1.09 1.103-1.508.861-.419-.241-.422-1.019-.008-1.736s1.09-1.103 1.508-.862"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M12.5 1.134h-1l-8.66 5-.5.866v10l.5.866 8.66 5h1l8.66-5 .5-.866V7l-.5-.866zM4.34 7.577 12 3.155l7.66 4.422v8.846L12 20.845V12L4.34 7.744zm1.51 5.213c-.358.207-.929-.11-1.274-.707-.345-.598-.334-1.25.025-1.458.358-.207.929.11 1.274.707.345.598.334 1.251-.024 1.458m0 4c-.358.207-.929-.11-1.274-.707-.345-.598-.334-1.25.025-1.458.358-.207.929.11 1.274.707.345.598.334 1.251-.024 1.458m2.226-2.707c.345.597.916.914 1.275.707s.37-.86.024-1.457c-.345-.598-.916-.915-1.274-.708-.36.207-.37.86-.025 1.457m1.275 4.707c-.36.207-.93-.11-1.275-.707-.345-.598-.334-1.25.025-1.458.358-.207.929.11 1.274.707.345.598.334 1.251-.024 1.458" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M12.5 1.134h-1l-8.66 5-.5.866v10l.5.866 8.66 5h1l8.66-5 .5-.866V7l-.5-.866zM4.34 7.577 12 3.155l7.66 4.422v8.846L12 20.845V12L4.34 7.744zm1.51 5.213c-.358.207-.929-.11-1.274-.707-.345-.598-.334-1.25.025-1.458.358-.207.929.11 1.274.707.345.598.334 1.251-.024 1.458m0 4c-.358.207-.929-.11-1.274-.707-.345-.598-.334-1.25.025-1.458.358-.207.929.11 1.274.707.345.598.334 1.251-.024 1.458m2.226-2.707c-.345-.598-.334-1.25.025-1.458.358-.207.929.11 1.274.707.345.598.334 1.251-.024 1.458-.36.207-.93-.11-1.275-.707m1.275 4.707c-.36.207-.93-.11-1.275-.707-.345-.598-.334-1.25.025-1.458.358-.207.929.11 1.274.707.345.598.334 1.251-.024 1.458"></path>
 </symbol><symbol id="pro-dingding-fill">
   <path fill="currentColor" d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2m4.49 9.04-.006.014c-.42.898-1.516 2.66-1.516 2.66l-.005-.012-.32.558h1.543l-2.948 3.919.67-2.666h-1.215l.422-1.763a17 17 0 0 0-1.223.349s-.646.378-1.862-.729c0 0-.82-.722-.344-.902.202-.077.981-.175 1.595-.257a80 80 0 0 1 1.338-.172s-2.555.039-3.161-.057c-.606-.095-1.375-1.107-1.539-1.996 0 0-.253-.488.545-.257s4.101.9 4.101.9S8.27 9.312 7.983 8.99c-.286-.32-.841-1.754-.769-2.634 0 0 .031-.22.257-.16 0 0 3.176 1.45 5.347 2.245s4.06 1.199 3.816 2.228c-.02.087-.072.216-.144.37"></path>
 </symbol><symbol id="pro-dingding-line">
@@ -1870,10 +1860,11 @@
 </symbol><symbol id="pro-download-line">
   <path fill="currentColor" d="M18.293 8.293 13 13.586V2h-2v11.586L5.707 8.293 4.293 9.707 12 17.414l7.707-7.707zM3 20.75h18v-2H3z"></path>
 </symbol><symbol id="pro-draft-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M21 2H3v20h18v-7.193l-4.842 4.842-3.811-.431-.431-3.811L21 6.322zM7 10h8V8H7zm5 4H7v-2h5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M21 2H3v20h18v-7.193l-4.842 4.842-3.811-.431-.431-3.811L21 6.322zM7 10V8h8v2zm5 4H7v-2h5z"></path>
   <path fill="currentColor" d="m14.011 16.14 7.725-7.726 1.415 1.414-7.726 7.726-1.27-.144z"></path>
 </symbol><symbol id="pro-draft-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h18v4.322l-2 2V4H5v16h14v-3.193l2-2V22H3zm13 8H8V8h8zm-8 4h5v-2H8zm6.011 2.14 7.725-7.726 1.415 1.414-7.726 7.726-1.27-.144z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h18v4.322l-2 2V4H5v16h14v-3.193l2-2V22H3z"></path>
+  <path fill="currentColor" d="M16 10H8V8h8zm-8 4h5v-2H8zm6.011 2.14 7.725-7.726 1.415 1.414-7.726 7.726-1.27-.144z"></path>
 </symbol><symbol id="pro-drag-drop-fill">
   <path fill="currentColor" d="M3 2 2 3v1h2V2zm5 0H6v2h2zm2 0h2v2h-2zm5 0h-1v2h2V3zM2 8V6h2v2zm14 0V6h-2v2H9L8 9v5H6v2h2v5l1 1h10.86l-1.762-3.054-2.223 2.15-.036-8.063L22 16.627V9l-1-1z"></path>
   <path fill="currentColor" d="m22 17.325-2.17.621 1.912 3.312L22 21zM2 12v-2h2v2zm0 2v1l1 1h1v-2z"></path>
@@ -2157,32 +2148,32 @@
   <path fill="currentColor" d="M11 2v6l-1 1H4v13h17V2z"></path>
   <path fill="currentColor" d="M9 2v5H4z"></path>
 </symbol><symbol id="pro-file-2-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M21 2H8.086L3 7.086V22h18zm-2 2v16H5V8h4V4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M21 2H8.086L3 7.086V22h18zm-2 2v16H5V8h4V4z"></path>
 </symbol><symbol id="pro-file-3-fill">
   <path fill="currentColor" d="M14 2v6l1 1h6v13H4V2z"></path>
   <path fill="currentColor" d="M16 2v5h5z"></path>
 </symbol><symbol id="pro-file-3-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm12 2v4h4v12H5V4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm12 2H5v16h14V8h-4z"></path>
 </symbol><symbol id="pro-file-4-fill">
   <path fill="currentColor" d="M14 22H4V2h17v13h-6l-1 1z"></path>
   <path fill="currentColor" d="m16 22 5-5h-5z"></path>
 </symbol><symbol id="pro-file-4-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 22h12.914L21 16.914V2H3zm16-6V4H5v16h10v-4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 22h12.914L21 16.914V2H3zm16-6h-4v4H5V4h14z"></path>
 </symbol><symbol id="pro-file-add-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm8 14v-3H8v-2h3V8h2v3h3v2h-3v3z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2v20h18V7.086L15.914 2zm8 14v-3H8v-2h3V8h2v3h3v2h-3v3z"></path>
 </symbol><symbol id="pro-file-add-line">
   <path fill="currentColor" d="M11 16v-3H8v-2h3V8h2v3h3v2h-3v3z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M15.914 2H3v20h18V7.086zM15 4H5v16h14V8h-4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M15.914 2H3v20h18V7.086zM15 4v4h4v12H5V4z"></path>
 </symbol><symbol id="pro-file-chart-2-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm12.326 13.222A4 4 0 0 0 16 13h-4V9a4 4 0 1 0 3.326 6.222" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm12.326 13.222A4 4 0 0 0 16 13h-4V9a4 4 0 1 0 3.326 6.222"></path>
 </symbol><symbol id="pro-file-chart-2-line">
   <path fill="currentColor" d="M15.326 15.222A4 4 0 0 0 16 13h-4V9a4 4 0 1 0 3.326 6.222"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M15.914 2H3v20h18V7.086zM15 8V4H5v16h14V8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M15.914 2H3v20h18V7.086zM15 8h4v12H5V4h10z"></path>
 </symbol><symbol id="pro-file-chart-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm10 5h-2v10h2zm4 10v-4h-2v4zm-8-5v5H7v-5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm10 5h-2v10h2zm4 10v-4h-2v4zm-8-5H7v5h2z"></path>
 </symbol><symbol id="pro-file-chart-line">
   <path fill="currentColor" d="M17 17v-4h-2v4zM13 7v10h-2V7zM9 17v-5H7v5z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M15.914 2H3v20h18V7.086zM15 8V4H5v16h14V8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M15.914 2H3v20h18V7.086zM15 8h4v12H5V4h10z"></path>
 </symbol><symbol id="pro-file-check-fill">
   <path fill="currentColor" d="M15.914 2H3v20h11.965l-2.733-2.732 3.536-3.536L18 17.965l3-3v-7.88z"></path>
   <path fill="currentColor" d="m18 22.914 5.207-5.207-1.414-1.414L18 20.086l-2.293-2.293-1.414 1.414z"></path>
@@ -2200,31 +2191,31 @@
   <path fill="currentColor" d="M21.38 16.024a4.002 4.002 0 0 0-7.76 0A3 3 0 0 0 14 22h7a3 3 0 0 0 .38-5.976"></path>
 </symbol><symbol id="pro-file-cloud-line">
   <path fill="currentColor" d="M15.914 2H3v20h7v-2H5V4h10v4h4v4h2V7.086z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M17.5 13a4 4 0 0 1 3.88 3.024A3 3 0 0 1 21 22h-7a3 3 0 0 1-.38-5.976A4 4 0 0 1 17.5 13m2 4a2 2 0 1 0-4 0v1H14a1 1 0 1 0 0 2h7a1 1 0 1 0 0-2h-1.5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M17.5 13a4 4 0 0 1 3.88 3.024A3 3 0 0 1 21 22h-7a3 3 0 0 1-.38-5.976A4 4 0 0 1 17.5 13m2 4a2 2 0 1 0-4 0v1H14a1 1 0 1 0 0 2h7a1 1 0 1 0 0-2h-1.5z"></path>
 </symbol><symbol id="pro-file-code-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm6.793 7.293 1.414 1.414L8.914 13l2.293 2.293-1.414 1.414L6.086 13zm3.914 0-1.414 1.414L14.586 13l-2.293 2.293 1.414 1.414L17.414 13z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm6.793 7.293L6.086 13l3.707 3.707 1.414-1.414L8.914 13l2.293-2.293zm3.914 0-1.414 1.414L14.586 13l-2.293 2.293 1.414 1.414L17.414 13z"></path>
 </symbol><symbol id="pro-file-code-line">
   <path fill="currentColor" d="m9.793 9.293 1.414 1.414L8.914 13l2.293 2.293-1.414 1.414L6.086 13zm2.5 1.414 1.414-1.414L17.414 13l-3.707 3.707-1.414-1.414L14.586 13z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm12 2v4h4v12H5V4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm12 2H5v16h14V8h-4z"></path>
 </symbol><symbol id="pro-file-copy-2-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="m7 3 1-1h12l1 1v14l-1 1h-3v3l-1 1H4l-1-1V7l1-1h3zm12 13h-2V7l-1-1H9V4h10zm-6-3H7v-2h6zm0 4H7v-2h6z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M7 3v3H4L3 7v14l1 1h12l1-1v-3h3l1-1V3l-1-1H8zm12 13h-2V7l-1-1H9V4h10zm-6-3H7v-2h6zm0 4H7v-2h6z"></path>
 </symbol><symbol id="pro-file-copy-2-line">
   <path fill="currentColor" d="M13 13H7v-2h6zm-6 4h6v-2H7z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M8 2 7 3v3H4L3 7v14l1 1h12l1-1v-3h3l1-1V3l-1-1zm9 14h2V4H9v2h7l1 1zM5 20V8h10v12z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M8 2 7 3v3H4L3 7v14l1 1h12l1-1v-3h3l1-1V3l-1-1zm9 14V7l-1-1H9V4h10v12zM5 20V8h10v12z"></path>
 </symbol><symbol id="pro-file-copy-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M8 2 7 3v3H4L3 7v14l1 1h12l1-1v-3h3l1-1V3l-1-1zm9 14h2V4H9v2h7l1 1z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M8 2 7 3v3H4L3 7v14l1 1h12l1-1v-3h3l1-1V3l-1-1zm9 14V7l-1-1H9V4h10v12z"></path>
 </symbol><symbol id="pro-file-copy-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M8 2 7 3v3H4L3 7v14l1 1h12l1-1v-3h3l1-1V3l-1-1zm9 14h2V4H9v2h7l1 1zM5 20V8h10v12z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M8 2 7 3v3H4L3 7v14l1 1h12l1-1v-3h3l1-1V3l-1-1zm9 14V7l-1-1H9V4h10v12zM5 20V8h10v12z"></path>
 </symbol><symbol id="pro-file-damage-fill">
   <path fill="currentColor" d="M3 2h11v6l1 1h6v13H3v-8l4 2.5 3-3.5 3 4 2-2.5 3 .5-3-3-2 2.5-3-5L6.5 13 3 10z"></path>
   <path fill="currentColor" d="M20.914 7 16 2.086V7z"></path>
 </symbol><symbol id="pro-file-damage-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M15.914 2H3v20h18V7.086zM5 15.25V20h14V8h-4V4H5v7.714L6.5 13 10 9.5l3 5 2-2.5 3 3-3-.5-2 2.5-3-4-3 3.5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M15.914 2H3v20h18V7.086zM5 15.25l2 1.25 3-3.5 3 4 2-2.5 3 .5-3-3-2 2.5-3-5L6.5 13 5 11.714V4h10v4h4v12H5z"></path>
 </symbol><symbol id="pro-file-download-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm10.261 10h2.752l-4.012 4-3.991-4h2.751V7.992h2.5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm10.261 10V7.992h-2.5V12H8.01L12 16l4.012-4z"></path>
 </symbol><symbol id="pro-file-download-line">
   <path fill="currentColor" d="M13.261 12h2.752l-4.012 4-3.991-4h2.751V7.992h2.5z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M15.914 2H3v20h18V7.086zM15 8V4H5v16h14V8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M15.914 2H3v20h18V7.086zM15 8h4v12H5V4h10z"></path>
 </symbol><symbol id="pro-file-edit-fill">
   <path fill="currentColor" d="M10 2h11v4.322l-9.084 9.085.431 3.81 3.811.432L21 14.807V22H3V9h6l1-1z"></path>
   <path fill="currentColor" d="M8 2.086 3.086 7H8zm13.736 6.328-7.725 7.725.144 1.27 1.27.145 7.726-7.726z"></path>
@@ -2232,78 +2223,75 @@
   <path fill="currentColor" d="M21 2H8.086L3 7.086V22h18v-7.193l-2 2V20H5V8h4V4h10v4.322l2-2z"></path>
   <path fill="currentColor" d="m14.011 16.14 7.725-7.726 1.415 1.414-7.726 7.726-1.27-.144z"></path>
 </symbol><symbol id="pro-file-excel-2-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M14.836 1.014 16 2v20l-1.164.986L2 20.847V3.153zM13.02 8h-2.44L9 10.256 7.42 8H4.98l2.8 4-2.8 4h2.44L9 13.744 10.58 16h2.44l-2.8-4z" clip-rule="evenodd"></path>
-  <path fill="currentColor" d="M17 3h4l1 1v16l-1 1h-4z"></path>
+  <path fill="currentColor" d="M14.836 1.014 16 2v20l-1.164.986L2 20.847V3.153zM13.02 8h-2.44L9 10.256 7.42 8H4.98l2.8 4-2.8 4h2.44L9 13.744 10.58 16h2.44l-2.8-4zM17 3h4l1 1v16l-1 1h-4z"></path>
 </symbol><symbol id="pro-file-excel-2-line">
   <path fill="currentColor" d="M13.021 8H10.58L9 10.256 7.42 8H4.98l2.8 4-2.8 4h2.44L9 13.744 10.58 16h2.44l-2.8-4z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M14.836 1.014 16 2v20l-1.164.986L2 20.847V3.153zM4 4.847v14.306l10 1.667V3.18z" clip-rule="evenodd"></path>
-  <path fill="currentColor" d="M20 5h-3V3h4l1 1v16l-1 1h-4v-2h3z"></path>
+  <path fill="currentColor" d="M14.836 1.014 16 2v20l-1.164.986L2 20.847V3.153zM4 4.847v14.306l10 1.667V3.18zM20 5h-3V3h4l1 1v16l-1 1h-4v-2h3z"></path>
 </symbol><symbol id="pro-file-excel-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm13.021 6H13.58L12 10.256 10.42 8H7.98l2.8 4-2.8 4h2.441l1.58-2.256L13.58 16h2.44l-2.8-4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm13.021 6H13.58L12 10.256 10.42 8H7.98l2.8 4-2.8 4h2.441l1.58-2.256L13.58 16h2.44l-2.8-4z"></path>
 </symbol><symbol id="pro-file-excel-line">
   <path fill="currentColor" d="M16.021 8H13.58L12 10.256 10.42 8H7.98l2.8 4-2.8 4h2.441l1.58-2.256L13.58 16h2.44l-2.8-4z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M15.914 2H3v20h18V7.086zM15 4H5v16h14V8h-4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M15.914 2H3v20h18V7.086zM15 4v4h4v12H5V4z"></path>
 </symbol><symbol id="pro-file-fill">
-  <path fill="currentColor" d="M8.086 2H21v20H3V7.086z"></path>
-  <path fill="currentColor" stroke="currentColor" stroke-linejoin="bevel" stroke-width="2" d="M10 9V3H8.5L4 7.5V9z"></path>
+  <path fill="currentColor" d="M21 2v20H3V7.086L8.086 2zM9 8V4h-.086L5 7.914V8z"></path>
 </symbol><symbol id="pro-file-forbid-fill">
   <path fill="currentColor" d="M15.914 2H3v20h9.255A7 7 0 0 1 21 11.674V7.086z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M13 18a5 5 0 1 1 10 0 5 5 0 0 1-10 0m5-3a3 3 0 0 0-2.708 4.294l4.002-4.002A3 3 0 0 0 18 15m0 6a3 3 0 0 1-1.293-.292l4-4.001A3 3 0 0 1 18 21" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M13 18a5 5 0 1 1 10 0 5 5 0 0 1-10 0m5-3a3 3 0 0 0-2.708 4.294l4.002-4.002A3 3 0 0 0 18 15m0 6a3 3 0 0 0 2.708-4.293l-4.001 4c.391.188.83.293 1.293.293"></path>
 </symbol><symbol id="pro-file-forbid-line">
   <path fill="currentColor" d="M3 2h12.914L21 7.086V11.5h-2V8h-4V4H5v16h7v2H3z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M13 18a5 5 0 1 1 10 0 5 5 0 0 1-10 0m5-3a3 3 0 0 0-2.708 4.294l4.002-4.002A3 3 0 0 0 18 15m2.708 1.707-4.001 4a3 3 0 0 0 4.001-4.001" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M13 18a5 5 0 1 1 10 0 5 5 0 0 1-10 0m5-3a3 3 0 0 0-2.708 4.294l4.002-4.002A3 3 0 0 0 18 15m2.708 1.707-4.001 4a3 3 0 0 0 4.001-4.001"></path>
 </symbol><symbol id="pro-file-gif-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm4 9.5A1.5 1.5 0 0 1 8.5 10H11v1H8.5a.5.5 0 0 0-.5.5v2a.5.5 0 0 0 .5.5H10v-1H9v-1h2v3H8.5A1.5 1.5 0 0 1 7 13.5zm5 3.5v-5h1v5zm5-5h-3v5h1v-2h2v-1h-2v-1h2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm4 9.5v2A1.5 1.5 0 0 0 8.5 15H11v-3H9v1h1v1H8.5a.5.5 0 0 1-.5-.5v-2a.5.5 0 0 1 .5-.5H11v-1H8.5A1.5 1.5 0 0 0 7 11.5m5 3.5h1v-5h-1zm5-5h-3v5h1v-2h2v-1h-2v-1h2z"></path>
 </symbol><symbol id="pro-file-gif-line">
   <path fill="currentColor" d="M7 11.5A1.5 1.5 0 0 1 8.5 10H11v1H8.5a.5.5 0 0 0-.5.5v2a.5.5 0 0 0 .5.5H10v-1H9v-1h2v3H8.5A1.5 1.5 0 0 1 7 13.5zm5-1.5v5h1v-5zm2 0h3v1h-2v1h2v1h-2v2h-1z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm2 2h10v4h4v12H5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2v20h18V7.086L15.914 2zm2 2h10v4h4v12H5z"></path>
 </symbol><symbol id="pro-file-history-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm9 7h-2v6h5v-2h-3z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm9 7h-2v6h5v-2h-3z"></path>
 </symbol><symbol id="pro-file-history-line">
   <path fill="currentColor" d="M12 9h-2v6h5v-2h-3z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M15.914 2H3v20h18V7.086zM15 8V4H5v16h14V8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M15.914 2H3v20h18V7.086zM15 8h4v12H5V4h10z"></path>
 </symbol><symbol id="pro-file-image-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm7 8.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m3.5.5 4.5 6H7z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2v20h18V7.086L15.914 2zm7 8.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m3.5.5 4.5 6H7z"></path>
 </symbol><symbol id="pro-file-image-line">
   <path fill="currentColor" d="m13.5 11 4.5 6H7zm-5 1a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm12 2v4h4v12H5V4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm12 2H5v16h14V8h-4z"></path>
 </symbol><symbol id="pro-file-info-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm10 5v2h-2V7zm0 4v6h-2v-6z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2v20h18V7.086L15.914 2zm10 5v2h-2V7zm0 4v6h-2v-6z"></path>
 </symbol><symbol id="pro-file-info-line">
   <path fill="currentColor" d="M13 11v6h-2v-6zm0-2V7h-2v2z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm2 2h10v4h4v12H5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm2 2v16h14V8h-4V4z"></path>
 </symbol><symbol id="pro-file-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M8.086 2H21v20H3V7.086zM19 20V4h-8v5l-1 1H5v10zM5 8h4V4h-.086L5 7.914z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M8.086 2H21v20H3V7.086zM19 20V4h-8v5l-1 1H5v10zM5 8h4V4h-.086L5 7.914z"></path>
 </symbol><symbol id="pro-file-list-2-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h18v20H3zm5 7h8V7H8zm0 4h8v-2H8zm5 4H8v-2h5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h18v20H3zm5 7h8V7H8zm0 4h8v-2H8zm5 4v-2H8v2z"></path>
 </symbol><symbol id="pro-file-list-2-line">
   <path fill="currentColor" d="M8 9h8V7H8zm8 4H8v-2h8zm-8 4h5v-2H8z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M21 2H3v20h18zM5 20V4h14v16z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M21 2H3v20h18zM5 20V4h14v16z"></path>
 </symbol><symbol id="pro-file-list-3-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M2 2h16v13h4v4a3 3 0 0 1-3 3H3l-1-1zm17 18a1 1 0 0 0 1-1v-2h-2v2a1 1 0 0 0 1 1M6 7h8v2H6zm0 4h8v2H6zm5 4H6v2h5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 2h16v13h4v4a3 3 0 0 1-3 3H3l-1-1zm17 18a1 1 0 0 0 1-1v-2h-2v2a1 1 0 0 0 1 1M6 7v2h8V7zm0 4v2h8v-2zm5 4H6v2h5z"></path>
 </symbol><symbol id="pro-file-list-3-line">
   <path fill="currentColor" d="M14 7H6v2h8zm-8 4h8v2H6zm5 4H6v2h5z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M2 2h16v13h4v4a3 3 0 0 1-3 3H3l-1-1zm16 17v-2h2v2a1 1 0 1 1-2 0M16 4v16H4V4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 2h16v13h4v4a3 3 0 0 1-3 3H3l-1-1zm16 17a1 1 0 1 0 2 0v-2h-2zM16 4H4v16h12z"></path>
 </symbol><symbol id="pro-file-list-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h18v20H3zm5 7h8V7H8zm0 4h8v-2H8zm8 4H8v-2h8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h18v20H3zm5 7h8V7H8zm0 4h8v-2H8zm8 4v-2H8v2z"></path>
 </symbol><symbol id="pro-file-list-line">
   <path fill="currentColor" d="M8 9h8V7H8zm8 4H8v-2h8zm-8 4h8v-2H8z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M21 2H3v20h18zM5 20V4h14v16z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M21 2H3v20h18zM5 20V4h14v16z"></path>
 </symbol><symbol id="pro-file-lock-fill">
   <path fill="currentColor" d="M12.75 11.25V12h-1.5v-.75a.75.75 0 0 1 1.5 0"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm6.25 9.25a2.75 2.75 0 1 1 5.5 0V12h.75v4.5h-7V12h.75z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm6.25 9.25V12H8.5v4.5h7V12h-.75v-.75a2.75 2.75 0 1 0-5.5 0"></path>
 </symbol><symbol id="pro-file-lock-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M14.75 12h.75v4.5h-7V12h.75v-.75a2.75 2.75 0 1 1 5.5 0zm-2 0v-.75a.75.75 0 0 0-1.5 0V12z" clip-rule="evenodd"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm12 2v4h4v12H5V4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M14.75 12h.75v4.5h-7V12h.75v-.75a2.75 2.75 0 1 1 5.5 0zm-2 0v-.75a.75.75 0 0 0-1.5 0V12z"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm12 2H5v16h14V8h-4z"></path>
 </symbol><symbol id="pro-file-marked-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h18v20H3zm4 2h7v8.766l-3.5-2.1-3.5 2.1z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h18v20H3zm4 2v8.766l3.5-2.1 3.5 2.1V4z"></path>
 </symbol><symbol id="pro-file-marked-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M21 2v20H3V2zM7 4v8.766l3.5-2.1 3.5 2.1V4h5v16H5V4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M21 2v20H3V2zM7 4H5v16h14V4h-5v8.766l-3.5-2.1-3.5 2.1z"></path>
 </symbol><symbol id="pro-file-music-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm8 6.5h4v2h-2V15a2.5 2.5 0 1 1-2-2.45z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2v20h18V7.086L15.914 2zm8 6.5h4v2h-2V15a2.5 2.5 0 1 1-2-2.45z"></path>
 </symbol><symbol id="pro-file-music-line">
   <path fill="currentColor" d="M8 15a2.5 2.5 0 0 1 3-2.45V8.5h4v2h-2V15a2.5 2.5 0 0 1-5 0"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M15.914 2H3v20h18V7.086zM15 8V4H5v16h14V8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M15.914 2H3v20h18V7.086zM15 8h4v12H5V4h10z"></path>
 </symbol><symbol id="pro-file-paper-2-fill">
   <path fill="currentColor" d="M4 2 3 3v12h16v4h-2v-2H1v2a3 3 0 0 0 3 3h14a3 3 0 0 0 3-3V7h2V5a3 3 0 0 0-3-3z"></path>
 </symbol><symbol id="pro-file-paper-2-line">
@@ -2314,116 +2302,111 @@
   <path fill="currentColor" d="M3 2h18v17a3 3 0 0 1-3 3H4a3 3 0 0 1-3-3v-2h16v2h2V4H5v11H3z"></path>
 </symbol><symbol id="pro-file-pdf-2-fill">
   <path fill="currentColor" d="M10.579 14.432c.512-.86.922-1.774 1.224-2.725a8 8 0 0 0 1.661 1.957c-.986.152-1.954.41-2.885.768"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm9.48 5.304-1.975.096-.147 1.47a11 11 0 0 1-2.356 5.776l-1.783 2.23 1.295 1.482 1.912-1.148A12 12 0 0 1 15.6 15.5H17l.406-1.914-1.19-.528A6 6 0 0 1 12.77 8.75z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm9.48 5.304-1.975.096-.147 1.47a11 11 0 0 1-2.356 5.776l-1.783 2.23 1.295 1.482 1.912-1.148A12 12 0 0 1 15.6 15.5H17l.406-1.914-1.19-.528A6 6 0 0 1 12.77 8.75z"></path>
 </symbol><symbol id="pro-file-pdf-2-line">
-  <path fill="currentColor" fill-rule="evenodd" d="m12.48 7.304-1.975.096-.147 1.47a11 11 0 0 1-2.356 5.776l-1.783 2.23 1.295 1.482 1.912-1.148A12 12 0 0 1 15.6 15.5H17l.406-1.914-1.19-.528A6 6 0 0 1 12.77 8.75zm-1.901 7.128c.512-.86.922-1.774 1.224-2.725a8 8 0 0 0 1.661 1.957c-.986.152-1.954.41-2.885.768" clip-rule="evenodd"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M15.914 2H3v20h18V7.086zM15 8V4H5v16h14V8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m12.48 7.304-1.975.096-.147 1.47a11 11 0 0 1-2.356 5.776l-1.783 2.23 1.295 1.482 1.912-1.148A12 12 0 0 1 15.6 15.5H17l.406-1.914-1.19-.528A6 6 0 0 1 12.77 8.75zm-1.901 7.128c.512-.86.922-1.774 1.224-2.725a8 8 0 0 0 1.661 1.957c-.986.152-1.954.41-2.885.768"></path>
+  <path fill="currentColor" d="M15.914 2H3v20h18V7.086zM15 8h4v12H5V4h10z"></path>
 </symbol><symbol id="pro-file-pdf-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm9 6H8v8h4a4 4 0 0 0 0-8m-2 6v-4h2a2 2 0 1 1 0 4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M10 14v-4h2a2 2 0 1 1 0 4z"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm9 6H8v8h4a4 4 0 0 0 0-8"></path>
 </symbol><symbol id="pro-file-pdf-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M12 8H8v8h4a4 4 0 0 0 0-8m-2 6v-4h2a2 2 0 1 1 0 4z" clip-rule="evenodd"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M15.914 2H3v20h18V7.086zM15 4H5v16h14V8h-4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M12 8H8v8h4a4 4 0 0 0 0-8m-2 6v-4h2a2 2 0 1 1 0 4z"></path>
+  <path fill="currentColor" d="M15.914 2H3v20h18V7.086zM15 4v4h4v12H5V4z"></path>
 </symbol><symbol id="pro-file-ppt-2-fill">
   <path fill="currentColor" d="M11 12H7v-2h4z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M14.836 1.014 16 2v20l-1.164.986L2 20.847V3.153zM13 8H5v8h2v-2h6z" clip-rule="evenodd"></path>
-  <path fill="currentColor" d="M17 3h4l1 1v16l-1 1h-4z"></path>
+  <path fill="currentColor" d="M14.836 1.014 16 2v20l-1.164.986L2 20.847V3.153zM13 8H5v8h2v-2h6zm4-5h4l1 1v16l-1 1h-4z"></path>
 </symbol><symbol id="pro-file-ppt-2-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M13 8H5v8h2v-2h6zm-2 4H7v-2h4z" clip-rule="evenodd"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M14.836 1.014 16 2v20l-1.164.986L2 20.847V3.153zM4 4.847v14.306l10 1.667V3.18z" clip-rule="evenodd"></path>
-  <path fill="currentColor" d="M20 5h-3V3h4l1 1v16l-1 1h-4v-2h3z"></path>
+  <path fill="currentColor" d="M13 8H5v8h2v-2h6zm-2 4H7v-2h4z"></path>
+  <path fill="currentColor" d="M14.836 1.014 16 2v20l-1.164.986L2 20.847V3.153zM4 4.847v14.306l10 1.667V3.18zM20 5h-3V3h4l1 1v16l-1 1h-4v-2h3z"></path>
 </symbol><symbol id="pro-file-ppt-fill">
   <path fill="currentColor" d="M14 13h-4v-2h4z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm13 7H8v8h2v-2h6z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm13 7H8v8h2v-2h6z"></path>
 </symbol><symbol id="pro-file-ppt-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M16 9H8v8h2v-2h6zm-2 4h-4v-2h4z" clip-rule="evenodd"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M15.914 2H3v20h18V7.086zM15 8V4H5v16h14V8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M16 9H8v8h2v-2h6zm-2 4h-4v-2h4z"></path>
+  <path fill="currentColor" d="M15.914 2H3v20h18V7.086zM15 8h4v12H5V4h10z"></path>
 </symbol><symbol id="pro-file-reduce-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm5 12h8v-2H8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm5 12h8v-2H8z"></path>
 </symbol><symbol id="pro-file-reduce-line">
   <path fill="currentColor" d="M8 14h8v-2H8z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M15.914 2H3v20h18V7.086zM15 8V4H5v16h14V8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M15.914 2H3v20h18V7.086zM15 8h4v12H5V4h10z"></path>
 </symbol><symbol id="pro-file-search-fill">
   <path fill="currentColor" d="M11 9a2 2 0 1 0 0 4 2 2 0 0 0 0-4"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm4 9a4 4 0 1 1 7.446 2.032l2.261 2.26-1.414 1.415-2.261-2.26A4 4 0 0 1 7 11" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2v20h18V7.086L15.914 2zm4 9a4 4 0 1 1 7.446 2.032l2.261 2.26-1.414 1.415-2.261-2.26A4 4 0 0 1 7 11"></path>
 </symbol><symbol id="pro-file-search-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M7 11a4 4 0 1 1 7.446 2.032l2.261 2.26-1.414 1.415-2.261-2.26A4 4 0 0 1 7 11m4-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4" clip-rule="evenodd"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm12 2v4h4v12H5V4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M7 11a4 4 0 1 1 7.446 2.032l2.261 2.26-1.414 1.415-2.261-2.26A4 4 0 0 1 7 11m4-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm12 2H5v16h14V8h-4z"></path>
 </symbol><symbol id="pro-file-settings-fill">
   <path fill="currentColor" d="M12 11a2 2 0 1 0 0 4 2 2 0 0 0 0-4"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm5.17 7.634.976.563A4 4 0 0 1 11 9.126V8h2v1.126c.715.184 1.353.56 1.854 1.072l.976-.564 1 1.732-.975.563a4 4 0 0 1 0 2.142l.975.563-1 1.732-.976-.563A4 4 0 0 1 13 16.874V18h-2v-1.126a4 4 0 0 1-1.854-1.071l-.976.563-1-1.732.975-.563a4 4 0 0 1 0-2.142l-.975-.563z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2v20h18V7.086L15.914 2zm5.17 7.634.976.563A4 4 0 0 1 11 9.126V8h2v1.126c.715.184 1.353.56 1.854 1.072l.976-.564 1 1.732-.975.563a4 4 0 0 1 0 2.142l.975.563-1 1.732-.976-.563A4 4 0 0 1 13 16.874V18h-2v-1.126a4 4 0 0 1-1.854-1.071l-.976.563-1-1.732.975-.563a4 4 0 0 1 0-2.142l-.975-.563z"></path>
 </symbol><symbol id="pro-file-settings-line">
-  <path fill="currentColor" fill-rule="evenodd" d="m8.17 9.634.976.563A4 4 0 0 1 11 9.126V8h2v1.126c.715.184 1.353.56 1.854 1.072l.976-.564 1 1.732-.975.563a4 4 0 0 1 0 2.142l.975.563-1 1.732-.976-.563A4 4 0 0 1 13 16.874V18h-2v-1.126a4 4 0 0 1-1.854-1.071l-.976.563-1-1.732.975-.563a4 4 0 0 1 0-2.142l-.975-.563zM12 11a2 2 0 1 0 0 4 2 2 0 0 0 0-4" clip-rule="evenodd"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M15.914 2H3v20h18V7.086zM15 8V4H5v16h14V8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m8.17 9.634.976.563A4 4 0 0 1 11 9.126V8h2v1.126c.715.184 1.353.56 1.854 1.072l.976-.564 1 1.732-.975.563a4 4 0 0 1 0 2.142l.975.563-1 1.732-.976-.563A4 4 0 0 1 13 16.874V18h-2v-1.126a4 4 0 0 1-1.854-1.071l-.976.563-1-1.732.975-.563a4 4 0 0 1 0-2.142l-.975-.563zM12 11a2 2 0 1 0 0 4 2 2 0 0 0 0-4"></path>
+  <path fill="currentColor" d="M15.914 2H3v20h18V7.086zM15 8h4v12H5V4h10z"></path>
 </symbol><symbol id="pro-file-shield-2-fill">
   <path fill="currentColor" d="M15.914 2H3v20h10.297l-.4-.316A5 5 0 0 1 11 17.765V10h10V7.086z"></path>
   <path fill="currentColor" d="m14.139 20.116 3.361 2.66 3.361-2.66q.072-.057.139-.117a3 3 0 0 0 1-2.236V12h-9v5.763a3 3 0 0 0 1.139 2.353"></path>
 </symbol><symbol id="pro-file-shield-2-line">
   <path fill="currentColor" d="M15.914 2H3v20h9v-2H5V4h10v4h4v2h2V7.086z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M22 12h-9v5.763a3 3 0 0 0 1.139 2.353l3.361 2.66 3.361-2.66A3 3 0 0 0 22 17.763zm-7 5.763V14h5v3.763a1 1 0 0 1-.38.784l-2.12 1.678-2.12-1.678a1 1 0 0 1-.38-.784" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M22 12h-9v5.763a3 3 0 0 0 1.139 2.353l3.361 2.66 3.361-2.66A3 3 0 0 0 22 17.763zm-7 5.763V14h5v3.763a1 1 0 0 1-.38.784l-2.12 1.678-2.12-1.678a1 1 0 0 1-.38-.784"></path>
 </symbol><symbol id="pro-file-shield-fill">
   <path fill="currentColor" d="M10 13.5v-2.7h4v2.7a1 1 0 0 1-.465.844L12 15.316l-1.535-.972a1 1 0 0 1-.465-.845"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm13 6.8H8v4.7a3 3 0 0 0 1.395 2.534L12 17.684l2.605-1.65A3 3 0 0 0 16 13.499z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm13 6.8H8v4.7a3 3 0 0 0 1.395 2.534L12 17.684l2.605-1.65A3 3 0 0 0 16 13.499z"></path>
 </symbol><symbol id="pro-file-shield-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M16 8.8H8v4.7a3 3 0 0 0 1.395 2.534L12 17.684l2.605-1.65A3 3 0 0 0 16 13.499zm-6 4.7v-2.7h4v2.7a1 1 0 0 1-.465.844L12 15.316l-1.535-.972a1 1 0 0 1-.465-.845" clip-rule="evenodd"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M15.914 2H3v20h18V7.086zM15 8V4H5v16h14V8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M16 8.8H8v4.7a3 3 0 0 0 1.395 2.534L12 17.684l2.605-1.65A3 3 0 0 0 16 13.499zm-6 4.7v-2.7h4v2.7a1 1 0 0 1-.465.844L12 15.316l-1.535-.972a1 1 0 0 1-.465-.845"></path>
+  <path fill="currentColor" d="M15.914 2H3v20h18V7.086zM15 8h4v12H5V4h10z"></path>
 </symbol><symbol id="pro-file-shred-fill">
   <path fill="currentColor" d="M15.516 2H4v10H2v2h20v-2h-2V7.124zM5 16v6H3v-6zm4 6v-6H7v6zm4-6v6h-2v-6zm4 6v-6h-2v6zm4-6v6h-2v-6z"></path>
 </symbol><symbol id="pro-file-shred-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M4 2h11.516L20 7.124V12h2v2H2v-2h2zm2 10h12V8h-4V4H6z" clip-rule="evenodd"></path>
-  <path fill="currentColor" d="M5 16v6H3v-6zm4 6v-6H7v6zm4-6v6h-2v-6zm4 6v-6h-2v6zm4-6v6h-2v-6z"></path>
+  <path fill="currentColor" d="M4 2h11.516L20 7.124V12h2v2H2v-2h2zm2 10h12V8h-4V4H6zm-1 4v6H3v-6zm4 6v-6H7v6zm4-6v6h-2v-6zm4 6v-6h-2v6zm4-6v6h-2v-6z"></path>
 </symbol><symbol id="pro-file-text-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm5 7h3V7H8zm0 4h8v-2H8zm8 4H8v-2h8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm5 7h3V7H8zm0 4h8v-2H8zm8 4v-2H8v2z"></path>
 </symbol><symbol id="pro-file-text-line">
   <path fill="currentColor" d="M8 9h3V7H8zm8 4H8v-2h8zm-8 4h8v-2H8z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M15.914 2H3v20h18V7.086zM15 8V4H5v16h14V8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M15.914 2H3v20h18V7.086zM15 8h4v12H5V4h10z"></path>
 </symbol><symbol id="pro-file-transfer-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm9.004 8.75V8L16 12.01 12.004 16v-2.75H8v-2.5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2v20h18V7.086L15.914 2zm9.004 8.75V8L16 12.01 12.004 16v-2.75H8v-2.5z"></path>
 </symbol><symbol id="pro-file-transfer-line">
   <path fill="currentColor" d="m12.586 11-1.793-1.793 1.414-1.414L16.414 12l-4.207 4.207-1.414-1.414L12.586 13H8v-2z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm12 2v4h4v12H5V4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm12 2H5v16h14V8h-4z"></path>
 </symbol><symbol id="pro-file-unknow-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm9 7a1.5 1.5 0 0 0-1.5 1.5h-2A3.5 3.5 0 1 1 12 14h-1v-2h1a1.5 1.5 0 0 0 0-3m-1 8v-2h2v2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2v20h18V7.086L15.914 2zm9 7a1.5 1.5 0 0 0-1.5 1.5h-2A3.5 3.5 0 1 1 12 14h-1v-2h1a1.5 1.5 0 0 0 0-3m-1 8v-2h2v2z"></path>
 </symbol><symbol id="pro-file-unknow-line">
   <path fill="currentColor" d="M12 9a1.5 1.5 0 0 0-1.5 1.5h-2A3.5 3.5 0 1 1 12 14h-1v-2h1a1.5 1.5 0 0 0 0-3m-1 6v2h2v-2z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm12 2v4h4v12H5V4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm12 2H5v16h14V8h-4z"></path>
 </symbol><symbol id="pro-file-upload-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm10.25 9.996H16L11.99 8 8 11.996h2.75V16h2.5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm10.25 9.996H16L11.99 8 8 11.996h2.75V16h2.5z"></path>
 </symbol><symbol id="pro-file-upload-line">
   <path fill="currentColor" d="m11 11.414-1.793 1.793-1.414-1.414L12 7.586l4.207 4.207-1.414 1.414L13 11.414V16h-2z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm12 2v4h4v12H5V4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm12 2H5v16h14V8h-4z"></path>
 </symbol><symbol id="pro-file-user-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm6 8a3 3 0 1 1 6 0 3 3 0 0 1-6 0m-2 7h10a3 3 0 0 0-3-3h-4a3 3 0 0 0-3 3" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm6 8a3 3 0 1 0 6 0 3 3 0 0 0-6 0m-2 7h10a3 3 0 0 0-3-3h-4a3 3 0 0 0-3 3"></path>
 </symbol><symbol id="pro-file-user-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M9 10a3 3 0 1 1 6 0 3 3 0 0 1-6 0m3-1a1 1 0 1 0 0 2 1 1 0 0 0 0-2" clip-rule="evenodd"></path>
-  <path fill="currentColor" d="M10.5 13.5A3.5 3.5 0 0 0 7 17h2a1.5 1.5 0 0 1 1.5-1.5h3A1.5 1.5 0 0 1 15 17h2a3.5 3.5 0 0 0-3.5-3.5z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm12 2v4h4v12H5V4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M9 10a3 3 0 1 1 6 0 3 3 0 0 1-6 0m3-1a1 1 0 1 0 0 2 1 1 0 0 0 0-2m-1.5 4.5A3.5 3.5 0 0 0 7 17h2a1.5 1.5 0 0 1 1.5-1.5h3A1.5 1.5 0 0 1 15 17h2a3.5 3.5 0 0 0-3.5-3.5z"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm12 2H5v16h14V8h-4z"></path>
 </symbol><symbol id="pro-file-video-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm6.5 7.5.757-.429 5 3v.858l-5 3L9.5 15.5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2v20h18V7.086L15.914 2zm6.5 7.5.757-.429 5 3v.858l-5 3L9.5 15.5z"></path>
 </symbol><symbol id="pro-file-video-line">
   <path fill="currentColor" d="M10.257 9.071 9.5 9.5v6l.757.429 5-3v-.858z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm12 2v4h4v12H5V4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm12 2H5v16h14V8h-4z"></path>
 </symbol><symbol id="pro-file-warning-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm8 12V8h2v6zm0 3v-2h2v2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2v20h18V7.086L15.914 2zm8 12V8h2v6zm0 3v-2h2v2z"></path>
 </symbol><symbol id="pro-file-warning-line">
   <path fill="currentColor" d="M11 14V8h2v6zm0 1v2h2v-2z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm12 2v4h4v12H5V4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h12.914L21 7.086V22H3zm12 2H5v16h14V8h-4z"></path>
 </symbol><symbol id="pro-file-word-2-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M14.836 1.014 16 2v20l-1.164.986L2 20.847V3.153zM5 8h2v5.297l2-2.334 2 2.334V8h2v8h-2.317L9 14.037 7.317 16H5z" clip-rule="evenodd"></path>
-  <path fill="currentColor" d="M17 3h4l1 1v16l-1 1h-4z"></path>
+  <path fill="currentColor" d="M14.836 1.014 2 3.153v17.694l12.836 2.14L16 22V2zM5 8h2v5.297l2-2.334 2 2.334V8h2v8h-2.317L9 14.037 7.317 16H5zm12-5h4l1 1v16l-1 1h-4z"></path>
 </symbol><symbol id="pro-file-word-2-line">
   <path fill="currentColor" d="M7 8H5v8h2.317L9 14.037 10.683 16H13V8h-2v5.297l-2-2.334-2 2.334z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M14.836 1.014 16 2v20l-1.164.986L2 20.847V3.153zM4 4.847v14.306l10 1.667V3.18z" clip-rule="evenodd"></path>
-  <path fill="currentColor" d="M17 5h3v14h-3v2h4l1-1V4l-1-1h-4z"></path>
+  <path fill="currentColor" d="M14.836 1.014 16 2v20l-1.164.986L2 20.847V3.153zM4 4.847v14.306l10 1.667V3.18zM17 5h3v14h-3v2h4l1-1V4l-1-1h-4z"></path>
 </symbol><symbol id="pro-file-word-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h12.914L21 7.086V22H3zm5 7h2v5.297l2-2.334 2 2.334V9h2v8h-2.317L12 15.037 10.317 17H8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2v20h18V7.086L15.914 2zm5 7h2v5.297l2-2.334 2 2.334V9h2v8h-2.317L12 15.037 10.317 17H8z"></path>
 </symbol><symbol id="pro-file-word-line">
   <path fill="currentColor" d="M8 9h2v5.297l2-2.334 2 2.334V9h2v8h-2.317L12 15.037 10.317 17H8z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M15.914 2H3v20h18V7.086zM15 8V4H5v16h14V8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M15.914 2H3v20h18V7.086zM15 8h4v12H5V4h10z"></path>
 </symbol><symbol id="pro-file-zip-fill">
   <path fill="currentColor" d="M12 2h9v20H3V2h7v2h2v2h-2v2h2v2h-2v2h2v2h-2v3h4v-5h-2v-2h2V8h-2V6h2V4h-2z"></path>
 </symbol><symbol id="pro-file-zip-line">
   <path fill="currentColor" d="M12 8h-2V6h2zm0 2V8h2v2zm0 2h-2v-2h2zm2 0h-2v2h-2v3h4z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 2h18v20H3zm2 2v16h14V4h-5v2h-2V4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 2h18v20H3zm2 2v16h14V4h-5v2h-2V4z"></path>
 </symbol><symbol id="pro-film-fill">
   <path fill="currentColor" d="M2 3h20v18H2zm4 2H4v2h2zm0 4H4v2h2zm0 4H4v2h2zm0 4H4v2h2zm12 2h2v-2h-2zm0-4h2v-2h-2zm0-4h2V9h-2zm0-4h2V5h-2z"></path>
 </symbol><symbol id="pro-film-line">
@@ -2449,8 +2432,7 @@
 </symbol><symbol id="pro-finder-line">
   <path fill="currentColor" d="M21.001 3a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1h-18a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zm-10.52 1.999L4.002 5v14h8.746a25 25 0 0 1-.163-1.02q-.445.02-.583.02c-2.208 0-4.398-.73-6.555-2.168l1.11-1.664C8.399 15.397 10.209 16 12 16q.199 0 .398-.01a24 24 0 0 1 .007-1.99H9.501v-1c0-3.275.32-5.94.98-8.001m2.12 0c-.665 1.583-1.044 4.412-1.09 7.001h3.123l-.14 1.124q-.152 1.207-.108 2.52 1.518-.449 3.06-1.476l1.11 1.664q-1.98 1.321-3.993 1.84.086.65.219 1.327L20 19V5zM7.001 7a1 1 0 0 1 1 1v1a1 1 0 0 1-2 0V8a1 1 0 0 1 1-1m10 0a1 1 0 0 1 1 1v1a1 1 0 1 1-2 0V8a1 1 0 0 1 1-1"></path>
 </symbol><symbol id="pro-fingerprint-2-fill">
-  <path fill="currentColor" d="M12 1a9 9 0 0 0-9 9v4c0 2.078.704 3.991 1.887 5.515.336-.4.563-.824.722-1.266C5.945 17.316 6 16.247 6 15v-5c0-1.036.263-2.01.725-2.861l1.51 1.51A4 4 0 0 0 8 10v5c0 1.253-.045 2.634-.509 3.926a6.1 6.1 0 0 1-1.205 2.027 9 9 0 0 0 2.643 1.51c.763-1.063 1.248-2.049 1.556-3.016.394-1.24.515-2.502.515-3.947V9h2v6.5c0 1.555-.129 3.043-.61 4.553a12 12 0 0 1-1.374 2.894 9.1 9.1 0 0 0 3.573-.325C15.434 20.746 16 18.026 16 16v-3h2v3c0 1.593-.302 3.57-.832 5.37A8.99 8.99 0 0 0 21 14v-4a9 9 0 0 0-9-9M9.386 6.972 7.97 5.555A6 6 0 0 1 18 10v1h-2v-1a4 4 0 0 0-6.614-3.028"></path>
-  <path stroke="currentColor" stroke-width="2" d="m6.52 5.52-.035-.035-.639 1.176A7 7 0 0 0 5 10v5c0 1.018-.04 1.814-.204 2.483A8 8 0 0 1 4 14v-4a8 8 0 1 1 16 0v4a7.96 7.96 0 0 1-1.14 4.118c.092-.74.14-1.457.14-2.118v-6A7 7 0 0 0 7.298 4.815zm6.184 16.45a13 13 0 0 0 .64-1.614c.523-1.645.656-3.247.656-4.856V8h-4v7.5c0 1.39-.117 2.54-.468 3.644a9 9 0 0 1-.975 2.08 8 8 0 0 1-.857-.476 7.2 7.2 0 0 0 .732-1.484C8.961 17.794 9 16.258 9 15v-5a3 3 0 0 1 .175-1.014l.215-.597-.053-.053.703-.607A3 3 0 0 1 15 10v6c0 1.739-.456 4.065-1.142 5.783q-.563.135-1.154.186Z"></path>
+  <path fill="currentColor" d="M12 1a9 9 0 0 0-9 9v4c0 2.078.704 3.991 1.887 5.515.336-.4.563-.824.722-1.266C5.945 17.316 6 16.247 6 15v-5c0-1.036.263-2.01.725-2.861l1.51 1.51A4 4 0 0 0 8 10v5c0 1.253-.045 2.634-.509 3.926a6.1 6.1 0 0 1-1.205 2.027 9 9 0 0 0 2.643 1.51c.763-1.063 1.248-2.049 1.556-3.016.394-1.24.515-2.502.515-3.947V9h2v6.5c0 1.555-.129 3.043-.61 4.553a12 12 0 0 1-1.374 2.894 9.1 9.1 0 0 0 3.573-.325C15.434 20.746 16 18.026 16 16v-3h2v3c0 1.593-.302 3.57-.832 5.37A8.99 8.99 0 0 0 21 14v-4a9 9 0 0 0-9-9m0 3a6 6 0 0 1 6 6v1h-2v-1a4 4 0 0 0-6.614-3.028L7.97 5.555A5.98 5.98 0 0 1 12 4"></path>
 </symbol><symbol id="pro-fingerprint-2-line">
   <path fill="currentColor" d="M19 10v4a6.98 6.98 0 0 1-2.321 5.206c.45-2.287.429-4.467.375-6.206h-2.006c.045 1.472.074 3.131-.168 4.872-.1.895-.276 1.807-.568 2.737l-.016.05a13.5 13.5 0 0 1-.94 2.24A9 9 0 0 0 21 14v-4A9 9 0 0 0 5.847 3.432l1.415 1.415A7 7 0 0 1 19 10"></path>
   <path fill="currentColor" d="M5.992 6.406A6.97 6.97 0 0 0 5 10v4c0 1.699.605 3.256 1.611 4.468.208-.57.33-1.246.392-2.045.079-1.02.054-2.11.027-3.32C7.016 12.44 7 11.742 7 11v-1a5 5 0 0 1 10 0v1h-2v-1a3 3 0 0 0-6 0v5.5c0 1.336-.113 2.372-.421 3.34a7.6 7.6 0 0 1-.567 1.33c-.233.435-.528.895-.901 1.387A9 9 0 0 1 3 14v-4c0-1.868.57-3.604 1.544-5.042z"></path>
@@ -2499,7 +2481,7 @@
 </symbol><symbol id="pro-flight-land-fill">
   <path fill="currentColor" d="m2.97 5.429 1.448.388.914 3.35 5.071 1.36-.344-8.375 1.932.518 2.759 9.021 5.313 1.424a1.5 1.5 0 1 1-.777 2.898l-15.858-4.25a.75.75 0 0 1-.553-.733zM20 19H4v2h16z"></path>
 </symbol><symbol id="pro-flight-land-line">
-  <path fill="currentColor" d="m2.97 5.429 1.45.388.913 3.35 5.071 1.36-.344-8.375 1.932.518 2.759 9.021 5.313 1.424a1.5 1.5 0 1 1-.777 2.898l-15.858-4.25a.746.746 0 0 1-.553-.733zM20 19H4v2h16z"></path>
+  <path fill="currentColor" d="m2.97 5.429 1.45.388.913 3.35 5.071 1.36-.344-8.375 1.932.518 2.759 9.021 5.313 1.424a1.5 1.5 0 1 1-.777 2.898l-15.858-4.25a.75.75 0 0 1-.553-.733zM20 19H4v2h16z"></path>
 </symbol><symbol id="pro-flight-takeoff-fill">
   <path fill="currentColor" d="m1.71 11.105 1.45-.388 2.467 2.445 5.07-1.359-4.485-7.08 1.932-.518 6.9 6.433 5.313-1.423a1.5 1.5 0 0 1 .777 2.898L5.276 16.362a.75.75 0 0 1-.846-.36zM20 19H4v2h16z"></path>
 </symbol><symbol id="pro-flight-takeoff-line">
@@ -2555,73 +2537,52 @@
 </symbol><symbol id="pro-focus-mode-line">
   <path fill="currentColor" d="M8 3H3v5h2V5h3zm8 2h3v3h2V3h-5zM5 16v3h3v2H3v-5zm14 0v3h-3v2h5v-5zm-4-7H9v6h6z"></path>
 </symbol><symbol id="pro-foggy-fill">
-  <g fill="currentColor" clip-path="url(#a)">
-    <path d="M17.327 6.002A7.001 7.001 0 0 0 4.046 8.194 5.5 5.5 0 0 0 .022 13H24v-.5a6.5 6.5 0 0 0-6.673-6.498M4 19h17v2H4zm20-4H0v2h24z"></path>
-  </g>
-  <defs>
-    <clippath id="a"><path fill="currentColor" d="M0 0h24v24H0z"></path></clippath>
-  </defs>
+  <path fill="currentColor" d="M17.315 6.002A7.001 7.001 0 0 0 4.033 8.194 5.5 5.5 0 0 0 .01 13h23.977v-.5a6.5 6.5 0 0 0-6.672-6.498M3.987 19h17v2h-17zm20-4H.01v2h23.977z"></path>
 </symbol><symbol id="pro-foggy-line">
-  <g fill="currentColor" clip-path="url(#a)">
-    <path d="M15.733 7.384A5 5 0 0 0 6 9l.002.923-.892.098A3.5 3.5 0 0 0 2.036 13H.022a5.5 5.5 0 0 1 4.024-4.805 7.001 7.001 0 0 1 13.281-2.193L17.5 6a6.5 6.5 0 0 1 6.5 6.5v.5h-2v-.5a4.5 4.5 0 0 0-5.172-4.45l-.825.123zM4 19h17v2H4zm20-4H0v2h24z"></path>
-  </g>
-  <defs>
-    <clippath id="a"><path fill="currentColor" d="M0 0h24v24H0z"></path></clippath>
-  </defs>
+  <path fill="currentColor" d="M15.72 7.384A5 5 0 0 0 5.988 9l.003.923-.893.098A3.5 3.5 0 0 0 2.023 13H.01a5.5 5.5 0 0 1 4.023-4.805 7.001 7.001 0 0 1 13.282-2.193L17.487 6a6.5 6.5 0 0 1 6.5 6.5v.5h-2v-.5a4.5 4.5 0 0 0-5.172-4.45l-.825.123zM3.987 19h17v2h-17zm19.981-4H.01v2h23.958z"></path>
 </symbol><symbol id="pro-folder-2-fill">
   <path fill="currentColor" d="M2 3h8.414l2 2H22v4H2zm0 8v10h20V11z"></path>
 </symbol><symbol id="pro-folder-2-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M10.414 3H2v18h20V5h-9.586zM20 9V7h-8.414l-2-2H4v4zM4 11v8h16v-8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M10.414 3H2v18h20V5h-9.586zM20 9H4V5h5.586l2 2H20zM4 11h16v8H4z"></path>
 </symbol><symbol id="pro-folder-3-fill">
   <path fill="currentColor" d="M2 3h8.414l2 2H2zm0 4v14h20V7z"></path>
 </symbol><symbol id="pro-folder-3-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M10.414 3H2v18h20V5h-9.586zM4 7v12h16V7z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M10.414 3H2v18h20V5h-9.586zM4 7h16v12H4z"></path>
 </symbol><symbol id="pro-folder-4-fill">
   <path fill="currentColor" d="M2 3h8.414l2 2H22v4H6v12H2z"></path>
   <path fill="currentColor" d="M8 21h14V11H8z"></path>
 </symbol><symbol id="pro-folder-4-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M10.414 3H2v18h20V5h-9.586zM20 9V7h-8.414l-2-2H4v14h2V9zM8 19h12v-8H8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m10.414 3 2 2H22v16H2V3zM20 9V7h-8.414l-2-2H4v14h2V9zM8 19h12v-8H8z"></path>
 </symbol><symbol id="pro-folder-5-fill">
   <path fill="currentColor" d="M11.414 3H3v4h18V5h-7.586zm10.691 6-1.2 12H3.095l-1.2-12z"></path>
 </symbol><symbol id="pro-folder-5-line">
-  <path fill="currentColor" d="M3 3h8.414l2 2H21v2H3z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="m1.895 9 1.2 12h17.81l1.2-12zm3.01 10-.8-8h15.79l-.8 8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" fill-rule="evenodd" d="M3 3h8.414l2 2H21v2H3zM1.895 9l1.2 12h17.81l1.2-12zm3.01 10-.8-8h15.79l-.8 8z" clip-rule="evenodd"></path>
 </symbol><symbol id="pro-folder-6-fill">
   <path fill="currentColor" d="M2 3h8.414L12 4.586 9.586 7H2z"></path>
   <path fill="currentColor" d="M2 9v12h20V5h-7.586l-4 4z"></path>
 </symbol><symbol id="pro-folder-6-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M10.414 3H2v18h20V5h-9.586zM4 7V5h5.586l1 1-1 1zm0 2v10h16V7h-7.586l-2 2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M10.414 3H2v18h20V5h-9.586zM4 7V5h5.586l1 1-1 1zm0 2h6.414l2-2H20v12H4z"></path>
 </symbol><symbol id="pro-folder-add-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm11 6v3h3v2h-3v3h-2v-3H8v-2h3V9z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3v18h20V5h-9.586l-2-2zm11 6v3h3v2h-3v3h-2v-3H8v-2h3V9z"></path>
 </symbol><symbol id="pro-folder-add-line">
   <path fill="currentColor" d="M11 14H8v-2h3V9h2v3h3v2h-3v3h-2z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z"></path>
 </symbol><symbol id="pro-folder-chart-2-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm13.326 12.222A4 4 0 0 0 16 13h-4V9a4 4 0 1 0 3.326 6.222" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm13.326 12.222A4 4 0 0 0 16 13h-4V9a4 4 0 1 0 3.326 6.222"></path>
 </symbol><symbol id="pro-folder-chart-2-line">
   <path fill="currentColor" d="M15.326 15.222A4 4 0 0 0 16 13h-4V9a4 4 0 1 0 3.326 6.222"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M10.414 3H2v18h20V5h-9.586zM4 19V5h5.586l2 2H20v12z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M10.414 3H2v18h20V5h-9.586zM4 19V5h5.586l2 2H20v12z"></path>
 </symbol><symbol id="pro-folder-chart-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm11 14V9h-2v8zm4 0v-4h-2v4zm-8-5v5H7v-5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm11 14V9h-2v8zm4 0v-4h-2v4zm-8-5H7v5h2z"></path>
 </symbol><symbol id="pro-folder-chart-line">
   <path fill="currentColor" d="M17 17v-4h-2v4zm-4-8v8h-2V9zm-4 8v-5H7v5z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M10.414 3H2v18h20V5h-9.586zM4 19V5h5.586l2 2H20v12z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M10.414 3H2v18h20V5h-9.586zM4 19V5h5.586l2 2H20v12z"></path>
 </symbol><symbol id="pro-folder-check-fill">
-  <g fill="currentColor" clip-path="url(#a)">
-    <path d="M10.414 3H2v18h13.965l-2.733-2.732 3.536-3.536L19 16.965l3-3V5h-9.586z"></path>
-    <path d="m19 21.914 5.207-5.207-1.414-1.414L19 19.086l-2.293-2.293-1.414 1.414z"></path>
-  </g>
-  <defs>
-    <clippath id="a"><path fill="currentColor" d="M0 0h24v24H0z"></path></clippath>
-  </defs>
+  <path fill="currentColor" d="M9.914 3H1.5v18h13.965l-2.733-2.732 3.536-3.536 2.232 2.233 3-3V5h-9.586z"></path>
+  <path fill="currentColor" d="m18.5 21.914 5.207-5.207-1.414-1.414-3.793 3.793-2.293-2.293-1.414 1.414z"></path>
 </symbol><symbol id="pro-folder-check-line">
-  <g fill="currentColor" clip-path="url(#a)">
-    <path d="M10.414 3H2v18h11v-2H4V5h5.586l2 2H20v6h2V5h-9.586z"></path>
-    <path d="m19 21.914 5.207-5.207-1.414-1.414L19 19.086l-2.293-2.293-1.414 1.414z"></path>
-  </g>
-  <defs>
-    <clippath id="a"><path fill="currentColor" d="M0 0h24v24H0z"></path></clippath>
-  </defs>
+  <path fill="currentColor" d="M9.914 3H1.5v18h11v-2h-9V5h5.586l2 2H19.5v6h2V5h-9.586z"></path>
+  <path fill="currentColor" d="m18.5 21.914 5.207-5.207-1.414-1.414-3.793 3.793-2.293-2.293-1.414 1.414z"></path>
 </symbol><symbol id="pro-folder-close-fill">
   <path fill="currentColor" d="M2 3h8.414l2 2H22v8l-.768-.768L19 14.464l-2.232-2.232-3.535 3.536L15.465 18l-2.233 2.232L14 21H2z"></path>
   <path fill="currentColor" d="m17.586 18-2.293-2.293 1.414-1.414L19 16.586l2.293-2.293 1.414 1.414L20.414 18l2.293 2.293-1.414 1.414L19 19.414l-2.293 2.293-1.414-1.414z"></path>
@@ -2630,60 +2591,60 @@
   <path fill="currentColor" d="m17.586 18-2.293-2.293 1.414-1.414L19 16.586l2.293-2.293 1.414 1.414L20.414 18l2.293 2.293-1.414 1.414L19 19.414l-2.293 2.293-1.414-1.414z"></path>
 </symbol><symbol id="pro-folder-cloud-fill">
   <path fill="currentColor" fill-rule="evenodd" d="M14.5 16a3 3 0 1 1 6 0h.5a2 2 0 1 1 0 4h-7a2 2 0 1 1 0-4z" clip-rule="evenodd"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M10.414 3H2v18h8a5.002 5.002 0 0 1 2.105-7.628A6 6 0 0 1 22 12.032V5h-9.586zm7.086 9a4 4 0 0 1 3.88 3.024A3 3 0 0 1 21 21h-7a3 3 0 0 1-.38-5.976A4 4 0 0 1 17.5 12" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M10.414 3H2v18h8a5.002 5.002 0 0 1 2.105-7.628A6 6 0 0 1 22 12.032V5h-9.586zm7.086 9a4 4 0 0 1 3.88 3.024A3 3 0 0 1 21 21h-7a3 3 0 0 1-.38-5.976A4 4 0 0 1 17.5 12"></path>
 </symbol><symbol id="pro-folder-cloud-line">
   <path fill="currentColor" d="M10.414 3H2v18h8v-2H4V5h5.586l2 2H20v4h2V5h-9.586z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M17.5 12a4 4 0 0 1 3.88 3.024A3 3 0 0 1 21 21h-7a3 3 0 0 1-.38-5.976A4 4 0 0 1 17.5 12m2 4a2 2 0 1 0-4 0v1H14a1 1 0 1 0 0 2h7a1 1 0 1 0 0-2h-1.5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M17.5 12a4 4 0 0 1 3.88 3.024A3 3 0 0 1 21 21h-7a3 3 0 0 1-.38-5.976A4 4 0 0 1 17.5 12m2 4a2 2 0 1 0-4 0v1H14a1 1 0 1 0 0 2h7a1 1 0 1 0 0-2h-1.5z"></path>
 </symbol><symbol id="pro-folder-download-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm11.25 10.004H16L11.99 17 8 13.004h2.75V9h2.5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm11.25 10.004V9h-2.5v4.004H8L11.99 17 16 13.004z"></path>
 </symbol><symbol id="pro-folder-download-line">
   <path fill="currentColor" d="m13 13.586 1.793-1.793 1.414 1.414L12 17.414l-4.207-4.207 1.414-1.414L11 13.586V9h2z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z"></path>
 </symbol><symbol id="pro-folder-fill">
   <path fill="currentColor" d="M10.414 3H2v18h20V5h-9.586z"></path>
 </symbol><symbol id="pro-folder-forbid-fill">
   <path fill="currentColor" d="M2 3h8.414l2 2H22v6.255A7 7 0 0 0 12.255 21H2z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M13 17a5 5 0 1 1 10 0 5 5 0 0 1-10 0m5-3a3 3 0 0 0-2.708 4.294l4.002-4.002A3 3 0 0 0 18 14m2.708 1.707-4.001 4a3 3 0 0 0 4.001-4.001" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M13 17a5 5 0 1 1 10 0 5 5 0 0 1-10 0m5-3a3 3 0 0 0-2.708 4.294l4.002-4.002A3 3 0 0 0 18 14m2.708 1.707-4.001 4a3 3 0 0 0 4.001-4.001"></path>
 </symbol><symbol id="pro-folder-forbid-line">
   <path fill="currentColor" d="M2 3h8.414l2 2H22v6h-2V7h-8.414l-2-2H4v14h8v2H2z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M13 17a5 5 0 1 1 10 0 5 5 0 0 1-10 0m5-3a3 3 0 0 0-2.708 4.294l4.002-4.002A3 3 0 0 0 18 14m2.708 1.707-4.001 4a3 3 0 0 0 4.001-4.001" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M13 17a5 5 0 1 1 10 0 5 5 0 0 1-10 0m5-3a3 3 0 0 0-2.708 4.294l4.002-4.002A3 3 0 0 0 18 14m2.708 1.707-4.001 4a3 3 0 0 0 4.001-4.001"></path>
 </symbol><symbol id="pro-folder-history-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm11 6h-2v6h5v-2h-3z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm11 6h-2v6h5v-2h-3z"></path>
 </symbol><symbol id="pro-folder-history-line">
   <path fill="currentColor" d="M13 9h-2v6h4.5v-2H13z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M10.414 3H2v18h20V5h-9.586zM4 19V5h5.586l2 2H20v12z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M10.414 3H2v18h20V5h-9.586zM4 19V5h5.586l2 2H20v12z"></path>
 </symbol><symbol id="pro-folder-image-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm8 7.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m3.5.5 4.5 6H7z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3v18h20V5h-9.586l-2-2zm8 7.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m3.5.5 4.5 6H7z"></path>
 </symbol><symbol id="pro-folder-image-line">
   <path fill="currentColor" d="m13.5 11 4.5 6H7zm-5 1a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z"></path>
 </symbol><symbol id="pro-folder-info-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm11 6v2h-2V9zm0 3v5h-2v-5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3v18h20V5h-9.586l-2-2zm11 6v2h-2V9zm0 3v5h-2v-5z"></path>
 </symbol><symbol id="pro-folder-info-line">
   <path fill="currentColor" d="M13 12v5h-2v-5zm0-1V9h-2v2z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z"></path>
 </symbol><symbol id="pro-folder-keyhole-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm8.5 7h3v3H13v3h-2v-3h-.5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm8.5 7v3h.5v3h2v-3h.5v-3z"></path>
 </symbol><symbol id="pro-folder-keyhole-line">
   <path fill="currentColor" d="M13 13v3h-2v-3h-.5v-3h3v3z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z"></path>
 </symbol><symbol id="pro-folder-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z"></path>
 </symbol><symbol id="pro-folder-lock-fill">
   <path fill="currentColor" d="M12.75 11.25V12h-1.5v-.75a.75.75 0 0 1 1.5 0"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm7.25 8.25a2.75 2.75 0 1 1 5.5 0V12h.75v4.5h-7V12h.75z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm7.25 8.25V12H8.5v4.5h7V12h-.75v-.75a2.75 2.75 0 1 0-5.5 0"></path>
 </symbol><symbol id="pro-folder-lock-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M14.75 12h.75v4.5h-7V12h.75v-.75a2.75 2.75 0 1 1 5.5 0zm-2 0v-.75a.75.75 0 0 0-1.5 0V12z" clip-rule="evenodd"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M14.75 12h.75v4.5h-7V12h.75v-.75a2.75 2.75 0 1 1 5.5 0zm-2 0v-.75a.75.75 0 0 0-1.5 0V12z"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z"></path>
 </symbol><symbol id="pro-folder-music-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm9 5.5h4v2h-2V15a2.5 2.5 0 1 1-2-2.45z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm9 5.5v4.05A2.5 2.5 0 1 0 13 15v-4.5h2v-2z"></path>
 </symbol><symbol id="pro-folder-music-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M11 12.55A2.5 2.5 0 1 0 13 15v-4.5h2v-2h-4zm-.5 1.95a.5.5 0 1 0 0 1 .5.5 0 0 0 0-1" clip-rule="evenodd"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M11 12.55V8.5h4v2h-2V15a2.5 2.5 0 1 1-2-2.45m-.5 1.95a.5.5 0 1 0 0 1 .5.5 0 0 0 0-1"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z"></path>
 </symbol><symbol id="pro-folder-open-fill">
   <path fill="currentColor" d="M2 3h8.414l2 2H21v4H4v7.875L5.469 11h17.006l-2.71 10H2z"></path>
 </symbol><symbol id="pro-folder-open-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M10.414 3H2v18h17.765l2.71-10H5.47L4 16.875V5h5.586l2 2H19v2h2V5h-8.586zM5.53 19h12.705l1.626-6H7.03z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M10.414 3H2v18h17.765l2.71-10H5.47L4 16.875V5h5.586l2 2H19v2h2V5h-8.586zM5.53 19l1.5-6h12.83l-1.625 6z"></path>
 </symbol><symbol id="pro-folder-received-fill">
   <path fill="currentColor" d="M2 3h8.414l2 2H22v9.5l-2.768-2.768-6.768 6.768 2.5 2.5H2z"></path>
   <path fill="currentColor" d="m18.414 17.5 1.793-1.793-1.414-1.414-4.207 4.207 4.207 4.207 1.414-1.414-1.793-1.793H23v-2z"></path>
@@ -2691,22 +2652,22 @@
   <path fill="currentColor" d="M2 3h8.414l2 2H22v8h-2V7h-8.414l-2-2H4v14h9v2H2z"></path>
   <path fill="currentColor" d="m18.414 17.5 1.793-1.793-1.414-1.414-4.207 4.207 4.207 4.207 1.414-1.414-1.793-1.793H23v-2z"></path>
 </symbol><symbol id="pro-folder-reduce-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm6 11h8v-2H8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm6 11h8v-2H8z"></path>
 </symbol><symbol id="pro-folder-reduce-line">
   <path fill="currentColor" d="M8 14h8v-2H8z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M10.414 3H2v18h20V5h-9.586zM4 19V5h5.586l2 2H20v12z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M10.414 3H2v18h20V5h-9.586zM4 19V5h5.586l2 2H20v12z"></path>
 </symbol><symbol id="pro-folder-search-fill">
   <path fill="currentColor" d="M11 10a2 2 0 1 0 0 4 2 2 0 0 0 0-4"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm5 9a4 4 0 1 1 7.446 2.032l2.261 2.26-1.414 1.415-2.261-2.26A4 4 0 0 1 7 12" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3v18h20V5h-9.586l-2-2zm5 9a4 4 0 1 1 7.446 2.032l2.261 2.26-1.414 1.415-2.261-2.26A4 4 0 0 1 7 12"></path>
 </symbol><symbol id="pro-folder-search-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M7 12a4 4 0 1 1 7.446 2.032l2.261 2.26-1.414 1.415-2.261-2.26A4 4 0 0 1 7 12m4-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4" clip-rule="evenodd"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M7 12a4 4 0 1 1 7.446 2.032l2.261 2.26-1.414 1.415-2.261-2.26A4 4 0 0 1 7 12m4-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z"></path>
 </symbol><symbol id="pro-folder-settings-fill">
   <path fill="currentColor" d="M12 11a2 2 0 1 0 0 4 2 2 0 0 0 0-4"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm6.17 6.634.976.563A4 4 0 0 1 11 9.126V8h2v1.126c.715.184 1.353.56 1.854 1.072l.976-.564 1 1.732-.975.563a4 4 0 0 1 0 2.142l.975.563-1 1.732-.976-.563A4 4 0 0 1 13 16.874V18h-2v-1.126a4 4 0 0 1-1.854-1.071l-.976.563-1-1.732.975-.563a4 4 0 0 1 0-2.142l-.975-.563z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3v18h20V5h-9.586l-2-2zm6.17 6.634.976.563A4 4 0 0 1 11 9.126V8h2v1.126c.715.184 1.353.56 1.854 1.072l.976-.564 1 1.732-.975.563a4 4 0 0 1 0 2.142l.975.563-1 1.732-.976-.563A4 4 0 0 1 13 16.874V18h-2v-1.126a4 4 0 0 1-1.854-1.071l-.976.563-1-1.732.975-.563a4 4 0 0 1 0-2.142l-.975-.563z"></path>
 </symbol><symbol id="pro-folder-settings-line">
-  <path fill="currentColor" fill-rule="evenodd" d="m8.17 9.634.976.563A4 4 0 0 1 11 9.126V8h2v1.126c.715.184 1.353.56 1.854 1.072l.976-.564 1 1.732-.975.563a4 4 0 0 1 0 2.142l.975.563-1 1.732-.976-.563A4 4 0 0 1 13 16.874V18h-2v-1.126a4 4 0 0 1-1.854-1.071l-.976.563-1-1.732.975-.563a4 4 0 0 1 0-2.142l-.975-.563zM12 11a2 2 0 1 0 0 4 2 2 0 0 0 0-4" clip-rule="evenodd"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M10.414 3H2v18h20V5h-9.586zM4 19V5h5.586l2 2H20v12z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m8.17 9.634.976.563A4 4 0 0 1 11 9.126V8h2v1.126c.715.184 1.353.56 1.854 1.072l.976-.564 1 1.732-.975.563a4 4 0 0 1 0 2.142l.975.563-1 1.732-.976-.563A4 4 0 0 1 13 16.874V18h-2v-1.126a4 4 0 0 1-1.854-1.071l-.976.563-1-1.732.975-.563a4 4 0 0 1 0-2.142l-.975-.563zM12 11a2 2 0 1 0 0 4 2 2 0 0 0 0-4"></path>
+  <path fill="currentColor" d="M10.414 3H2v18h20V5h-9.586zM4 19V5h5.586l2 2H20v12z"></path>
 </symbol><symbol id="pro-folder-shared-fill">
   <path fill="currentColor" d="M2 3h8.414l2 2H22v9.964l-3.232-3.232-3.536 3.536.733.732H13v5H2z"></path>
   <path fill="currentColor" d="m19.586 17.5-1.793-1.793 1.414-1.414 4.207 4.207-4.207 4.207-1.414-1.414 1.793-1.793H15v-2z"></path>
@@ -2718,53 +2679,52 @@
   <path fill="currentColor" d="m14.139 19.116 3.361 2.66 3.361-2.66A3 3 0 0 0 22 16.763V11h-9v5.763a3 3 0 0 0 1.139 2.353"></path>
 </symbol><symbol id="pro-folder-shield-2-line">
   <path fill="currentColor" d="M10.414 3H2v18h10v-2H4V5h5.586l2 2H20v2h2V5h-9.586z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M22 11h-9v5.763a3 3 0 0 0 1.139 2.353l3.361 2.66 3.361-2.66A3 3 0 0 0 22 16.763zm-7 5.763V13h5v3.763a1 1 0 0 1-.38.784l-2.12 1.678-2.12-1.678a1 1 0 0 1-.38-.784" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M22 11h-9v5.763a3 3 0 0 0 1.139 2.353l3.361 2.66 3.361-2.66A3 3 0 0 0 22 16.763zm-7 5.763V13h5v3.763a1 1 0 0 1-.38.784l-2.12 1.678-2.12-1.678a1 1 0 0 1-.38-.784"></path>
 </symbol><symbol id="pro-folder-shield-fill">
   <path fill="currentColor" d="M10 13.5v-2.7h4v2.7a1 1 0 0 1-.465.844L12 15.316l-1.535-.972a1 1 0 0 1-.465-.845"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm14 5.8H8v4.7a3 3 0 0 0 1.395 2.534L12 17.684l2.605-1.65A3 3 0 0 0 16 13.499z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm14 5.8H8v4.7a3 3 0 0 0 1.395 2.534L12 17.684l2.605-1.65A3 3 0 0 0 16 13.499z"></path>
 </symbol><symbol id="pro-folder-shield-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M16 8.8H8v4.7a3 3 0 0 0 1.395 2.534L12 17.684l2.605-1.65A3 3 0 0 0 16 13.499zm-6 4.7v-2.7h4v2.7a1 1 0 0 1-.465.844L12 15.317l-1.535-.973A1 1 0 0 1 10 13.5" clip-rule="evenodd"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M10.414 3H2v18h20V5h-9.586zM4 19V5h5.586l2 2H20v12z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M16 8.8H8v4.7a3 3 0 0 0 1.395 2.534L12 17.684l2.605-1.65A3 3 0 0 0 16 13.499zm-6 4.7v-2.7h4v2.7a1 1 0 0 1-.465.844L12 15.317l-1.535-.973A1 1 0 0 1 10 13.5"></path>
+  <path fill="currentColor" d="M10.414 3H2v18h20V5h-9.586zM4 19V5h5.586l2 2H20v12z"></path>
 </symbol><symbol id="pro-folder-transfer-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm10.004 8.75V9L16 13.01 12.004 17v-2.75H8v-2.5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm10.004 8.75H8v2.5h4.004V17L16 13.01 12.004 9z"></path>
 </symbol><symbol id="pro-folder-transfer-line">
   <path fill="currentColor" d="m12.586 12-1.793-1.793 1.414-1.414L16.414 13l-4.207 4.207-1.414-1.414L12.586 14H8v-2z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z"></path>
 </symbol><symbol id="pro-folder-unknow-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm10 7a1.5 1.5 0 0 0-1.5 1.5h-2A3.5 3.5 0 1 1 12 15h-1v-2h1a1.5 1.5 0 0 0 0-3m-1 8v-2h2v2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3v18h20V5h-9.586l-2-2zm10 7a1.5 1.5 0 0 0-1.5 1.5h-2A3.5 3.5 0 1 1 12 15h-1v-2h1a1.5 1.5 0 0 0 0-3m-1 8v-2h2v2z"></path>
 </symbol><symbol id="pro-folder-unknow-line">
   <path fill="currentColor" d="M12 10a1.5 1.5 0 0 0-1.5 1.5h-2A3.5 3.5 0 1 1 12 15h-1v-2h1a1.5 1.5 0 0 0 0-3m-1 6v2h2v-2z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z"></path>
 </symbol><symbol id="pro-folder-upload-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm11.25 9.996H16L11.99 9 8 12.996h2.75V17h2.5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm11.25 9.996H16L11.99 9 8 12.996h2.75V17h2.5z"></path>
 </symbol><symbol id="pro-folder-upload-line">
   <path fill="currentColor" d="m11 12.414-1.793 1.793-1.414-1.414L12 8.586l4.207 4.207-1.414 1.414L13 12.414V17h-2z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z"></path>
 </symbol><symbol id="pro-folder-user-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm7.5 8a2.5 2.5 0 1 1 5 0 2.5 2.5 0 0 1-5 0m.5 3.5a3 3 0 0 0-3 3h10a3 3 0 0 0-3-3z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm7.5 8a2.5 2.5 0 1 0 5 0 2.5 2.5 0 0 0-5 0m.5 3.5a3 3 0 0 0-3 3h10a3 3 0 0 0-3-3z"></path>
 </symbol><symbol id="pro-folder-user-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M9 11a3 3 0 1 1 6 0 3 3 0 0 1-6 0m3-1a1 1 0 1 0 0 2 1 1 0 0 0 0-2" clip-rule="evenodd"></path>
-  <path fill="currentColor" d="M10 14.5a3 3 0 0 0-3 3h2a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1h2a3 3 0 0 0-3-3z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M9 11a3 3 0 1 1 6 0 3 3 0 0 1-6 0m3-1a1 1 0 1 0 0 2 1 1 0 0 0 0-2m-2 4.5a3 3 0 0 0-3 3h2a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1h2a3 3 0 0 0-3-3z"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z"></path>
 </symbol><symbol id="pro-folder-video-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm7.5 7 .757-.429 5 3v.858l-5 3L9.5 16z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3v18h20V5h-9.586l-2-2zm7.5 7 .757-.429 5 3v.858l-5 3L9.5 16z"></path>
 </symbol><symbol id="pro-folder-video-line">
   <path fill="currentColor" d="m9.5 10 .757-.429 5 3v.858l-5 3L9.5 16z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M10.414 3H2v18h20V5h-9.586zM4 19V5h5.586l2 2H20v12z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M10.414 3H2v18h20V5h-9.586zM4 19V5h5.586l2 2H20v12z"></path>
 </symbol><symbol id="pro-folder-warning-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm9 11V9h2v5zm0 3v-2h2v2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3v18h20V5h-9.586l-2-2zm9 11V9h2v5zm0 3v-2h2v2z"></path>
 </symbol><symbol id="pro-folder-warning-line">
   <path fill="currentColor" d="M11 14V9h2v5zm0 1v2h2v-2z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z"></path>
 </symbol><symbol id="pro-folder-zip-fill">
   <path fill="currentColor" d="M2 3h8.414l2 2H16v2h-2v2h2v2h-2v2h2v2h-2v3h4v-5h-2v-2h2V9h-2V7h2V5h4v16H2z"></path>
 </symbol><symbol id="pro-folder-zip-line">
   <path fill="currentColor" d="M18 13v5h-4v-3h2v-2zm-2-2v2h-2v-2zm0-2h2v2h-2z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="m10.414 3 2 2H22v16H2V3zM16 9V7h4v12H4V5h5.586l2 2H14v2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m10.414 3 2 2H22v16H2V3zM16 9h-2V7h-2.414l-2-2H4v14h16V7h-4z"></path>
 </symbol><symbol id="pro-folders-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M13.414 3H6v4H2v14h16v-4h4V5h-6.586zM6 9v8h10v2H4V9z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M13.414 3H6v4H2v14h16v-4h4V5h-6.586zM6 9v8h10v2H4V9z"></path>
 </symbol><symbol id="pro-folders-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M13.414 3H6v4H2v14h16v-4h4V5h-6.586zM16 17H6V9H4v10h12zm-8-2V5h4.586l2 2H20v8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M13.414 3H6v4H2v14h16v-4h4V5h-6.586zM16 17v2H4V9h2v8zm-8-2V5h4.586l2 2H20v8z"></path>
 </symbol><symbol id="pro-font-color-fill">
   <path fill="currentColor" d="M9.15 14.5 7.728 18H4.49l6.12-15.065h2.78L19.51 18h-3.24l-1.421-3.5zm1.219-3h3.262L12 7.485zM21 19.5H3v3h18z"></path>
 </symbol><symbol id="pro-font-color-line">
@@ -2796,9 +2756,9 @@
 </symbol><symbol id="pro-font-size-line">
   <path fill="currentColor" d="m4.814 15-2.031 5H.624l6.45-15.876h1.853L15.377 20h-2.16l-2.03-5zm.813-2h4.747L8 7.157zM19 12c.729 0 1.412.195 2 .535V12h2v8h-2v-.535A4 4 0 1 1 19 12m0 2a2 2 0 1 0 0 4 2 2 0 0 0 0-4"></path>
 </symbol><symbol id="pro-football-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M20.78 6.87A9.99 9.99 0 0 0 12.193 2h-.067c-5.492.036-9.934 4.5-9.934 10 0 5.523 4.478 10 10 10s10-4.477 10-10q0-.262-.013-.52l.002-.001a9.94 9.94 0 0 0-1.402-4.608m-6.067-2.465-1.52 1.104v1.982l2.98 2.165 1.884-.612.58-1.786a8 8 0 0 0-3.924-2.853m5.48 7.644-1.518-1.103-1.885.612-1.15 3.539.97 1.334h2.245a7.96 7.96 0 0 0 1.338-4.382m-5.887 7.67.686-2.112-.996-1.37h-3.683L9.22 17.74l.62 1.907a8 8 0 0 0 2.353.352 8 8 0 0 0 2.113-.282m-8.683-3.154h1.98l1.118-1.54-1.126-3.468-1.63-.53-1.766 1.284a7.96 7.96 0 0 0 1.424 4.254m.285-9.515.675 2.076 1.63.53 2.98-2.166V5.51l-1.52-1.105A8 8 0 0 0 5.908 7.05" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M20.78 6.87a9.94 9.94 0 0 1 1.401 4.609q.012.26.012.521c0 5.523-4.477 10-10 10s-10-4.477-10-10c0-5.5 4.442-9.964 9.934-10h.066a9.99 9.99 0 0 1 8.587 4.87m-6.067-2.465-1.52 1.104v1.982l2.98 2.165 1.884-.612.58-1.786a8 8 0 0 0-3.924-2.853m5.48 7.644-1.518-1.103-1.885.612-1.15 3.539.97 1.334h2.245a7.96 7.96 0 0 0 1.338-4.382m-5.887 7.67.686-2.112-.996-1.37h-3.683L9.22 17.74l.62 1.907a8 8 0 0 0 2.353.352 8 8 0 0 0 2.113-.282m-8.683-3.154h1.98l1.118-1.54-1.126-3.468-1.63-.53-1.766 1.284a7.96 7.96 0 0 0 1.424 4.254m.285-9.515.675 2.076 1.63.53 2.98-2.166V5.51l-1.52-1.105A8 8 0 0 0 5.908 7.05"></path>
 </symbol><symbol id="pro-football-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M20.838 6.97A9.99 9.99 0 0 0 12.193 2h-.054c-5.498.03-9.946 4.495-9.946 10 0 5.523 4.478 10 10 10s10-4.477 10-10q0-.262-.013-.52l.002-.001a9.94 9.94 0 0 0-1.344-4.51m-6.125-2.565-1.52 1.104V7.49l2.98 2.164 1.884-.612.58-1.785a8 8 0 0 0-3.924-2.853m5.48 7.644-1.518-1.104-1.884.613-1.15 3.54.969 1.333h2.245a7.96 7.96 0 0 0 1.338-4.382m-5.888 7.67.686-2.113-.995-1.37h-3.684L9.22 17.741l.62 1.907a8 8 0 0 0 2.354.352c.731 0 1.44-.098 2.112-.282m-8.682-3.154H7.6l1.12-1.542-1.126-3.466-1.63-.53-1.766 1.284a7.96 7.96 0 0 0 1.424 4.254m.285-9.515.675 2.075 1.63.53 2.98-2.165V5.51l-1.52-1.105A8 8 0 0 0 5.908 7.05m3.656 4.096 1.005 3.09h3.249l1.004-3.09-2.629-1.91z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M20.838 6.97A9.99 9.99 0 0 0 12.193 2h-.054c-5.498.03-9.946 4.495-9.946 10 0 5.523 4.478 10 10 10s10-4.477 10-10q0-.262-.013-.52l.002-.001a9.94 9.94 0 0 0-1.344-4.51m-6.125-2.565a8 8 0 0 1 3.924 2.853l-.58 1.785-1.884.612-2.98-2.164V5.509zm5.48 7.644a7.96 7.96 0 0 1-1.338 4.382H16.61l-.97-1.334 1.15-3.54 1.885-.612zm-5.888 7.67a8 8 0 0 1-2.112.281c-.82 0-1.61-.123-2.354-.352l-.62-1.907 1.094-1.505h3.683l.995 1.37zm-8.682-3.154a7.96 7.96 0 0 1-1.424-4.255l1.766-1.282 1.63.53 1.126 3.465-1.12 1.542zm.285-9.515a8 8 0 0 1 3.765-2.645l1.52 1.105v1.98l-2.98 2.165-1.63-.53zm3.656 4.096 2.63-1.91 2.628 1.91-1.004 3.09h-3.25z"></path>
 </symbol><symbol id="pro-footprint-fill">
   <path fill="currentColor" d="M20.93 4.27a3.288 3.288 0 0 0-6.006-.526l-.567 1.042a5 5 0 0 0-.489 3.477l.754 3.382 5.42.762 1.212-2.993a5.53 5.53 0 0 0 .116-3.833zM7.414 6a3.29 3.29 0 0 0-2.941 1.818l-.619 1.237a5.53 5.53 0 0 0-.418 3.812L4.219 16h5.474l1.216-3.244a5 5 0 0 0 0-3.512l-.416-1.11A3.29 3.29 0 0 0 7.413 6M4 18h5.5v1.25a2.75 2.75 0 1 1-5.5 0zm10.535-4.347 5.446.765-.174 1.238a2.75 2.75 0 0 1-5.446-.765z"></path>
 </symbol><symbol id="pro-footprint-line">
@@ -2890,10 +2850,10 @@
   <path fill="currentColor" d="M6 7h5v4H6zm5 6H6v4h5zm2-6h5v4h-5zm5 6h-5v4h5z"></path>
   <path fill="currentColor" d="m2 4 1-1h18l1 1v16l-1 1H3l-1-1zm2 1v14h16V5z"></path>
 </symbol><symbol id="pro-game-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M8.173 2.761A10 10 0 0 1 19.071 4.93l.707.707L13.414 12l6.364 6.364-.707.707A10.001 10.001 0 1 1 8.173 2.761M12 8a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M8.173 2.761A10 10 0 0 1 19.071 4.93l.707.707L13.414 12l6.364 6.364-.707.707A10.001 10.001 0 1 1 8.173 2.761M12 8a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"></path>
 </symbol><symbol id="pro-game-line">
   <path fill="currentColor" d="M12 8a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M13.95 2.192a10 10 0 1 0 5.121 16.88l.707-.708L13.414 12l6.364-6.364-.707-.707a10 10 0 0 0-5.12-2.737M8.94 4.61a8 8 0 0 1 7.966 1.071L10.585 12l6.32 6.32A8 8 0 1 1 8.94 4.609" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M13.95 2.192a10 10 0 1 0 5.121 16.88l.707-.708L13.414 12l6.364-6.364-.707-.707a10 10 0 0 0-5.12-2.737M8.94 4.61a8 8 0 0 1 7.966 1.071L10.585 12l6.32 6.32A8 8 0 1 1 8.94 4.609"></path>
 </symbol><symbol id="pro-gamepad-fill">
   <path fill="currentColor" d="M1 10a6 6 0 0 1 6-6h10a6 6 0 0 1 6 6v4a6 6 0 0 1-6 6H7a6 6 0 0 1-6-6zm9 5v-2h2v-2h-2V9H8v2H6v2h2v2zm6-6h-2v2h2zm0 6h2v-2h-2z"></path>
 </symbol><symbol id="pro-gamepad-line">
@@ -3082,7 +3042,7 @@
   <path fill="currentColor" d="M12 1.834 23.944 9H24v8.5h-2v-7.334l-10 6L.057 9z"></path>
   <path fill="currentColor" d="M4 18.562v-5.446l8 4.8 8-4.8v5.445l-.3.294A10.97 10.97 0 0 1 12 22c-2.998 0-5.717-1.2-7.7-3.145z"></path>
 </symbol><symbol id="pro-graduation-cap-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M12 1.834 23.944 9H24v8.5h-2v-7.334l-2 1.2v7.195l-.3.294A10.97 10.97 0 0 1 12 22c-2.998 0-5.717-1.2-7.7-3.145l-.3-.294v-7.195L.057 9zm0 14.332 6-3.6v5.142A8.96 8.96 0 0 1 12 20a8.96 8.96 0 0 1-6-2.292v-5.142zM3.944 9 12 13.834 20.057 9 12 4.166z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M12 1.834 23.944 9H24v8.5h-2v-7.334l-2 1.2v7.195l-.3.294A10.97 10.97 0 0 1 12 22c-2.998 0-5.717-1.2-7.7-3.145l-.3-.294v-7.195L.057 9zm0 14.332-6-3.6v5.142A8.96 8.96 0 0 0 12 20a8.96 8.96 0 0 0 6-2.292v-5.142zM3.944 9 12 13.834 20.057 9 12 4.166z"></path>
 </symbol><symbol id="pro-grid-fill">
   <path fill="currentColor" d="M16 21h5v-5h-5zm-2 0v-5h-4v5zm-6 0v-5H3v5zm-5-7h5v-4H3zm0-6h5V3H3zm7-5v5h4V3zm6 0v5h5V3zm5 7h-5v4h5zm-11 4v-4h4v4z"></path>
 </symbol><symbol id="pro-grid-line">
@@ -3139,14 +3099,7 @@
 </symbol><symbol id="pro-hammer-line">
   <path fill="currentColor" d="m8.5 2-.447.106L2.5 4.882V9H9v13l1 1h4l1-1V9h5l1-1V3l-1-1zM15 4v3h-2v14h-2V7H4.5v-.882L8.736 4zm2 3h2V4h-2z"></path>
 </symbol><symbol id="pro-hand-fill">
-  <g clip-path="url(#a)">
-    <path fill="currentColor" fill-rule="evenodd" d="M10.952 0h3.286v2.19h3.286v3.286h3.285v6.572h-3.285v4.38H9.462l1.829 3.168a1.643 1.643 0 0 1-2.846 1.643l-5.433-9.411a1.643 1.643 0 1 1 2.845-1.643l1.81 3.133V2.19h3.285z" clip-rule="evenodd"></path>
-    <path stroke="currentColor" d="M21 12v3.176C21 19.496 17.46 23 13.139 23a7.76 7.76 0 0 1-7.056-4.52l-3.325-7.283a1.434 1.434 0 0 1 2.547-1.312l2.283 3.961"></path>
-    <path stroke="currentColor" d="M11 11.818V3.5a1.5 1.5 0 1 0-3 0V14m6-2V1.5a1.5 1.5 0 0 0-3 0V12m7 0V4a2 2 0 1 0-4 0v8m7 0V6.5a1.5 1.5 0 0 0-3 0V12"></path>
-  </g>
-  <defs>
-    <clippath id="a"><path fill="currentColor" d="M0 0h24v24H0z"></path></clippath>
-  </defs>
+  <path fill="currentColor" d="M12.5 0A1.5 1.5 0 0 0 11 1.5V11h-.5V3.5a1.5 1.5 0 1 0-3 0v9L5.7 9.125a1.799 1.799 0 0 0-3.21 1.625l3.77 7.853A7.752 7.752 0 0 0 21 15.248V6a1.5 1.5 0 0 0-3 0v5h-.5V3a1.5 1.5 0 0 0-3 0v8H14V1.5A1.5 1.5 0 0 0 12.5 0"></path>
 </symbol><symbol id="pro-hand-line">
   <path fill="currentColor" fill-opacity=".961" d="M12.5 2a.5.5 0 0 0-.5.5V12h-2V4.5a.5.5 0 0 0-1 0V14H7c-.38-1.62-1.358-2.56-2.405-2.678A89 89 0 0 0 6.166 15.1c.86 1.962 1.725 3.422 2.838 4.399C10.078 20.442 11.459 21 13.5 21a5.5 5.5 0 0 0 5.5-5.5V7a.5.5 0 0 0-1 0v5h-2V4a.5.5 0 0 0-1 0v8h-2V2.5a.5.5 0 0 0-.5-.5M21 15.5a7.5 7.5 0 0 1-7.5 7.5c-2.458 0-4.328-.692-5.816-1.998-1.45-1.274-2.459-3.064-3.35-5.1-.93-2.127-1.444-3.422-1.724-4.178-.357-.964.136-2.312 1.476-2.406a4.02 4.02 0 0 1 2.914.94V4.5a2.5 2.5 0 0 1 3.04-2.442 2.5 2.5 0 0 1 4.79-.467A2.502 2.502 0 0 1 18 4v.55q.243-.05.5-.05A2.5 2.5 0 0 1 21 7z"></path>
 </symbol><symbol id="pro-hand-sanitizer-fill">
@@ -3434,7 +3387,6 @@
   <path fill="currentColor" d="M22 3H2v18h20zM4 19V5h16v14z"></path>
 </symbol><symbol id="pro-html5-fill">
   <path fill="currentColor" d="m3 2 1.5 18 7.5 2 7.5-2L21 2zm4.087 10.25L6.5 5.5h11L17.283 8H9.227l.152 1.75h7.751L16.5 17 12 18l-4.5-1-.304-3.5h2.51l.126 1.457L12 15.44l2.168-.482.236-2.707z"></path>
-  <path stroke="currentColor" stroke-width="2" d="m6.09 12.337.015.163.065.75.03.337.304 3.5.063.73.716.16 4.5 1 .217.047.217-.048 4.5-1 .716-.159.063-.73.63-7.25L18.2 9l.022-.25.058-.663.217-2.5.095-1.087H5.41l.094 1.087zm4.611 1.076-.014-.163h2.626l-.078.89-1.235.275-1.235-.275zm-5.263 5.802L4.087 3h15.826l-1.351 16.215L12 20.965z"></path>
 </symbol><symbol id="pro-html5-line">
   <path fill="currentColor" d="M8.899 10h8.21l-.609 7-4.5 1-4.5-1-.348-4H9.16l.205 2.366L12 15.95l2.635-.585.292-3.366H7.065L6.5 5.5h11l-.174 2H8.681z"></path>
   <path fill="currentColor" d="M3 2h18l-1.5 18-7.5 2-7.5-2zm2.174 2 1.202 14.43L12 19.93l5.624-1.5L18.826 4z"></path>
@@ -3505,9 +3457,9 @@
 </symbol><symbol id="pro-indent-increase-line">
   <path fill="currentColor" d="M21 5.5H3v-2h18zm0 5H11v-2h10zm-18 10h18v-2H3zm18-5H11v-2h10zM3.293 9.207 6.086 12l-2.793 2.793 1.414 1.414L8.914 12 4.707 7.793z"></path>
 </symbol><symbol id="pro-infinity-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M6.5 6a6 6 0 1 0 0 12c1.59 0 2.939-.496 4.095-1.485A8.7 8.7 0 0 0 12 14.95a8.7 8.7 0 0 0 1.406 1.564C14.56 17.504 15.91 18 17.5 18a6 6 0 0 0 0-12c-1.59 0-2.939.496-4.094 1.485A8.7 8.7 0 0 0 12 9.05a8.7 8.7 0 0 0-1.405-1.564C9.439 6.496 8.09 6 6.5 6m-3 6a3 3 0 0 1 3-3c.895 0 1.547.254 2.144.765.543.464 1.083 1.178 1.663 2.235-.58 1.057-1.12 1.77-1.663 2.235-.597.511-1.249.765-2.144.765a3 3 0 0 1-3-3m17 0a3 3 0 0 0-3-3c-.895 0-1.547.254-2.145.765-.543.464-1.082 1.178-1.662 2.235.58 1.057 1.12 1.77 1.662 2.235.598.511 1.25.765 2.145.765a3 3 0 0 0 3-3" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M6.5 6a6 6 0 1 0 0 12c1.59 0 2.939-.496 4.095-1.485A8.7 8.7 0 0 0 12 14.95a8.7 8.7 0 0 0 1.406 1.564C14.56 17.504 15.91 18 17.5 18a6 6 0 0 0 0-12c-1.59 0-2.939.496-4.094 1.485A8.7 8.7 0 0 0 12 9.05a8.7 8.7 0 0 0-1.405-1.564C9.439 6.496 8.09 6 6.5 6m-3 6a3 3 0 0 1 3-3c.895 0 1.547.254 2.144.765.543.464 1.083 1.178 1.663 2.235-.58 1.057-1.12 1.77-1.663 2.235-.597.511-1.249.765-2.144.765a3 3 0 0 1-3-3m17 0a3 3 0 0 1-3 3c-.895 0-1.547-.254-2.145-.765-.543-.464-1.082-1.178-1.662-2.235.58-1.057 1.12-1.77 1.662-2.235C15.954 9.254 16.606 9 17.5 9a3 3 0 0 1 3 3"></path>
 </symbol><symbol id="pro-infinity-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M6.5 6.5a5.5 5.5 0 1 0 0 11c1.474 0 2.707-.456 3.77-1.365.644-.55 1.208-1.254 1.73-2.081.522.828 1.086 1.53 1.73 2.08 1.063.91 2.296 1.366 3.77 1.366a5.5 5.5 0 1 0 0-11c-1.474 0-2.707.456-3.77 1.365-.644.55-1.208 1.254-1.73 2.081-.522-.827-1.086-1.53-1.73-2.08C9.207 6.955 7.974 6.5 6.5 6.5M3 12a3.5 3.5 0 0 1 3.5-3.5c1.01 0 1.779.294 2.47.885.649.555 1.262 1.401 1.906 2.615-.644 1.214-1.257 2.06-1.907 2.615-.69.59-1.458.885-2.469.885A3.5 3.5 0 0 1 3 12m18 0a3.5 3.5 0 0 0-3.5-3.5c-1.01 0-1.779.294-2.47.885-.649.555-1.262 1.401-1.905 2.615.643 1.214 1.256 2.06 1.906 2.615.69.59 1.458.885 2.469.885A3.5 3.5 0 0 0 21 12" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M6.5 6.5a5.5 5.5 0 1 0 0 11c1.474 0 2.707-.456 3.77-1.365.644-.55 1.208-1.254 1.73-2.081.522.828 1.086 1.53 1.73 2.08 1.063.91 2.296 1.366 3.77 1.366a5.5 5.5 0 1 0 0-11c-1.474 0-2.707.456-3.77 1.365-.644.55-1.208 1.254-1.73 2.081-.522-.827-1.086-1.53-1.73-2.08C9.207 6.955 7.974 6.5 6.5 6.5M3 12a3.5 3.5 0 0 1 3.5-3.5c1.01 0 1.779.294 2.47.885.649.555 1.262 1.401 1.906 2.615-.644 1.214-1.257 2.06-1.907 2.615-.69.59-1.458.885-2.469.885A3.5 3.5 0 0 1 3 12m18 0a3.5 3.5 0 0 1-3.5 3.5c-1.01 0-1.779-.294-2.47-.885-.649-.555-1.262-1.401-1.905-2.615.643-1.214 1.256-2.06 1.906-2.615.69-.59 1.458-.885 2.469-.885A3.5 3.5 0 0 1 21 12"></path>
 </symbol><symbol id="pro-info-i-fill">
   <path fill="currentColor" d="M12 6a2 2 0 1 0 0-4 2 2 0 0 0 0 4m-1.5 4.5H9v-3h4.5v10H15v3H9v-3h1.5z"></path>
 </symbol><symbol id="pro-info-i-line">
@@ -3625,7 +3577,7 @@
 </symbol><symbol id="pro-keynote-fill">
   <path fill="currentColor" d="m5 2-.97.757-2 8L3 12h8v8H7v2h10v-2h-4v-8h8l.97-1.242-2-8L19 2z"></path>
 </symbol><symbol id="pro-keynote-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M4.03 2.757 5 2h14l.97.757 2 8L21 12h-8v8h4v2H7v-2h4v-8H3l-.97-1.242zM5.781 4l-1.5 6H19.72l-1.5-6z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M4.03 2.757 5 2h14l.97.757 2 8L21 12h-8v8h4v2H7v-2h4v-8H3l-.97-1.242zM5.781 4l-1.5 6H19.72l-1.5-6z"></path>
 </symbol><symbol id="pro-kick-fill">
   <path fill="currentColor" d="M3 3h18v18H3zm7.564 2.536h-4.31v12.928h4.31V15.59H12v1.436h1.436v1.436h4.31v-4.309h-1.437v-1.436h-1.436v-1.436h1.436V9.845h1.436V5.536h-4.309v1.436H12V8.41h-1.436z"></path>
 </symbol><symbol id="pro-kick-line">
@@ -3750,10 +3702,10 @@
 </symbol><symbol id="pro-line-line">
   <path fill="currentColor" d="M22.001 10.69c0 1.787-.687 3.4-2.123 4.974-2.1 2.414-6.788 5.363-7.864 5.812-1.074.451-.911-.287-.874-.537l.137-.85c.034-.262.068-.65-.032-.9-.112-.277-.556-.424-.881-.492C5.559 18.059 2 14.7 2 10.69c0-4.475 4.487-8.118 10-8.118s10 3.643 10 8.118m-3.6 3.626c1.113-1.22 1.6-2.362 1.6-3.626 0-3.268-3.51-6.118-8-6.118s-8 2.85-8 6.118c0 2.905 2.728 5.507 6.626 6.024l.147.026c1.079.226 1.884.614 2.329 1.708l.037.096c1.805-1.176 4.173-2.979 5.26-4.228m-.262-4.001a.526.526 0 0 1 0 1.05h-1.463v.938h1.463a.525.525 0 1 1 0 1.049H16.15a.526.526 0 0 1-.522-.524V8.852c0-.287.235-.525.525-.525h1.988a.526.526 0 0 1-.002 1.05h-1.463v.938zm-3.213 2.513a.524.524 0 0 1-.526.522.52.52 0 0 1-.425-.208l-2.036-2.764v2.45a.525.525 0 0 1-1.047 0V8.852a.52.52 0 0 1 .52-.523c.162 0 .312.086.412.211l2.052 2.775V8.852c0-.287.235-.525.525-.525.287 0 .525.238.525.525zm-4.784 0a.527.527 0 0 1-.526.524.526.526 0 0 1-.523-.524V8.852c0-.287.235-.525.525-.525.289 0 .524.238.524.525zm-2.055.524H6.098a.53.53 0 0 1-.525-.524V8.852c0-.287.238-.525.525-.525.29 0 .525.238.525.525v3.45h1.464a.525.525 0 0 1 0 1.05"></path>
 </symbol><symbol id="pro-link-fill">
-  <path fill="currentColor" d="M20.132 3.868a7.5 7.5 0 0 0-10.607 0L8.268 5.125l2.121 2.122 1.257-1.257a4.5 4.5 0 0 1 6.364 6.364l-1.257 1.257 2.122 2.121 1.257-1.257a7.5 7.5 0 0 0 0-10.607M5.99 11.647l1.257-1.258-2.122-2.12-1.257 1.256a7.5 7.5 0 0 0 10.607 10.607l1.257-1.257-2.121-2.122-1.257 1.258a4.5 4.5 0 0 1-6.364-6.364"></path>
+  <path fill="currentColor" d="M20.132 3.868a7.5 7.5 0 0 0-10.607 0L8.268 5.125l2.121 2.122 1.258-1.257a4.5 4.5 0 0 1 6.364 6.364l-1.258 1.257 2.122 2.121 1.257-1.257a7.5 7.5 0 0 0 0-10.607M5.99 11.647l1.257-1.258-2.122-2.12-1.257 1.256a7.5 7.5 0 0 0 10.607 10.607l1.257-1.257-2.121-2.122-1.257 1.258a4.5 4.5 0 0 1-6.364-6.364"></path>
   <path fill="currentColor" d="m14.475 7.404-7.071 7.07 2.121 2.122 7.071-7.07z"></path>
 </symbol><symbol id="pro-link-line">
-  <path fill="currentColor" d="M19.778 4.222a7 7 0 0 0-9.9 0L8.623 5.479l1.414 1.414 1.257-1.257a5 5 0 0 1 7.071 7.071l-1.257 1.257 1.414 1.414 1.257-1.257a7 7 0 0 0 0-9.9M5.636 11.293l1.257-1.257L5.48 8.622 4.222 9.879a7 7 0 0 0 9.9 9.9l1.257-1.258-1.415-1.414-1.257 1.257a5 5 0 0 1-7.07-7.071"></path>
+  <path fill="currentColor" d="M19.778 4.222a7 7 0 0 0-9.9 0L8.623 5.479l1.414 1.414 1.257-1.257a5 5 0 0 1 7.071 7.071l-1.257 1.257 1.414 1.414 1.257-1.257a7 7 0 0 0 0-9.9M5.636 11.293l1.257-1.257L5.48 8.622 4.222 9.879a7 7 0 1 0 9.9 9.9l1.257-1.258-1.415-1.414-1.257 1.257a5 5 0 0 1-7.07-7.071"></path>
   <path fill="currentColor" d="M14.829 7.757 7.757 14.83l1.415 1.414 7.07-7.071z"></path>
 </symbol><symbol id="pro-link-unlink-fill">
   <path fill="currentColor" d="M20.132 3.868a7.5 7.5 0 0 0-10.607 0L8.268 5.125l2.121 2.122 1.257-1.257a4.5 4.5 0 1 1 6.364 6.364l-1.257 1.257 2.122 2.12 1.257-1.256a7.5 7.5 0 0 0 0-10.607M5.99 11.646l1.257-1.257-2.122-2.121-1.257 1.257a7.5 7.5 0 0 0 10.607 10.607l1.257-1.257-2.121-2.122-1.258 1.257a4.5 4.5 0 0 1-6.363-6.364"></path>
@@ -4060,10 +4012,10 @@
   <path fill="currentColor" d="m10.573 11.763 4.95-4.95 1.414 1.414-4.95 4.95z"></path>
   <path fill="currentColor" d="m7.224 9.455 8.299-8.3 7.07 7.072-8.298 8.299-2.121.707-2.308 2.308-5.657-5.657 2.308-2.308zm1.748 1.08-.707 2.121-1.228 1.228 2.829 2.828 1.228-1.227 2.12-.707 6.551-6.551-4.242-4.243zm-4.409 5.824 2.828 2.828-1.414 1.414-4.243-1.414z"></path>
 </symbol><symbol id="pro-markdown-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="m2 4 1-1h18l1 1v16l-1 1H3l-1-1zm3 4.5v7h2v-4.086l2 2 2-2V15.5h2v-7h-1.914L9 10.586 6.914 8.5zm14.5 4h-2.063v-4h-1.874v4H13.5l2.992 3z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m2 4 1-1h18l1 1v16l-1 1H3l-1-1zm3 4.5v7h2v-4.086l2 2 2-2V15.5h2v-7h-1.914L9 10.586 6.914 8.5zm14.5 4h-2.063v-4h-1.874v4H13.5l2.992 3z"></path>
 </symbol><symbol id="pro-markdown-line">
   <path fill="currentColor" d="M19.5 12.5h-2.063v-4h-1.874v4H13.5l2.992 3zM5 15.5v-7h1.914L9 10.586 11.086 8.5H13v7h-2v-4.086l-2 2-2-2V15.5z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="m2 4 1-1h18l1 1v16l-1 1H3l-1-1zm2 1v14h16V5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m2 4 1-1h18l1 1v16l-1 1H3l-1-1zm2 1v14h16V5z"></path>
 </symbol><symbol id="pro-markup-fill">
   <path fill="currentColor" d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2M6.635 17.934A7.97 7.97 0 0 0 12 20a7.97 7.97 0 0 0 5.366-2.066l-1.417-4.25L15 13H9l-.949.684zM10 10.5v1h4v-1l-1.05-3.777a.987.987 0 0 0-1.9 0z"></path>
 </symbol><symbol id="pro-markup-line">
@@ -4313,18 +4265,16 @@
   <path fill="currentColor" d="M15.985 17.208 16.001 2h2v20a7.6 7.6 0 0 0-2.02-.5L8 6.302V21.5a7.3 7.3 0 0 0-2 .5V2h2z"></path>
 </symbol><symbol id="pro-news-fill">
   <path fill="currentColor" d="M8 9v2h2V9z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="m2 4 1-1h18l1 1v16l-1 1H3l-1-1zm4 3h6v6H6zm12 2h-4V7h4zm-4 4h4v-2h-4zm-8 4v-2h12v2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m2 4 1-1h18l1 1v16l-1 1H3l-1-1zm4 3v6h6V7zm12 2V7h-4v2zm-4 4h4v-2h-4zm-8 4h12v-2H6z"></path>
 </symbol><symbol id="pro-news-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M6 7h6v6H6zm2 2v2h2V9z" clip-rule="evenodd"></path>
-  <path fill="currentColor" d="M14 9h4V7h-4zm4 4h-4v-2h4zM6 15v2h12v-2z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="m2 4 1-1h18l1 1v16l-1 1H3l-1-1zm2 1v14h16V5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M6 7h6v6H6zm2 2v2h2V9zm6 0h4V7h-4zm4 4h-4v-2h4zM6 15v2h12v-2z"></path>
+  <path fill="currentColor" d="m2 4 1-1h18l1 1v16l-1 1H3l-1-1zm2 1v14h16V5z"></path>
 </symbol><symbol id="pro-newspaper-fill">
   <path fill="currentColor" d="M7 8v2h2V8z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M18 2H2v19l1 1h16a3 3 0 0 0 3-3v-7h-4zm2 17a1 1 0 1 1-2 0v-5h2zM5 7l1-1h4l1 1v4l-1 1H6l-1-1zm0 6v2h10v-2zm0 3v2h10v-2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M18 2H2v19l1 1h16a3 3 0 0 0 3-3v-7h-4zm2 17a1 1 0 1 1-2 0v-5h2zM5 7l1-1h4l1 1v4l-1 1H6l-1-1zm0 6h10v2H5zm0 3h10v2H5z"></path>
 </symbol><symbol id="pro-newspaper-line">
-  <path fill="currentColor" d="M14 15v-2H6v2zm-8 1h8v2H6z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M7 6a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1V7a1 1 0 0 0-1-1zm1 4V8h2v2z" clip-rule="evenodd"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M2 2h16v10h4v7a3 3 0 0 1-3 3H3l-1-1zm16 17v-5h2v5a1 1 0 1 1-2 0M16 4v16H4V4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M14 15v-2H6v2zm-8 1h8v2H6zM7 6a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1V7a1 1 0 0 0-1-1zm1 4V8h2v2z"></path>
+  <path fill="currentColor" d="M2 2h16v10h4v7a3 3 0 0 1-3 3H3l-1-1zm16 17a1 1 0 1 0 2 0v-5h-2zM16 4H4v16h12z"></path>
 </symbol><symbol id="pro-nft-fill">
   <path fill="currentColor" d="M9 12a2 2 0 1 0 0-4 2 2 0 0 0 0 4m3-11 9.5 5.5v11L12 23l-9.5-5.5v-11zM4.5 7.653v8.694l2.372 1.373 8.073-5.92 4.555 2.734v-6.88L12 3.31z"></path>
 </symbol><symbol id="pro-nft-line">
@@ -4486,11 +4436,10 @@
   <path fill="currentColor" d="M7 3v4h10V3h2v5l-1 1H6L5 8V3zm0 18v-4h10v4h2v-5l-1-1H6l-1 1v5zM21.293 8.293l1.415 1.414L20.415 12l2.293 2.293-1.415 1.414L17.586 12zm-20 1.414 1.414-1.414L6.414 12l-3.707 3.707-1.414-1.414L3.586 12z"></path>
 </symbol><symbol id="pro-pages-fill">
   <path fill="currentColor" d="m3 3 1-1h16l1 1v2H3zm6 9v1h1v-1z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 7v14l1 1h16l1-1V7zm10 5h4v-2h-4zm4 3h-4v-2h4zm0 3v-2H7v2zM7 10h5v5H7z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 7v14l1 1h16l1-1V7zm10 5v-2h4v2zm4 3h-4v-2h4zm0 3H7v-2h10zM7 10h5v5H7z"></path>
 </symbol><symbol id="pro-pages-line">
-  <path fill="currentColor" d="M17 12h-4v-2h4zm-4 3h4v-2h-4zm4 1v2H7v-2z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M12 10H7v5h5zm-3 3v-1h1v1z" clip-rule="evenodd"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M4 2 3 3v18l1 1h16l1-1V3l-1-1zm1 4V4h14v2zm0 2v12h14V8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M17 12h-4v-2h4zm-4 3h4v-2h-4zm4 1v2H7v-2zm-5-6H7v5h5zm-3 3v-1h1v1z"></path>
+  <path fill="currentColor" d="M4 2 3 3v18l1 1h16l1-1V3l-1-1zm1 4V4h14v2zm0 2h14v12H5z"></path>
 </symbol><symbol id="pro-paint-brush-fill">
   <path fill="currentColor" d="m3 4 1-1h16l1 1v5l-1 1H4L3 9zm11 12h-1v-4H6v-1H4v3h7v2h-1v6h4zm5.5 2c1.38 0 2.5-1.102 2.5-2.461C22 14.179 19.5 12 19.5 12S17 14.179 17 15.539C17 16.898 18.12 18 19.5 18"></path>
 </symbol><symbol id="pro-paint-brush-line">
@@ -4538,27 +4487,22 @@
   <path fill="currentColor" d="M13.5 3H6v18h2v-7h5.5a5.5 5.5 0 1 0 0-11M8 12V5h5.5a3.5 3.5 0 1 1 0 7z"></path>
 </symbol><symbol id="pro-pass-expired-fill">
   <path fill="currentColor" d="M8 9a1 1 0 1 0 0 2 1 1 0 0 0 0-2"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M1 4h22v16H1zm4 6a3 3 0 1 1 6 0 3 3 0 0 1-6 0m7.793 3.793L14.586 12l-1.793-1.793 1.414-1.414L16 10.586l1.793-1.793 1.414 1.414L17.414 12l1.793 1.793-1.414 1.414L16 13.414l-1.793 1.793zM7 13.5a3 3 0 0 0-3 3h2a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h2a3 3 0 0 0-3-3z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M1 4h22v16H1zm4 6a3 3 0 1 0 6 0 3 3 0 0 0-6 0m7.793 3.793 1.414 1.414L16 13.414l1.793 1.793 1.414-1.414L17.414 12l1.793-1.793-1.414-1.414L16 10.586l-1.793-1.793-1.414 1.414L14.586 12zM7 13.5a3 3 0 0 0-3 3h2a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h2a3 3 0 0 0-3-3z"></path>
 </symbol><symbol id="pro-pass-expired-line">
-  <path fill="currentColor" d="m16 10.586 1.793-1.793 1.414 1.414L17.414 12l1.793 1.793-1.414 1.414L16 13.414l-1.793 1.793-1.414-1.414L14.586 12l-1.793-1.793 1.414-1.414zM4 16.5a3 3 0 0 1 3-3h2a3 3 0 0 1 3 3h-2a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M8 7a3 3 0 1 0 0 6 3 3 0 0 0 0-6m-1 3a1 1 0 1 1 2 0 1 1 0 0 1-2 0" clip-rule="evenodd"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M1 4h22v16H1zm2 2v12h18V6z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m16 10.586 1.793-1.793 1.414 1.414L17.414 12l1.793 1.793-1.414 1.414L16 13.414l-1.793 1.793-1.414-1.414L14.586 12l-1.793-1.793 1.414-1.414zM4 16.5a3 3 0 0 1 3-3h2a3 3 0 0 1 3 3h-2a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1zM8 7a3 3 0 1 0 0 6 3 3 0 0 0 0-6m-1 3a1 1 0 1 1 2 0 1 1 0 0 1-2 0"></path>
+  <path fill="currentColor" d="M1 4h22v16H1zm2 2v12h18V6z"></path>
 </symbol><symbol id="pro-pass-pending-fill">
   <path fill="currentColor" d="M8 9a1 1 0 1 0 0 2 1 1 0 0 0 0-2"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M1 4h22v16H1zm4 6a3 3 0 1 1 6 0 3 3 0 0 1-6 0m-1 6.5a3 3 0 0 1 3-3h2a3 3 0 0 1 3 3h-2a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1zM14 9v6h2V9zm3 6V9h2v6z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M1 4h22v16H1zm4 6a3 3 0 1 0 6 0 3 3 0 0 0-6 0m-1 6.5h2a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h2a3 3 0 0 0-3-3H7a3 3 0 0 0-3 3M14 9v6h2V9zm3 6h2V9h-2z"></path>
 </symbol><symbol id="pro-pass-pending-line">
-  <path fill="currentColor" d="M4 16.5a3 3 0 0 1 3-3h2a3 3 0 0 1 3 3h-2a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M8 7a3 3 0 1 0 0 6 3 3 0 0 0 0-6m-1 3a1 1 0 1 1 2 0 1 1 0 0 1-2 0" clip-rule="evenodd"></path>
-  <path fill="currentColor" d="M14 15V9h2v6zm3-6v6h2V9z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M1 4h22v16H1zm2 2v12h18V6z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M4 16.5a3 3 0 0 1 3-3h2a3 3 0 0 1 3 3h-2a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1zM8 7a3 3 0 1 0 0 6 3 3 0 0 0 0-6m-1 3a1 1 0 1 1 2 0 1 1 0 0 1-2 0m7 5V9h2v6zm3-6v6h2V9z"></path>
+  <path fill="currentColor" d="M1 4h22v16H1zm2 2v12h18V6z"></path>
 </symbol><symbol id="pro-pass-valid-fill">
   <path fill="currentColor" d="M7 10a1 1 0 1 1 2 0 1 1 0 0 1-2 0"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M1 4h22v16H1zm7 3a3 3 0 1 0 0 6 3 3 0 0 0 0-6m-1 6.5a3 3 0 0 0-3 3h2a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h2a3 3 0 0 0-3-3zm13.207-2.793L15.5 15.414l-3.207-3.207 1.414-1.414 1.793 1.793 3.293-3.293z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M1 4h22v16H1zm7 3a3 3 0 1 0 0 6 3 3 0 0 0 0-6m-1 6.5a3 3 0 0 0-3 3h2a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h2a3 3 0 0 0-3-3zm13.207-2.793-1.414-1.414-3.293 3.293-1.793-1.793-1.414 1.414 3.207 3.207z"></path>
 </symbol><symbol id="pro-pass-valid-line">
-  <path fill="currentColor" d="M7 13.5a3 3 0 0 0-3 3h2a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h2a3 3 0 0 0-3-3z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M5 10a3 3 0 1 1 6 0 3 3 0 0 1-6 0m3-1a1 1 0 1 0 0 2 1 1 0 0 0 0-2" clip-rule="evenodd"></path>
-  <path fill="currentColor" d="m15.5 15.414 4.707-4.707-1.414-1.414-3.293 3.293-1.793-1.793-1.414 1.414z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M23 4H1v16h22zM3 18V6h18v12z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M7 13.5a3 3 0 0 0-3 3h2a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h2a3 3 0 0 0-3-3zM5 10a3 3 0 1 1 6 0 3 3 0 0 1-6 0m3-1a1 1 0 1 0 0 2 1 1 0 0 0 0-2m7.5 6.414 4.707-4.707-1.414-1.414-3.293 3.293-1.793-1.793-1.414 1.414z"></path>
+  <path fill="currentColor" d="M23 4H1v16h22zM3 18V6h18v12z"></path>
 </symbol><symbol id="pro-passport-fill">
   <path fill="currentColor" d="M12 8a2 2 0 1 0 0 4 2 2 0 0 0 0-4"></path>
   <path fill="currentColor" d="M3 3v18l1 1h16l1-1V3l-1-1H4zm5 7a4 4 0 1 1 8 0 4 4 0 0 1-8 0m8 6v2H8v-2z"></path>
@@ -4670,9 +4614,9 @@
   <path fill="currentColor" d="M7.5 14.338c.478-.425.955-.848 1.409-1.3a25 25 0 0 0 1.612-1.763c.586-.71 1.192-1.537 1.656-2.398.456-.846.823-1.81.823-2.774C13 3.199 10.448 1 7.5 1S2 3.2 2 6.103c0 .963.367 1.928.823 2.774.464.86 1.07 1.688 1.656 2.398a25 25 0 0 0 1.612 1.763c.453.452.931.875 1.409 1.3M4 6.103C4 4.474 5.478 3 7.5 3S11 4.474 11 6.103c0 .485-.196 1.106-.583 1.825-.38.704-.899 1.42-1.438 2.073A23 23 0 0 1 7.5 11.619c-.406-.405-.944-.97-1.479-1.618-.539-.653-1.058-1.369-1.438-2.073C4.196 7.21 4 6.588 4 6.103M16.5 17a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"></path>
   <path fill="currentColor" d="M16.5 23.338c.478-.425.956-.848 1.409-1.3a25 25 0 0 0 1.612-1.763c.586-.71 1.192-1.537 1.656-2.398.456-.846.823-1.81.823-2.774C22 12.2 19.448 10 16.5 10S11 12.2 11 15.103c0 .963.367 1.928.823 2.774.464.86 1.07 1.688 1.656 2.398a25 25 0 0 0 1.612 1.763c.454.452.931.875 1.409 1.3M13 15.103C13 13.474 14.478 12 16.5 12s3.5 1.474 3.5 3.103c0 .485-.196 1.106-.583 1.825-.38.704-.899 1.42-1.438 2.073a23 23 0 0 1-1.479 1.618c-.406-.405-.944-.97-1.479-1.618-.539-.653-1.058-1.369-1.438-2.073-.387-.719-.583-1.34-.583-1.825"></path>
 </symbol><symbol id="pro-ping-pong-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="m6.119 18.852.64.446.026-.027a9.52 9.52 0 0 0 9.43 0l2.357 2.357h1.414l2.121-2.122v-1.414l-2.357-2.357a9.52 9.52 0 0 0 0-9.429l.027-.027-.446-.64A9.5 9.5 0 1 0 6.119 18.852m12.15-11.065L8.266 17.79a7.52 7.52 0 0 0 6.468 0l-1.82-1.82 3.536-3.535 1.82 1.82a7.52 7.52 0 0 0 0-6.468m-2.526 8.184.707-.707 3.536 3.535-.707.707z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m6.119 18.852.64.446.026-.027a9.52 9.52 0 0 0 9.43 0l2.357 2.357h1.414l2.121-2.122v-1.414l-2.357-2.357a9.52 9.52 0 0 0 0-9.429l.027-.027-.446-.64A9.5 9.5 0 1 0 6.119 18.852m12.15-11.065a7.52 7.52 0 0 1 0 6.468l-1.819-1.82-3.535 3.536 1.82 1.82a7.52 7.52 0 0 1-6.469 0zm-2.526 8.184.707-.707 3.536 3.535-.707.707z"></path>
 </symbol><symbol id="pro-ping-pong-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M18.218 4.303c3.098 3.098 3.609 7.804 1.532 11.432l2.357 2.357v1.414l-2.121 2.121H18.57l-2.356-2.356c-3.628 2.076-8.334 1.566-11.433-1.533A9.5 9.5 0 1 1 18.217 4.303M6.197 5.718a7.5 7.5 0 0 1 10.948.365L6.562 16.666a7.5 7.5 0 0 1-.365-10.949m2.07 12.072a7.52 7.52 0 0 0 6.467 0l-1.82-1.82 3.536-3.535 1.82 1.82a7.52 7.52 0 0 0 0-6.468zm8.183-2.526-.707.707 3.536 3.535.707-.707z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M18.218 4.303c3.098 3.098 3.609 7.804 1.532 11.432l2.357 2.357v1.414l-2.121 2.121H18.57l-2.356-2.356c-3.628 2.076-8.334 1.566-11.433-1.533A9.5 9.5 0 1 1 18.217 4.303M6.197 5.718a7.5 7.5 0 0 0 .365 10.948L17.145 6.083a7.5 7.5 0 0 0-10.949-.365m2.07 12.072a7.52 7.52 0 0 0 6.467 0l-1.82-1.82 3.536-3.535 1.82 1.82a7.52 7.52 0 0 0 0-6.468zm8.183-2.526-.707.707 3.536 3.535.707-.707z"></path>
 </symbol><symbol id="pro-pinterest-fill">
   <path fill="currentColor" d="M13.372 2.094a10.003 10.003 0 0 0-5.369 19.074 7.8 7.8 0 0 1 .162-2.292c.185-.839 1.296-5.463 1.296-5.463a3.7 3.7 0 0 1-.324-1.577c0-1.485.857-2.593 1.923-2.593a1.334 1.334 0 0 1 1.342 1.508c0 .9-.578 2.262-.88 3.54a1.544 1.544 0 0 0 1.575 1.923c1.897 0 3.17-2.431 3.17-5.301 0-2.201-1.457-3.847-4.143-3.847a4.746 4.746 0 0 0-4.93 4.793 2.96 2.96 0 0 0 .648 1.97.48.48 0 0 1 .162.554c-.046.184-.162.623-.208.785a.354.354 0 0 1-.51.253c-1.384-.554-2.036-2.077-2.036-3.816 0-2.847 2.384-6.255 7.154-6.255 3.796 0 6.319 2.777 6.319 5.747 0 3.909-2.176 6.848-5.393 6.848a2.86 2.86 0 0 1-2.454-1.246s-.579 2.316-.692 2.754a8 8 0 0 1-1.019 2.131c.923.28 1.882.42 2.846.416a9.99 9.99 0 0 0 9.996-10.002 10 10 0 0 0-8.635-9.904"></path>
 </symbol><symbol id="pro-pinterest-line">
@@ -4691,9 +4635,9 @@
 </symbol><symbol id="pro-plane-line">
   <path fill="currentColor" d="M14 13.474V19l3 1.5V22l-4.5-1L8 22v-1.5l3-1.5v-5.526L3 16v-2l8-5.053V3.5a1.5 1.5 0 0 1 3 0v5.447L22 14v2z"></path>
 </symbol><symbol id="pro-planet-fill">
-  <path fill="currentColor" d="M4.295 7.344c-.886.077-1.681.228-2.322.472-.705.268-1.515.766-1.711 1.689s.341 1.708.876 2.24c.573.568 1.394 1.107 2.355 1.602 1.933.996 4.643 1.921 7.675 2.566s5.884.901 8.056.777c1.078-.06 2.048-.219 2.802-.506.705-.268 1.515-.766 1.712-1.69.189-.888-.304-1.648-.809-2.17-.494-.51-1.187-.995-1.997-1.444A9.004 9.004 0 0 0 4.295 7.344m-.94 2.151a9 9 0 0 0-.271 1.277 4.6 4.6 0 0 1-.536-.447c-.208-.206-.283-.337-.31-.4.05-.047.172-.136.446-.24q.28-.106.671-.19m17.561 3.733q.357.26.576.487c.177.183.244.3.27.36-.05.046-.172.136-.446.24q-.28.106-.671.19a9 9 0 0 0 .271-1.277m-10.008 3.907c-2.93-.623-5.567-1.507-7.506-2.47a9 9 0 0 0 6.727 6.138 9 9 0 0 0 8.642-2.872c-2.164.091-4.933-.173-7.863-.796"></path>
+  <path fill="currentColor" d="M4.295 7.344c-.886.077-1.681.228-2.322.472-.705.268-1.515.766-1.711 1.689s.341 1.708.876 2.24c.573.568 1.394 1.107 2.355 1.602 1.933.996 4.643 1.921 7.675 2.566s5.884.901 8.056.777c1.078-.06 2.048-.219 2.802-.506.705-.268 1.515-.766 1.712-1.69.189-.888-.304-1.648-.809-2.17-.494-.51-1.187-.995-1.997-1.444A9.004 9.004 0 0 0 4.295 7.344m-.94 2.151a9 9 0 0 0-.271 1.277 4.6 4.6 0 0 1-.536-.447c-.208-.206-.283-.337-.31-.4.05-.047.172-.136.446-.24q.28-.106.671-.19m17.561 3.733q.357.26.576.487c.177.183.244.3.27.36-.05.046-.172.136-.446.24q-.28.106-.671.19a9 9 0 0 0 .271-1.277m-10.008 3.907c-2.93-.623-5.567-1.507-7.506-2.47a9 9 0 0 0 6.727 6.138 9 9 0 0 0 8.642-2.872c-2.164.092-4.933-.173-7.863-.796"></path>
 </symbol><symbol id="pro-planet-line">
-  <path fill="currentColor" d="M20.932 10.88c.81.449 1.503.933 1.997 1.444.505.522.998 1.282.809 2.17-.197.924-1.007 1.422-1.712 1.69-.754.287-1.724.445-2.802.506-2.172.124-5.023-.133-8.056-.778-3.032-.644-5.742-1.57-7.675-2.565-.96-.495-1.782-1.034-2.355-1.603-.535-.531-1.072-1.316-.876-2.24.196-.922 1.006-1.42 1.711-1.688.64-.244 1.436-.395 2.322-.472a9.004 9.004 0 0 1 16.637 3.536m-7.477-5.727A7 7 0 0 0 5 11.858c1.696.791 3.99 1.547 6.584 2.098 2.595.552 4.997.794 6.868.762q.253-.6.395-1.263a7 7 0 0 0-5.392-8.302m7.19 9.352q.391-.084.67-.19c.275-.104.396-.194.447-.24-.026-.06-.093-.177-.27-.36a4.4 4.4 0 0 0-.576-.487 9 9 0 0 1-.271 1.277m-17.29-5.01q-.392.084-.671.19c-.274.104-.396.193-.446.24.027.063.102.194.31.4q.211.21.536.447a9 9 0 0 1 .271-1.277m.047 5.169c.797.396 1.714.78 2.72 1.137a6.98 6.98 0 0 0 4.422 3.046 6.98 6.98 0 0 0 5.28-.984c1.064.083 2.057.106 2.947.068a9 9 0 0 1-8.642 2.872 9 9 0 0 1-6.727-6.139"></path>
+  <path fill="currentColor" d="M20.932 10.88c.81.449 1.503.933 1.997 1.444.505.522.998 1.282.809 2.17-.197.924-1.007 1.422-1.712 1.69-.754.287-1.724.445-2.802.506-2.172.124-5.023-.133-8.056-.778-3.032-.644-5.742-1.57-7.675-2.565-.96-.495-1.782-1.034-2.355-1.603-.535-.531-1.072-1.316-.876-2.239s1.006-1.421 1.711-1.69c.64-.243 1.436-.394 2.322-.471a9.004 9.004 0 0 1 16.637 3.536m-7.477-5.727A7 7 0 0 0 5 11.858c1.696.791 3.99 1.547 6.584 2.098 2.595.552 4.997.794 6.868.762q.253-.6.395-1.263a7 7 0 0 0-5.392-8.302m7.19 9.352q.391-.084.67-.19c.275-.104.396-.194.447-.24-.026-.06-.093-.177-.27-.36a4.4 4.4 0 0 0-.576-.487 9 9 0 0 1-.271 1.277m-17.29-5.01a4.6 4.6 0 0 0-.671.19c-.274.104-.396.193-.446.24.027.063.102.194.31.4q.211.21.536.447a9 9 0 0 1 .271-1.277m.047 5.169c.797.396 1.714.78 2.72 1.137a6.98 6.98 0 0 0 4.422 3.046 6.98 6.98 0 0 0 5.28-.984c1.064.083 2.057.106 2.947.068a9 9 0 0 1-8.642 2.872 9 9 0 0 1-6.727-6.139"></path>
 </symbol><symbol id="pro-plant-fill">
   <path fill="currentColor" d="M2 3V2h1c4.03 0 6.637.613 8.189 2.088q.28.265.505.558C10.171 6.432 10.002 8.819 10 10.952c-2.49-.133-4.401-.567-5.736-1.598C2.5 7.992 2 5.818 2 3"></path>
   <path fill="currentColor" d="M21 3v1c0 2.791-.434 4.947-2.01 6.317-1.36 1.182-3.372 1.593-5.99 1.67V13h5v8l-1 1H7l-1-1v-8h5v-3h.017c.07-1.864.391-3.594 1.586-4.87C14.016 3.618 16.394 3 20 3zM8 20h8v-5H8z"></path>
@@ -4877,7 +4821,7 @@
 </symbol><symbol id="pro-quill-pen-fill">
   <path fill="currentColor" d="M5 22c0-1.332.317-2.277.771-2.973.458-.7 1.1-1.215 1.853-1.611.758-.4 1.6-.666 2.43-.882.263-.069.542-.136.82-.202.527-.127 1.05-.252 1.442-.383 2.542-.847 4.481-2.808 5.578-5.002l.323-.644-1.263-1.263c1.026-1.012 1.914-2.233 2.572-3.245a29 29 0 0 0 1.34-2.294l.02-.038.006-.01.002-.006L21.618 2H20C13.552 2 9.27 5.653 6.648 9.913 4.047 14.141 3 19.074 3 22zM20 3l.894.447z"></path>
 </symbol><symbol id="pro-quill-pen-line">
-  <path fill="currentColor" d="M5 22H3c0-2.926 1.047-7.859 3.648-12.087C9.27 5.653 13.552 2 20 2h1.618l-.724 1.447L20 3l.894.447-.002.005-.005.011-.02.038-.073.14a29 29 0 0 1-1.268 2.154c-.658 1.012-1.546 2.233-2.572 3.245l1.263 1.263-.323.644c-1.096 2.194-3.036 4.155-5.578 5.002-.393.13-.915.256-1.443.383-.277.066-.556.133-.82.202-.828.216-1.671.482-2.43.881-.751.397-1.394.911-1.852 1.612C5.317 19.723 5 20.667 5 22M18.224 4.11c-4.582.585-7.757 3.415-9.872 6.851-1.004 1.632-1.755 3.38-2.288 5.051q.31-.199.627-.366c.96-.506 1.977-.818 2.86-1.048.37-.097.699-.175.991-.244.454-.108.823-.196 1.142-.303 1.724-.574 3.146-1.843 4.077-3.375l-1.758-1.759.872-.698c1.123-.898 2.179-2.29 2.974-3.514q.202-.31.375-.594"></path>
+  <path fill="currentColor" d="M5 22H3c0-2.926 1.047-7.859 3.648-12.087C9.27 5.653 13.552 2 20 2h1.618l-.724 1.447L20 3l.894.447-.002.005-.005.011-.02.038-.073.14a29 29 0 0 1-1.268 2.154c-.658 1.012-1.546 2.233-2.572 3.245l1.263 1.263-.323.644c-1.096 2.194-3.036 4.155-5.578 5.002-.393.13-.915.256-1.443.383-.277.066-.556.133-.82.202-.828.216-1.671.482-2.43.882-.751.396-1.394.91-1.852 1.611C5.317 19.723 5 20.667 5 22M18.224 4.11c-4.582.585-7.757 3.415-9.872 6.851-1.004 1.632-1.755 3.38-2.288 5.051q.31-.199.627-.366c.96-.506 1.977-.818 2.86-1.048.37-.097.699-.175.991-.244.454-.108.823-.196 1.142-.303 1.724-.574 3.146-1.843 4.077-3.375l-1.758-1.759.872-.698c1.123-.898 2.179-2.29 2.974-3.514q.202-.31.375-.594"></path>
 </symbol><symbol id="pro-quote-text-fill">
   <path fill="currentColor" d="M21 6.5H3v-3h18zm-18 4v10h3v-10zm5 10h13v-3H8zm0-7h13v-3H8z"></path>
 </symbol><symbol id="pro-quote-text-line">
@@ -4935,7 +4879,7 @@
   <path fill="currentColor" d="m1 6 1-1h20l1 1v12l-1 1H2l-1-1zm18 11h2V7H3v10h2v-2h2v2h2v-2h2v2h2v-2h2v2h2v-2h2z"></path>
 </symbol><symbol id="pro-reactjs-fill">
   <path fill="currentColor" d="M12 14a2 2 0 1 0 0-4 2 2 0 0 0 0 4"></path>
-  <path fill="currentColor" d="M11.378 20.128q.31-.245.622-.524.312.279.623.524c.81.637 1.633 1.114 2.422 1.35.79.235 1.616.244 2.33-.168.715-.413 1.12-1.132 1.31-1.935.191-.8.19-1.752.043-2.772a13 13 0 0 0-.142-.8q.398-.131.764-.278c.957-.383 1.782-.858 2.38-1.423.599-.567 1.02-1.277 1.02-2.102s-.421-1.535-1.02-2.102c-.598-.565-1.423-1.04-2.38-1.423a13 13 0 0 0-.765-.277q.086-.41.142-.8c.147-1.02.149-1.972-.042-2.773s-.596-1.522-1.31-1.935c-.715-.412-1.54-.402-2.33-.167s-1.613.712-2.423 1.35q-.31.244-.622.523-.312-.279-.622-.523c-.81-.638-1.634-1.115-2.422-1.35-.79-.235-1.616-.245-2.33.167-.715.413-1.12 1.133-1.31 1.935-.191.8-.19 1.752-.043 2.773q.056.39.142.8-.398.131-.765.277c-.957.383-1.782.858-2.38 1.423-.599.567-1.02 1.277-1.02 2.102s.421 1.535 1.02 2.102c.598.565 1.423 1.04 2.38 1.423q.367.146.764.277-.085.41-.142.8c-.147 1.021-.148 1.973.043 2.773.191.803.595 1.522 1.31 1.935.714.412 1.54.403 2.33.167.789-.235 1.613-.712 2.423-1.35m-4.003-.117c-.242-.14-.47-.431-.601-.983-.132-.555-.148-1.303-.017-2.211q.043-.3.106-.614c.773.177 1.603.315 2.475.408.516.708 1.05 1.358 1.59 1.939q-.24.211-.478.399c-.722.567-1.377.928-1.923 1.09-.544.163-.91.112-1.152-.028M12 17.5a18 18 0 0 1-.663-.758 26 26 0 0 0 1.326 0q-.33.4-.663.758m5.243-.683c.131.908.115 1.656-.017 2.21-.131.553-.358.844-.6.984-.243.14-.609.19-1.153.029-.546-.163-1.201-.523-1.923-1.091a11 11 0 0 1-.478-.4c.54-.58 1.074-1.23 1.59-1.938.872-.093 1.702-.23 2.475-.408q.063.315.106.614m1.55-2.685q-.28.112-.584.215A21 21 0 0 0 17.325 12c.355-.802.65-1.59.883-2.347q.304.103.585.215c.852.34 1.492.728 1.906 1.12.412.39.551.732.551 1.012s-.139.622-.551 1.012c-.414.392-1.054.78-1.907 1.12m-2.03.618a18 18 0 0 1-.988.195 26 26 0 0 0 .663-1.149q.18.487.325.954m-1.949-1.125a24 24 0 0 1-.978 1.556 24 24 0 0 1-3.672 0A24 24 0 0 1 8.327 12a24 24 0 0 1 1.837-3.18 24 24 0 0 1 3.673 0A24 24 0 0 1 15.673 12q-.386.806-.859 1.625m1.949-4.375q-.145.468-.325.953a26 26 0 0 0-.663-1.148q.51.087.988.195m.373-1.453a21 21 0 0 0-2.473-.408 21 21 0 0 0-1.591-1.939q.24-.212.478-.398c.721-.568 1.377-.928 1.923-1.091.544-.162.91-.111 1.152.028.242.14.47.431.6.984.133.554.148 1.302.017 2.21q-.043.3-.105.614m-6.685-2.745q.236.186.477.398a21 21 0 0 0-1.59 1.939c-.872.093-1.702.23-2.474.408q-.063-.316-.106-.613c-.131-.91-.116-1.657.016-2.211s.36-.844.601-.984c.242-.14.608-.19 1.152-.028.547.163 1.202.523 1.924 1.09M5.207 9.868q.28-.112.585-.215c.233.758.528 1.545.884 2.347a21 21 0 0 0-.884 2.347q-.304-.103-.585-.215c-.852-.34-1.492-.728-1.906-1.12-.412-.39-.551-.732-.551-1.012s.139-.622.551-1.012c.414-.392 1.054-.78 1.906-1.12m2.03-.618q.477-.108.988-.195a26 26 0 0 0-.663 1.148q-.18-.486-.325-.953m0 5.5q.144-.467.325-.954a26 26 0 0 0 .663 1.149q-.51-.087-.988-.195m5.426-7.492a26 26 0 0 0-1.326 0q.33-.4.663-.758.332.36.663.758"></path>
+  <path fill="currentColor" d="M11.378 20.128q.31-.245.622-.524.312.279.623.524c.81.637 1.633 1.114 2.422 1.35.79.235 1.616.244 2.33-.168.715-.413 1.12-1.132 1.31-1.935.191-.8.19-1.752.043-2.772a13 13 0 0 0-.142-.8q.398-.131.764-.278c.957-.383 1.782-.858 2.38-1.423.599-.567 1.02-1.277 1.02-2.102s-.421-1.535-1.02-2.102c-.598-.565-1.423-1.04-2.38-1.423q-.367-.146-.765-.277.086-.41.142-.8c.147-1.02.149-1.972-.042-2.773s-.596-1.522-1.31-1.935c-.715-.412-1.54-.402-2.33-.167s-1.613.712-2.423 1.35q-.31.244-.622.522-.312-.278-.622-.522c-.81-.638-1.634-1.115-2.422-1.35-.79-.235-1.616-.245-2.33.167-.715.413-1.12 1.133-1.31 1.935-.191.8-.19 1.752-.043 2.773q.056.39.142.8-.398.131-.765.277c-.957.383-1.782.858-2.38 1.423-.599.567-1.02 1.277-1.02 2.102s.421 1.535 1.02 2.102c.598.565 1.423 1.04 2.38 1.423q.367.146.764.277-.085.41-.142.8c-.147 1.021-.148 1.973.043 2.773.191.803.595 1.522 1.31 1.935.714.412 1.54.403 2.33.167.789-.235 1.613-.712 2.423-1.35m-4.003-.117c-.242-.14-.47-.431-.601-.983-.132-.555-.148-1.303-.017-2.211q.043-.3.106-.614c.773.177 1.603.315 2.475.408.516.708 1.05 1.358 1.59 1.939q-.24.211-.478.399c-.722.567-1.377.928-1.923 1.09-.544.163-.91.112-1.152-.028M12 17.5a18 18 0 0 1-.663-.758 26 26 0 0 0 1.326 0q-.33.4-.663.758m5.243-.683c.131.908.115 1.656-.017 2.21-.131.553-.358.844-.6.984-.243.14-.609.19-1.153.029-.546-.163-1.201-.523-1.923-1.091a11 11 0 0 1-.478-.4c.54-.58 1.074-1.23 1.59-1.938.872-.093 1.702-.23 2.475-.408q.063.315.106.614m1.55-2.685q-.28.112-.584.215A21 21 0 0 0 17.325 12c.355-.802.65-1.59.883-2.347q.304.103.585.215c.852.34 1.492.728 1.906 1.12.412.39.551.732.551 1.012s-.139.622-.551 1.012c-.414.392-1.054.78-1.907 1.12m-2.03.618a18 18 0 0 1-.988.195 26 26 0 0 0 .663-1.149q.18.487.325.954m-1.949-1.125a24 24 0 0 1-.978 1.556 24 24 0 0 1-3.672 0A24 24 0 0 1 8.327 12a24 24 0 0 1 1.837-3.18 24 24 0 0 1 3.673 0A24 24 0 0 1 15.673 12q-.386.806-.859 1.625m1.949-4.375q-.145.468-.325.953a26 26 0 0 0-.663-1.148q.51.087.988.195m.373-1.453a21 21 0 0 0-2.473-.408 21 21 0 0 0-1.591-1.939q.24-.212.478-.398c.721-.568 1.377-.928 1.923-1.091.544-.163.91-.111 1.152.028.242.14.47.431.6.984.133.554.148 1.302.017 2.21q-.043.3-.105.614m-6.685-2.745q.236.186.477.398a21 21 0 0 0-1.59 1.939c-.872.093-1.702.23-2.474.408q-.063-.316-.106-.613c-.131-.91-.116-1.657.016-2.211s.36-.844.601-.984c.242-.14.608-.19 1.152-.028.547.163 1.202.523 1.924 1.09M5.207 9.868q.28-.112.585-.215c.233.758.528 1.545.884 2.347a21 21 0 0 0-.884 2.347q-.304-.103-.585-.215c-.852-.34-1.492-.728-1.906-1.12-.412-.39-.551-.732-.551-1.012s.139-.622.551-1.012c.414-.392 1.054-.78 1.906-1.12m2.03-.618q.477-.108.988-.195a26 26 0 0 0-.663 1.148q-.18-.486-.325-.953m0 5.5q.144-.467.325-.954a26 26 0 0 0 .663 1.149q-.51-.087-.988-.195m5.426-7.492a26 26 0 0 0-1.326 0q.33-.4.663-.758.332.36.663.758"></path>
 </symbol><symbol id="pro-reactjs-line">
   <path fill="currentColor" d="M12 14a2 2 0 1 0 0-4 2 2 0 0 0 0 4"></path>
   <path fill="currentColor" d="M11.223 19.93q.387-.302.777-.663.39.36.777.664c.795.626 1.59 1.083 2.339 1.306.75.224 1.498.223 2.134-.144s1.01-1.015 1.192-1.776c.18-.76.182-1.677.038-2.679q-.07-.487-.187-1.005.508-.158.964-.34c.94-.376 1.733-.836 2.3-1.373.569-.537.943-1.186.943-1.92s-.374-1.383-.942-1.92-1.362-.997-2.301-1.373a13 13 0 0 0-.964-.34q.117-.519.187-1.005c.144-1.002.143-1.92-.038-2.68s-.556-1.408-1.192-1.775-1.384-.368-2.134-.144c-.748.223-1.544.68-2.339 1.306a13 13 0 0 0-.777.664q-.39-.36-.777-.664c-.795-.626-1.59-1.083-2.339-1.306-.75-.224-1.498-.223-2.134.144S5.74 3.922 5.558 4.683c-.18.76-.182 1.677-.038 2.679q.071.487.187 1.005-.508.158-.964.34c-.94.376-1.733.836-2.3 1.373-.569.537-.943 1.186-.943 1.92s.374 1.383.942 1.92 1.362.997 2.301 1.373q.457.182.964.34-.117.519-.187 1.005c-.144 1.002-.143 1.92.038 2.68.182.76.556 1.408 1.192 1.775s1.385.368 2.134.144c.749-.223 1.544-.68 2.34-1.306m-3.973.297c-.32-.185-.577-.547-.719-1.142s-.155-1.377-.021-2.304q.06-.425.162-.88a21 21 0 0 0 2.803.473 21 21 0 0 0 1.811 2.19q-.344.315-.681.581c-.736.58-1.42.96-2.006 1.134s-1.028.134-1.349-.052M12 17.864q-.605-.631-1.2-1.392a26 26 0 0 0 2.401 0c-.397.506-.8.972-1.2 1.392m5.49-1.083c.134.927.121 1.709-.02 2.304-.142.595-.399.957-.72 1.142-.32.186-.763.226-1.348.052-.587-.175-1.27-.555-2.007-1.134q-.337-.265-.68-.58a21 21 0 0 0 1.81-2.191c.998-.102 1.94-.262 2.803-.473q.101.455.162.88m1.395-2.417q-.398.159-.843.3A21 21 0 0 0 17.051 12c.41-.915.743-1.811.991-2.664q.445.141.843.3c.87.348 1.54.75 1.986 1.17.443.42.629.824.629 1.194s-.186.774-.63 1.194-1.115.822-1.985 1.17m-1.806.568c-.565.138-1.17.254-1.806.344a26 26 0 0 0 1.2-2.08q.36.897.606 1.736M15.03 13.75a24 24 0 0 1-1.056 1.67 24 24 0 0 1-3.95 0A24 24 0 0 1 8.051 12a24 24 0 0 1 1.974-3.42 24 24 0 0 1 3.95 0A24 24 0 0 1 15.95 12a24 24 0 0 1-.919 1.75m2.048-4.682c-.163.558-.365 1.14-.605 1.736a26 26 0 0 0-1.201-2.08c.636.09 1.241.206 1.806.344m.25-.969a21 21 0 0 0-2.804-.473 21 21 0 0 0-1.81-2.19q.343-.315.68-.581c.737-.58 1.42-.96 2.007-1.134.585-.174 1.027-.133 1.348.052s.578.548.72 1.142c.141.595.154 1.377.02 2.304q-.06.425-.162.88m-6.724-3.244q.337.265.681.58a21 21 0 0 0-1.811 2.191c-.998.102-1.94.262-2.803.473a12 12 0 0 1-.162-.88c-.134-.927-.12-1.709.021-2.304.142-.594.398-.957.72-1.142.32-.185.762-.226 1.348-.052s1.27.555 2.006 1.134m-5.49 4.78q.398-.158.843-.3c.249.854.58 1.75.991 2.665-.41.915-.742 1.811-.991 2.664a12 12 0 0 1-.843-.3c-.87-.348-1.54-.75-1.986-1.17-.443-.42-.629-.824-.629-1.194s.186-.774.63-1.194 1.115-.822 1.985-1.17m1.806-.567q.85-.208 1.807-.344a26 26 0 0 0-1.201 2.08 19 19 0 0 1-.606-1.736m0 5.864c.163-.558.366-1.14.606-1.736a26 26 0 0 0 1.2 2.08 19 19 0 0 1-1.806-.344m6.28-7.404a26 26 0 0 0-2.402 0c.397-.506.8-.972 1.201-1.392q.604.632 1.201 1.392"></path>
@@ -4943,7 +4887,7 @@
   <path stroke="currentColor" stroke-width="2" d="M6 21a2 2 0 0 0 2-2v-2"></path>
   <path fill="currentColor" d="M5.966 1.775 9 3.798l3-2 3 2 3.034-2.023L21 4v11H5v4.5h2V17h16v2a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3V4z"></path>
 </symbol><symbol id="pro-receipt-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M9 3.798 5.966 1.775 3 4v15a3 3 0 0 0 3 3h14a3 3 0 0 0 3-3v-3h-2V4l-2.966-2.225L15 3.798l-3-2zM8.83 20H20a1 1 0 0 0 1-1v-1H9v1c0 .35-.06.687-.17 1M7 16h12V5l-1.034-.776L15 6.203l-3-2-3 2-2.966-1.977L5 5v14a1 1 0 1 0 2 0z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m9 3.798 3-2 3 2 3.034-2.023L21 4v12h2v3a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3V4l2.966-2.225zM8.83 20H20a1 1 0 0 0 1-1v-1H9v1c0 .35-.06.687-.17 1M7 16h12V5l-1.034-.776L15 6.203l-3-2-3 2-2.966-1.977L5 5v14a1 1 0 1 0 2 0z"></path>
 </symbol><symbol id="pro-record-circle-fill">
   <path fill="currentColor" d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10m0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6"></path>
 </symbol><symbol id="pro-record-circle-line">
@@ -4959,7 +4903,7 @@
 </symbol><symbol id="pro-rectangle-line">
   <path fill="currentColor" d="M2 4h20v16H2zm2 2v12h16V6z"></path>
 </symbol><symbol id="pro-recycle-fill">
-  <path fill="currentColor" d="m9.944 8.575 2.054-3.558 1.464 2.536-1.948 1.125 5.764 2.445.298-5.945-1.516.875-2.763-4.786h-2.598L7.346 7.075zm-1.446 7.012-.764-6.214-5.298 2.714 1.516.876-2.764 4.785 1.3 2.25h6.706v-3H5.086l1.464-2.535zM11 18.52l5-3.77V17h2.928l-2.054-3.558 2.598-1.5 3.353 5.808L21.526 20H16v1.75z"></path>
+  <path fill="currentColor" d="m9.944 8.575 2.054-3.558 1.464 2.536-1.948 1.125 5.764 2.445.298-5.945-1.516.875-2.763-4.786h-2.598L7.346 7.075zm-1.446 7.013-.764-6.215-5.298 2.715 1.516.875-2.764 4.786 1.3 2.25h6.706v-3H5.086l1.464-2.536zM11 18.52l5-3.77V17h2.928l-2.054-3.558 2.598-1.5 3.353 5.808L21.526 20H16v1.75z"></path>
 </symbol><symbol id="pro-recycle-line">
   <path fill="currentColor" d="M9.495 8.343 12 4.005l2.81 4.867-2.394-.448-.367 1.966 5.44 1.018 1.339-4.992-1.932-.518-.474 1.767-3.556-6.16h-1.732L7.763 7.343zm-1.672 6.592 1.887-.664-1.84-5.222-4.99 1.338.517 1.932 1.767-.474-3.557 6.16.867 1.5H9.5v-2H4.205l2.81-4.867zm6.417-.585 1.52 1.3-1.586 1.85h5.62l-2.487-4.307 1.732-1L22.393 18l-.866 1.5h-7.113l1.293 1.293-1.414 1.414-3.655-3.655z"></path>
 </symbol><symbol id="pro-red-packet-fill">
@@ -5053,10 +4997,10 @@
 </symbol><symbol id="pro-reply-line">
   <path fill="currentColor" d="M9 13v2.839L4.202 12 9 8.161V11h2a7.98 7.98 0 0 1 6.055 2.772A11 11 0 0 0 13 13zm2 7v-5h2c2.196 0 4.21.787 5.772 2.094a9 9 0 0 1 2.196 2.717 10.1 10.1 0 0 0-.429-3.82A10 10 0 0 0 11 9V4L1 12z"></path>
 </symbol><symbol id="pro-reserved-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="m3 4 1-1h16l1 1v10l-1 1h-7v4h3v2H8v-2h3v-4H4l-1-1zm5 6h8V8H8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m3 4 1-1h16l1 1v10l-1 1h-7v4h3v2H8v-2h3v-4H4l-1-1zm5 6h8V8H8z"></path>
 </symbol><symbol id="pro-reserved-line">
   <path fill="currentColor" d="M8 10h8V8H8z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M4 3 3 4v10l1 1h7v4H8v2h8v-2h-3v-4h7l1-1V4l-1-1zm1 10V5h14v8z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M4 3 3 4v10l1 1h7v4H8v2h8v-2h-3v-4h7l1-1V4l-1-1zm1 10V5h14v8z"></path>
 </symbol><symbol id="pro-rest-time-fill">
   <path fill="currentColor" d="M13 5h5l-4.8 6.4.8 1.6h6.5v-2H16l4.8-6.4L20 3h-7z"></path>
   <path fill="currentColor" d="M11 7V6a8 8 0 1 0 7.938 9h-6.174l-1.906-3.811L14 7z"></path>
@@ -5184,7 +5128,7 @@
 </symbol><symbol id="pro-ruler-line">
   <path fill="currentColor" d="m.54 17.303 6.364 6.364L23.168 7.404 16.804 1.04zm12.728-9.9 1.414 1.415 1.414-1.414-1.414-1.414 2.121-2.122 3.536 3.536L6.904 20.839l-3.536-3.536 2.829-2.828L7.61 15.89l1.414-1.414L7.61 13.06l2.122-2.122 2.12 2.122 1.415-1.415-2.121-2.121z"></path>
 </symbol><symbol id="pro-run-fill">
-  <path fill="currentColor" d="M13.074 5.644a2 2 0 1 0 .831-3.912 2 2 0 0 0-.832 3.912m-2.704 3.1-1.687.407-.131 3.738-1.999-.07.184-5.256 5.14-1.241a2 2 0 0 1 2.608 1.476c.532 1.604 1.315 2.31 2.037 2.682.625.322 1.21.42 1.834.526.229.039.463.078.707.13l-.416 1.956a10 10 0 0 0-.424-.075c-.66-.11-1.683-.278-2.616-.759a5.4 5.4 0 0 1-1.624-1.274l-.684 3.22 1.989 2.174V23h-2v-5.845l-2.16-2.36-1.003 4.72-6.813-1.832.519-1.931 4.776 1.284z"></path>
+  <path fill="currentColor" d="M13.074 5.644a2 2 0 1 0 .831-3.912 2 2 0 0 0-.832 3.912m-2.704 3.1-1.687.407-.131 3.738-1.999-.07.184-5.256 5.14-1.241a2 2 0 0 1 2.608 1.476c.532 1.604 1.315 2.31 2.037 2.682.625.322 1.21.42 1.834.526.229.039.463.078.707.13l-.416 1.956a10 10 0 0 0-.424-.075c-.66-.11-1.683-.278-2.616-.76a5.4 5.4 0 0 1-1.624-1.273l-.684 3.22 1.989 2.174V23h-2v-5.845l-2.16-2.36-1.003 4.72-6.813-1.832.519-1.931 4.776 1.284z"></path>
 </symbol><symbol id="pro-run-line">
   <path fill="currentColor" d="M13.074 5.644a2 2 0 1 0 .831-3.912 2 2 0 0 0-.832 3.912M10.37 8.743l-1.687.408-.131 3.738-1.999-.07.184-5.256 5.14-1.241a2 2 0 0 1 2.608 1.476c.532 1.604 1.315 2.31 2.037 2.682.625.322 1.21.42 1.834.526.229.039.463.078.707.13l-.416 1.956a10 10 0 0 0-.424-.075c-.66-.11-1.683-.278-2.616-.759a5.4 5.4 0 0 1-1.624-1.274l-.684 3.22 1.989 2.174V23h-2v-5.845l-2.16-2.36-1.003 4.72-6.813-1.832.519-1.931 4.776 1.284z"></path>
 </symbol><symbol id="pro-safari-fill">
@@ -5211,20 +5155,20 @@
 </symbol><symbol id="pro-save-line">
   <path fill="currentColor" d="M4 3h12.5l.707.293 3.5 3.5L21 7.5V20l-1 1H4l-1-1V4zm13 16h2V7.914L16.086 5H5v14h2v-5l1-1h8l1 1zm-8 0h6v-4H9z"></path>
 </symbol><symbol id="pro-scales-2-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M6 3V2H4v2l1 1h6v2.062A8 8 0 0 0 4 15v7h16v-7a8 8 0 0 0-7-7.938V5h6l1-1V2h-2v1zm10 12a4 4 0 1 1-1.968-3.446l-2.739 2.739 1.414 1.414 2.74-2.739A4 4 0 0 1 16 15" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M6 3V2H4v2l1 1h6v2.062A8 8 0 0 0 4 15v7h16v-7a8 8 0 0 0-7-7.938V5h6l1-1V2h-2v1zm10 12a4 4 0 1 1-1.968-3.446l-2.739 2.739 1.414 1.414 2.74-2.739A4 4 0 0 1 16 15"></path>
 </symbol><symbol id="pro-scales-2-line">
   <path fill="currentColor" d="M16 15a4 4 0 1 1-1.968-3.446l-2.739 2.739 1.414 1.414 2.74-2.739A4 4 0 0 1 16 15"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M6 3V2H4v2l1 1h6v2.062A8 8 0 0 0 4 15v7h16v-7a8 8 0 0 0-7-7.938V5h6l1-1V2h-2v1zm6 6a6 6 0 0 0-6 6v5h12v-5a6 6 0 0 0-6-6" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M6 3V2H4v2l1 1h6v2.062A8 8 0 0 0 4 15v7h16v-7a8 8 0 0 0-7-7.938V5h6l1-1V2h-2v1zm6 6a6 6 0 0 1 6 6v5H6v-5a6 6 0 0 1 6-6"></path>
 </symbol><symbol id="pro-scales-3-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M17 19h-4V5.388l3.716 1.238-3.049 8.583.547.446A5.98 5.98 0 0 0 18 17a5.98 5.98 0 0 0 3.786-1.345l.547-.446-3.061-8.618 3.079-1.155-.703-1.872-3.668 1.375L13 3.28V2h-2v1.28L6.02 4.94 2.35 3.563l-.702 1.872 3.217 1.207-3.044 8.566.547.446A5.98 5.98 0 0 0 6.155 17a5.98 5.98 0 0 0 3.786-1.345l.547-.446L7.422 6.58 11 5.387V19H7v2h10zm-.426-6h2.852L18 8.987zM7.58 13H4.73l1.426-4.013z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M17 19h-4V5.388l3.716 1.238-3.049 8.583.547.446A5.98 5.98 0 0 0 18 17a5.98 5.98 0 0 0 3.786-1.345l.547-.446-3.061-8.618 3.079-1.155-.703-1.872-3.668 1.375L13 3.28V2h-2v1.28L6.02 4.94 2.35 3.563l-.702 1.872 3.217 1.207-3.044 8.566.547.446A5.98 5.98 0 0 0 6.155 17a5.98 5.98 0 0 0 3.786-1.345l.547-.446L7.422 6.58 11 5.387V19H7v2h10zm-.426-6L18 8.987 19.426 13zM7.58 13H4.73l1.426-4.013z"></path>
 </symbol><symbol id="pro-scales-3-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M17 19h-4V5.388l3.716 1.238-3.049 8.583.547.446A5.98 5.98 0 0 0 18 17a5.98 5.98 0 0 0 3.786-1.345l.547-.446-3.061-8.618 3.079-1.155-.703-1.872-3.668 1.375L13 3.28V2h-2v1.28L6.02 4.94 2.35 3.563l-.702 1.872 3.217 1.207-3.044 8.566.547.446A5.98 5.98 0 0 0 6.155 17a5.98 5.98 0 0 0 3.786-1.345l.547-.446L7.422 6.58 11 5.387V19H7v2h10zm1-4a4 4 0 0 1-1.955-.51L18 8.988l1.956 5.504A4 4 0 0 1 18 15m-13.8-.51c.577.325 1.243.51 1.955.51.71 0 1.377-.185 1.955-.51L6.155 8.988z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M17 19h-4V5.388l3.716 1.238-3.049 8.583.547.446A5.98 5.98 0 0 0 18 17a5.98 5.98 0 0 0 3.786-1.345l.547-.446-3.061-8.618 3.079-1.155-.703-1.872-3.668 1.375L13 3.28V2h-2v1.28L6.02 4.94 2.35 3.563l-.702 1.872 3.217 1.207-3.044 8.566.547.446A5.98 5.98 0 0 0 6.155 17a5.98 5.98 0 0 0 3.786-1.345l.547-.446L7.422 6.58 11 5.387V19H7v2h10zm1-4a4 4 0 0 1-1.955-.51L18 8.988l1.956 5.504A4 4 0 0 1 18 15m-13.8-.51 1.955-5.503L8.11 14.49a4 4 0 0 1-1.955.51 4 4 0 0 1-1.956-.51"></path>
 </symbol><symbol id="pro-scales-fill">
   <path fill="currentColor" d="M17 21v-2h-4V5h7V3h-7V2h-2v1H4v2h7v14H7v2z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M17.874 7.639c-.298.26-.697.626-1.1 1.052a9.5 9.5 0 0 0-1.155 1.457C15.302 10.66 15 11.31 15 12a4 4 0 0 0 8 0c0-.691-.302-1.34-.62-1.852-.33-.531-.754-1.034-1.153-1.457a16 16 0 0 0-1.1-1.052c-.314-.274-.642-.53-.97-.786L19 6.73l-.156.122a22 22 0 0 0-.97.786M19 9.313c-.232.21-.504.468-.773.753-.351.37-.677.764-.909 1.138-.245.394-.318.659-.318.796h4c0-.137-.073-.402-.318-.796a7.5 7.5 0 0 0-.909-1.138c-.27-.285-.54-.543-.773-.753M2.774 8.692c.403-.427.802-.794 1.1-1.053.313-.274.642-.53.97-.786L5 6.73l.156.122c.328.256.657.512.97.786.298.26.697.626 1.1 1.052.4.423.824.926 1.155 1.457C8.698 10.66 9 11.31 9 12a4 4 0 0 1-8 0c0-.691.302-1.34.62-1.852a9.5 9.5 0 0 1 1.154-1.457m1.452 1.374c.27-.285.542-.543.774-.753.232.21.504.468.774.753.35.37.676.764.908 1.138.245.394.318.659.318.796H3c0-.137.073-.402.318-.796.232-.374.558-.768.908-1.138" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M17.874 7.639c-.298.26-.697.626-1.1 1.052a9.5 9.5 0 0 0-1.155 1.457C15.302 10.66 15 11.31 15 12a4 4 0 0 0 8 0c0-.691-.302-1.34-.62-1.852-.33-.531-.754-1.034-1.153-1.457a16 16 0 0 0-1.1-1.052c-.314-.274-.642-.53-.97-.786L19 6.73l-.156.122a22 22 0 0 0-.97.786M19 9.313c.232.21.504.468.773.753.351.37.677.764.909 1.138.245.394.318.659.318.796h-4c0-.137.073-.402.318-.796.232-.374.558-.768.909-1.138.27-.285.54-.543.773-.753M2.774 8.692c.403-.427.802-.794 1.1-1.053.313-.274.642-.53.97-.786L5 6.73l.156.122c.328.256.657.512.97.786.298.26.697.626 1.1 1.052.4.423.824.926 1.155 1.457C8.698 10.66 9 11.31 9 12a4 4 0 0 1-8 0c0-.691.302-1.34.62-1.852a9.5 9.5 0 0 1 1.154-1.457m1.452 1.374c-.35.37-.676.764-.908 1.138-.245.394-.318.659-.318.796h4c0-.137-.073-.402-.318-.796a7.5 7.5 0 0 0-.908-1.138A14 14 0 0 0 5 9.312c-.232.21-.504.468-.774.753"></path>
 </symbol><symbol id="pro-scales-line">
   <path fill="currentColor" d="M17 19v2H7v-2h4V5H4V3h7V2h2v1h7v2h-7v14z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M16.774 8.692c.403-.427.802-.794 1.1-1.053.314-.274.642-.53.97-.786L19 6.73l.156.122c.329.256.657.512.97.786.298.26.697.626 1.1 1.052.4.423.824.926 1.155 1.457.317.511.619 1.161.619 1.852a4 4 0 0 1-8 0c0-.691.302-1.34.62-1.852.33-.531.754-1.034 1.153-1.457m1.453 1.374c.27-.285.54-.543.773-.753.232.21.504.468.773.753.351.37.677.764.909 1.138.245.394.318.659.318.796a2 2 0 1 1-4 0c0-.137.073-.402.318-.796.232-.374.558-.768.909-1.138M2.774 8.692c.403-.427.802-.794 1.1-1.053.313-.274.642-.53.97-.786L5 6.73l.156.122c.328.256.657.512.97.786.298.26.697.626 1.1 1.052.4.423.824.926 1.155 1.457C8.698 10.66 9 11.31 9 12a4 4 0 0 1-8 0c0-.691.302-1.34.62-1.852a9.5 9.5 0 0 1 1.154-1.457m1.452 1.374c.27-.285.542-.543.774-.753.232.21.504.468.774.753.35.37.676.764.908 1.138.245.394.318.659.318.796a2 2 0 1 1-4 0c0-.137.073-.402.318-.796.232-.374.558-.768.908-1.138" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M16.774 8.692c.403-.427.802-.794 1.1-1.053.314-.274.642-.53.97-.786L19 6.73l.156.122c.329.256.657.512.97.786.298.26.697.626 1.1 1.052.4.423.824.926 1.155 1.457.317.511.619 1.161.619 1.852a4 4 0 0 1-8 0c0-.691.302-1.34.62-1.852.33-.531.754-1.034 1.153-1.457m1.453 1.374c-.351.37-.677.764-.909 1.138-.245.394-.318.659-.318.796a2 2 0 1 0 4 0c0-.137-.073-.402-.318-.796a7.5 7.5 0 0 0-.909-1.138c-.27-.285-.54-.543-.773-.753-.232.21-.504.468-.773.753M2.774 8.692c.403-.427.802-.794 1.1-1.053.313-.274.642-.53.97-.786L5 6.73l.156.122c.328.256.657.512.97.786.298.26.697.626 1.1 1.052.4.423.824.926 1.155 1.457C8.698 10.66 9 11.31 9 12a4 4 0 0 1-8 0c0-.691.302-1.34.62-1.852a9.5 9.5 0 0 1 1.154-1.457m1.452 1.374c-.35.37-.676.764-.908 1.138-.245.394-.318.659-.318.796a2 2 0 1 0 4 0c0-.137-.073-.402-.318-.796a7.5 7.5 0 0 0-.908-1.138A14 14 0 0 0 5 9.312c-.232.21-.504.468-.774.753"></path>
 </symbol><symbol id="pro-scan-2-fill">
   <path fill="currentColor" d="M12 19A7 7 0 1 0 8.05 6.22L5.901 4.075A9.96 9.96 0 0 1 12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12a9.96 9.96 0 0 1 2.446-6.553l2.13 2.129A7 7 0 0 0 12 19"></path>
   <path fill="currentColor" d="M8 9a5 5 0 1 0 1.498-1.33l3.916 3.916L12 13z"></path>
@@ -5235,9 +5179,9 @@
 </symbol><symbol id="pro-scan-line">
   <path fill="currentColor" d="M12 20A8 8 0 1 0 9.171 4.514l-1.52-1.52A9.96 9.96 0 0 1 12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12a9.96 9.96 0 0 1 2.446-6.553q.659-.76 1.456-1.373l7.512 7.512L12 13 5.865 6.865A8 8 0 0 0 12 20"></path>
 </symbol><symbol id="pro-school-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="m12 .586 6 6V9h4v10h1v2H1v-2h1V9h4V6.586zM18 19v-8h2v8zM6 11v8H4v-8zm5 1v7h2v-7z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m12 .586 6 6V9h4v10h1v2H1v-2h1V9h4V6.586zM18 19h2v-8h-2zM6 11H4v8h2zm5 1v7h2v-7z"></path>
 </symbol><symbol id="pro-school-line">
-  <path fill="currentColor" fill-rule="evenodd" d="m18 6.586-6-6-6 6V9H2v10H1v2h22v-2h-1V9h-4zM6 19H4v-8h2zm14 0h-2v-8h2zM8 19h3v-7h2v7h3V7.414l-4-4-4 4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m18 6.586-6-6-6 6V9H2v10H1v2h22v-2h-1V9h-4zM6 19H4v-8h2zm14 0h-2v-8h2zM8 19V7.414l4-4 4 4V19h-3v-7h-2v7z"></path>
 </symbol><symbol id="pro-scissors-2-fill">
   <path fill="currentColor" d="m14.121 12.5 5.318-5.318a3 3 0 0 0 0-4.243L12 10.38 4.56 2.94a3 3 0 0 0 0 4.243L9.88 12.5 7.9 14.479a4 4 0 1 0 1.918 2.325l2.183-2.183 2.182 2.182A4 4 0 1 0 16.1 14.48zM4 18a2 2 0 1 1 4 0 2 2 0 0 1-4 0m12 0a2 2 0 1 1 4 0 2 2 0 0 1-4 0"></path>
 </symbol><symbol id="pro-scissors-2-line">
@@ -5603,9 +5547,9 @@
 </symbol><symbol id="pro-sip-fill">
   <path fill="currentColor" d="m14.328 5.947-1.767-1.768-1.415 1.414 7.071 7.071 1.415-1.414-1.768-1.768 2.828-2.828V5.24l-2.121-2.122h-1.415zM2.673 16.895l8.552-8.552 4.243 4.243-8.553 8.552-3.727-.516z"></path>
 </symbol><symbol id="pro-sip-line">
-  <path fill="currentColor" d="m14.328 5.947-1.767-1.768-1.415 1.414 1.414 1.415-9.485 9.485v4.243h4.243l9.485-9.486 1.414 1.414 1.415-1.414-1.768-1.768 2.828-2.828V5.24l-2.121-2.121h-1.415zm-.353 2.475 1.414 1.414-8.839 8.839-1.414-1.414z"></path>
+  <path fill="currentColor" d="m14.328 5.947-1.767-1.768-1.415 1.414 1.414 1.415-9.485 9.485v4.243h4.243l9.485-9.486 1.414 1.415 1.415-1.415-1.768-1.768 2.828-2.828V5.24l-2.121-2.121h-1.415zm-.353 2.475 1.414 1.414-8.839 8.839-1.414-1.414z"></path>
 </symbol><symbol id="pro-sketching-fill">
-  <path fill="currentColor" d="M8.888 8.761c-1.881 2.514-3.845 5.75-5.077 7.967L1.19 15.271c1.268-2.282 3.305-5.646 5.298-8.308.988-1.319 2.02-2.54 2.982-3.366.475-.407 1.017-.792 1.597-1.013.593-.225 1.42-.342 2.206.13.907.544 1.173 1.46 1.192 2.195.02.696-.163 1.433-.385 2.096-.44 1.321-1.228 2.898-1.951 4.344l-.036.072c-.767 1.534-1.46 2.927-1.825 4.022l-.06.187c.461-.471.967-1.132 1.574-1.924l.091-.119c.695-.906 1.534-1.992 2.434-2.73.896-.736 2.306-1.478 3.865-.699.735.368 1.117 1.015 1.243 1.668.112.577.03 1.157-.077 1.621-.216.933-.69 2.008-1.091 2.912l-.073.164c-.31.699-.583 1.31-.77 1.829l.006-.006c.534-.503.99-1.285 1.168-1.82l2.846.948c-.321.965-1.032 2.183-1.956 3.055-.88.829-2.51 1.795-4.238.757-.75-.45-1.008-1.187-1.056-1.777-.044-.543.07-1.088.197-1.53.234-.818.66-1.773 1.033-2.61l.101-.228c.362-.813.658-1.505.827-2.06q-.058.042-.121.094c-.584.48-1.214 1.269-1.957 2.238l-.16.21c-.643.84-1.384 1.809-2.13 2.478-.412.369-.937.754-1.566.945a2.64 2.64 0 0 1-2.169-.26c-.906-.544-1.172-1.46-1.192-2.195-.019-.696.164-1.433.385-2.097.44-1.32 1.229-2.897 1.952-4.343l.036-.072c.767-1.534 1.46-2.927 1.824-4.022l.007-.021c-.674.618-1.482 1.564-2.352 2.725m7.927 4.073.014.008-.008-.005zm-.025 5.89-.018-.01.01.006z"></path>
+  <path fill="currentColor" d="M8.888 8.761c-1.881 2.514-3.845 5.75-5.077 7.967L1.19 15.271c1.268-2.282 3.305-5.646 5.298-8.308.988-1.319 2.02-2.54 2.982-3.366.475-.407 1.017-.792 1.597-1.013.593-.225 1.42-.342 2.206.13.907.544 1.173 1.46 1.192 2.195.02.696-.163 1.433-.385 2.097-.44 1.32-1.228 2.897-1.951 4.343l-.036.072c-.767 1.534-1.46 2.927-1.825 4.022l-.06.187c.461-.471.967-1.132 1.574-1.924l.091-.119c.695-.906 1.534-1.991 2.434-2.73.896-.736 2.306-1.478 3.865-.699.735.368 1.117 1.015 1.243 1.668.112.578.03 1.157-.077 1.621-.216.933-.69 2.008-1.091 2.912l-.073.164c-.31.699-.583 1.31-.77 1.829l.006-.006c.534-.503.99-1.285 1.168-1.82l2.846.948c-.321.965-1.032 2.183-1.956 3.055-.88.829-2.51 1.795-4.238.757-.75-.45-1.008-1.187-1.056-1.777-.044-.543.07-1.088.197-1.53.234-.818.66-1.773 1.033-2.61l.101-.228c.362-.813.658-1.505.827-2.06l-.121.094c-.584.48-1.214 1.269-1.957 2.238l-.16.21c-.643.84-1.384 1.809-2.13 2.478-.412.369-.937.754-1.566.945a2.64 2.64 0 0 1-2.169-.26c-.906-.544-1.172-1.46-1.192-2.195-.019-.696.164-1.433.385-2.097.44-1.32 1.229-2.897 1.952-4.343l.036-.072c.767-1.534 1.46-2.927 1.824-4.022l.007-.021c-.674.618-1.482 1.564-2.352 2.725m7.927 4.073.014.008-.008-.005zm-.025 5.89-.018-.01.01.006z"></path>
 </symbol><symbol id="pro-sketching-line">
   <path fill="currentColor" d="M8.488 8.462c-1.9 2.538-3.876 5.795-5.114 8.023l-1.748-.97C2.888 13.242 4.913 9.9 6.887 7.262c.982-1.31 1.987-2.497 2.907-3.286.457-.391.947-.734 1.45-.925.51-.195 1.163-.274 1.77.09.71.426.934 1.146.95 1.78.017.609-.144 1.28-.359 1.925-.429 1.287-1.204 2.838-1.935 4.3l-.025.05c-.762 1.523-1.474 2.952-1.852 4.088-.192.573-.265.98-.258 1.239a1 1 0 0 0 .014.137c.03.012.06.012.12-.006.126-.039.332-.153.624-.415.564-.505 1.167-1.292 1.865-2.204l.111-.144c.703-.917 1.507-1.953 2.354-2.65.845-.693 2.035-1.281 3.324-.636.574.286.874.788.976 1.315.093.477.028.977-.074 1.414-.202.877-.653 1.906-1.06 2.821l-.08.181c-.4.896-.753 1.69-.935 2.328a2.7 2.7 0 0 0-.109.542c.237.062.577-.017 1.087-.497.599-.565 1.097-1.42 1.3-2.026l1.897.632c-.298.893-.966 2.039-1.825 2.85-.83.78-2.208 1.55-3.638.692-.57-.342-.776-.904-.815-1.39-.036-.453.06-.93.18-1.352.223-.782.634-1.703 1.011-2.55l.1-.222c.426-.96.788-1.806.939-2.46.06-.263.071-.43.066-.525-.21-.068-.517-.028-1.074.43-.637.522-1.302 1.361-2.037 2.32l-.155.202c-.65.85-1.363 1.782-2.072 2.418-.388.347-.85.678-1.378.839a2.14 2.14 0 0 1-1.765-.21c-.71-.426-.933-1.146-.95-1.78-.017-.61.144-1.28.36-1.925.428-1.287 1.203-2.838 1.935-4.3l.025-.05c.761-1.523 1.473-2.952 1.852-4.088.19-.573.264-.98.257-1.239q0-.033-.003-.058l-.008.003c-.19.073-.478.248-.857.574-.752.645-1.653 1.69-2.609 2.967m3.459-3.639q-.008-.012-.006-.013zM9.56 16.69l-.007-.013q.008.012.007.013"></path>
 </symbol><symbol id="pro-skip-back-fill">
@@ -5675,26 +5619,25 @@
 </symbol><symbol id="pro-slice-line">
   <path fill="currentColor" d="M2.205 19.345 18.303 3.247l3.182 3.182-5.657 5.657 1.768 1.768-.707.707c-3.322 3.321-6.505 4.654-8.908 5.134-1.196.24-2.186.265-2.89.228a8 8 0 0 1-.83-.083c-.696-.11-1.373-.324-2.056-.495m4.277-1.448q.505-.045 1.107-.163c1.856-.37 4.398-1.368 7.163-3.896L13 12.086l5.657-5.657-.354-.354z"></path>
 </symbol><symbol id="pro-slideshow-2-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M21 4h1V2H2v2h1v13h8v3H6v2h12v-2h-5v-3h8zm-6 5.5-5-3v6z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M21 4v13h-8v3h5v2H6v-2h5v-3H3V4H2V2h20v2zm-6 5.5-5-3v6z"></path>
 </symbol><symbol id="pro-slideshow-2-line">
   <path fill="currentColor" d="m15 9.5-5-3v6z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M22 4h-1v13h-8v3h5v2H6v-2h5v-3H3V4H2V2h20zM5 4h14v11H5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M22 4h-1v13h-8v3h5v2H6v-2h5v-3H3V4H2V2h20zM5 4v11h14V4z"></path>
 </symbol><symbol id="pro-slideshow-3-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h20v15h-9v2h4v2H7v-2h4v-2H2zm13 7.5-5-3v6z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h20v15h-9v2h4v2H7v-2h4v-2H2zm13 7.5-5-3v6z"></path>
 </symbol><symbol id="pro-slideshow-3-line">
   <path fill="currentColor" d="m15 10.5-5-3v6z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M2 3h20v15h-9v2h4v2H7v-2h4v-2H2zm2 2v11h16V5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h20v15h-9v2h4v2H7v-2h4v-2H2zm2 2v11h16V5z"></path>
 </symbol><symbol id="pro-slideshow-4-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M22 3h-6.17A3 3 0 0 0 13 1h-2a3 3 0 0 0-2.83 2H2v18h20zM11 3a1 1 0 1 0 0 2h2a1 1 0 1 0 0-2zm4 9-5-3v6z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M22 3v18H2V3h6.17A3 3 0 0 1 11 1h2c1.306 0 2.418.835 2.83 2zM11 3a1 1 0 1 0 0 2h2a1 1 0 1 0 0-2zm4 9-5-3v6z"></path>
 </symbol><symbol id="pro-slideshow-4-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M15.83 3H22v18H2V3h6.17A3 3 0 0 1 11 1h2c1.306 0 2.418.835 2.83 2M8.17 5H4v14h16V5h-4.17A3 3 0 0 1 13 7h-2a3 3 0 0 1-2.83-2M10 4a1 1 0 0 1 1-1h2a1 1 0 1 1 0 2h-2a1 1 0 0 1-1-1" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M15.83 3H22v18H2V3h6.17A3 3 0 0 1 11 1h2c1.306 0 2.418.835 2.83 2M8.17 5H4v14h16V5h-4.17A3 3 0 0 1 13 7h-2a3 3 0 0 1-2.83-2M10 4a1 1 0 0 0 1 1h2a1 1 0 1 0 0-2h-2a1 1 0 0 0-1 1"></path>
   <path fill="currentColor" d="M10 15V9l5 3z"></path>
 </symbol><symbol id="pro-slideshow-fill">
-  <path fill="currentColor" d="M2 3h20v2H2z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M22 6H2v15h9v2h2v-2h9zm-10.506 8.667q.202-.301.325-.64l.01-.027c.112-.32.171-.658.171-1H9v-3a3 3 0 0 0-.976.163L8 10.172a3 3 0 0 0-1.942 3.413 3 3 0 0 0 5.436 1.082M13 10h5v2h-5zm0 4h5v2h-5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M2 3h20v2H2zm20 3H2v15h9v2h2v-2h9zm-10.506 8.667A3 3 0 1 1 8 10.172l.024-.009A3 3 0 0 1 9 10v3h3c0 .342-.059.68-.172 1l-.01.027q-.122.339-.324.64M13 10h5v2h-5zm0 4h5v2h-5z"></path>
 </symbol><symbol id="pro-slideshow-line">
   <path fill="currentColor" d="M2 3h20v2H2zm16 7h-5v2h5zm-5 4h5v2h-5zm-1.506.667A3 3 0 0 0 12 13H9v-3a3 3 0 1 0 2.494 4.667"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M22 6H2v15h9v2h2v-2h9zM4 19V8h16v11z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M22 6H2v15h9v2h2v-2h9zM4 19V8h16v11z"></path>
 </symbol><symbol id="pro-slideshow-view-fill">
   <path fill="currentColor" d="m2 4 1-1h18l1 1v10H2zm0 12v4l1 1h5v-5zm8 5h4v-5h-4zm6 0h5l1-1v-4h-6z"></path>
 </symbol><symbol id="pro-slideshow-view-line">
@@ -5875,7 +5818,7 @@
 </symbol><symbol id="pro-star-fill">
   <path fill="currentColor" d="M11.092 2.581 8.505 8.19l-6.133.727-.562 1.727 4.535 4.193-1.204 6.058 1.47 1.068L12 18.946l5.39 3.017 1.469-1.068-1.204-6.058 4.534-4.193-.56-1.727-6.134-.727-2.587-5.609z"></path>
 </symbol><symbol id="pro-star-half-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="m12 5.388-1.913 4.148-.79.574-4.537.538 3.354 3.101.302.93-.89 4.48 3.986-2.232h.976l3.986 2.232-.89-4.48.302-.93 3.354-3.101-4.536-.538-.79-.574zM8.505 8.19l2.587-5.609h1.816l2.587 5.609 6.133.727.561 1.727-4.534 4.193 1.204 6.058-1.47 1.068L12 18.946l-5.388 3.017-1.47-1.068 1.204-6.058-4.535-4.193.562-1.727z" clip-rule="evenodd"></path>
+  <path fill="currentColor" fill-rule="evenodd" d="m12 5.388-1.913 4.148-.79.574-4.537.538 3.354 3.101.302.93-.89 4.48 3.986-2.232h.976l3.986 2.232-.89-4.48.302-.93 3.354-3.101-4.536-.538-.79-.574zM8.505 8.19l2.587-5.609h1.816l2.587 5.609 6.133.727.561 1.727-4.534 4.193 1.204 6.058-1.47 1.068L12 18.946l-5.39 3.017-1.469-1.068 1.204-6.058-4.535-4.193.562-1.727z" clip-rule="evenodd"></path>
   <path fill="currentColor" d="M12 3v14.8l-5.878 3.29 1.313-6.607L2.489 9.91l6.69-.793z"></path>
 </symbol><symbol id="pro-star-half-line">
   <path fill="currentColor" d="M12 2.581h-.908L8.505 8.19l-6.133.727-.562 1.727 4.535 4.193-1.204 6.058 1.47 1.068L12 18.946v-2.019h-.489L7.525 19.16l.89-4.48-.301-.93-3.354-3.101 4.536-.538.79-.574L12 5.388z"></path>
@@ -5884,8 +5827,8 @@
 </symbol><symbol id="pro-star-s-fill">
   <path fill="currentColor" d="M11.092 4.581 9.069 8.966l-4.795.569-.561 1.727 3.545 3.279-.941 4.736 1.47 1.068L12 17.986l4.214 2.359 1.47-1.068-.942-4.736 3.546-3.279-.562-1.727-4.795-.569-2.023-4.385z"></path>
 </symbol><symbol id="pro-star-s-half-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="m12 7.388-1.349 2.924-.79.574-3.199.38 2.365 2.186.302.93L8.7 17.54l2.81-1.574h.978l2.81 1.574-.628-3.16.302-.929 2.365-2.186-3.199-.38-.79-.574zM9.07 8.966l2.022-4.385h1.816l2.023 4.385 4.795.569.562 1.727-3.546 3.279.941 4.736-1.47 1.068L12 17.986l-4.214 2.359-1.47-1.068.942-4.736-3.545-3.279.56-1.727z" clip-rule="evenodd"></path>
-  <path fill="currentColor" d="M12 5v11.84l-4.702 2.632 1.05-5.285-3.956-3.66 5.351-.634z"></path>
+  <path fill="currentColor" fill-rule="evenodd" d="m12 7.388-1.349 2.924-.79.574-3.199.38 2.365 2.186.302.93L8.7 17.54l2.81-1.574h.977l2.81 1.574-.627-3.16.302-.929 2.365-2.186-3.199-.38-.79-.574zM9.07 8.966l2.022-4.385h1.816l2.023 4.385 4.795.569.561 1.727-3.545 3.279.941 4.736-1.47 1.068L12 17.986l-4.214 2.359-1.47-1.068.942-4.736-3.545-3.279.56-1.727z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M12 5v11.84l-4.702 2.632 1.05-5.285-3.956-3.66 5.35-.634z"></path>
 </symbol><symbol id="pro-star-s-half-line">
   <path fill="currentColor" d="M12 4.581h-.908L9.069 8.966l-4.795.569-.561 1.727 3.545 3.279-.941 4.736 1.47 1.068L12 17.986v-2.019h-.488l-2.81 1.574.627-3.16-.302-.929-2.365-2.186 3.199-.38.79-.574L12 7.388z"></path>
 </symbol><symbol id="pro-star-s-line">
@@ -5915,19 +5858,19 @@
 </symbol><symbol id="pro-sticky-note-2-fill">
   <path fill="currentColor" d="M21 3H3v18h12.914L21 15.914z"></path>
 </symbol><symbol id="pro-sticky-note-2-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 3h18v12.914L15.914 21H3zm2 2v14h10.086L19 15.086V5z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 3h18v12.914L15.914 21H3zm2 2v14h10.086L19 15.086V5z"></path>
 </symbol><symbol id="pro-sticky-note-add-fill">
   <path fill="currentColor" d="M4 6v3h2V6h3V4H6V1H4v3H1v2z"></path>
   <path fill="currentColor" d="M11 5a6 6 0 0 1-8 5.659V21h10v-7l1-1h7V3H10.659A6 6 0 0 1 11 5"></path>
   <path fill="currentColor" d="m15 21 6-6h-6z"></path>
 </symbol><symbol id="pro-sticky-note-add-line">
   <path fill="currentColor" d="M4 6v3h2V6h3V4H6V1H4v3H1v2z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M3 21V11h2v8h8v-5l1-1h5V5h-8V3h10v12.08L15.08 21zm12-2.747L18.253 15H15z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 21V11h2v8h8v-5l1-1h5V5h-8V3h10v12.08L15.08 21zm12-2.747L18.253 15H15z"></path>
 </symbol><symbol id="pro-sticky-note-fill">
   <path fill="currentColor" d="M13 21H3V3h18v10h-7l-1 1z"></path>
   <path fill="currentColor" d="m15 21 6-6h-6z"></path>
 </symbol><symbol id="pro-sticky-note-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 21V3h18v12.08L15.08 21zm10-2H5V5h14v8h-5l-1 1zm2-.747L18.253 15H15z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 21V3h18v12.08L15.08 21zm10-2v-5l1-1h5V5H5v14zm2-.747L18.253 15H15z"></path>
 </symbol><symbol id="pro-stop-circle-fill">
   <path fill="currentColor" d="M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12m13-3H9v6h6z"></path>
 </symbol><symbol id="pro-stop-circle-line">
@@ -6044,11 +5987,11 @@
   <path fill="currentColor" d="M12 9a3 3 0 1 0 0 6 3 3 0 0 0 0-6m-1 3a1 1 0 1 1 2 0 1 1 0 0 1-2 0m4.536 3.536A4.98 4.98 0 0 0 17 12c0-1.38-.56-2.63-1.464-3.536L16.95 7.05A6.98 6.98 0 0 1 19 12a6.98 6.98 0 0 1-2.05 4.95zM7 12c0 1.38.56 2.63 1.464 3.536L7.05 16.95A6.98 6.98 0 0 1 5 12c0-1.933.784-3.683 2.05-4.95l1.414 1.415A4.98 4.98 0 0 0 7 12"></path>
   <path fill="currentColor" d="M3 3 2 4v16l1 1h18l1-1V4l-1-1zm1 16V5h16v14z"></path>
 </symbol><symbol id="pro-survey-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M3 4h3v4h12V4h3v18H3zm4 6v2h2v-2zm0 3v2h2v-2zm0 5v-2h2v2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M3 4h3v4h12V4h3v18H3zm4 6v2h2v-2zm0 3v2h2v-2zm0 5h2v-2H7z"></path>
   <path fill="currentColor" d="M8 3v3h8V3z"></path>
 </symbol><symbol id="pro-survey-line">
   <path fill="currentColor" d="M7 10v2h2v-2zm0 5v-2h2v2zm0 1v2h2v-2z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M7 2h10v2h4v18H3V4h4zm10 6V6h2v14H5V6h2v2zM9 4v2h6V4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M7 2h10v2h4v18H3V4h4zm10 6H7V6H5v14h14V6h-2zM9 4v2h6V4z"></path>
 </symbol><symbol id="pro-svelte-fill">
   <path fill="currentColor" d="M10.99 1.974c2.92-1.86 6.957-.992 9.001 1.934a6.27 6.27 0 0 1 1.072 4.74 5.9 5.9 0 0 1-.88 2.198c.64 1.221.855 2.62.61 3.977a5.88 5.88 0 0 1-2.657 3.94l-5.127 3.268c-2.92 1.86-6.957.993-9.002-1.933a6.27 6.27 0 0 1-1.07-4.741 5.9 5.9 0 0 1 .88-2.198 6.2 6.2 0 0 1-.611-3.977 5.88 5.88 0 0 1 2.658-3.94zM8.049 20.25c.782.29 1.633.332 2.44.123.369-.099.72-.253 1.042-.458l5.128-3.267a3.54 3.54 0 0 0 1.598-2.37 3.77 3.77 0 0 0-.645-2.85 4.07 4.07 0 0 0-4.37-1.62c-.369.099-.72.253-1.042.458l-1.957 1.246a1.1 1.1 0 0 1-.314.138 1.227 1.227 0 0 1-1.5-.899 1.1 1.1 0 0 1-.01-.45 1.07 1.07 0 0 1 .48-.713l5.129-3.268a1.1 1.1 0 0 1 .314-.138 1.23 1.23 0 0 1 1.317.489c.157.222.23.492.207.762l-.018.19.191.058a6.6 6.6 0 0 1 2.005 1.003l.263.192.096-.295q.078-.235.123-.478a3.77 3.77 0 0 0-.644-2.85 4.07 4.07 0 0 0-4.371-1.621 3.7 3.7 0 0 0-1.042.458L7.34 7.357a3.54 3.54 0 0 0-1.6 2.37 3.77 3.77 0 0 0 .645 2.85 4.07 4.07 0 0 0 4.371 1.62c.369-.099.72-.253 1.042-.457l1.956-1.248q.148-.093.315-.137a1.23 1.23 0 0 1 1.5.899c.034.147.037.3.011.449a1.07 1.07 0 0 1-.482.713l-5.127 3.269a1.1 1.1 0 0 1-.314.137 1.23 1.23 0 0 1-1.317-.488 1.15 1.15 0 0 1-.207-.762l.017-.19-.19-.058a6.6 6.6 0 0 1-2.005-1.003l-.263-.192-.096.295a4 4 0 0 0-.123.478 3.77 3.77 0 0 0 .644 2.85 4.07 4.07 0 0 0 1.93 1.498"></path>
 </symbol><symbol id="pro-svelte-line">
@@ -6061,7 +6004,7 @@
   <path fill="currentColor" d="m3.764 6.74 11.314 11.314-1.414 1.414 1.414 1.414 2.475-2.475 2.828 2.828 1.414-1.414-2.828-2.828 2.475-2.475-1.414-1.414-1.414 1.414L7.3 3.204l-.707-.293H4.47l-1 1v2.122z"></path>
   <path fill="currentColor" d="m20.913 6.917.292-.708V4.09l-1-1h-2.12l-.708.292-3.89 3.89 3.536 3.535zm-14.85 7.778 1.768-1.768 3.535 3.536L9.6 18.23l1.414 1.415L9.6 21.059l-2.475-2.475-2.828 2.828-1.414-1.414L5.71 17.17l-2.475-2.475 1.414-1.415z"></path>
 </symbol><symbol id="pro-sword-line">
-  <path fill="currentColor" fill-rule="evenodd" d="m7.3 3.204-.708-.293H4.471l-1 1v2.121l.293.708 5.127 5.126-2.829 2.828-1.414-1.414-1.414 1.415L5.71 17.17l-2.83 2.828 1.414 1.414 2.828-2.828 2.475 2.474 1.414-1.414-1.414-1.414 2.828-2.828 2.652 2.652-1.414 1.414 1.414 1.414 2.475-2.475 2.829 2.828 1.414-1.414-2.829-2.829 2.475-2.474-1.414-1.414-1.415 1.414-2.651-2.652 4.95-4.95.292-.707V4.088l-1-1h-2.121l-.707.293-4.95 4.95zm6.54 6.54.707.708 4.657-4.657v-.707h-.707zm-2.828 4.244-.707-.708-2.828 2.829.707.707zM5.47 4.91h.707L17.2 15.932l-.707.707L5.47 5.62z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m7.3 3.204-.708-.293H4.471l-1 1v2.121l.293.708 5.127 5.126-2.829 2.828-1.414-1.414-1.414 1.415L5.71 17.17l-2.83 2.828 1.414 1.414 2.828-2.828 2.475 2.474 1.414-1.414-1.414-1.414 2.828-2.828 2.652 2.652-1.414 1.414 1.414 1.414 2.475-2.475 2.829 2.828 1.414-1.414-2.829-2.829 2.475-2.474-1.414-1.414-1.415 1.414-2.651-2.652 4.95-4.95.292-.707V4.088l-1-1h-2.121l-.707.293-4.95 4.95zm6.54 6.54 4.657-4.656h.707v.707l-4.657 4.657zm-2.828 4.244-2.828 2.828-.707-.707 2.828-2.829zM5.47 4.91h.707L17.2 15.932l-.707.707L5.47 5.62z"></path>
 </symbol><symbol id="pro-syringe-fill">
   <path fill="currentColor" d="m16.657 1.686 5.657 5.657-1.415 1.414-2.12-2.12-2.122 2.12 2.121 2.122v1.414l-7.071 7.071-.707.293H5.757L3.93 21.485l-1.414-1.414 1.828-1.828V13l.293-.707 7.071-7.071h1.414l2.122 2.121 2.12-2.121-2.12-2.122zM11.354 11.94l1.414-1.414-2.475-2.475-1.414 1.414zm-2.829 2.829 1.414-1.415-2.474-2.474-1.415 1.414z"></path>
 </symbol><symbol id="pro-syringe-line">
@@ -6126,10 +6069,10 @@
   <path fill="currentColor" d="M13.17 13A3 3 0 1 1 16 15H8a3 3 0 1 1 2.83-2zM15 12a1 1 0 1 0 2 0 1 1 0 0 0-2 0m-7 1a1 1 0 1 0 0-2 1 1 0 0 0 0 2"></path>
   <path fill="currentColor" d="M22 3H2v18h20zM4 19V5h16v14z"></path>
 </symbol><symbol id="pro-task-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="m3 3 1-1h16l1 1v18l-1 1H4l-1-1zm8 12.914 5.707-5.707-1.414-1.414L11 13.086l-2.293-2.293-1.414 1.414z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="m3 3 1-1h16l1 1v18l-1 1H4l-1-1zm8 12.914 5.707-5.707-1.414-1.414L11 13.086l-2.293-2.293-1.414 1.414z"></path>
 </symbol><symbol id="pro-task-line">
   <path fill="currentColor" d="m11 15.914 5.707-5.707-1.414-1.414L11 13.086l-2.293-2.293-1.414 1.414z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M4 2 3 3v18l1 1h16l1-1V3l-1-1zm1 18V4h14v16z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M4 2 3 3v18l1 1h16l1-1V3l-1-1zm1 18V4h14v16z"></path>
 </symbol><symbol id="pro-taxi-fill">
   <path fill="currentColor" d="M9 3h6v2h3.594L22 11.245V22h-3v-2H5v2H2V11.245L5.406 5H9zm10.588 8-2.182-4H6.594l-2.182 4zM9 15.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0m9 0a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0"></path>
 </symbol><symbol id="pro-taxi-line">
@@ -6295,10 +6238,10 @@
   <path fill="currentColor" d="M16 1H8v2h8zm-5 13V9h2v5z"></path>
   <path fill="currentColor" d="M12 4a9 9 0 1 0 7.25 3.665l1.957-1.958-1.414-1.414-1.902 1.902A8.97 8.97 0 0 0 12 4m-7 9a7 7 0 1 1 14 0 7 7 0 0 1-14 0"></path>
 </symbol><symbol id="pro-todo-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M9 3h6V1h2v2h4v20H3V3h4V1h2zm8 8H7V9h10zm0 4H7v-2h10z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M9 3V1H7v2H3v20h18V3h-4V1h-2v2zm8 8H7V9h10zm0 4H7v-2h10z"></path>
 </symbol><symbol id="pro-todo-line">
   <path fill="currentColor" d="M17 11H7V9h10zM7 15h10v-2H7z"></path>
-  <path fill="currentColor" fill-rule="evenodd" d="M15 3H9V1H7v2H3v20h18V3h-4V1h-2zM7 7V5H5v16h14V5h-2v2h-2V5H9v2z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M15 3H9V1H7v2H3v20h18V3h-4V1h-2zM7 7h2V5h6v2h2V5h2v16H5V5h2z"></path>
 </symbol><symbol id="pro-toggle-fill">
   <path fill="currentColor" d="M1 12a7 7 0 0 1 7-7h7.518v.016q.24-.015.482-.016a7 7 0 1 1 0 14H8a7 7 0 0 1-7-7m18 0a3 3 0 1 0-6 0 3 3 0 0 0 6 0"></path>
 </symbol><symbol id="pro-toggle-line">
@@ -6617,7 +6560,7 @@
 </symbol><symbol id="pro-vk-line">
   <path fill="currentColor" d="M5.827 5.828c-.344.349-.57.839-.696 1.77-.129.965-.13 2.243-.13 4.082v.64c0 1.836.001 3.113.13 4.077.125.932.352 1.425.697 1.777.35.343.84.57 1.77.695.965.129 2.243.131 4.082.131h.64c1.836 0 3.113-.002 4.078-.131.931-.125 1.424-.352 1.776-.697.343-.349.57-.839.695-1.77.13-.965.131-2.243.131-4.082v-.64c0-1.836-.002-3.113-.13-4.077-.126-.932-.353-1.425-.698-1.777-.349-.343-.839-.57-1.77-.695C15.437 5.002 14.159 5 12.32 5h-.64c-1.836 0-3.113.002-4.077.131-.932.125-1.424.352-1.776.697M11.68 3h.64c1.445 0 2.912-.043 4.347.149 1.156.155 2.135.486 2.917 1.26l.008.009c.773.784 1.105 1.763 1.26 2.92.191 1.433.148 2.899.148 4.342v.64c0 1.444.044 2.911-.149 4.347-.154 1.156-.486 2.135-1.26 2.917l-.009.008c-.783.773-1.762 1.104-2.92 1.26-1.433.191-2.899.148-4.342.148h-.64c-1.444 0-2.911.043-4.346-.149-1.157-.155-2.136-.486-2.917-1.26l-.009-.009c-.772-.784-1.104-1.763-1.259-2.92C2.957 15.23 3 13.764 3 12.32v-.64c0-1.444-.043-2.911.15-4.347.154-1.156.486-2.135 1.26-2.917l.008-.008c.784-.773 1.763-1.104 2.92-1.26C8.772 2.958 10.238 3 11.68 3M6.036 8.478c.096 4.68 2.436 7.488 6.54 7.488h.24V13.29c1.506.15 2.646 1.254 3.102 2.676h2.13a5.92 5.92 0 0 0-3.078-3.756 5.72 5.72 0 0 0 2.628-3.738h-1.932c-.42 1.488-1.668 2.838-2.85 2.964V8.478h-1.938v5.184c-1.2-.3-2.712-1.752-2.778-5.184z"></path>
 </symbol><symbol id="pro-voice-recognition-fill">
-  <path fill="currentColor" fill-rule="evenodd" d="M21 3H3v18h18zM11 6v12h2V6zM7 9v6h2V9zm8 6V9h2v6z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M21 3H3v18h18zM11 6h2v12h-2zM7 9h2v6H7zm8 6V9h2v6z"></path>
 </symbol><symbol id="pro-voice-recognition-line">
   <path fill="currentColor" d="M9 3H3v6h2V5h4zm6 2h4v4h2V3h-6zM5 15v4h4v2H3v-6zm14 0v4h-4v2h6v-6zM7 9v6h2V9zm4 9V6h2v12zm4-9v6h2V9z"></path>
 </symbol><symbol id="pro-voiceprint-fill">
@@ -6701,7 +6644,7 @@
   <path fill="currentColor" d="M12 2a3 3 0 1 0 0 6 3 3 0 0 0-3 3v6h7.434l2.708 4.515 1.716-1.03L17.566 15H15v-4a3 3 0 0 0-3-3 3 3 0 1 0 0-6"></path>
   <path fill="currentColor" d="M8 10.341A6 6 0 1 0 15.659 18h-2.194A4 4 0 1 1 8 12.535z"></path>
 </symbol><symbol id="pro-wheelchair-line">
-  <path fill="currentColor" fill-rule="evenodd" d="M12 2a3 3 0 1 0 0 6 3 3 0 0 0-3 3v6h7.434l2.708 4.515 1.716-1.03L17.566 15H15v-4a3 3 0 0 0-3-3 3 3 0 1 0 0-6m-1 3a1 1 0 1 1 2 0 1 1 0 0 1-2 0m2 10v-4a1 1 0 1 0-2 0v4z" clip-rule="evenodd"></path>
+  <path fill="currentColor" d="M12 2a3 3 0 1 0 0 6 3 3 0 0 0-3 3v6h7.434l2.708 4.515 1.716-1.03L17.566 15H15v-4a3 3 0 0 0-3-3 3 3 0 1 0 0-6m-1 3a1 1 0 1 1 2 0 1 1 0 0 1-2 0m2 10h-2v-4a1 1 0 1 1 2 0z"></path>
   <path fill="currentColor" d="M4 16a6 6 0 0 1 4-5.659v2.194A4 4 0 1 0 13.465 18h2.194A6 6 0 0 1 4 16"></path>
 </symbol><symbol id="pro-wifi-fill">
   <path fill="currentColor" d="M.477 7.172A17.93 17.93 0 0 1 12 3c4.384 0 8.402 1.567 11.524 4.172l-1.92 2.304A14.94 14.94 0 0 0 12 6a14.94 14.94 0 0 0-9.603 3.476zm19.846 3.84A12.95 12.95 0 0 0 12 8a12.95 12.95 0 0 0-8.322 3.013l1.92 2.305A9.96 9.96 0 0 1 12 11a9.96 9.96 0 0 1 6.402 2.318zm-3.201 3.842A7.97 7.97 0 0 0 12 13a7.97 7.97 0 0 0-5.121 1.854l1.92 2.305A4.98 4.98 0 0 1 12 16a4.98 4.98 0 0 1 3.201 1.159zm-3.201 3.841A3 3 0 0 0 12 18c-.731 0-1.401.261-1.921.695L12 21z"></path>

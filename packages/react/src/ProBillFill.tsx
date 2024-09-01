@@ -12,12 +12,7 @@ export const ProBillFill = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <path
-          fill={color}
-          d="M3 2h18v20H3zm13 9H8V9h8zm0 4H8v-2h8z"
-          fillRule="evenodd"
-          clipRule="evenodd"
-        />
+        <path fill={color} d="M3 2v20h18V2zm13 9H8V9h8zm0 4H8v-2h8z" />
       </svg>
     );
   },

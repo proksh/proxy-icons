@@ -16,8 +16,6 @@ export const ProReservedLine = React.forwardRef<SVGSVGElement, IconProps>(
         <path
           fill={color}
           d="M4 3 3 4v10l1 1h7v4H8v2h8v-2h-3v-4h7l1-1V4l-1-1zm1 10V5h14v8z"
-          fillRule="evenodd"
-          clipRule="evenodd"
         />
       </svg>
     );

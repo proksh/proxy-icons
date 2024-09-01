@@ -15,8 +15,6 @@ export const ProDice1Fill = React.forwardRef<SVGSVGElement, IconProps>(
         <path
           fill={color}
           d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm9 10a2 2 0 1 0 0-4 2 2 0 0 0 0 4"
-          fillRule="evenodd"
-          clipRule="evenodd"
         />
       </svg>
     );

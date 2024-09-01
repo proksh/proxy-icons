@@ -14,9 +14,7 @@ export const ProFileGifFill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M3 2h12.914L21 7.086V22H3zm4 9.5A1.5 1.5 0 0 1 8.5 10H11v1H8.5a.5.5 0 0 0-.5.5v2a.5.5 0 0 0 .5.5H10v-1H9v-1h2v3H8.5A1.5 1.5 0 0 1 7 13.5zm5 3.5v-5h1v5zm5-5h-3v5h1v-2h2v-1h-2v-1h2z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M3 2h12.914L21 7.086V22H3zm4 9.5v2A1.5 1.5 0 0 0 8.5 15H11v-3H9v1h1v1H8.5a.5.5 0 0 1-.5-.5v-2a.5.5 0 0 1 .5-.5H11v-1H8.5A1.5 1.5 0 0 0 7 11.5m5 3.5h1v-5h-1zm5-5h-3v5h1v-2h2v-1h-2v-1h2z"
         />
       </svg>
     );

@@ -5,8 +5,6 @@
   />
   <path
     fill="currentColor"
-    fill-rule="evenodd"
     d="M22 11h-9v5.763a3 3 0 0 0 1.139 2.353l3.361 2.66 3.361-2.66A3 3 0 0 0 22 16.763zm-7 5.763V13h5v3.763a1 1 0 0 1-.38.784l-2.12 1.678-2.12-1.678a1 1 0 0 1-.38-.784"
-    clip-rule="evenodd"
   />
 </svg>

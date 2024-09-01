@@ -14,9 +14,7 @@ export const ProFileCopy2Fill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="m7 3 1-1h12l1 1v14l-1 1h-3v3l-1 1H4l-1-1V7l1-1h3zm12 13h-2V7l-1-1H9V4h10zm-6-3H7v-2h6zm0 4H7v-2h6z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M7 3v3H4L3 7v14l1 1h12l1-1v-3h3l1-1V3l-1-1H8zm12 13h-2V7l-1-1H9V4h10zm-6-3H7v-2h6zm0 4H7v-2h6z"
         />
       </svg>
     );

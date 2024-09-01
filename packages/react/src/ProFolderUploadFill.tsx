@@ -15,8 +15,6 @@ export const ProFolderUploadFill = React.forwardRef<SVGSVGElement, IconProps>(
         <path
           fill={color}
           d="M2 3h8.414l2 2H22v16H2zm11.25 9.996H16L11.99 9 8 12.996h2.75V17h2.5z"
-          fillRule="evenodd"
-          clipRule="evenodd"
         />
       </svg>
     );

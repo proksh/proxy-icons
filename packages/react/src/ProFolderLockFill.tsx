@@ -15,9 +15,7 @@ export const ProFolderLockFill = React.forwardRef<SVGSVGElement, IconProps>(
         <path fill={color} d="M12.75 11.25V12h-1.5v-.75a.75.75 0 0 1 1.5 0" />
         <path
           fill={color}
-          d="M2 3h8.414l2 2H22v16H2zm7.25 8.25a2.75 2.75 0 1 1 5.5 0V12h.75v4.5h-7V12h.75z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M2 3h8.414l2 2H22v16H2zm7.25 8.25V12H8.5v4.5h7V12h-.75v-.75a2.75 2.75 0 1 0-5.5 0"
         />
       </svg>
     );

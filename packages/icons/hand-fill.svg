@@ -1,21 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
-  <g clip-path="url(#a)">
-    <path
-      fill="currentColor"
-      fill-rule="evenodd"
-      d="M10.952 0h3.286v2.19h3.286v3.286h3.285v6.572h-3.285v4.38H9.462l1.829 3.168a1.643 1.643 0 0 1-2.846 1.643l-5.433-9.411a1.643 1.643 0 1 1 2.845-1.643l1.81 3.133V2.19h3.285z"
-      clip-rule="evenodd"
-    />
-    <path
-      stroke="currentColor"
-      d="M21 12v3.176C21 19.496 17.46 23 13.139 23a7.76 7.76 0 0 1-7.056-4.52l-3.325-7.283a1.434 1.434 0 0 1 2.547-1.312l2.283 3.961"
-    />
-    <path
-      stroke="currentColor"
-      d="M11 11.818V3.5a1.5 1.5 0 1 0-3 0V14m6-2V1.5a1.5 1.5 0 0 0-3 0V12m7 0V4a2 2 0 1 0-4 0v8m7 0V6.5a1.5 1.5 0 0 0-3 0V12"
-    />
-  </g>
-  <defs>
-    <clipPath id="a"><path fill="currentColor" d="M0 0h24v24H0z" /></clipPath>
-  </defs>
+  <path
+    fill="currentColor"
+    d="M12.5 0A1.5 1.5 0 0 0 11 1.5V11h-.5V3.5a1.5 1.5 0 1 0-3 0v9L5.7 9.125a1.799 1.799 0 0 0-3.21 1.625l3.77 7.853A7.752 7.752 0 0 0 21 15.248V6a1.5 1.5 0 0 0-3 0v5h-.5V3a1.5 1.5 0 0 0-3 0v8H14V1.5A1.5 1.5 0 0 0 12.5 0"
+  />
 </svg>

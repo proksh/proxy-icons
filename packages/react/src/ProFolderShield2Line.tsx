@@ -19,8 +19,6 @@ export const ProFolderShield2Line = React.forwardRef<SVGSVGElement, IconProps>(
         <path
           fill={color}
           d="M22 11h-9v5.763a3 3 0 0 0 1.139 2.353l3.361 2.66 3.361-2.66A3 3 0 0 0 22 16.763zm-7 5.763V13h5v3.763a1 1 0 0 1-.38.784l-2.12 1.678-2.12-1.678a1 1 0 0 1-.38-.784"
-          fillRule="evenodd"
-          clipRule="evenodd"
         />
       </svg>
     );

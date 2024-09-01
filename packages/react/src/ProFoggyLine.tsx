@@ -12,14 +12,10 @@ export const ProFoggyLine = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <g fill={color} clipPath="url(#a)">
-          <path d="M15.733 7.384A5 5 0 0 0 6 9l.002.923-.892.098A3.5 3.5 0 0 0 2.036 13H.022a5.5 5.5 0 0 1 4.024-4.805 7.001 7.001 0 0 1 13.281-2.193L17.5 6a6.5 6.5 0 0 1 6.5 6.5v.5h-2v-.5a4.5 4.5 0 0 0-5.172-4.45l-.825.123zM4 19h17v2H4zm20-4H0v2h24z" />
-        </g>
-        <defs>
-          <clipPath id="a">
-            <path fill={color} d="M0 0h24v24H0z" />
-          </clipPath>
-        </defs>
+        <path
+          fill={color}
+          d="M15.72 7.384A5 5 0 0 0 5.988 9l.003.923-.893.098A3.5 3.5 0 0 0 2.023 13H.01a5.5 5.5 0 0 1 4.023-4.805 7.001 7.001 0 0 1 13.282-2.193L17.487 6a6.5 6.5 0 0 1 6.5 6.5v.5h-2v-.5a4.5 4.5 0 0 0-5.172-4.45l-.825.123zM3.987 19h17v2h-17zm19.981-4H.01v2h23.958z"
+        />
       </svg>
     );
   },

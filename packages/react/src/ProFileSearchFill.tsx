@@ -15,9 +15,7 @@ export const ProFileSearchFill = React.forwardRef<SVGSVGElement, IconProps>(
         <path fill={color} d="M11 9a2 2 0 1 0 0 4 2 2 0 0 0 0-4" />
         <path
           fill={color}
-          d="M3 2h12.914L21 7.086V22H3zm4 9a4 4 0 1 1 7.446 2.032l2.261 2.26-1.414 1.415-2.261-2.26A4 4 0 0 1 7 11"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M3 2v20h18V7.086L15.914 2zm4 9a4 4 0 1 1 7.446 2.032l2.261 2.26-1.414 1.415-2.261-2.26A4 4 0 0 1 7 11"
         />
       </svg>
     );

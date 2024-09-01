@@ -12,12 +12,7 @@ export const ProFile2Line = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <path
-          fill={color}
-          d="M21 2H8.086L3 7.086V22h18zm-2 2v16H5V8h4V4z"
-          fillRule="evenodd"
-          clipRule="evenodd"
-        />
+        <path fill={color} d="M21 2H8.086L3 7.086V22h18zm-2 2v16H5V8h4V4z" />
       </svg>
     );
   },

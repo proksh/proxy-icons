@@ -14,9 +14,7 @@ export const ProFileList2Fill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M3 2h18v20H3zm5 7h8V7H8zm0 4h8v-2H8zm5 4H8v-2h5z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M3 2h18v20H3zm5 7h8V7H8zm0 4h8v-2H8zm5 4v-2H8v2z"
         />
       </svg>
     );

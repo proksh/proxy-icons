@@ -14,9 +14,7 @@ export const ProClipboardLine = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M17 2H7v2H4L3 5v16l1 1h16l1-1V5l-1-1h-3zm0 4v2H7V6H5v14h14V6zm-2 0H9V4h6z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M17 2H7v2H4L3 5v16l1 1h16l1-1V5l-1-1h-3zm0 4h2v14H5V6h2v2h10zm-2 0H9V4h6z"
         />
       </svg>
     );

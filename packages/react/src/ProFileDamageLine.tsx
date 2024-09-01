@@ -14,9 +14,7 @@ export const ProFileDamageLine = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M15.914 2H3v20h18V7.086zM5 15.25V20h14V8h-4V4H5v7.714L6.5 13 10 9.5l3 5 2-2.5 3 3-3-.5-2 2.5-3-4-3 3.5z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M15.914 2H3v20h18V7.086zM5 15.25l2 1.25 3-3.5 3 4 2-2.5 3 .5-3-3-2 2.5-3-5L6.5 13 5 11.714V4h10v4h4v12H5z"
         />
       </svg>
     );

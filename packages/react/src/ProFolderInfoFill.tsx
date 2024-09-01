@@ -14,9 +14,7 @@ export const ProFolderInfoFill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M2 3h8.414l2 2H22v16H2zm11 6v2h-2V9zm0 3v5h-2v-5z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M2 3v18h20V5h-9.586l-2-2zm11 6v2h-2V9zm0 3v5h-2v-5z"
         />
       </svg>
     );

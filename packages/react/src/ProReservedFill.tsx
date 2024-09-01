@@ -15,8 +15,6 @@ export const ProReservedFill = React.forwardRef<SVGSVGElement, IconProps>(
         <path
           fill={color}
           d="m3 4 1-1h16l1 1v10l-1 1h-7v4h3v2H8v-2h3v-4H4l-1-1zm5 6h8V8H8z"
-          fillRule="evenodd"
-          clipRule="evenodd"
         />
       </svg>
     );

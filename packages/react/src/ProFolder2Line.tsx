@@ -14,9 +14,7 @@ export const ProFolder2Line = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M10.414 3H2v18h20V5h-9.586zM20 9V7h-8.414l-2-2H4v4zM4 11v8h16v-8z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M10.414 3H2v18h20V5h-9.586zM20 9H4V5h5.586l2 2H20zM4 11h16v8H4z"
         />
       </svg>
     );

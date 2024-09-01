@@ -16,9 +16,7 @@ export const ProVoiceRecognitionFill = React.forwardRef<
     >
       <path
         fill={color}
-        d="M21 3H3v18h18zM11 6v12h2V6zM7 9v6h2V9zm8 6V9h2v6z"
-        fillRule="evenodd"
-        clipRule="evenodd"
+        d="M21 3H3v18h18zM11 6h2v12h-2zM7 9h2v6H7zm8 6V9h2v6z"
       />
     </svg>
   );

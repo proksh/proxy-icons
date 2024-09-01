@@ -15,8 +15,6 @@ export const ProBookFill = React.forwardRef<SVGSVGElement, IconProps>(
         <path
           fill={color}
           d="M6 2a3 3 0 0 0-3 3v14a3 3 0 0 0 3 3h15V2zM5 18.5A1.5 1.5 0 0 1 6.5 17H19v3H6.5A1.5 1.5 0 0 1 5 18.5"
-          fillRule="evenodd"
-          clipRule="evenodd"
         />
       </svg>
     );

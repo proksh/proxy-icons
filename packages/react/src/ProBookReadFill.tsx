@@ -13,12 +13,7 @@ export const ProBookReadFill = React.forwardRef<SVGSVGElement, IconProps>(
         ref={forwardedRef}
       >
         <path fill={color} d="M19 9h-6V7h6zm-6 3h6v-2h-6z" />
-        <path
-          fill={color}
-          d="m2 4 1-1h18l1 1v16l-1 1H3l-1-1zm18 1h-8v14h8z"
-          fillRule="evenodd"
-          clipRule="evenodd"
-        />
+        <path fill={color} d="m2 4 1-1h18l1 1v16l-1 1H3l-1-1zm18 1h-8v14h8z" />
       </svg>
     );
   },

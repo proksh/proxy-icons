@@ -14,9 +14,7 @@ export const ProContactsBook2Fill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M3 5a3 3 0 0 1 3-3h15v20H6a3 3 0 0 1-3-3zm3 13a1 1 0 1 0 0 2h13v-2zm4-10a2 2 0 1 1 4 0 2 2 0 0 1-4 0m-1 5a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v1H9z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M3 5a3 3 0 0 1 3-3h15v20H6a3 3 0 0 1-3-3zm3 13a1 1 0 1 0 0 2h13v-2zm4-10a2 2 0 1 0 4 0 2 2 0 0 0-4 0m-1 5v1h6v-1a2 2 0 0 0-2-2h-2a2 2 0 0 0-2 2"
         />
       </svg>
     );

@@ -12,18 +12,8 @@ export const ProFilePptLine = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <path
-          fill={color}
-          d="M16 9H8v8h2v-2h6zm-2 4h-4v-2h4z"
-          fillRule="evenodd"
-          clipRule="evenodd"
-        />
-        <path
-          fill={color}
-          d="M15.914 2H3v20h18V7.086zM15 8V4H5v16h14V8z"
-          fillRule="evenodd"
-          clipRule="evenodd"
-        />
+        <path fill={color} d="M16 9H8v8h2v-2h6zm-2 4h-4v-2h4z" />
+        <path fill={color} d="M15.914 2H3v20h18V7.086zM15 8h4v12H5V4h10z" />
       </svg>
     );
   },

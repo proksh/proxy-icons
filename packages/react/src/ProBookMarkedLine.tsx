@@ -14,9 +14,7 @@ export const ProBookMarkedLine = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M3 5a3 3 0 0 1 3-3h15v20H6a3 3 0 0 1-3-3zm16-1v11H6.5c-.537 0-1.045.12-1.5.337V5a1 1 0 0 1 1-1h4v8l3.5-2 3.5 2V4zM5 18.5A1.5 1.5 0 0 0 6.5 20H19v-3H6.5A1.5 1.5 0 0 0 5 18.5"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M3 5a3 3 0 0 1 3-3h15v20H6a3 3 0 0 1-3-3zm16-1h-2v8l-3.5-2-3.5 2V4H6a1 1 0 0 0-1 1v10.337A3.5 3.5 0 0 1 6.5 15H19zM5 18.5A1.5 1.5 0 0 0 6.5 20H19v-3H6.5A1.5 1.5 0 0 0 5 18.5"
         />
       </svg>
     );

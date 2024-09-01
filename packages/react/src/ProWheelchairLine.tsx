@@ -14,9 +14,7 @@ export const ProWheelchairLine = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M12 2a3 3 0 1 0 0 6 3 3 0 0 0-3 3v6h7.434l2.708 4.515 1.716-1.03L17.566 15H15v-4a3 3 0 0 0-3-3 3 3 0 1 0 0-6m-1 3a1 1 0 1 1 2 0 1 1 0 0 1-2 0m2 10v-4a1 1 0 1 0-2 0v4z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M12 2a3 3 0 1 0 0 6 3 3 0 0 0-3 3v6h7.434l2.708 4.515 1.716-1.03L17.566 15H15v-4a3 3 0 0 0-3-3 3 3 0 1 0 0-6m-1 3a1 1 0 1 1 2 0 1 1 0 0 1-2 0m2 10h-2v-4a1 1 0 1 1 2 0z"
         />
         <path
           fill={color}

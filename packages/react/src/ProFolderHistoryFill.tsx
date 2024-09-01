@@ -12,12 +12,7 @@ export const ProFolderHistoryFill = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <path
-          fill={color}
-          d="M2 3h8.414l2 2H22v16H2zm11 6h-2v6h5v-2h-3z"
-          fillRule="evenodd"
-          clipRule="evenodd"
-        />
+        <path fill={color} d="M2 3h8.414l2 2H22v16H2zm11 6h-2v6h5v-2h-3z" />
       </svg>
     );
   },

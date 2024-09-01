@@ -12,12 +12,9 @@ export const ProSlideshowFill = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <path fill={color} d="M2 3h20v2H2z" />
         <path
           fill={color}
-          d="M22 6H2v15h9v2h2v-2h9zm-10.506 8.667q.202-.301.325-.64l.01-.027c.112-.32.171-.658.171-1H9v-3a3 3 0 0 0-.976.163L8 10.172a3 3 0 0 0-1.942 3.413 3 3 0 0 0 5.436 1.082M13 10h5v2h-5zm0 4h5v2h-5z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M2 3h20v2H2zm20 3H2v15h9v2h2v-2h9zm-10.506 8.667A3 3 0 1 1 8 10.172l.024-.009A3 3 0 0 1 9 10v3h3c0 .342-.059.68-.172 1l-.01.027q-.122.339-.324.64M13 10h5v2h-5zm0 4h5v2h-5z"
         />
       </svg>
     );

@@ -15,8 +15,6 @@ export const ProStickyNote2Line = React.forwardRef<SVGSVGElement, IconProps>(
         <path
           fill={color}
           d="M3 3h18v12.914L15.914 21H3zm2 2v14h10.086L19 15.086V5z"
-          fillRule="evenodd"
-          clipRule="evenodd"
         />
       </svg>
     );

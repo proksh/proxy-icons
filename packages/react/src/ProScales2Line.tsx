@@ -18,9 +18,7 @@ export const ProScales2Line = React.forwardRef<SVGSVGElement, IconProps>(
         />
         <path
           fill={color}
-          d="M6 3V2H4v2l1 1h6v2.062A8 8 0 0 0 4 15v7h16v-7a8 8 0 0 0-7-7.938V5h6l1-1V2h-2v1zm6 6a6 6 0 0 0-6 6v5h12v-5a6 6 0 0 0-6-6"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M6 3V2H4v2l1 1h6v2.062A8 8 0 0 0 4 15v7h16v-7a8 8 0 0 0-7-7.938V5h6l1-1V2h-2v1zm6 6a6 6 0 0 1 6 6v5H6v-5a6 6 0 0 1 6-6"
         />
       </svg>
     );

@@ -2,8 +2,6 @@
   <path fill="currentColor" d="M12.75 11.25V12h-1.5v-.75a.75.75 0 0 1 1.5 0" />
   <path
     fill="currentColor"
-    fill-rule="evenodd"
-    d="M3 2h12.914L21 7.086V22H3zm6.25 9.25a2.75 2.75 0 1 1 5.5 0V12h.75v4.5h-7V12h.75z"
-    clip-rule="evenodd"
+    d="M3 2h12.914L21 7.086V22H3zm6.25 9.25V12H8.5v4.5h7V12h-.75v-.75a2.75 2.75 0 1 0-5.5 0"
   />
 </svg>

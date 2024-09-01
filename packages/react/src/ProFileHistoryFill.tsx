@@ -12,12 +12,7 @@ export const ProFileHistoryFill = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <path
-          fill={color}
-          d="M3 2h12.914L21 7.086V22H3zm9 7h-2v6h5v-2h-3z"
-          fillRule="evenodd"
-          clipRule="evenodd"
-        />
+        <path fill={color} d="M3 2h12.914L21 7.086V22H3zm9 7h-2v6h5v-2h-3z" />
       </svg>
     );
   },

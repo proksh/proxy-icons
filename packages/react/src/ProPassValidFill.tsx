@@ -15,9 +15,7 @@ export const ProPassValidFill = React.forwardRef<SVGSVGElement, IconProps>(
         <path fill={color} d="M7 10a1 1 0 1 1 2 0 1 1 0 0 1-2 0" />
         <path
           fill={color}
-          d="M1 4h22v16H1zm7 3a3 3 0 1 0 0 6 3 3 0 0 0 0-6m-1 6.5a3 3 0 0 0-3 3h2a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h2a3 3 0 0 0-3-3zm13.207-2.793L15.5 15.414l-3.207-3.207 1.414-1.414 1.793 1.793 3.293-3.293z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M1 4h22v16H1zm7 3a3 3 0 1 0 0 6 3 3 0 0 0 0-6m-1 6.5a3 3 0 0 0-3 3h2a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h2a3 3 0 0 0-3-3zm13.207-2.793-1.414-1.414-3.293 3.293-1.793-1.793-1.414 1.414 3.207 3.207z"
         />
       </svg>
     );

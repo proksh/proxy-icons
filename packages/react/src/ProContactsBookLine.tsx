@@ -18,11 +18,8 @@ export const ProContactsBookLine = React.forwardRef<SVGSVGElement, IconProps>(
         />
         <path
           fill={color}
-          d="M20 2H3v20h17l1-1V3zM5 20V4h2v16zm4 0V4h10v16z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M20 2H3v20h17l1-1V3zM5 20V4h2v16zm4 0V4h10v16zm13-4h2v-4h-2zm2-10h-2v4h2z"
         />
-        <path fill={color} d="M22 16h2v-4h-2zm2-10h-2v4h2z" />
       </svg>
     );
   },

@@ -18,9 +18,7 @@ export const ProFileForbidFill = React.forwardRef<SVGSVGElement, IconProps>(
         />
         <path
           fill={color}
-          d="M13 18a5 5 0 1 1 10 0 5 5 0 0 1-10 0m5-3a3 3 0 0 0-2.708 4.294l4.002-4.002A3 3 0 0 0 18 15m0 6a3 3 0 0 1-1.293-.292l4-4.001A3 3 0 0 1 18 21"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M13 18a5 5 0 1 1 10 0 5 5 0 0 1-10 0m5-3a3 3 0 0 0-2.708 4.294l4.002-4.002A3 3 0 0 0 18 15m0 6a3 3 0 0 0 2.708-4.293l-4.001 4c.391.188.83.293 1.293.293"
         />
       </svg>
     );

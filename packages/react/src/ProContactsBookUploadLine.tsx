@@ -20,11 +20,8 @@ export const ProContactsBookUploadLine = React.forwardRef<
       />
       <path
         fill={color}
-        d="M3 2h17l1 1v18l-1 1H3zm2 2v16h2V4zm4 0v16h10V4z"
-        fillRule="evenodd"
-        clipRule="evenodd"
+        d="M3 2h17l1 1v18l-1 1H3zm2 2v16h2V4zm4 0v16h10V4zm13 12v-4h2v4zm0-10v4h2V6z"
       />
-      <path fill={color} d="M22 16v-4h2v4zm0-10v4h2V6z" />
     </svg>
   );
 });

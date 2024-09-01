@@ -18,11 +18,8 @@ export const ProFileWord2Line = React.forwardRef<SVGSVGElement, IconProps>(
         />
         <path
           fill={color}
-          d="M14.836 1.014 16 2v20l-1.164.986L2 20.847V3.153zM4 4.847v14.306l10 1.667V3.18z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M14.836 1.014 16 2v20l-1.164.986L2 20.847V3.153zM4 4.847v14.306l10 1.667V3.18zM17 5h3v14h-3v2h4l1-1V4l-1-1h-4z"
         />
-        <path fill={color} d="M17 5h3v14h-3v2h4l1-1V4l-1-1h-4z" />
       </svg>
     );
   },

@@ -14,9 +14,7 @@ export const ProDice3Fill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm5.5 6a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m3.5 3.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m5 2a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="m3 4 1-1h16l1 1v16l-1 1H4l-1-1zm5.5 6a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m3.5 3.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m5 2a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0"
         />
       </svg>
     );

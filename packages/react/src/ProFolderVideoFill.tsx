@@ -14,9 +14,7 @@ export const ProFolderVideoFill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M2 3h8.414l2 2H22v16H2zm7.5 7 .757-.429 5 3v.858l-5 3L9.5 16z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M2 3v18h20V5h-9.586l-2-2zm7.5 7 .757-.429 5 3v.858l-5 3L9.5 16z"
         />
       </svg>
     );

@@ -14,9 +14,7 @@ export const ProSlideshow4Line = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M15.83 3H22v18H2V3h6.17A3 3 0 0 1 11 1h2c1.306 0 2.418.835 2.83 2M8.17 5H4v14h16V5h-4.17A3 3 0 0 1 13 7h-2a3 3 0 0 1-2.83-2M10 4a1 1 0 0 1 1-1h2a1 1 0 1 1 0 2h-2a1 1 0 0 1-1-1"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M15.83 3H22v18H2V3h6.17A3 3 0 0 1 11 1h2c1.306 0 2.418.835 2.83 2M8.17 5H4v14h16V5h-4.17A3 3 0 0 1 13 7h-2a3 3 0 0 1-2.83-2M10 4a1 1 0 0 0 1 1h2a1 1 0 1 0 0-2h-2a1 1 0 0 0-1 1"
         />
         <path fill={color} d="M10 15V9l5 3z" />
       </svg>

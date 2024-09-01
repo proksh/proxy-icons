@@ -12,12 +12,7 @@ export const ProFolderReduceFill = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <path
-          fill={color}
-          d="M2 3h8.414l2 2H22v16H2zm6 11h8v-2H8z"
-          fillRule="evenodd"
-          clipRule="evenodd"
-        />
+        <path fill={color} d="M2 3h8.414l2 2H22v16H2zm6 11h8v-2H8z" />
       </svg>
     );
   },

@@ -15,10 +15,19 @@ export async function downloadSvgsToFs(
   currentListOfAddedFiles: string[],
   onProgress: () => void
 ) {
-  const fetchSvg = async (url: string) => {
-    const response = await fetch(url);
-    if (!response.ok) throw new Error(`Failed to fetch SVG`);
-    return response.text();
+  const fetchWithTimeout = async (url: string, timeout: number = 10000) => {
+    const controller = new AbortController();
+    const id = setTimeout(() => controller.abort(), timeout);
+
+    try {
+      const response = await fetch(url, { signal: controller.signal });
+      clearTimeout(id); // Clear the timeout when the fetch completes
+      if (!response.ok) throw new Error(`Failed to fetch SVG`);
+      return response.text();
+    } catch (error) {
+      clearTimeout(id); // Ensure the timeout is cleared even if an error occurs
+      throw error; // Re-throw the error to let pRetry handle it
+    }
   };
 
   await Promise.all(
@@ -26,7 +35,7 @@ export async function downloadSvgsToFs(
       const svgUrl = urls[iconId];
       const processedSvg = await pRetry(
         () =>
-          fetchSvg(svgUrl)
+          fetchWithTimeout(svgUrl)
             .then(async (svgRaw) => transformers.passSVGO(svgRaw))
             .then((svgRaw) => transformers.injectCurrentColor(svgRaw))
             .then((svgRaw) => transformers.prettify(svgRaw)),

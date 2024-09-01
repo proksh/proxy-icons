@@ -16,12 +16,7 @@ export const ProFileTransferLine = React.forwardRef<SVGSVGElement, IconProps>(
           fill={color}
           d="m12.586 11-1.793-1.793 1.414-1.414L16.414 12l-4.207 4.207-1.414-1.414L12.586 13H8v-2z"
         />
-        <path
-          fill={color}
-          d="M3 2h12.914L21 7.086V22H3zm12 2v4h4v12H5V4z"
-          fillRule="evenodd"
-          clipRule="evenodd"
-        />
+        <path fill={color} d="M3 2h12.914L21 7.086V22H3zm12 2H5v16h14V8h-4z" />
       </svg>
     );
   },

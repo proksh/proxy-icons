@@ -15,8 +15,6 @@ export const ProKeynoteLine = React.forwardRef<SVGSVGElement, IconProps>(
         <path
           fill={color}
           d="M4.03 2.757 5 2h14l.97.757 2 8L21 12h-8v8h4v2H7v-2h4v-8H3l-.97-1.242zM5.781 4l-1.5 6H19.72l-1.5-6z"
-          fillRule="evenodd"
-          clipRule="evenodd"
         />
       </svg>
     );

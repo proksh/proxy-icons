@@ -14,9 +14,7 @@ export const ProFolderMusicFill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M2 3h8.414l2 2H22v16H2zm9 5.5h4v2h-2V15a2.5 2.5 0 1 1-2-2.45z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M2 3h8.414l2 2H22v16H2zm9 5.5v4.05A2.5 2.5 0 1 0 13 15v-4.5h2v-2z"
         />
       </svg>
     );

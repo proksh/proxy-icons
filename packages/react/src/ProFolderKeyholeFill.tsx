@@ -14,9 +14,7 @@ export const ProFolderKeyholeFill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M2 3h8.414l2 2H22v16H2zm8.5 7h3v3H13v3h-2v-3h-.5z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M2 3h8.414l2 2H22v16H2zm8.5 7v3h.5v3h2v-3h.5v-3z"
         />
       </svg>
     );

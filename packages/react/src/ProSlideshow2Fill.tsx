@@ -14,9 +14,7 @@ export const ProSlideshow2Fill = React.forwardRef<SVGSVGElement, IconProps>(
       >
         <path
           fill={color}
-          d="M21 4h1V2H2v2h1v13h8v3H6v2h12v-2h-5v-3h8zm-6 5.5-5-3v6z"
-          fillRule="evenodd"
-          clipRule="evenodd"
+          d="M21 4v13h-8v3h5v2H6v-2h5v-3H3V4H2V2h20v2zm-6 5.5-5-3v6z"
         />
       </svg>
     );

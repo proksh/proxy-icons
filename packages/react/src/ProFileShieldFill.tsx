@@ -19,8 +19,6 @@ export const ProFileShieldFill = React.forwardRef<SVGSVGElement, IconProps>(
         <path
           fill={color}
           d="M3 2h12.914L21 7.086V22H3zm13 6.8H8v4.7a3 3 0 0 0 1.395 2.534L12 17.684l2.605-1.65A3 3 0 0 0 16 13.499z"
-          fillRule="evenodd"
-          clipRule="evenodd"
         />
       </svg>
     );

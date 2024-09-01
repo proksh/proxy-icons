@@ -12,12 +12,7 @@ export const ProSlideshow3Fill = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <path
-          fill={color}
-          d="M2 3h20v15h-9v2h4v2H7v-2h4v-2H2zm13 7.5-5-3v6z"
-          fillRule="evenodd"
-          clipRule="evenodd"
-        />
+        <path fill={color} d="M2 3h20v15h-9v2h4v2H7v-2h4v-2H2zm13 7.5-5-3v6z" />
       </svg>
     );
   },

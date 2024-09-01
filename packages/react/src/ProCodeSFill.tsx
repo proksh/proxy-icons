@@ -12,14 +12,26 @@ export const ProCodeSFill = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <g fill={color} clipPath="url(#a)">
-          <path d="M8.06 8.06 5.94 5.94-.121 12l6.06 6.06 2.122-2.12L4.12 12zm7.88 0 2.12-2.12L24.121 12l-6.06 6.06-2.122-2.12L19.88 12z" />
-        </g>
-        <defs>
-          <clipPath id="a">
-            <path fill={color} d="M0 0h24v24H0z" />
-          </clipPath>
-        </defs>
+        <path
+          fill={color}
+          d="M6.379 5.94 8.5 8.06 4.561 12l3.94 3.94-2.122 2.12L.319 12z"
+        />
+        <path
+          fill={color}
+          d="M6.379 5.94 8.5 8.06 4.561 12l3.94 3.94-2.122 2.12L.319 12z"
+        />
+        <path
+          fill={color}
+          d="M6.379 5.94 8.5 8.06 4.561 12l3.94 3.94-2.122 2.12L.319 12zm11.242 0L15.5 8.06 19.44 12l-3.94 3.94 2.121 2.12L23.682 12z"
+        />
+        <path
+          fill={color}
+          d="M17.621 5.94 15.5 8.06 19.44 12l-3.94 3.94 2.121 2.12L23.682 12z"
+        />
+        <path
+          fill={color}
+          d="M17.621 5.94 15.5 8.06 19.44 12l-3.94 3.94 2.121 2.12L23.682 12z"
+        />
       </svg>
     );
   },

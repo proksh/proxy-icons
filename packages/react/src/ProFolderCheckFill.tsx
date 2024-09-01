@@ -12,15 +12,14 @@ export const ProFolderCheckFill = React.forwardRef<SVGSVGElement, IconProps>(
         {...props}
         ref={forwardedRef}
       >
-        <g fill={color} clipPath="url(#a)">
-          <path d="M10.414 3H2v18h13.965l-2.733-2.732 3.536-3.536L19 16.965l3-3V5h-9.586z" />
-          <path d="m19 21.914 5.207-5.207-1.414-1.414L19 19.086l-2.293-2.293-1.414 1.414z" />
-        </g>
-        <defs>
-          <clipPath id="a">
-            <path fill={color} d="M0 0h24v24H0z" />
-          </clipPath>
-        </defs>
+        <path
+          fill={color}
+          d="M9.914 3H1.5v18h13.965l-2.733-2.732 3.536-3.536 2.232 2.233 3-3V5h-9.586z"
+        />
+        <path
+          fill={color}
+          d="m18.5 21.914 5.207-5.207-1.414-1.414-3.793 3.793-2.293-2.293-1.414 1.414z"
+        />
       </svg>
     );
   },

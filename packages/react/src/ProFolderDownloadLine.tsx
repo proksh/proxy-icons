@@ -19,8 +19,6 @@ export const ProFolderDownloadLine = React.forwardRef<SVGSVGElement, IconProps>(
         <path
           fill={color}
           d="M2 3h8.414l2 2H22v16H2zm2 2v14h16V7h-8.414l-2-2z"
-          fillRule="evenodd"
-          clipRule="evenodd"
         />
       </svg>
     );
