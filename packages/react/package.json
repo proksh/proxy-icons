@@ -1,18 +1,22 @@
 {
-  "name": "proxyicon",
-  "version": "1.0.0",
+  "name": "proxy-icons",
+  "version": "0.0.1",
   "description": "",
   "main": "dist/index.js",
+  "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "scripts": {
-    "build": "rimraf dist && tsdx build --format es,cjs --entry src/index.tsx",
-    "prepublishOnly": "npm run build"
+    "build": "rimraf dist && tsdx build --format esm,cjs --entry src/index.tsx",
+    "prepublishOnly": "npm run build",
+    "lint": "tsc"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
+    "@changesets/cli": "^2.27.8",
     "rimraf": "^5.0.7",
-    "tsdx": "^0.14.1"
+    "tsdx": "^0.14.1",
+    "typescript": "^5.6.2"
   }
 }
