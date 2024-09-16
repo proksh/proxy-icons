@@ -18,4 +18,6 @@ jobs:
           cache: 'pnpm'
 
       - run: pnpm install --frozen-lockfile
+        working-directory: packages/react
       - run: pnpm run lint && pnpm run build
+        working-directory: packages/react
