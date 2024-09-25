@@ -8,7 +8,8 @@
     "remove-out-folders": "cd ../react && rimraf ./src && cd ../ && rimraf ./font && rimraf ./website/src/app/font && rimraf ./icons && cd ./website && rimraf ./icons-json.json && cd ../generate-icon-lib",
     "copy-over-folders": "cp -r src ../react/ && rimraf ./font/react && cp -r font ../ && cp -r font ../website/src/app/ && cp -r icons ../ && cp -r icons ../ && cp ./icons-json.json ../website/",
     "font": "svgtofont --sources ./icons --output ./font --fontName pro",
-    "generate-icons": "npm run remove-helper-folders && node --loader ts-node/esm cli/index.ts && npm run font && npm run remove-out-folders && npm run copy-over-folders && npm run remove-helper-folders"
+    "zip-folders": "rimraf ../downloads && mkdir -p ../downloads && zip -r ../downloads/icons.zip ../icons && zip -r ../downloads/font.zip ../font",
+    "generate-icons": "npm run remove-helper-folders && node --loader ts-node/esm cli/index.ts && npm run font && npm run remove-out-folders && npm run copy-over-folders && npm run remove-helper-folders && npm run zip-folders"
   },
   "keywords": [],
   "author": "",
@@ -47,6 +48,7 @@
     "svgo": "^3.3.2",
     "tempy": "^3.1.0",
     "ts-node": "^10.9.2",
-    "typescript": "^5.4.5"
+    "typescript": "^5.4.5",
+    "zip-cli": "^0.0.0"
   }
 }
