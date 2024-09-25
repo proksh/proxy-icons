@@ -36,14 +36,14 @@ export default function IconComponent({ icon, className }: { icon: IconArrayItem
       <DialogTrigger>
         <div
           className={cn(
-            'h-10 w-10 -m-2 flex items-center justify-center relative rounded-2xl hover:bg-gray-100 transition-all',
+            'size-10 -m-2 flex items-center justify-center relative rounded-2xl hover:bg-gray-100 transition-all',
             className
           )}
         >
           {icon.labels.some((label) => label.toLowerCase().includes('new')) && (
             <div className="bg-green-500 absolute top-0.5 right-0.5 h-2 w-2 rounded-2xl transition-all border border-white shadow-md" />
           )}
-          <i className={'text-2xl leading-none pro-' + icon.iconName} />
+          <i className={'text-2xl md:text-2xl leading-none pro-' + icon.iconName} />
         </div>
       </DialogTrigger>
       <DialogContent>

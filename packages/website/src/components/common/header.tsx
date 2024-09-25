@@ -29,7 +29,7 @@ export default function Header() {
         </svg>
       </Link>
       <div className="flex text-orange-500 items-center gap-8">
-        <div className="flex gap-6">
+        <div className="hidden gap-6 md:flex">
           <Link href="https://github.com/proksh/proxy-icons/issues" target="_blank">
             <p className="text-sm font-semibold">Submit Issues or request</p>
           </Link>
