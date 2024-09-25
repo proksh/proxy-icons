@@ -9,6 +9,7 @@ export const ProSlideshow3Line = React.forwardRef<SVGSVGElement, IconProps>(
         width="24"
         height="24"
         fill="none"
+        viewBox="0 0 24 24"
         {...props}
         ref={forwardedRef}
       >

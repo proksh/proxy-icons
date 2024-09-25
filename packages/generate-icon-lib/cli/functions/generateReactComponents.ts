@@ -12,7 +12,20 @@ const __dirname = path.dirname(__filename);
 
 export function filePathToSVGinJSXSync(filePath: string, currentTempDir: string) {
   const absFilePath = path.resolve(currentTempDir, filePath);
-  const svgRaw = fs.readFileSync(absFilePath, { encoding: 'utf8' });
+  let svgRaw = fs.readFileSync(absFilePath, { encoding: 'utf8' });
+
+  // Check if viewBox exists, and if not, add it based on width and height.
+  if (!svgRaw.includes('viewBox')) {
+    const widthMatch = svgRaw.match(/width="(\d+)"/);
+    const heightMatch = svgRaw.match(/height="(\d+)"/);
+    if (widthMatch && heightMatch) {
+      const width = widthMatch[1];
+      const height = heightMatch[1];
+      const viewBox = `viewBox="0 0 ${width} ${height}"`;
+      svgRaw = svgRaw.replace(/<svg([^>]*)>/, `<svg$1 ${viewBox}>`);
+    }
+  }
+
   return transformers.readyForJSX(svgRaw);
 }
 
