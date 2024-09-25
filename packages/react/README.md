@@ -34,7 +34,7 @@ const MyComponent = () => {
 };
 ```
 
-Note: Replace `ProUserFill` with the specific icon component you need from the Proxy Icons package.
+**Note**: Replace `ProUserFill` with the specific icon component you need from the Proxy Icons package.
 
 ## Available Icons
 
