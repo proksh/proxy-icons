@@ -31,7 +31,7 @@ export default function Header() {
       <div className="flex text-orange-500 items-center gap-8">
         <div className="flex gap-6">
           <p className="text-sm font-semibold">Submit Issues or request</p>
-          <Link href="/docs/getting-started/introduction">
+          <Link href="https://github.com/proksh/proxy-icons">
             <p className="text-sm font-semibold">Documentation</p>
           </Link>
         </div>
