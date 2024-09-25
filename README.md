@@ -83,7 +83,7 @@ const MyComponent = () => {
   return (
     <>
       {/* Using Tailwind CSS */}
-      <ProUserFill className="text-xs" />
+      <ProUserFill className="size-5" />
 
       {/* Using inline styles */}
       <ProUserFill style={{ height: '20px', width: '20px' }} />

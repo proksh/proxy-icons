@@ -30,14 +30,20 @@ export default function Header() {
       </Link>
       <div className="flex text-orange-500 items-center gap-8">
         <div className="flex gap-6">
-          <p className="text-sm font-semibold">Submit Issues or request</p>
-          <Link href="https://github.com/proksh/proxy-icons">
+          <Link href="https://github.com/proksh/proxy-icons/issues" target="_blank">
+            <p className="text-sm font-semibold">Submit Issues or request</p>
+          </Link>
+          <Link href="https://github.com/proksh/proxy-icons" target="_blank">
             <p className="text-sm font-semibold">Documentation</p>
           </Link>
         </div>
         <div className="flex gap-4">
-          <i className="pro-twitter-x-line text-xl" />
-          <i className="pro-github-line text-xl" />
+          <Link href="https://x.com/proksh_luthra" target="_blank">
+            <i className="pro-twitter-x-line text-xl" />
+          </Link>
+          <Link href="https://github.com/proksh/proxy-icons" target="_blank">
+            <i className="pro-github-line text-xl" />
+          </Link>
         </div>
       </div>
     </header>

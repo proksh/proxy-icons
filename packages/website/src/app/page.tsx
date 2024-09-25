@@ -23,10 +23,14 @@ export default function Home({ searchParams }: { searchParams: { search?: string
           <div className="flex-grow">
             <SearchInput />
           </div>
-          <button className="text-xl font-medium bg-orange-500 hover:bg-orange-500/80 flex items-center justify-center gap-3 w-16 md:w-auto md:px-12 rounded-2xl text-white transition-all">
+          <a
+            href="https://download-directory.github.io/?url=https://github.com/proksh/proxy-icons/tree/main/packages/icons"
+            download
+            className="text-xl font-medium bg-orange-500 hover:bg-orange-500/80 flex items-center justify-center gap-3 w-16 md:w-auto md:px-12 rounded-2xl text-white transition-all"
+          >
             <i className="pro-download-2-fill leading-none" />
             <span className="hidden md:inline">Download</span>
-          </button>
+          </a>
         </div>
         <div className="pb-40">
           {Object.keys(responseIcons).map((category) => {
