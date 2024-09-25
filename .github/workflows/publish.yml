@@ -25,8 +25,9 @@ jobs:
       - name: Create Release Pull Request or Publish
         id: changesets
         uses: changesets/action@v1
+        working-directory: ./packages/react
         with:
-          publish: npm publish --workspace packages/react
+          publish: npm run build
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
