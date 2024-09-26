@@ -22,12 +22,28 @@ jobs:
       - run: npm run build
         working-directory: ./packages/react
 
+      # Automatically bump the version
+      - name: Bump Version with Changesets
+        run: npx changeset version
+        working-directory: ./packages/react
+
+      # Commit the new version
+      - name: Commit Version Bump
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "ci: version bump"
+          git push
+        working-directory: ./packages/react
+
       - name: Create Release Pull Request or Publish
         id: changesets
         uses: changesets/action@v1
         working-directory: ./packages/react
         with:
-          publish: npm run build
+          # Remove the manual npm publish command
+          publish: 'false'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
