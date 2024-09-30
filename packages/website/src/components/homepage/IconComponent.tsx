@@ -6,6 +6,7 @@ import { saveAs } from 'file-saver';
 import { IconArrayItemType } from '../common/types';
 import { useState } from 'react';
 import { cn } from '../common/utils';
+import { Tabs, TabsList, TabsContent, TabsTrigger } from '../common/tabs';
 
 export default function IconComponent({ icon, className }: { icon: IconArrayItemType; className?: string }) {
   const handleSvgDownload = () => {
@@ -46,17 +47,20 @@ export default function IconComponent({ icon, className }: { icon: IconArrayItem
           <i className={'text-2xl md:text-2xl leading-none pro-' + icon.iconName} />
         </div>
       </DialogTrigger>
-      <DialogContent>
-        <div className="flex gap-4">
+      <DialogContent className="flex flex-col">
+        <div className="flex gap-4 flex-col sm:flex-row">
           <div className="w-20">
             <div className="aspect-square flex items-center justify-center border border-gray-300 rounded-2xl">
               <i className={'text-3xl pro-' + icon.iconName} />
             </div>
           </div>
           <div className="flex-grow">
-            <DialogTitle className="mb-4">pro-{icon.iconName}</DialogTitle>
+            <DialogTitle className="mb-2 flex gap-2 items-center">
+              <p>pro-{icon.iconName}</p>
+              <CopyIconButton copyText={`pro-${icon.iconName}`} />
+            </DialogTitle>
             <div className="flex gap-2">
-              <CopyButton copyText={icon.svgContent} />
+              <CopyButton copyText={icon.svgContent} text="Copy SVG" successText="Copied" />
               <button
                 onClick={handleSvgDownload}
                 className="text-md flex items-center font-medium bg-orange-500 hover:bg-orange-500/80 transition-all gap-1 px-3 py-2 rounded-xl text-white"
@@ -74,24 +78,65 @@ export default function IconComponent({ icon, className }: { icon: IconArrayItem
             </div>
           </div>
         </div>
-        <pre className="font-mono text-xs font-medium overflow-auto w-full bg-gray-100 rounded-xl p-4 text-gray-700">
-          {`<i class="pro-${icon.iconName}"></i>`}
-        </pre>
-        <pre className="font-mono text-xs font-medium overflow-auto w-full bg-gray-100 rounded-xl p-4 text-gray-700">
-          {`<i className="pro-${icon.iconName}" />`}
-        </pre>
-        <pre className="font-mono text-xs font-medium overflow-auto w-full bg-gray-100 rounded-xl p-4 text-gray-700">
-          {`<Pro${_.upperCase(icon.iconName.substring(0, 1))}${_.camelCase(icon.iconName.substring(1))} />`}
-        </pre>
-        <pre className="font-mono text-xs font-medium overflow-auto w-full bg-gray-100 rounded-xl p-4 text-gray-700">
-          {icon.svgContent}
-        </pre>
+        <Tabs defaultValue="font">
+          <TabsList className="border-b border-gray-100 mb-4 p-0 w-full items-start h-auto">
+            <TabsTrigger value="font">Font</TabsTrigger>
+            <TabsTrigger value="svg">SVG</TabsTrigger>
+            <TabsTrigger value="react">React</TabsTrigger>
+          </TabsList>
+          <TabsContent value="font">
+            <div className="flex flex-col gap-2">
+              <div className="relative w-full">
+                <pre className="font-mono relative text-xs font-medium overflow-auto w-full bg-gray-100 rounded-xl !p-4 text-gray-700">
+                  {`<i class="pro-${icon.iconName}"></i>`}
+                </pre>
+                <div className="absolute top-2 right-2">
+                  <CopyIconButton copyText={`<i class="pro-${icon.iconName}"></i>`} />
+                </div>
+              </div>
+              <div className="relative w-full">
+                <pre className="font-mono relative text-xs font-medium overflow-auto w-full bg-gray-100 rounded-xl !p-4 text-gray-700">
+                  {`<i className="pro-${icon.iconName}" />`}
+                </pre>
+                <div className="absolute top-2 right-2">
+                  <CopyIconButton copyText={`<i className="pro-${icon.iconName}" />`} />
+                </div>
+              </div>
+            </div>
+          </TabsContent>
+          <TabsContent value="svg">
+            <div className="flex flex-col gap-2">
+              <div className="relative w-full">
+                <pre className="font-mono text-xs font-medium overflow-auto w-full bg-gray-100 rounded-xl !p-4 text-gray-700">
+                  {icon.svgContent}
+                </pre>
+                <div className="absolute top-2 right-2">
+                  <CopyIconButton copyText={icon.svgContent} />
+                </div>
+              </div>
+            </div>
+          </TabsContent>
+          <TabsContent value="react">
+            <div className="flex flex-col gap-2">
+              <div className="relative w-full">
+                <pre className="font-mono text-xs relative font-medium overflow-auto w-full bg-gray-100 rounded-xl !p-4 text-gray-700">
+                  {`<Pro${_.upperCase(icon.iconName.substring(0, 1))}${_.camelCase(icon.iconName.substring(1))} className="size-6" />`}
+                </pre>
+                <div className="absolute top-2 right-2">
+                  <CopyIconButton
+                    copyText={`<Pro${_.upperCase(icon.iconName.substring(0, 1))}${_.camelCase(icon.iconName.substring(1))} className="size-6" />`}
+                  />
+                </div>
+              </div>
+            </div>
+          </TabsContent>
+        </Tabs>
       </DialogContent>
     </Dialog>
   );
 }
 
-const CopyButton = ({ copyText }: { copyText: string }) => {
+const CopyButton = ({ text, successText, copyText }: { text?: string; successText?: string; copyText: string }) => {
   const [copied, setCopied] = useState(false);
 
   const handleCopyClick = async () => {
@@ -108,7 +153,7 @@ const CopyButton = ({ copyText }: { copyText: string }) => {
     return (
       <button className="text-md flex items-center font-medium bg-green-500 hover:bg-green-500/80 transition-all gap-1 px-3 py-2 rounded-xl text-white">
         <i className="pro-check-line leading-none" />
-        Copied
+        {successText}
       </button>
     );
   }
@@ -118,7 +163,38 @@ const CopyButton = ({ copyText }: { copyText: string }) => {
       onClick={handleCopyClick}
       className="text-md flex items-center font-medium bg-orange-500 hover:bg-orange-500/80 transition-all gap-1 px-3 py-2 rounded-xl text-white"
     >
-      Copy SVG
+      {text ? text : <i className="pro-file-copy-line leading-none" />}
+    </button>
+  );
+};
+
+const CopyIconButton = ({ copyText }: { copyText: string }) => {
+  const [copied, setCopied] = useState(false);
+
+  const handleCopyClick = async () => {
+    try {
+      await navigator.clipboard.writeText(copyText);
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2000);
+    } catch (err) {
+      console.error('Failed to copy text: ', err);
+    }
+  };
+
+  if (copied) {
+    return (
+      <button className="text-base flex items-center justify-center bg-green-500 hover:bg-green-500/80 transition-all rounded-md text-white size-8">
+        <i className="pro-check-line leading-none" />
+      </button>
+    );
+  }
+
+  return (
+    <button
+      onClick={handleCopyClick}
+      className="text-base flex items-center justify-center bg-white border border-gray-200 transition-all rounded-md size-8"
+    >
+      <i className="pro-file-copy-line leading-none" />
     </button>
   );
 };

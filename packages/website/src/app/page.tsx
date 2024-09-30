@@ -4,6 +4,7 @@ import SearchInput from '@/components/homepage/SearchInput';
 import { filtedFlattenIcons } from '@/components/common/helperFunctions';
 import { IconArrayItemType } from '@/components/common/types';
 import Header from '@/components/common/header';
+import DownloadModal from '@/components/homepage/DownloadModal';
 
 export default function Home({ searchParams }: { searchParams: { search?: string } }) {
   if (!icons) {
@@ -23,15 +24,12 @@ export default function Home({ searchParams }: { searchParams: { search?: string
           <div className="flex-grow">
             <SearchInput />
           </div>
-          <a
-            href="https://github.com/proksh/proxy-icons/raw/refs/heads/main/packages/downloads/font.zip"
-            download
-            rel="noopener noreferrer"
-            className="text-xl font-medium bg-orange-500 hover:bg-orange-500/80 flex items-center justify-center gap-3 w-16 md:w-auto md:px-12 rounded-2xl text-white transition-all"
-          >
-            <i className="pro-download-2-fill leading-none" />
-            <span className="hidden md:inline">Download</span>
-          </a>
+          <DownloadModal>
+            <button className="text-xl font-medium bg-orange-500 hover:bg-orange-500/80 flex items-center justify-center gap-3 w-16 md:w-auto md:px-12 rounded-2xl text-white transition-all">
+              <i className="pro-download-2-fill leading-none" />
+              <span className="hidden md:inline">Download</span>
+            </button>
+          </DownloadModal>
         </div>
         <div className="pb-40">
           {Object.keys(responseIcons).map((category) => {

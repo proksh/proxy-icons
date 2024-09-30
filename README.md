@@ -1,8 +1,8 @@
-# Proxy Icons - React Components for Your Project
+# Proxy Icons
 
 [![npm version](https://img.shields.io/npm/v/proxy-icons.svg?style=flat-square)](https://www.npmjs.com/package/proxy-icons)
 
-This library provides a collection of React components for commonly used icons. Easily integrate these icons into your React applications to enhance user experience.
+Easily integrate these icons into your application by using Font cdn or React components to enhance user experience.
 
 ## Installation with CDN
 
